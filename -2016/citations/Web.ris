@@ -1,0 +1,376 @@
+﻿TY  - CPAPER
+AU  - Conroy, Patrick
+AU  - Kruchten, Philippe
+A1  - IEEE
+TI  - PERFORMANCE NORMS: AN APPROACH TO REWORK REDUCTION IN SOFTWARE DEVELOPMENT
+T2  - 2012 25TH IEEE CANADIAN CONFERENCE ON ELECTRICAL & COMPUTER ENGINEERING (CCECE)
+M3  - Proceedings Paper
+CP  - 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+CL  - Montreal, CANADA
+PU  - IEEE
+PI  - NEW YORK
+PA  - 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN  - 978-1-4673-1433-6
+DA  - 2012 
+PY  - 2012
+AN  - WOS:000312379300249
+Y2  - 2013-02-05
+ER  -
+
+TY  - JOUR
+AU  - Wilcockson, Thomas D. W.
+AU  - Pothos, Emmanuel M.
+AU  - Cox, W. Miles
+TI  - An online cognitive bias task: the Rough Estimation Task using Qualtrics
+T2  - BEHAVIOURAL PHARMACOLOGY
+M3  - Article
+PU  - LIPPINCOTT WILLIAMS & WILKINS
+PI  - PHILADELPHIA
+PA  - TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN  - 0955-8810
+SN  - 1473-5849
+DA  - 2020 FEB
+PY  - 2020
+VL  - 31
+IS  - 1
+SP  - 97
+EP  - 101
+DO  - 10.1097/FBP.0000000000000508
+AN  - WOS:000528911400010
+Y2  - 2020-05-11
+ER  -
+
+TY  - CPAPER
+AU  - Ralph, Paul
+ED  - Wrycza, S
+TI  - Toward a Theory of Debiasing Software Development
+T2  - RESEARCH IN SYSTEMS ANALYSIS AND DESIGN: MODELS AND METHODS
+M3  - Proceedings Paper
+CP  - 4th SIGSAND/PLAIS Symposium on systems Analysis and Design
+CL  - Gdansk, POLAND
+PU  - SPRINGER-VERLAG BERLIN
+PI  - BERLIN
+PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 978-3-642-25675-2
+DA  - 2011 
+PY  - 2011
+VL  - 93
+SP  - 92
+EP  - 105
+AN  - WOS:000307087300008
+Y2  - 2012-09-05
+ER  -
+
+TY  - JOUR
+AU  - Shmueli, Ofira
+AU  - Pliskin, Nava
+AU  - Fink, Lior
+TI  - Can the outside-view approach improve planning decisions in software development projects?
+T2  - INFORMATION SYSTEMS JOURNAL
+M3  - Article
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 1350-1917
+SN  - 1365-2575
+DA  - 2016 JUL
+PY  - 2016
+VL  - 26
+IS  - 4
+SP  - 395
+EP  - 418
+DO  - 10.1111/isj.12091
+AN  - WOS:000378422300005
+Y2  - 2016-07-20
+ER  -
+
+TY  - BOOK
+AU  - Aranda, Jorge
+Z2  -  
+TI  - Anchoring and adjustment in software estimation
+M3  - Dissertation/Thesis
+SN  - 978-0-494-02163-7
+DA  - 2005 
+PY  - 2005
+AN  - PQDT:57503262
+ER  -
+
+TY  - JOUR
+AU  - Calikli, Gul
+AU  - Bener, Ayse Basar
+TI  - Influence of confirmation biases of developers on software quality: an empirical study
+T2  - SOFTWARE QUALITY JOURNAL
+M3  - Article
+PU  - SPRINGER
+PI  - DORDRECHT
+PA  - VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN  - 0963-9314
+SN  - 1573-1367
+DA  - 2013 JUN
+PY  - 2013
+VL  - 21
+IS  - 2
+SP  - 377
+EP  - 416
+DO  - 10.1007/s11219-012-9180-0
+AN  - WOS:000316746700007
+Y2  - 2013-05-10
+ER  -
+
+TY  - CPAPER
+AU  - Chen, Po-Hao
+AU  - Botzolakis, Emmanuel
+AU  - Mohan, Suyash
+AU  - Bryan, R. Nick
+AU  - Cook, Tessa
+ED  - Zhang, J
+ED  - Cook, TS
+TI  - Feasibility of Streamlining an Interactive Bayesian-Based Diagnostic Support Tool Designed for Clinical Practice
+T2  - MEDICAL IMAGING 2016: PACS AND IMAGING INFORMATICS: NEXT GENERATION AND INNOVATIONS
+M3  - Proceedings Paper
+CP  - Conference on Medical Imaging - PACS and Imaging Informatics - Next Generation and Innovations
+CL  - San Diego, CA
+PU  - SPIE-INT SOC OPTICAL ENGINEERING
+PI  - BELLINGHAM
+PA  - 1000 20TH ST, PO BOX 10, BELLINGHAM, WA 98227-0010 USA
+SN  - 0277-786X
+SN  - 1996-756X
+SN  - 978-1-5106-0024-9
+DA  - 2016 
+PY  - 2016
+VL  - 9789
+C7  - 97890C
+DO  - 10.1117/12.2216574
+AN  - WOS:000378538300009
+Y2  - 2016-07-20
+ER  -
+
+TY  - JOUR
+AU  - Gren, Lucas
+AU  - Svensson, Richard Berntsson
+TI  - Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation
+T2  - REQUIREMENTS ENGINEERING
+M3  - Article
+PU  - SPRINGER
+PI  - NEW YORK
+PA  - ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN  - 0947-3602
+SN  - 1432-010X
+DA  - 2021 SEP
+PY  - 2021
+VL  - 26
+IS  - 3
+SP  - 459
+EP  - 480
+DO  - 10.1007/s00766-021-00351-7
+AN  - WOS:000639369700001
+C6  - APR 2021
+Y2  - 2021-04-30
+ER  -
+
+TY  - CPAPER
+AU  - Shepperd, Martin
+AU  - Mair, Carolyn
+AU  - Jorgensen, Magne
+A1  - Assoc Comp Machinery
+TI  - An Experimental Evaluation of a De-biasing Intervention for Professional Software Developers
+T2  - 33RD ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING
+M3  - Proceedings Paper
+CP  - 33rd Annual ACM Symposium on Applied Computing (ACM SAC)
+CL  - Univ Pau Pays Adour, Pau, FRANCE
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1515 BROADWAY, NEW YORK, NY 10036-9998 USA
+SN  - 978-1-4503-5191-1
+DA  - 2018 
+PY  - 2018
+SP  - 1510
+EP  - 1517
+DO  - 10.1145/3167132.3167293
+AN  - WOS:000455180700214
+Y2  - 2019-01-22
+ER  -
+
+TY  - CPAPER
+AU  - Ahmetoglu, Yoana
+AU  - Brumby, Duncan P.
+AU  - Cox, Anna L.
+A1  - ASSOC COMPUTING MACHINERY
+TI  - Bridging the Gap Between Time Management Research and Task Management App Design: A Study on the Integration of Planning Fallacy Mitigation Strategies
+T2  - PROCEEDINGS OF THE 3RD ANNUAL MEETING OF THE SYMPOSIUM ON HUMAN-COMPUTER INTERACTION FOR WORK, CHIWORK 2024
+M3  - Proceedings Paper
+CP  - 3rd Symposium on Human-Computer Interaction for Work (CHIWORK)
+CL  - Newcastle upon Tyne, ENGLAND
+PU  - ASSOC COMPUTING MACHINERY
+PI  - NEW YORK
+PA  - 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+SN  - 979-8-4007-1017-9
+DA  - 2024 
+PY  - 2024
+C7  - 12
+DO  - 10.1145/3663384.3663404
+AN  - WOS:001266116300012
+Y2  - 2024-09-10
+ER  -
+
+TY  - BOOK
+AU  - Obeidat, Omar Salem
+Z2  -  
+TI  - The Influence of Cognitive Bias Attributes on Decision-Making Style of the Project Manager: The Moderating Role of Narcissistic and Voice Behaviour
+M3  - Dissertation/Thesis
+SN  - 9798379955328
+DA  - 2022 
+PY  - 2022
+AN  - PQDT:84514175
+ER  -
+
+TY  - JOUR
+AU  - Goswami, Indranil
+AU  - Urminsky, Oleg
+TI  - More time, more work: How time limits bias estimates of task scope and project duration
+T2  - JUDGMENT AND DECISION MAKING
+M3  - Article
+PU  - SOC JUDGMENT & DECISION MAKING
+PI  - TALLAHASSEE
+PA  - FLORIDA STATE UNIV, TALLAHASSEE, FL 32306-1110 USA
+SN  - 1930-2975
+DA  - 2020 NOV
+PY  - 2020
+VL  - 15
+IS  - 6
+SP  - 994
+EP  - 1008
+AN  - WOS:000595304900015
+Y2  - 2020-12-31
+ER  -
+
+TY  - JOUR
+AU  - McBride, Marissa F.
+AU  - Garnett, Stephen T.
+AU  - Szabo, Judit K.
+AU  - Burbidge, Allan H.
+AU  - Butchart, Stuart H. M.
+AU  - Christidis, Les
+AU  - Dutson, Guy
+AU  - Ford, Hugh A.
+AU  - Loyn, Richard H.
+AU  - Watson, David M.
+AU  - Burgman, Mark A.
+TI  - Structured elicitation of expert judgments for threatened species assessment: a case study on a continental scale using email
+T2  - METHODS IN ECOLOGY AND EVOLUTION
+M3  - Review
+PU  - WILEY
+PI  - HOBOKEN
+PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN  - 2041-210X
+SN  - 2041-2096
+DA  - 2012 OCT
+PY  - 2012
+VL  - 3
+IS  - 5
+SP  - 906
+EP  - 920
+DO  - 10.1111/j.2041-210X.2012.00221.x
+AN  - WOS:000309675100017
+Y2  - 2012-10-01
+ER  -
+
+TY  - BOOK
+AU  - COOPER, ROBIN
+Z2  -  
+TI  - COGNITIVE BIASES IN BUSINESS DECISIONS: THE BASE RATE EFFECT AND SOFTWARE PROJECT APPROVAL
+M3  - Dissertation/Thesis
+SN  - 9798643109945
+DA  - 1982 
+PY  - 1982
+AN  - PQDT:65838972
+ER  -
+
+TY  - DATA
+AU  - Berlinghieri, Flavia
+AU  - Rizzuto, Gabriele
+AU  - Kruizinga, Lennart
+AU  - Riedstra, Bernd
+AU  - Groothuis, TGG
+AU  - Brown, Culum
+TI  - Are lateralized and bold fish optimistic or pessimistic?
+T2  - Dryad
+M3  - Data set
+DA  - 2024 
+PY  - 2024
+DO  - 10.5061/DRYAD.1NS1RN920
+AN  - DRCI:DATA2025004031654078
+Y2  - 2025-02-24
+ER  -
+
+TY  - DATA
+AU  - Berlinghieri, Flavia
+AU  - Rizzuto, Gabriele
+AU  - Kruizinga, Lennart
+AU  - Riedstra, Bernd
+AU  - Groothuis, TGG
+AU  - Brown, Culum
+TI  - Are lateralized and bold fish optimistic or pessimistic?
+T2  - Dryad
+M3  - Data set
+C8  - 8
+DA  - 2024 
+PY  - 2024
+VL  - 8
+DO  - 10.5061/DRYAD.1NS1RN920
+AN  - DRCI:DATA2025058032290941
+Y2  - 2025-09-25
+ER  -
+
+TY  - DATA
+AU  - Oliveira, Rui
+AU  - Espigares, Felipe
+AU  - Alvarado, Maria Victoria
+AU  - Faisca, Pedro
+AU  - Abad-Tortosa, Diana
+TI  - Pessimistic cognitive bias is associated with enhanced reproductive investment in female zebrafish
+T2  - Dryad
+M3  - Data set
+DA  - 2022 
+PY  - 2022
+DO  - 10.5061/DRYAD.1JWSTQJXV
+AN  - DRCI:DATA2022182025244640
+Y2  - 2024-11-28
+ER  -
+
+TY  - JOUR
+TI  - Addressing COVID-19 Surge and professional staff shortages in NHS Mental Health Services
+M3  - Awarded Grant
+DA  - 2020 
+PY  - 2020
+AN  - GRANTS:15404396
+G1  - 83508
+Y2  - 2023-12-08
+ER  -
+
+TY  - JOUR
+AU  - Sasaki, Takao
+TI  - Data from: Does the history of option quality affect nest site choice in the acorn ant?
+T2  - Zenodo
+M3  - Software
+DA  - 2024 
+PY  - 2024
+DO  - 10.5281/ZENODO.11048893
+AN  - DRCI:DATA2024097029636709
+Y2  - 2024-12-07
+ER  -
+
+TY  - JOUR
+AU  - Sasaki, Takao
+TI  - Data from: Does the history of option quality affect nest site choice in the acorn ant?
+T2  - Zenodo
+M3  - Software
+DA  - 2024 
+PY  - 2024
+DO  - 10.5281/ZENODO.11048894
+AN  - DRCI:DATA2024097029636710
+Y2  - 2024-12-07
+ER  -
+

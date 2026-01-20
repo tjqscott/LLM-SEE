@@ -1,0 +1,1245 @@
+TY  - JOUR
+AU  - Badana, M.
+AU  - Beesetti, B.K.
+AU  - Sundari, M.R.
+AU  - Ramya, P.
+AU  - Rao, G.S.
+TI  - A Novel Hybrid Deep Learning Framework with Metaheuristic Optimization for Accurate Software Effort Estimation
+PY  - 2025
+T2  - SN Computer Science
+VL  - 6
+IS  - 8
+C7  - 916
+DO  - 10.1007/s42979-025-04459-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105019110196&doi=10.1007%2Fs42979-025-04459-3&partnerID=40&md5=8305929dce2ce9bf91326f8e7a219472
+AB  - All approaches, and life cycles in software development need Software Effort Estimation (SEE). The accuracy of estimations is critical for effective project timeline and resource management. The current SEE methodology comparison review is incomplete due to the diverse sample methodologies and performance criteria defined by different scholars. This study aims to fill this gap by offering a precise effort estimation model based on deep learning techniques principles. The aim is to reduce development costs and time. The data undergoes parsing to eliminate non-informative portions and to capture important and higher-order statistical characteristics. An innovative hybrid optimization algorithm, Modified Chaotic Enriched Jaya with Moth Flame Optimization (MCEJ), was developed for the purpose of extreme feature selection with high precision in estimating SEE framework, hence incorporating accuracy into the model. The estimation is done through Multilayer Long Short-Term Memory (M-LSTM) network. The implementation was done using Python, achieving a 0.2825 MSE with Dataset 1 (China) and 0.2285 with Dataset 2 (Maxwel). © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd. 2025.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Shajari, S.
+AU  - Agarwal, N.
+TI  - Safeguarding youtube discussions: a framework for detecting anomalous commenter and engagement behaviors
+PY  - 2025
+T2  - Social Network Analysis and Mining
+VL  - 15
+IS  - 1
+C7  - 54
+DO  - 10.1007/s13278-025-01470-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105006760428&doi=10.1007%2Fs13278-025-01470-7&partnerID=40&md5=9110259c37c59a98608bcc9e39e6174c
+AB  - In today’s digital landscape, YouTube’s comment sections play an essential role in shaping public opinion and discussions. However, coordinated groups often exploit these platforms to spread misinformation and distort conversations. This study introduces a method to detect and quantify such anomalous behavior on YouTube channels by analyzing two key components: commenter behaviors and engagement patterns. Focusing on channels concerning news outlets, geopolitics, and the military, we draw from a dataset with 71 channels, 642,952 videos, 12,425,587 commenters, 123,882,200 comments, 139,985,870 subscribers, and 83,396,188,807 views. Our approach leverages key engagement indicators, such as comments, views, and subscriber counts, alongside an analysis of frequent commenter interactions to identify anomalous patterns. We apply unsupervised techniques, including kernel density estimation (KDE) and Gaussian mixture model (GMM), to assign a score reflecting anomalous commenter behavior. To provide a comprehensive measure of this behavior, we combine commenter and engagement scores both at the feature level and at the output level. At the feature level, we employ cosine similarity and principal component analysis (PCA). At the output level, we propose three scoring methods: harmonic mean (HM), weighted average with interaction term (WAIT), and agreement-weighted maximum (AWM). The resulting score, normalized between 0 and 1, indicates the level of anomalous activity on each channel. We validate our results by comparing detected anomalous channels with actual suspended channels from YouTube, confirming the model’s real-world applicability. By offering a quantifiable measure of this activity, our method helps preserve the integrity of YouTube discussions. © The Author(s) 2025.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Iyenghar, P.
+TI  - Empirical Evaluation of Reasoning LLMs in Machinery Functional Safety Risk Assessment and the Limits of Anthropomorphized Reasoning
+PY  - 2025
+T2  - Electronics (Switzerland)
+VL  - 14
+IS  - 18
+C7  - 3624
+DO  - 10.3390/electronics14183624
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105017007961&doi=10.3390%2Felectronics14183624&partnerID=40&md5=7fd94bfda12332645a8a25616aa91524
+AB  - Transparent reasoning and interpretability are essential for AI-supported risk assessment, yet it remains unclear whether large language models (LLMs) can provide reliable, deterministic support for safety-critical tasks or merely simulate reasoning through plausible outputs. This study presents a systematic, multi-model empirical evaluation of reasoning-capable LLMs applied to machinery functional safety, focusing on Required Performance Level (PL<inf>r</inf>) estimation as defined by ISO 13849-1 and ISO 12100. Six state-of-the-art models (Claude-opus, o3-mini, o4-mini, GPT-5-mini, Gemini-2.5-flash, DeepSeek-Reasoner) were evaluated across six prompting strategies and two dataset variants: canonical ISO-style hazards (Variant 1) and engineer-authored free-text scenarios (Variant 2). Results show that rule-grounded prompting consistently stabilizes performance, achieving ceiling-level accuracy in Variant 1 and restoring reliability under lexical variability in Variant 2. In contrast, unconstrained chain-of-thought reasoning (CoT) and CoT together with Retrieval-Augmented Generation (RAG) introduce volatility, overprediction biases, and model-dependent degradations. Safety-critical coverage was quantified through per-class F1 and recall of PL<inf>r</inf> class e, confirming that only rule-grounded prompts reliably captured rare but high-risk hazards. Latency analysis demonstrated that rule-only prompts were both the most accurate and the most efficient, while CoT strategies incurred 2–10× overhead. A confusion/rescue analysis of retrieval interactions further revealed systematic noise mechanisms such as P-inflation and F-drift, showing that retrieval can either destabilize or rescue cases depending on model family. Intermediate severity/frequency/possibility (S/F/P) reasoning steps were found to diverge from ISO-consistent logic, reinforcing critiques that LLM “reasoning” reflects surface-level continuation rather than genuine inference. All reported figures include 95% confidence intervals, t-intervals across runs ((Formula presented.)) for accuracy and timing, and class-stratified bootstrap CIs for Micro/Macro/Weighted-F<inf>1</inf> and per-class metrics. Overall, this study establishes a rigorous benchmark for evaluating LLMs in functional safety workflows such as PL<inf>r</inf> determination. It shows that deterministic, safety-critical classification requires strict rule-constrained prompting and careful retrieval governance, rather than reliance on assumed model reasoning abilities. © 2025 by the author.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Korobkina, T.
+AU  - Dashenkova, N.
+AU  - Danchenko, I.
+AU  - Omelchenko, H.
+TI  - THE IMPACT OF CORPORATE CULTURE OF DIGNITY ON COGNITIVE BIASES, STRATEGIC DECISION-MAKING AND TECHNICAL DEBT MANAGEMENT IN IT ENGINEERING
+PY  - 2025
+T2  - Technology Audit and Production Reserves
+VL  - 3
+IS  - 4
+SP  - 6
+EP  - 13
+DO  - 10.15587/2706-5448.2025.329635
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105011830447&doi=10.15587%2F2706-5448.2025.329635&partnerID=40&md5=1280de3c8346cdcddd747204b60fee67
+AB  - The object of research is the corporate culture of dignity as an interdisciplinary determinant of organizational behavior that operates at the intersection of IT engineering, cognitive science, behavioral economics and knowledge management. The analytical focus is on the impact of cultural variables on cognitive distortions in strategic decision-making, as well as on the dynamics of technical and social debt in IT companies. The problem to be solved is the absence of a holistic cognitive-behavioral model that would describe the mechanisms of the transformative impact of a culture of dignity on organizational biases and structural inefficiencies in engineering systems. Existing approaches largely ignore the relationship between managerial ethics, team interaction architecture, and the cognitive ecology of decision-making. The research methodology included a critical analysis of theoretical sources, the development of the author's analytical model, and a content analysis of cases of three global technology companies (Spotify, Google, Airbnb). A qualitative analysis of corporate practices and the content of open reports revealed a strong correlation between a high level of transparency, autonomy, psychological safety and feedback in organizations with a strong culture of dignity and a reduction in the frequency of cognitive distortions and the pace of technical debt elimination. The data are the result of analytical generalization rather than empirical quantitative research. Estimates show that such organizations demonstrate an acceleration in the pace of technical debt reduction by 15–20% compared to those without established feedback practices. The practical significance of research lies in the possibility of using the results to develop organizational development policies, training programmes for IT team leaders, strategic management systems and technical debt audits. The findings contribute to the expansion of theoretical understanding of the role of humanistic factors in high-tech management and have the potential to implement the UN Sustainable Development Goals, in particular in terms of decent work, inclusive governance and innovation sustainability. © The Author(s) 2025.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Carter, L.
+AU  - Liu, D.
+TI  - How was my performance? Exploring the role of anchoring bias in AI-assisted decision making
+PY  - 2025
+T2  - International Journal of Information Management
+VL  - 82
+C7  - 102875
+DO  - 10.1016/j.ijinfomgt.2025.102875
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85217063073&doi=10.1016%2Fj.ijinfomgt.2025.102875&partnerID=40&md5=1336d26c3b6078b7c485f71da82aaab5
+AB  - Organizations leverage artificial intelligence (AI) to analyze data and support decision making. However, the integration of AI into organizational workflows may introduce unintended biases. Despite the proliferation of AI in organizations, no study to date has juxtaposed the impact of human and AI recommendations on decision making. Using two controlled experiments of 775 managers, we explore the impact of AI and cognitive bias on performance appraisal ratings. In particular, we examine anchoring and adjustment bias and present an effective strategy for mitigating this bias. The findings show managers’ performance ratings are impacted by the presence of an AI recommendation. The source of the recommendation (human or AI) interacted with the anchor (high or low) to influence managers’ rating. In particular, a high-anchor produced different performance ratings for each source. However, when exposed to a low-anchor, supervisors did not produce varied estimates from AI and non-AI recommendations. These findings suggest managers should be aware of the differential effects of anchoring and adjustment bias on organizational decisions. An employee's performance may be rated differently, not because of the employee's behavior, but because of the source of the recommendation and the magnitude of the anchor. This paper makes several significant contributions: (1) it is among the first studies to empirically test the presence and salience of anchoring bias in AI-assisted decision making; (2) it presents the consider-the-opposite strategy as an approach to effectively debias the anchoring effects of AI recommendations. © 2025 The Authors
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 10
+ER  -
+
+TY  - CHAP
+AU  - Kumar, T.
+AU  - Devi, S.
+TI  - Intelligence in RPA
+PY  - 2025
+SP  - 183
+EP  - 212
+DO  - 10.4018/979-8-3693-4365-4.ch008
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008749470&doi=10.4018%2F979-8-3693-4365-4.ch008&partnerID=40&md5=e6e4848a548fd117f28b8b02683740f6
+AB  - What started as a solution to automate repetitive, rules- based tasks has expanded into RPA, incorporating artificial intelligence technologies such as machine learning, natural language processing, and computer vision, and promoting a move to intelligent process automation. This integration allows RPA to discern unstructured data, make contextual judgments, and learn and change. Conversational AI enables end- to- end process automation, ensuring human- robot cooperation, while artificial intelligence- driven analytics ensure process optimization. With the platform's increasing popularity, responsible AI and governance frameworks have become critical for ensuring circulating, fair, and ethical use. Although autonomous process estimation, self- optimizing processes, and a few other AI movements, such as automated reasoning and scheduling, are possible in the future, AI adoption in stages enables the greatest automation and excellence in action. © 2025, IGI Global Scientific Publishing. All rights reserved.
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bo, J.Y.
+AU  - Wan, S.
+AU  - Anderson, A.
+TI  - To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models
+PY  - 2025
+C7  - 905
+DO  - 10.1145/3706598.3714097
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105005772617&doi=10.1145%2F3706598.3714097&partnerID=40&md5=cb8b36ffc62286ecb26de34e9c28c5f9
+AB  - As Large Language Models become integral to decision-making, optimism about their power is tempered with concern over their errors. Users may over-rely on LLM advice that is confidently stated but wrong, or under-rely due to mistrust. Reliance interventions have been developed to help users of LLMs, but they lack rigorous evaluation for appropriate reliance. We benchmark the performance of three relevant interventions by conducting a randomized online experiment with 400 participants attempting two challenging tasks: LSAT logical reasoning and image-based numerical estimation. For each question, participants first answered independently, then received LLM advice modified by one of three reliance interventions and answered the question again. Our findings indicate that while interventions reduce over-reliance, they generally fail to improve appropriate reliance. Furthermore, people became more confident after making wrong reliance decisions in certain contexts, demonstrating poor calibration. Based on our findings, we discuss implications for designing effective reliance interventions in human-LLM collaboration. © 2025 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Rosbach, E.
+AU  - Ammeling, J.
+AU  - Krügel, S.
+AU  - Kießig, A.
+AU  - Fritz, A.
+AU  - Ganz, J.
+AU  - Puget, C.
+AU  - Donovan, T.
+AU  - Klang , A.
+AU  - Köller, M.C.
+AU  - Bolfǎ, P.
+AU  - Tecilla, M.
+AU  - Denk, D.
+AU  - Kiupel, M.
+AU  - Paraschou, G.
+AU  - Kok, M.K.
+AU  - Haake, A.F.H.
+AU  - de Krijger, R.R.
+AU  - Sonnen, A.F.-P.
+AU  - Kasantikul, T.
+AU  - Dorrestein, G.M.
+AU  - Smedley, R.C.
+AU  - Stathonikos, N.
+AU  - Uhl, M.
+AU  - Bertram, C.A.
+AU  - Riener, A.
+AU  - Aubreville, M.
+TI  - "When Two Wrongs Don't Make a Right" - Examining Confirmation Bias and the Role of Time Pressure During Human-AI Collaboration in Computational Pathology
+PY  - 2025
+C7  - 528
+DO  - 10.1145/3706598.3713319
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105005749959&doi=10.1145%2F3706598.3713319&partnerID=40&md5=01fe6f715e38b7e9e5877c06917b487e
+AB  - Artificial intelligence (AI)-based decision support systems hold promise for enhancing diagnostic accuracy and efficiency in computational pathology. However, human-AI collaboration can introduce and amplify cognitive biases, like confirmation bias caused by false confirmation when erroneous human opinions are reinforced by inaccurate AI output. This bias may increase under time pressure, a ubiquitous factor in routine pathology, as it strains practitioners' cognitive resources. We quantified confirmation bias triggered by AI-induced false confirmation and examined the role of time constraints in a web-based experiment, where trained pathology experts (n=28) estimated tumor cell percentages. Our results suggest that AI integration fuels confirmation bias, evidenced by a statistically significant positive linear-mixed-effects model coefficient linking AI recommendations mirroring flawed human judgment and alignment with system advice. Conversely, time pressure appeared to weaken this relationship. These findings highlight potential risks of AI in healthcare and aim to support the safe integration of clinical decision support systems. © 2025 Copyright held by the owner/author(s).
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Koonchanok, R.
+AU  - Papka, M.E.
+AU  - Reda, K.
+TI  - Trust Your Gut: Comparing Human and Machine Inference from Noisy Visualizations
+PY  - 2025
+T2  - IEEE Transactions on Visualization and Computer Graphics
+VL  - 31
+IS  - 1
+SP  - 754
+EP  - 764
+DO  - 10.1109/TVCG.2024.3456182
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-86000427533&doi=10.1109%2FTVCG.2024.3456182&partnerID=40&md5=9b2e0f98bc93dc8ccab4920726a03041
+AB  - People commonly utilize visualizations not only to examine a given dataset, but also to draw generalizable conclusions about the underlying models or phenomena. Prior research has compared human visual inference to that of an optimal Bayesian agent, with deviations from rational analysis viewed as problematic. However, human reliance on non-normative heuristics may prove advantageous in certain circumstances. We investigate scenarios where human intuition might surpass idealized statistical rationality. In two experiments, we examine individuals' accuracy in characterizing the parameters of known data-generating models from bivariate visualizations. Our findings indicate that, although participants generally exhibited lower accuracy compared to statistical models, they frequently outperformed Bayesian agents, particularly when faced with extreme samples. Participants appeared to rely on their internal models to filter out noisy visualizations, thus improving their resilience against spurious data. However, participants displayed overconfidence and struggled with uncertainty estimation. They also exhibited higher variance than statistical machines. Our findings suggest that analyst gut reactions to visualizations may provide an advantage, even when departing from rationality. These results carry implications for designing visual analytics tools, offering new perspectives on how to integrate statistical models and analyst intuition for improved inference and decision-making. The data and materials for this paper are available at https://osf.io/qmfv6. © 2024 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ahmad, M.
+AU  - Wang, G.
+TI  - The Influence of Personality Traits and Domain Knowledge on the Quality of Decision-Making in Engineering Design
+PY  - 2025
+T2  - Applied Sciences (Switzerland)
+VL  - 15
+IS  - 2
+C7  - 518
+DO  - 10.3390/app15020518
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215819722&doi=10.3390%2Fapp15020518&partnerID=40&md5=48ec1d4332e4e4d2e0f0cbe43a954a30
+AB  - In engineering design, the decision-making process holds significant importance as it plays an important role in determining the outcomes of a task. The decision-making process is notably influenced by various factors, with particular focus on the personality traits and information available. The purpose of this study is to comprehensively investigate the effects of these factors on quality and confidence in decision-making within the context of engineering design. To achieve this objective, we utilized a simulated design environment that can capture decision-making information. The analysis of personality traits was carried out utilizing the complete Big Five model, while the estimate of the structural equation model was executed by employing partial least squares structural equation modeling (PLS-SEM) and a machine learning model for quality estimation. The available empirical research indicates that individuals who have a lower degree of extraversion and agreeableness, and higher levels of conscientiousness and openness, are more likely to make decisions of higher quality. These characteristics have been found to have no significant effect on the levels of confidence during the process of making decisions. Furthermore, it was found that the trait of neuroticism has a negative impact on the quality of decision-making but does not have a significant impact on decision-making confidence. The noticeable finding was the strong impact of test-assessed knowledge on decision quality and confidence, in contrast to the lack of significant effect of self-assessed knowledge. This highlights the importance of carefully aligning tasks with individual personality traits in organizations working in the engineering design sector and prioritizing factual demonstrated knowledge rather than subjective self-assessment when assigning decision-making positions to individuals. These findings highlight the importance of considering personality traits and domain knowledge in educational and professional settings to enhance decision-making quality and confidence among engineering students, potentially informing targeted training and assessment practices. © 2025 by the authors.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Zhang, R.
+AU  - Cao, Z.
+AU  - Yang, S.
+AU  - Si, L.
+AU  - Sun, H.
+AU  - Xu, L.
+AU  - Sun, F.
+TI  - Cognition-Driven Structural Prior for Instance-Dependent Label Transition Matrix Estimation
+PY  - 2025
+T2  - IEEE Transactions on Neural Networks and Learning Systems
+VL  - 36
+IS  - 2
+SP  - 3730
+EP  - 3743
+DO  - 10.1109/TNNLS.2023.3347633
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85182381291&doi=10.1109%2FTNNLS.2023.3347633&partnerID=40&md5=772507fc17dc2118402700b11662a354
+AB  - The label transition matrix has emerged as a widely accepted method for mitigating label noise in machine learning. In recent years, numerous studies have centered on leveraging deep neural networks to estimate the label transition matrix for individual instances within the context of instance-dependent noise. However, these methods suffer from low search efficiency due to the large space of feasible solutions. Behind this drawback, we have explored that the real murderer lies in the invalid class transitions, that is, the actual transition probability between certain classes is zero but is estimated to have a certain value. To mask the invalid class transitions, we introduced a human-cognition-assisted method with structural information from human cognition. Specifically, we introduce a structured transition matrix network (STMN) designed with an adversarial learning process to balance instance features and prior information from human cognition. The proposed method offers two advantages: 1) better estimation effectiveness is obtained by sparing the transition matrix and 2) better estimation accuracy is obtained with the assistance of human cognition. By exploiting these two advantages, our method parametrically estimates a sparse label transition matrix, effectively converting noisy labels into true labels. The efficiency and superiority of our proposed method are substantiated through comprehensive comparisons with state-of-the-art methods on three synthetic datasets and a real-world dataset. Our code will be available at https://github.com/WheatCao/STMN-Pytorch. © 2023 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 53
+ER  -
+
+TY  - CONF
+AU  - Liu, Z.
+AU  - Li, J.
+AU  - Zhuang, Y.
+AU  - Liu, Q.
+AU  - Shen, S.
+AU  - Ouyang, J.
+AU  - Cheng, M.
+AU  - Wang, S.
+TI  - am-ELO: A Stable Framework for Arena-based LLM Evaluation
+PY  - 2025
+T2  - Proceedings of Machine Learning Research
+VL  - 267
+SP  - 38857
+EP  - 38868
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023640372&partnerID=40&md5=9788ab31676d9f2aff0e54b5b8d9f60e
+AB  - Arena-based evaluation is a fundamental yet significant evaluation paradigm for modern AI models, especially large language models (LLMs). Existing framework based on ELO rating system suffers from the inevitable instability problem due to ranking inconsistency and the lack of attention to the varying abilities of annotators. In this paper, we introduce a novel stable arena framework to address these issues by enhancing the ELO Rating System. Specifically, we replace the iterative update method with a Maximum Likelihood Estimation (MLE) approach, m-ELO, and provide theoretical proof of the consistency and stability of the MLE approach for model ranking. Additionally, we proposed the am-ELO, which modify the Elo Rating’s probability function to incorporate annotator abilities, enabling the simultaneous estimation of model scores and annotator reliability. Experiments demonstrate that this method ensures stability, proving that this framework offers a more robust, accurate, and stable evaluation method for LLMs. © 2025, by the authors.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Ruk, S.A.
+AU  - Mahmood, Y.
+AU  - Azmi, A.
+AU  - Firdaus Mohd Azmi, N.
+AU  - Gul, S.
+TI  - Effort Estimation in Agile and DevOps: A Systematic Literature Review of Stakeholder Dissatisfaction
+PY  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 167925
+EP  - 167941
+DO  - 10.1109/ACCESS.2025.3600321
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013786007&doi=10.1109%2FACCESS.2025.3600321&partnerID=40&md5=941d572eddc2b96c6274a3379315009a
+AB  - Effort estimation is a critical aspect of software project management, directly influencing the budget, schedule, and resource allocation throughout the software development life cycle. Accurate estimation plays a central role in aligning team capabilities with stakeholder expectations, ensuring timely delivery and efficient use of resources. Despite the adoption of Agile and DevOps methodologies, which emphasize flexibility, rapid iterations and continuous integration, estimation inaccuracies remain a problematic area. These inaccuracies often result in project delays, cost overruns, and scope creep, ultimately leading to stakeholder dissatisfaction and a breakdown of trust in the development process. To investigate these challenges, a Systematic Literature Review (SLR) was conducted, surrounding 1,088 publications retrieved from six major digital libraries: Scopus (201), ScienceDirect (155), Springer (212), Google Scholar (145), IEEE (185), and ACM (190). This research examines the main drivers of estimation challenges in Agile and DevOps environments. Key findings indicate that human-centric issues (cognitive biases, lack of experience), technical issues (fluctuating requirements, lack of adequate history), and process inefficiencies (communication breakdown, poor planning) exert considerable influences on estimation accuracy. To address these challenges, the study categorizes and analyzes a range of estimation techniques, including machine learning models, expert-calibrated hybrid approaches, analogical estimation methods, and process calibration practices such as retrospectives. Findings reveal that a combination of data-driven tools and stakeholder-aligned strategies offers the most promise in narrowing the expectation experience gap. This research provides practitioners with practical recommendations and lays the ground for further study in developing estimation techniques to mitigate the expectation-experience gap. © 2013 IEEE.
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Peixoto, M.
+AU  - Baiao, F.
+AU  - Guizzardi, R.
+AU  - Guizzardi, G.
+TI  - Anchorlogy: An Ontology for Anchoring Bias Detection in Forecasting
+PY  - 2025
+T2  - Lecture Notes in Computer Science
+VL  - 15701 LNCS
+SP  - 277
+EP  - 293
+DO  - 10.1007/978-3-031-94569-4_16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105009240782&doi=10.1007%2F978-3-031-94569-4_16&partnerID=40&md5=524bd82f5f05f848bedb8d4f115b5a04
+AB  - Anchoring bias is one of the most prevalent biases within forecasting. It distorts managers’ estimations whenever context-driven intervention to the statistical model output is required. Consequences extend beyond a single organization since forecasting affects order quantity decisions and, therefore, the relations among suppliers, potentially generating a bullwhip effect throughout the supply chain. Anchoring bias can have a significant impact, and despite being related to a numerical value, its detection is very complex. Moreover, it tends to be recurrent when the context that caused the distortion is not explored and precisely understood. Current detection approaches are incomplete, as they do not make explicit the directional component of anchors or their meaning to the decision maker’s mental heuristics. In this work, we present Anchorlogy, an ontology devised to explicitly provide the required context to detect and mitigate anchoring bias during a decision-making process, and a metrological approach to measure it while addressing the deficiencies found in other metrics in the current psychological literature. Our proposal was validated by applying it to two case studies in the forecasting domain, and the results show that it effectively prevents the bullwhip effect in real-world scenarios. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2025.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Yadnakudige Subramanya, S.
+AU  - Watanabe, K.
+AU  - Dengel, A.
+AU  - Ishimaru, S.
+TI  - Human-in-the-Loop Annotation for Image-Based Engagement Estimation: Assessing the Impact of Model Reliability on Annotation Accuracy
+PY  - 2025
+T2  - Lecture Notes in Computer Science
+VL  - 15770 LNCS
+SP  - 169
+EP  - 186
+DO  - 10.1007/978-3-031-93864-1_12
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105008496278&doi=10.1007%2F978-3-031-93864-1_12&partnerID=40&md5=2ecdd9b08af653d79607b8076fd1d8aa
+AB  - Human-in-the-loop (HITL) frameworks are increasingly recognized for their potential to improve annotation accuracy in emotion estimation systems by combining machine predictions with human expertise. This study focuses on integrating a high-performing image-based emotion model into a HITL annotation framework to evaluate human-machine interaction’s collaborative potential and uncover the psychological and practical factors critical to successful collaboration. Specifically, we investigate how varying model reliability and cognitive framing influence human trust, cognitive load, and annotation behavior in HITL systems. We show that model reliability and psychological framing significantly impact annotators’ trust, engagement, and consistency, offering insights into optimizing HITL frameworks. Through three experimental scenarios with 29 participants-baseline model reliability (S1), fabricated errors (S2), and cognitive bias introduced by negative framing-we analyzed behavioral and qualitative data (S3). Reliable predictions (S1) yielded high trust and annotation consistency, while unreliable outputs (S2) induced critical evaluations but increased frustration and response variability. Negative framing (S3) revealed how cognitive bias influenced participants to rate the model as relatable and accurate despite misinformation about its reliability. These findings highlight the importance of reliable machine outputs and psychological factors in shaping effective human-machine collaboration. By leveraging the strengths of both human oversight and automated systems, this study establishes a scalable HITL framework for emotion annotation and sets the stage for broader applications in adaptive learning and human-computer interaction. © The Author(s), under exclusive license to Springer Nature Switzerland AG 2025.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Badana, M.
+AU  - Kranthi Kiran, M.K.
+TI  - A Hybrid Metaheuristic Aware Enhanced Deep Learning Approach for Software Effort Estimation
+PY  - 2024
+T2  - Engineering, Technology and Applied Science Research
+VL  - 14
+IS  - 6
+SP  - 19024
+EP  - 19029
+DO  - 10.48084/etasr.8890
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211479778&doi=10.48084%2Fetasr.8890&partnerID=40&md5=d6a5a2fdb9c78f32d6c7cfd492befc95
+AB  - Software Effort Estimating (SEE) is a fundamental task in all software development lifecycles and procedures. Therefore, when deciding how to anticipate effort in a variety of project types, the comparative assessment of effort prediction methods has emerged as a standard strategy. Unfortunately, these studies include a range of sample techniques and error metrics, making a comparison with other work challenging. To overcome these drawbacks, this study proposes a deep learning model to effectively estimate software effort. The estimation is mainly focused on minimizing the cost and time consumption. The input data is taken from the dataset and preprocessing is performed to remove the noise content. Then the required features are extracted using the preprocessed data with the help of the simple and higher-order statistical features. A novel Modified Chaotic Enriched Jaya with Moth Flame Optimization (MCEJMO) algorithm is introduced for feature selection to enhance SEE accuracy. The estimation is performed using Multilayer Long Short-Term Memory (M-LSTM). The proposed method achieved a Mean Square Error (MSE) of 0.2825 for dataset 1 and 0.2285 for dataset 2. © by the authors.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Shen, J.
+AU  - Jiang, Y.
+AU  - Luo, J.
+AU  - Wang, W.
+TI  - MPE-HRNetL: A Lightweight High-Resolution Network for Multispecies Animal Pose Estimation
+PY  - 2024
+T2  - Sensors
+VL  - 24
+IS  - 21
+C7  - 6882
+DO  - 10.3390/s24216882
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85208557670&doi=10.3390%2Fs24216882&partnerID=40&md5=0984bac27246c6dd2a9134761a3bc6c4
+AB  - Animal pose estimation is crucial for animal health assessment, species protection, and behavior analysis. It is an inevitable and unstoppable trend to apply deep learning to animal pose estimation. In many practical application scenarios, pose estimation models must be deployed on edge devices with limited resource. Therefore, it is essential to strike a balance between model complexity and accuracy. To address this issue, we propose a lightweight network model, i.e., MPE-HRNet (Formula presented.), by improving Lite-HRNet. The improvements are threefold. Firstly, we improve Spatial Pyramid Pooling-Fast and apply it and the improved version to different branches. Secondly, we construct a feature extraction module based on a mixed pooling module and a dual spatial and channel attention mechanism, and take the feature extraction module as the basic module of MPE-HRNet (Formula presented.). Thirdly, we introduce a feature enhancement stage to enhance important features. The experimental results on the AP-10K dataset and the Animal Pose dataset verify the effectiveness and efficiency of MPE-HRNet (Formula presented.). © 2024 by the authors.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Ahmetoglu, Y.
+AU  - Brumby, D.
+AU  - Cox, A.
+TI  - Bridging the Gap between Time Management Research and Task Management App Design: A Study on the Integration of Planning Fallacy Mitigation Strategies
+PY  - 2024
+C7  - 12
+DO  - 10.1145/3663384.3663404
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197793578&doi=10.1145%2F3663384.3663404&partnerID=40&md5=d29c524d0867b6335eb72a80c7ce8a6c
+AB  - Accurate time estimations are vital for meeting deadlines and reducing work-related stress, yet individuals frequently succumb to a wide-spread cognitive bias, the planning fallacy, resulting in poor time management. This research article reports on two studies aimed at addressing this challenge. First, through a review of the psychological literature, we identify four key strategies recommended by research for supporting accurate time estimations in daily tasks. These strategies serve as the foundation for the second study, where we conduct a functionality analysis of prevalent personal task management apps to investigate their alignment with the identified strategies. Our analysis reveals a significant disparity: while research-informed strategies are recommended, they are rarely implemented to a good standard in current apps. This discrepancy emphasizes the importance of addressing this gap between theory and practice. By highlighting the need for future efforts to focus on aiding workers in task duration estimation, this study identifies opportunities for improving the design of task management software to enhance user productivity and alleviate stress. © 2024 Owner/Author.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Luz, A.
+AU  - Marcher, F.
+AU  - Nacke, L.E.
+AU  - Vogel, D.
+TI  - Encouraging Disengagement: Using Eye Tracking to Examine Attention with Different Levels of Juicy Design
+PY  - 2024
+C7  - 8
+DO  - 10.1145/3656650.3656694
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85195424987&doi=10.1145%2F3656650.3656694&partnerID=40&md5=7c5bba335141510bc271b22786193d35
+AB  - Juicy design, typically used in games, involves adding non-functional visual embellishments to increase engagement. We investigate if too much or too little juicy design can lower attention. A controlled experiment examines the application of four levels of juicy elements to a target stimulus for saccade and smooth pursuit eye tracking tasks. Pupil size, blink rate, and questionnaires are used to estimate levels of attention. The results suggest that highly stimulating juicy elements paired with an engaging task, followed by a non-task rest break employing less stimulation, indicated decreased levels of attention and engagement. We discuss the implications of these findings and provide use cases for health, games, and ethics. © 2024 ACM.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Gebhardt, C.
+AU  - Brombach, A.
+AU  - Luong, T.
+AU  - Otmar Hilliges, O.
+AU  - Holz, C.
+TI  - Detecting Users' Emotional States during Passive Social Media Use
+PY  - 2024
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+VL  - 8
+IS  - 2
+C7  - 77
+DO  - 10.1145/3659606
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85193530302&doi=10.1145%2F3659606&partnerID=40&md5=015e06556550b7ed2c6c2ab103066406
+AB  - The widespread use of social media significantly impacts users' emotions. Negative emotions, in particular, are frequently produced, which can drastically affect mental health. Recognizing these emotional states is essential for implementing effective warning systems for social networks. However, detecting emotions during passive social media use - -the predominant mode of engagement - -is challenging. We introduce the first predictive model that estimates user emotions during passive social media consumption alone. We conducted a study with 29 participants who interacted with a controlled social media feed. Our apparatus captured participants' behavior and their physiological signals while they browsed the feed and filled out self-reports from two validated emotion models. Using this data for supervised training, our emotion classifier robustly detected up to 8 emotional states and achieved 83% peak accuracy to classify affect. Our analysis shows that behavioral features were sufficient to robustly recognize participants' emotions. It further highlights that within 8 seconds following a change in media content, objective features reveal a participant's new emotional state. We show that grounding labels in a componential emotion model outperforms dimensional models in higher-resolutional state detection. Our findings also demonstrate that using emotional properties of images, predicted by a deep learning model, further improves emotion recognition. © 2024 ACM.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Long, S.
+AU  - Kay, M.
+TI  - To Cut or Not To Cut? A Systematic Exploration of Y-axis Truncation
+PY  - 2024
+T2  - Conference on Human Factors in Computing Systems - Proceedings
+C7  - 207
+DO  - 10.1145/3613904.3642102
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85194855832&doi=10.1145%2F3613904.3642102&partnerID=40&md5=87f0666c0ee5c91186c0ea4d168c8a36
+AB  - Y-axis truncation is a well-known, much-debated visualization practice. Our work complements existing empirical work by providing a systematic analysis of y-axis truncation on grouped bar charts. Drawing upon theoretical frameworks such as Algebraic Visualization Design, we examine how structure-preserving modifications to visualization affect user performance by systematically dividing the space of possible truncations according to their monotonicity and the type of relations in the underlying data. Our results demonstrate that for comparing and estimating the difference between the lengths of two bars, truncating the y-axis does not affect task performance. For comparing or estimating the relative growth between two bars, truncating monotonically has similar performance to no truncation, while truncating non-monotonically is very likely to impair performance. We discuss possible extensions of our work and recommendations for y-axis truncation. All supplementary materials are available at https://osf.io/k4hjd/?view_only=008b087fc3d94be7ba0ce7aea95012a7. © 2024 Copyright held by the owner/author(s)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Wang, J.
+AU  - Li, W.
+AU  - Wang, H.
+AU  - Lyu, H.
+AU  - Thirukumaran, C.P.
+AU  - Mesfin, A.
+AU  - Yu, H.
+AU  - Luo, J.
+TI  - CRTRE: Causal Rule Generation with Target Trial Emulation Framework
+PY  - 2024
+SP  - 144
+EP  - 158
+DO  - 10.1109/BigData62323.2024.10825951
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218005477&doi=10.1109%2FBigData62323.2024.10825951&partnerID=40&md5=2d73b7dbf299547c77eceacf1fd5896d
+AB  - Causal inference and model interpretability are gaining increasing attention, particularly in the biomedical domain. Despite recent advance, decorrelating features in nonlinear environments with human-interpretable representations remains underexplored. In this study, we introduce a novel method called causal rule generation with target trial emulation framework (CRT RE), which applies randomize trial design principles to estimate the causal effect of association rules. We then incorporate such association rules for the downstream applications such as prediction of disease onsets. Extensive experiments on six healthcare datasets, including synthetic data, real-world disease collections, and MIMIC-III/IV, demonstrate the model's superior performance. Specifically, our method achieved a β error of 0.907, outperforming DWR (1.024) and SVM (1.141). On real-world datasets, our model achieved accuracies of 0.789, 0.920, and 0.300 for Esophageal Cancer, Heart Disease, and Cauda Equina Syndrome prediction task, respectively, consistently surpassing baseline models. On the ICD code prediction tasks, it achieved AUC Macro scores of 92.8 on MIMIC-III and 96.7 on MIMIC-IV, outperforming the state-of-the-art models KEPT and MSMN. Expert evaluations further validate the model's effectiveness, causality, and interpretability. © 2024 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Giannella, J.R.
+AU  - Illarramendi, X.
+AU  - Mauro, R.C.
+AU  - Barcellos Oliveira, L.
+AU  - Falconieri Santiago, I.
+AU  - Esperança, C.
+AU  - Kosminsky, D.
+TI  - Problem-driven visualization design of health and pollution big data
+ST  - Design orientado a problemas para visualização de big data em saúde e poluição
+PY  - 2024
+T2  - InfoDesign
+VL  - 21
+IS  - 2
+DO  - 10.51358/id.v21i2.1131
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85207189459&doi=10.51358%2Fid.v21i2.1131&partnerID=40&md5=adee188f888ca21bd006920c858721da
+AB  - We present the design of a big data visualization application aimed at investigating the potential relationships between air pollution and perinatal health. We integrated data from singleton pregnancies in Brazil over a seven-year period and records of fine particulate matter (PM<inf>2.5</inf>) levels. Our methodology combines Design by Immersion and co-design, engaging specialists from various domains in problem-driven visualization design. The interactive visualization allows exploratory queries and comparative analyses based on medical birth certificate data restructured according to estimated conception dates. The collaboration of various domain experts was essential for leveraging complex data for an informed decision-making visualization. © 2024, Sociedade Brasileira de Design da Informacao. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - BOOK
+AU  - Alleman, G.B.
+AU  - Quigley, J.M.
+TI  - Risk Management
+PY  - 2024
+SP  - 1
+EP  - 312
+DO  - 10.1201/9781003425465
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85196597917&doi=10.1201%2F9781003425465&partnerID=40&md5=adcb47f6a260d92af1fb69cdd4dcfe86
+AB  - Project success is an elusive goal in every business or technical domain. Project failure usually results from unhandled risks to the technical, cost, and schedule aspects of the project. There are four primary root causes of project failure. 1. Unrealistic performance expectation, with missing Measures of Effectiveness. 2. Unrealistic cost and schedule estimates based on inadequate risk adjusted growth models. 3. Inadequate assessment of risk and unmitigated exposure to these risks without proper handling strategies. 4. Unanticipated technical issues with alternative plans and solutions to maintain the effectiveness of the project processes and its deliverables, Risk Management provides a comprehensive overview of the people, principles, processes, and practices as the fundamental base upon which an effective risk management system resides. However, this does not guarantee effective risk management and successful projects and businesses. The first half of the book describes risk management processes, as well as a delineation between risk and hazards and how these are connected. The second half of the book provides industry examples of the approach to risk management in specific context and with specific approaches and artifacts where applicable. The book focuses on risks created by uncertainty, their identification, and the corrective and preventive actions needed to address these risks to increase the probability of project success. The book’s goal is to provide a context-driven framework, developing a foundation for a rational approach to risk management that makes adaptation to circumstances as easy as possible. © 2024 Taylor & Francis Group, LLC.
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Tang, M.C.
+AU  - Ebrahimi, O.V.
+AU  - Cheng, C.
+TI  - Symptomatology, risk, and protective factors of gaming disorder: A network analytical approach
+PY  - 2023
+T2  - Computers in Human Behavior
+VL  - 148
+C7  - 107899
+DO  - 10.1016/j.chb.2023.107899
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85168427287&doi=10.1016%2Fj.chb.2023.107899&partnerID=40&md5=d82ad6e18687af86c2795dea67905d06
+AB  - Research has identified various cognitive risk and protective (CRP) factors that contribute to gaming disorder (GD), but it remains unclear how GD symptoms are differentially related to specific CRP factors. To fill the gap, this study used network analysis to identify the most central components in the connections between CRP factors and GD symptoms, shedding light on the most important factors for the development and maintenance of GD. The participants of this study were 3002 adult online gamers (49.8% men, mean age = 36.3 years). Two unregularized Gaussian graphical models were estimated, one that only included GD symptoms and another that included both GD symptoms and CRP factors. The findings showed that “cognitive flexibility”, “gaming self-esteem”, and “loss of control” were the most central cognitive protective factor, cognitive risk factor, and GD symptom, respectively. Moreover, the GD symptom of “escape”, the cognitive risk factor of “loss sensitivity”, and the cognitive protective factor of “cognitive flexibility” were most prominent in bridging different constructs, reflecting two mechanistic clusters of GD: escapism and reward-seeking. The findings further revealed that the cognitive risk factor of “maladaptive gaming cognition” was closely connected to GD symptoms, indicating its influential role as a harmful mechanism underlying GD. Overall, our network analysis indicates that having secure self-beliefs and situation-based flexibility may be crucial for healthy gaming. © 2023 Elsevier Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 14
+ER  -
+
+TY  - JOUR
+AU  - Qi, X.
+AU  - Lu, Q.
+AU  - Pan, W.
+AU  - Zhao, Y.
+AU  - Zhu, R.
+AU  - Dong, M.
+AU  - Chang, Y.
+AU  - Lv, Q.
+AU  - Dick, R.P.
+AU  - Yang, F.
+AU  - Lu, T.
+AU  - Gu, N.
+AU  - Shang, L.
+TI  - CASES: A Cognition-Aware Smart Eyewear System for Understanding How People Read
+PY  - 2023
+T2  - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+VL  - 7
+IS  - 3
+C7  - 115
+DO  - 10.1145/3610910
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85173586250&doi=10.1145%2F3610910&partnerID=40&md5=e357d41f306d5fe4111303923bfb1262
+AB  - The process of reading has attracted decades of scientific research. Work in this field primarily focuses on using eye gaze patterns to reveal cognitive processes while reading. However, eye gaze patterns suffer from limited resolution, jitter noise, and cognitive biases, resulting in limited accuracy in tracking cognitive reading states. Moreover, using sequential eye gaze data alone neglects the linguistic structure of text, undermining attempts to provide semantic explanations for cognitive states during reading. Motivated by the impact of the semantic context of text on the human cognitive reading process, this work uses both the semantic context of text and visual attention during reading to more accurately predict the temporal sequence of cognitive states. To this end, we present a Cognition-Aware Smart Eyewear System (CASES), which fuses semantic context and visual attention patterns during reading. The two feature modalities are time-aligned and fed to a temporal convolutional network based multi-task classification deep model to automatically estimate and further semantically explain the reading state timeseries. CASES is implemented in eyewear and its use does not interrupt the reading process, thus reducing subjective bias. Furthermore, the real-time association between visual and semantic information enables the interactions between visual attention and semantic context to be better interpreted and explained. Ablation studies with 25 subjects demonstrate that CASES improves multi-label reading state estimation accuracy by 20.90% for sentence compared to eye tracking alone. Using CASES, we develop an interactive reading assistance system. Three and a half months of deployment with 13 in-field studies enables several observations relevant to the study of reading. In particular, observed how individual visual history interacts with the semantic context at different text granularities. Furthermore, CASES enables just-in-time intervention when readers encounter processing difficulties, thus promoting self-awareness of the cognitive process involved in reading and helping to develop more effective reading habits. © 2023 ACM.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 9
+ER  -
+
+TY  - JOUR
+AU  - Monge Roffarello, A.M.
+AU  - De Russis, L.
+TI  - Achieving Digital Wellbeing Through Digital Self-control Tools: A Systematic Review and Meta-analysis
+PY  - 2023
+T2  - ACM Transactions on Computer-Human Interaction
+VL  - 30
+IS  - 4
+C7  - 53
+DO  - 10.1145/3571810
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171789410&doi=10.1145%2F3571810&partnerID=40&md5=44b552cf71ebb3d200e3a41ad62f9704
+AB  - Public media and researchers in different areas have recently focused on perhaps unexpected problems that derive from an excessive and frequent use of technology, giving rise to a new kind of psychological "digital"wellbeing. Such a novel and pressing topic has fostered, both in the academia and in the industry, the emergence of a variety of digital self-control tools allowing users to self-regulate their technology use through interventions like timers and lock-out mechanisms. While these emerging technologies for behavior change hold great promise to support people's digital wellbeing, we still have a limited understanding of their real effectiveness, as well as of how to best design and evaluate them. Aiming to guide future research in this important domain, this article presents a systematic review and a meta-analysis of current work on tools for digital self-control. We surface motivations, strategies, design choices, and challenges that characterize the design, development, and evaluation of digital self-control tools. Furthermore, we estimate their overall effect size on reducing (unwanted) technology use through a meta-analysis. By discussing our findings, we provide insights on how to (i) overcome a limited perspective that exclusively focuses on technology overuse and self-monitoring tools, (ii) evaluate digital self-control tools through long-term studies and standardized measures, and (iii) bring ethics in the digital wellbeing discourse and deal with the business model of contemporary tech companies. © 2023 Association for Computing Machinery.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 79
+ER  -
+
+TY  - JOUR
+AU  - Matsubara, P.G.F.
+AU  - Steinmacher, I.
+AU  - Gadelha, B.
+AU  - Conte, T.
+TI  - Much more than a prediction: Expert-based software effort estimation as a behavioral act
+PY  - 2023
+T2  - Empirical Software Engineering
+VL  - 28
+IS  - 4
+C7  - 98
+DO  - 10.1007/s10664-023-10332-9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164178905&doi=10.1007%2Fs10664-023-10332-9&partnerID=40&md5=0eb3c604988f9eed5e0ec0f8f5c55f04
+AB  - Traditionally, Software Effort Estimation (SEE) has been portrayed as a technical prediction task, for which we seek accuracy through improved estimation methods and a thorough consideration of effort predictors. In this article, our objective to make explicit the perspective of SEE as a behavioral act, bringing attention to the fact that human biases and noise are relevant components in estimation errors, acknowledging that SEE is more than a prediction task. We employed a thematic analysis of factors affecting expert judgment software estimates to satisfy this objective. We show that estimators do not necessarily behave entirely rationally given the information they have as input for estimation. The reception of estimation requests, the communication of software estimates, and their use also impact the estimation values — something unexpected if estimators were solely focused on SEE as a prediction task. Based on this, we also matched SEE interventions to behavioral ones from Behavioral Economics showing that, although we are already adopting behavioral insights to improve our estimation practices, there are still gaps to build upon. Furthermore, we assessed the strength of evidence for each of our review findings to derive recommendations for practitioners on the SEE interventions they can confidently adopt to improve their estimation processes. Moreover, in assessing the strength of evidence, we adopted the GRADE-CERQual (Confidence in the Evidence from Reviews of Qualitative research) approach. It enabled us to point concrete research paths to strengthen the existing evidence about SEE interventions based on the dimensions of the GRADE-CERQual evaluation scheme. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Taub, G.
+AU  - Elmalech, A.
+AU  - Aharony, N.
+TI  - Willingness to grant access to personal information among augmented reality mobile app users
+PY  - 2023
+T2  - Personal and Ubiquitous Computing
+VL  - 27
+IS  - 2
+SP  - 363
+EP  - 377
+DO  - 10.1007/s00779-022-01700-1
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142280031&doi=10.1007%2Fs00779-022-01700-1&partnerID=40&md5=e24242037c76563106e56658807a4fd5
+AB  - The main aim of this research is to gain understanding of the motives and factors that influence users’ willingness to share personal information, particularly in the realm of augmented reality (AR) apps. Within this context, we also examined the hot–cold empathy gap, i.e., the difference between how people estimate their reactions if faced with a particular situation (cold) to how they act when they are in such a situation (hot). Four experiments were executed to examine the research questions. The Amazon Mechanical Turk (AMT) crowdsourcing platform was used to recruit participants from all around the world. An experimental method was used to address a number of research questions. In order to avoid a carry-over effect, a different group of participants was recruited for each question researched. The research focused on participants over the age of 18, from different countries with various backgrounds. The various experiments mimic real life scenarios. Findings show that AR app users are willing to grant access to certain types of information but are prone to refuse access to highly invasive personal information. The order of requests presented to users to grant access to their personal information is significant. In addition, we found a correlation between the time gaps between access requests and the willingness of users to grant access. Finally, we found that users underestimate their own willingness to share their private information when they are asked a hypothetical question about it. © 2022, The Author(s), under exclusive licence to Springer-Verlag London Ltd., part of Springer Nature.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Hettiachchi, D.
+AU  - Kostakos, V.
+AU  - Goncalves, J.
+TI  - A Survey on Task Assignment in Crowdsourcing
+PY  - 2023
+T2  - ACM Computing Surveys
+VL  - 55
+IS  - 3
+C7  - 3494522
+DO  - 10.1145/3494522
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131557856&doi=10.1145%2F3494522&partnerID=40&md5=f7fecad278b4cf8b6fcaba9467129cc8
+AB  - Quality improvement methods are essential to gathering high-quality crowdsourced data, both for research and industry applications. A popular and broadly applicable method is task assignment that dynamically adjusts crowd workflow parameters. In this survey, we review task assignment methods that address: heterogeneous task assignment, question assignment, and plurality problems in crowdsourcing. We discuss and contrast how these methods estimate worker performance, and highlight potential challenges in their implementation. Finally, we discuss future research directions for task assignment methods, and how crowdsourcing platforms and other stakeholders can benefit from them. © 2022 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 65
+ER  -
+
+TY  - CONF
+AU  - Chakraborty, I.
+AU  - Ilavarasan, P.V.
+AU  - Nandhini, K.
+AU  - Edirippulige, S.
+TI  - What Drives Front-End Innovation in Fem-Tech Startups? Insights from a Quantitative Study
+PY  - 2023
+SP  - 240
+EP  - 247
+DO  - 10.1109/ICDH60066.2023.00057
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85172291197&doi=10.1109%2FICDH60066.2023.00057&partnerID=40&md5=7a096955c8a37f5447492cfb5f9f9eb0
+AB  - The fem-tech sector is still nascent and estimated to reach $103 billion by 2030. It is likely to incorporate all themes related to women's health and technology. In this sector, startups are growing amidst competition to stay relevant; nevertheless, their mortality rate is very high. This study identifies the factors that drive front-end innovation in fem-tech startups for their successful product development. We conducted a national-level survey to collect the views of various fem-tech stakeholders for empirical investigation, and the data were validated using Partial Least Square Structural Equation Modeling (PLS-SEM.) The Standardized Root Mean Square Residual (SRMR) was below 0.07, and the Normed Fit Index (NFI) was closer to 0.9, indicating a good model fit. The factors' path model implies a successful fem-tech product development direction. It contributes to the literature on successful health venture creation and offers recommendations to sectoral stakeholders. © 2023 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Maathuis, C.
+AU  - Chockalingam, S.
+TI  - Tackling uncertainty through probabilistic modelling of proportionality in military operations
+PY  - 2023
+T2  - European Conference on Information Warfare and Security, ECCWS
+VL  - 2023-June
+SP  - 276
+EP  - 284
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167622755&partnerID=40&md5=601778f0ab5d170f0084239ac1a4fe54
+AB  - Just as every neuron in a biological neural network is a reinforcement learning agent, thus a component of a large and advanced structure is de facto a model, the two main components forming the principle of proportionality in military operations can be seen and are as a matter of fact two different entities and models. These are collateral damage depicting the unintentional effects affecting civilians and civilian objects, and military advantage symbolizing the intentional effects contributing to achieving the military objectives defined for military operation conducted. These two entities are complex processes relying on available information, projection on time to the moment of target engagement through estimation and are strongly dependent of common-sense reasoning and decision making. As a deduction, these two components and the proportionality decision result are processes surrounded by various sources and types of uncertainty. However, the existing academic and practitioner efforts in understanding the meaning, dimensions, and implications of the proportionality principle are considering military-legal and ethical lenses, and less technical ones. Accordingly, this research calls for a movement from the existing vision of interpreting proportionality in a possibilistic way to a probabilistic way. Henceforth, this research aims to build two probabilistic Machine Learning models based on Bayesian Belief Networks for assessing proportionality in military operations. The first model embeds a binary classification approach assessing if the engagement is proportional or disproportional, and the second model that extends this perspective based on previous research to perform multi-class classification for assessing degrees of proportionality. To accomplish this objective, this research follows the Design Science Research methodology and conducts an extensive literature for building and demonstrating the model proposed. Finally, this research intends to contribute to designing and developing explainable and responsible intelligent solutions that support human-based military targeting decision-making processes involved when building and conducting military operations. © 2023 Curran Associates Inc.. All rights reserved.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Xie, H.
+AU  - Lui, J.C.S.
+TI  - Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating and Convergence
+PY  - 2023
+T2  - IEEE Transactions on Mobile Computing
+VL  - 22
+IS  - 1
+SP  - 459
+EP  - 471
+DO  - 10.1109/TMC.2021.3072477
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104251051&doi=10.1109%2FTMC.2021.3072477&partnerID=40&md5=97128ee975fce16becdcc5345f903f3a
+AB  - Worker reliability estimation is a fundamental problem in crowdsensing applications. This paper proposes a robust feedback rating approach to estimate worker reliability explicitly. In this approach, the requester provides a feedback rating to reflect the quality of the sensor data submitted by each worker. The aggregation of each worker's historical feedback ratings serves as a reliability estimate. The challenges are: (1) Feedback ratings are subjected to noise; (2) Workers' cognitive bias in task selection leads to sensor data quality variations. We develop a mathematical model to quantify rating noise from requesters and the degree of cognitive bias of workers in task selection. We derive sufficient conditions, under which the aggregate rating is asymptotically accurate in estimating worker reliability, via stochastic approximation techniques. These conditions identify a class of asymptotically accurate rating aggregation rules for crowdsensing applications. We further derive the minimum number of ratings needed to guarantee a given reliability estimation accuracy, via martingale theory. Via extensive experiments: (1) We reveal fundamental understandings on how various factors such as rating noise influence the minimum number of ratings needed to achieve certain accuracy; (2) We show that our feedback rating approach improves air quality index estimation accuracy by as high as 50 percent over the a typical baseline algorithm. © 2002-2012 IEEE.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Mahmoodzadeh, A.
+AU  - Reza Nejati, H.R.
+AU  - Mohammadi, M.
+AU  - Hashim Ibrahim, H.
+AU  - Rashidi, S.
+AU  - Rashid, T.
+TI  - Forecasting tunnel boring machine penetration rate using LSTM deep neural network optimized by grey wolf optimization algorithm
+PY  - 2022
+T2  - Expert Systems with Applications
+VL  - 209
+C7  - 118303
+DO  - 10.1016/j.eswa.2022.118303
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85135292935&doi=10.1016%2Fj.eswa.2022.118303&partnerID=40&md5=0f3f3f92423a1336ec953b52ed611dc8
+AB  - Achieving an accurate and reliable estimation of tunnel boring machine (TBM) performance can diminish the hazards related to extreme capital costs and planning tunnel construction. Here, a hybrid long short-term memory (LSTM) model enhanced by grey wolf optimization (GWO) is developed for predicting TBM-penetration rate (TBM-PR). 1125 datasets were considered including six input parameters. To vanish overfitting, the dropout technique was used. The effect of input time series length on the model performance was studied. The TBM-PR results of the LSTM-GWO model were compared to some other machine learning (ML) models such as LSTM. The results were evaluated using root mean square error (RMSE), mean absolute percentage error (MAPE), and correlation coefficient (R2). Finally, the LSTM-GWO model produced the most accurate results (test: R2 = 0.9795; RMSE = 0.004; MAPE = 0.009 %). The mutual information test revealed that input parameters of rock fracture class and uniaxial compressive strength have the most and least impact on the TBM-PR, respectively. © 2022
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 111
+ER  -
+
+TY  - JOUR
+AU  - Futami, K.
+AU  - Yanase, S.
+AU  - Murao, K.
+AU  - Terada, T.
+TI  - Unconscious Other’s Impression Changer: A Method to Manipulate Cognitive Biases That Subtly Change Others’ Impressions Positively/Negatively by Making AI Bias in Emotion Estimation AI
+PY  - 2022
+T2  - Sensors
+VL  - 22
+IS  - 24
+C7  - 9961
+DO  - 10.3390/s22249961
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144570985&doi=10.3390%2Fs22249961&partnerID=40&md5=f59cc9ea20982b0e2f921536da1b8ddb
+AB  - Artificial Intelligence (AI) for human emotion estimation, such as facial emotion estimation, has been actively studied. On the other hand, there has been little research on unconscious phenomena in cognition and psychology (i.e., cognitive biases) caused by viewing AI emotion estimation information. Therefore, this study verifies RQ “Do people have a cognitive bias in which impressions of others (i.e., how to see and feel about others) are changed by viewing biased AI’s emotion estimation information? If it exists, can impression manipulation methods that intentionally use this cognitive bias be realized?” The proposed method for verification makes the emotion estimation system biased so as to estimate emotion more positively/negatively than AI without bias. A prototype system was implemented. Evaluation using video showed that the presentation of biased emotion estimation information causes a phenomenon that quickly and unconsciously changes the way people see and feel others’ impressions, which supported the RQ. Specifically, viewing information that estimated others’ emotions more positively/negatively caused the phenomenon in which the user’s self-judgment was overridden and others’ impressions of emotions, words, and actions were perceived more positively/negatively. The existence of this phenomenon and method indicates that biased emotion estimation AI has the potential to both cause adverse effects on people and support people for good purposes through the manipulation of their impressions. This study provides helpful insights for the design and use of emotion estimation AI considering cognitive biases. © 2022 by the authors.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Koval, M.
+AU  - Jansen, Y.
+TI  - Do You See What You Mean? Using Predictive Visualizations to Reduce Optimism in Duration Estimates
+PY  - 2022
+T2  - Conference on Human Factors in Computing Systems - Proceedings
+C7  - 30
+DO  - 10.1145/3491102.3502010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130529796&doi=10.1145%2F3491102.3502010&partnerID=40&md5=859cec9fb8fe25adf676a1e59090563c
+AB  - Making time estimates, such as how long a given task might take, frequently leads to inaccurate predictions because of an optimistic bias. Previous attempts to alleviate this bias, including decomposing the task into smaller components and listing potential surprises, have not shown any major improvement. This article builds on the premise that these procedures may have failed because they involve compound probabilities and mixture distributions which are difficult to compute in one's head. We hypothesize that predictive visualizations of such distributions would facilitate the estimation of task durations. We conducted a crowdsourced study in which 145 participants provided different estimates of overall and sub-task durations and we used these to generate predictive visualizations of the resulting mixture distributions. We compared participants' initial estimates with their updated ones and found compelling evidence that predictive visualizations encourage less optimistic estimates. © 2022 ACM.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - Molina, E.
+AU  - Viale, L.
+AU  - Vázquez, P.
+TI  - How should we design violin plots?
+PY  - 2022
+SP  - 1
+EP  - 7
+DO  - 10.1109/VisGuides57787.2022.00006
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146337634&doi=10.1109%2FVisGuides57787.2022.00006&partnerID=40&md5=e82a30f0f3462996e57b2353bbdc0ffb
+AB  - One way to illustrate distributions of samples is through the use of violin plots. The original design is a combination of boxplot and density plot mirrored and plot around the boxplot. However, there are other designs in literature. Although they seem a powerful way to illustrate distributions, the fact that they encode distributions makes them difficult to read. Users have problems comparing two different distributions, and certain basic statistics such as the mean can be difficult to estimate properly. To get more insights on how people interprets violin plots, we have carried out an experiment to analyze how the different configurations affect judgments over values encoded in those plots. © 2022 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Gjergjizi, B.
+AU  - Tran, T.N.T.
+AU  - Felfernig, A.
+TI  - The Impacts of Primacy/Recency Effects on Item Review Sentiment Analysis
+PY  - 2022
+T2  - CEUR Workshop Proceedings
+VL  - 3222
+SP  - 33
+EP  - 45
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139973756&partnerID=40&md5=105a09b68d3e1fbe60b4e43bf4e0fd68
+AB  - Primacy/recency effects, also known as serial position effects, are cognitive biases triggered when items are presented in the form of a list. Affected by these effects, users tend to recall items shown in the beginning or the end of the list more often than those in the middle. Although primacy/recency effects have been extensively analyzed within the field of psychology, they are not studied well in the context of sentiment analysis. In the literature, there are still missing studies that provide an in-depth analysis of the influences of these effects on machine learning algorithms for item review sentiment analysis. This paper bridges this gap by estimating the impacts of primacy/recency effects on sentiment analysis classifiers. We propose a primacy/recency effects-aware neural network of Bidirectional Long Short-Term Memory (so-called PriRec-BiLSTM) and compare the performance of this approach with the original neural network (BiLSTM). To sufficiently evaluate the classification accuracy of the proposed approach, we ran our approach in five datasets in different item domains, such as movies, Amazon smartphones, industry and science, and airlines Tweets. The experimental results show that considering primacy/recency effects helps increase sentiment classification accuracy. © 2022 Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0)
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Tsyganok, V.
+AU  - Andriichuk, O.
+AU  - Kadenko, S.
+AU  - Porplenko, Y.
+AU  - Vlasenko, O.
+TI  - An Approach to Reduction of the Number of Pair-Wise Alternative Comparisons During Individual and Group Decision-Making
+PY  - 2022
+T2  - Studies in Computational Intelligence
+VL  - 1022
+SP  - 163
+EP  - 183
+DO  - 10.1007/978-3-030-94910-5_9
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85127654354&doi=10.1007%2F978-3-030-94910-5_9&partnerID=40&md5=839c8c8e624bd882d4dbaea76a723bb7
+AB  - Research on improvement of credibility of expert estimates and reduction of the number of pair-wise comparisons during decision-making support is extremely relevant, due to large time expenditures and high cost of experts’ work. Analysis of results of theoretical research of human psycho-physiological limitations, that influence the credibility of expert estimates, indicates that the order of pair-wise comparisons, performed by experts, does influence the credibility of expert session results. We suggest the respective ways of improving the credibility of expert information during decision-making support. We also suggest a procedure for group expert session organization, which uses Combinatorial method of expert estimate aggregation. Based on information on preliminary ranking of alternatives, the procedure allows us to reduce the number of expert pair-wise comparisons, without compromising the credibility of expert session results. Suggested approaches provide the opportunity to improve existing decision-making support methods, and improve the algorithmic principles of pair-wise comparison-based decision support software development. © 2022, The Author(s), under exclusive license to Springer Nature Switzerland AG.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Gren, L.
+AU  - Berntsson-Svensson, R.
+TI  - Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation
+PY  - 2021
+T2  - Requirements Engineering
+VL  - 26
+IS  - 3
+SP  - 459
+EP  - 480
+DO  - 10.1007/s00766-021-00351-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104452176&doi=10.1007%2Fs00766-021-00351-7&partnerID=40&md5=b20821de7ba8e1b6131911e95b391224
+AB  - Expert judgement is a common method for software effort estimations in practice today. Estimators are often shown extra obsolete requirements together with the real ones to be implemented. Only one previous study has been conducted on if such practices bias the estimations. We conducted six experiments with both students and practitioners to study, and quantify, the effects of obsolete requirements on software estimation. By conducting a family of six experiments using both students and practitioners as research subjects (N= 461), and by using a Bayesian Data Analysis approach, we investigated different aspects of this effect. We also argue for, and show an example of, how we by using a Bayesian approach can be more confident in our results and enable further studies with small sample sizes. We found that the presence of obsolete requirements triggered an overestimation in effort across all experiments. The effect, however, was smaller in a field setting compared to using students as subjects. Still, the over-estimations triggered by the obsolete requirements were systematically around twice the percentage of the included obsolete ones, but with a large 95% credible interval. The results have implications for both research and practice in that the found systematic error should be accounted for in both studies on software estimation and, maybe more importantly, in estimation practices to avoid over-estimations due to this systematic error. We partly explain this error to be stemming from the cognitive bias of anchoring-and-adjustment, i.e. the obsolete requirements anchored a much larger software. However, further studies are needed in order to accurately predict this effect. © 2021, The Author(s).
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Pedersen, M.L.
+AU  - Ironside, M.
+AU  - Amemori, K.-I.
+AU  - McGrath, C.L.
+AU  - Kang, M.S.
+AU  - Graybiel, A.M.
+AU  - Pizzagalli, D.A.
+AU  - Frank, M.J.
+TI  - Computational phenotyping of brain-behavior dynamics underlying approach-avoidance conflict in major depressive disorder
+PY  - 2021
+T2  - PLOS Computational Biology
+VL  - 17
+IS  - 5
+C7  - e1008955
+DO  - 10.1371/journal.pcbi.1008955
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85106291769&doi=10.1371%2Fjournal.pcbi.1008955&partnerID=40&md5=88ca47cbafc89d1a35403efc6daf425a
+AB  - Adaptive behavior requires balancing approach and avoidance based on the rewarding and aversive consequences of actions. Imbalances in this evaluation are thought to characterize mood disorders such as major depressive disorder (MDD). We present a novel application of the drift diffusion model (DDM) suited to quantify how offers of reward and aversiveness, and neural correlates thereof, are dynamically integrated to form decisions, and how such processes are altered in MDD. Hierarchical parameter estimation from the DDM demonstrated that the MDD group differed in three distinct reward-related parameters driving approach-based decision making. First, MDD was associated with reduced reward sensitivity, measured as the impact of offered reward on evidence accumulation. Notably, this effect was replicated in a follow-up study. Second, the MDD group showed lower starting point bias towards approaching offers. Third, this starting point was influenced in opposite directions by Pavlovian effects and by nucleus accumbens activity across the groups: greater accumbens activity was related to approach bias in controls but avoid bias in MDD. Cross-validation revealed that the combination of these computational biomarkers were diagnostic of patient status, with accumbens influences being particularly diagnostic. Finally, within the MDD group, reward sensitivity and nucleus accumbens parameters were differentially related to symptoms of perceived stress and depression. Collectively, these findings establish the promise of computational psychiatry approaches to dissecting approach-avoidance decision dynamics relevant for affective disorders. ©: © 2021 Pedersen et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 41
+ER  -
+
+TY  - CONF
+AU  - Yu, H.
+AU  - Xu, Y.
+AU  - Zhang, J.
+AU  - Zhao, W.
+AU  - Guan, Z.
+AU  - Tao, D.
+TI  - AP-10K: A Benchmark for Animal Pose Estimation in the Wild
+PY  - 2021
+T2  - Advances in Neural Information Processing Systems
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105000375367&partnerID=40&md5=ba787fd559f724c6ad569aa46f5186bc
+AB  - Accurate animal pose estimation is an essential step towards understanding animal behavior, and can potentially benefit many downstream applications, such as wildlife conservation. Previous works of animal pose estimation only focus on specific animals while ignoring the diversity of animal species, limiting their generalization ability. In this paper, we propose AP-10K, the first large-scale benchmark for mammal animal pose estimation, to facilitate research in animal pose estimation. AP-10K consists of 10,015 images collected and filtered from 23 animal families and 54 species following the taxonomic rank and high-quality keypoint annotations labeled and checked manually. Based on AP-10K, we benchmark representative pose estimation models on the following three tracks: (1) supervised learning for animal pose estimation, (2) cross-domain transfer learning from human pose estimation to animal pose estimation, and (3) intra- and inter-family domain generalization for unseen animals. The experimental results provide sound empirical evidence on the superiority of learning from diverse animals species in terms of both accuracy and generalization ability. It opens new directions for facilitating future research in animal pose estimation. © 2021 Neural information processing systems foundation. All rights reserved.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 86
+ER  -
+
+TY  - JOUR
+AU  - Hettiachchi, D.
+AU  - van Berkel, N.
+AU  - Kostakos, V.
+AU  - Goncalves, J.
+TI  - CrowdCog:ACognitive Skill basedSystem for Heterogeneous Task Assignment and Recommendation in Crowdsourcing
+PY  - 2020
+T2  - Proceedings of the ACM on Human-Computer Interaction
+VL  - 4
+IS  - CSCW2
+C7  - 110
+DO  - 10.1145/3415181
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094195257&doi=10.1145%2F3415181&partnerID=40&md5=9b738c68f2205f544fcd598bdc7da0e5
+AB  - While crowd workers typically complete a variety of tasks in crowdsourcing platforms, there is no widely accepted method to successfully match workers to different types of tasks. Researchers have considered using worker demographics, behavioural traces, and prior task completion records to optimise task assignment. However, optimum task assignment remains a challenging research problem due to limitations of proposed approaches, which in turn can have a significant impact on the future of crowdsourcing. We present 'CrowdCog', an online dynamic system that performs both task assignment and task recommendations, by relying on fast-paced online cognitive tests to estimate worker performance across a variety of tasks. Our work extends prior work that highlights the effect of workers' cognitive ability on crowdsourcing task performance. Our study, deployed on Amazon Mechanical Turk, involved 574 workers and 983 HITs that span across four typical crowd tasks (Classification, Counting, Transcription, and Sentiment Analysis). Our results show that both our assignment method and recommendation method result in a significant performance increase (5% to 20%) as compared to a generic or random task assignment. Our findings pave the way for the use of quick cognitive tests to provide robust recommendations and assignments to crowd workers. © 2020 ACM.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 37
+ER  -
+
+TY  - CONF
+AU  - Obo, T.
+AU  - Arai, S.
+AU  - Matsuda, T.
+AU  - Kurihara, Y.
+TI  - Hybrid Approach for Lower Limb Joint Angle Estimation using Genetic Algorithm and Feedforward Neural Network
+PY  - 2020
+T2  - Conference Proceedings - IEEE International Conference on Systems, Man and Cybernetics
+VL  - 2020-October
+C7  - 9283281
+SP  - 3922
+EP  - 3927
+DO  - 10.1109/SMC42975.2020.9283281
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85098854889&doi=10.1109%2FSMC42975.2020.9283281&partnerID=40&md5=16b0aacd8874f6d98c584b187f535293
+AB  - In this study, we aim to develop a measurement system for evaluating walking ability in daily life. Health promotion is one of the most important tasks to improve quality of life and quality of community for elderly people. Disabilities related to loss of independence in performing activities of daily living can lead to their social isolation and loneliness that can induce immobility and depression, producing the vicious cycle. Various methods have been proposed to measure lower limb joint angles and positions by using wearable systems and motion capture systems. However, such systems are too expensive and big for elderly's daily self-monitoring. This paper presents a method of lower limb joint angle estimation using a Kinect sensor. The sensor has a built-in processor to detect joint positions. However, inverse kinematics problem is required to be addressed in order to derive the joint angles. We therefore propose a hybrid approach for lower limb joint angle estimation using genetic algorithm and feed forward neural network. © 2020 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Sewall, C.J.R.
+AU  - Bear, T.M.
+AU  - Merranko, J.
+AU  - Rosen, D.
+TI  - How psychosocial well-being and usage amount predict inaccuracies in retrospective estimates of digital technology use
+PY  - 2020
+T2  - Mobile Media and Communication
+VL  - 8
+IS  - 3
+SP  - 379
+EP  - 399
+DO  - 10.1177/2050157920902830
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083157799&doi=10.1177%2F2050157920902830&partnerID=40&md5=cc00f6ec0bb7424ee31af69ebdd1f78b
+AB  - Using Apple’s Screen Time application to obtain reported actual iPhone and social media (SM) use, we examined the accuracy of retrospective estimates of usage, how inaccuracies bias associations between use and psychosocial well-being (depression, loneliness, and life satisfaction), and the degree to which inaccuracies were predicted by levels of well-being. Among a sample of 325 iPhone users, we found that (a) participants misestimated their weekly overall iPhone and SM use by 19.1 and 12.2 hours, respectively; (b) correlations between estimated use and well-being variables were consistently stronger than the correlations between reported actual use and well-being variables; and (c) the degree of inaccuracy in estimated use was associated with levels of participant well-being and amount of use. These findings suggest that retrospective estimates of digital technology use may be systematically biased by factors that are fundamental to the associations under investigation. We propose that retrospective estimates of digital technology use may be capturing the construct of perceived use rather than actual use, and discuss how the antecedents, correlates, and consequences of perceived use may be distinct from those of actual use. Implications of these findings are discussed in view of the ongoing debate surrounding the effects of digital technology use on well-being. © The Author(s) 2020.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 104
+ER  -
+
+TY  - CONF
+AU  - Truong, H.
+AU  - Bui, N.
+AU  - Raghebi, Z.
+AU  - Čeko, M.
+AU  - Pham, N.
+AU  - Nguyen, P.
+AU  - Nguyen, A.
+AU  - Kim, T.
+AU  - Siegfried, K.
+AU  - Stene, E.
+AU  - Tvrdy, T.
+AU  - Weinman, L.
+AU  - Payne, T.
+AU  - Burke, D.
+AU  - Dinh, T.
+AU  - D’Mello, S.
+AU  - Banaei-Kashani, F.
+AU  - Wager, T.
+AU  - Goldstein, P.
+AU  - Vu, T.
+TI  - Painometry: Wearable and objective quantification system for acute postoperative pain
+PY  - 2020
+SP  - 419
+EP  - 433
+DO  - 10.1145/3386901.3389022
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85088110479&doi=10.1145%2F3386901.3389022&partnerID=40&md5=bb41d614eac0ebeea1ec6524b7da1ddd
+AB  - Over 50 million people undergo surgeries each year in the United States, with over 70% of them filling opioid prescriptions within one week of the surgery. Due to the highly addictive nature of these opiates, a post-surgical window is a crucial time for pain management to ensure accurate prescription of opioids. Drug prescription nowadays relies primarily on self-reported pain levels to determine the frequency and dosage of pain drug. Patient pain self-reports are, however, influenced by subjective pain tolerance, memories of past painful episodes, current context, and the patient's integrity in reporting their pain level. Therefore, objective measures of pain are needed to better inform pain management. This paper explores a wearable system, named Painometry, which objectively quantifies users' pain perception based-on multiple physiological signals and facial expressions of pain. We propose a sensing technique, called sweep impedance profiling (SIP), to capture the movement of the facial muscle corrugator supercilii, one of the important physiological expressions of pain. We deploy SIP together with other biosignals, including electroencephalography (EEG), photoplethysmogram (PPG), and galvanic skin response (GSR) for pain quantification. From the anatomical and physiological correlations of pain with these signals, we designed Painometry, a multimodality sensing system, which can accurately quantify different levels of pain safely. We prototyped Painometry by building a custom hardware, firmware, and associated software. Our evaluations use the prototype on 23 subjects, which corresponds to 8832 data points from 276 minutes of an IRB-approved experimental pain-inducing protocol. Using leave-one-out cross-validation to estimate performance on unseen data shows 89.5% and 76.7% accuracy of quantification under 3 and 4 pain states, respectively. © 2020 ACM.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Wanner, J.
+AU  - Heinrich, K.
+AU  - Janiesch, C.
+AU  - Zschech, P.
+TI  - How much AI do you require? Decision factors for adopting AI technology
+PY  - 2020
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099537611&partnerID=40&md5=0958a73e399d8c123e887e8063c1955c
+AB  - Artificial intelligence (AI) based on machine learning technology disrupts how knowledge is gained. Nevertheless, ML's improved accuracy of prediction comes at the cost of low traceability due to its black-box nature. The field of explainable AI tries to counter this. However, for practical use in IT projects, these two research streams offer only partial advice for AI adoption as the trade-off between accuracy and explainability has not been adequately discussed yet. Thus, we simulate a decision process by implementing three best practice AI-based decision support systems for a high-stake maintenance decision scenario and evaluate the decision and attitude factors using the Analytical Hierarchy Process (AHP) through an expert survey. The combined results indicate that system performance is still the most important factor and that implementation effort and explainability are relatively even factors. Further, we found that systems using similarity-based matching or direct modeling for remaining useful life estimation performed best. © ICIS 2020. All rights reserved.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 23
+ER  -
+
+TY  - JOUR
+AU  - Dev, H.
+AU  - Karahalios, K.
+AU  - Sundaram, H.
+TI  - Quantifying voter biases in online platforms: An instrumental variable approach
+PY  - 2019
+T2  - Proceedings of the ACM on Human-Computer Interaction
+VL  - 3
+IS  - CSCW
+C7  - 120
+DO  - 10.1145/3359222
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075052044&doi=10.1145%2F3359222&partnerID=40&md5=4734b83320f00bdc1edd2db805ff0125
+AB  - In content-based online platforms, use of aggregate user feedback (say, the sum of votes) is commonplace as the “gold standard” for measuring content quality. Use of vote aggregates, however, is at odds with the existing empirical literature, which suggests that voters are susceptible to different biases—reputation (e.g., of the poster), social influence (e.g., votes thus far), and position (e.g., answer position). Our goal is to quantify, in an observational setting, the degree of these biases in online platforms. Specifically, what are the causal effects of different impression signals—such as the reputation of the contributing user, aggregate vote thus far, and position of content—on a participant’s vote on content? We adopt an instrumental variable (IV) framework to answer this question. We identify a set of candidate instruments, carefully analyze their validity, and then use the valid instruments to reveal the effects of the impression signals on votes. Our empirical study using log data from Stack Exchange websites shows that the bias estimates from our IV approach differ from the bias estimates from the ordinary least squares (OLS) method. In particular, OLS underestimates reputation bias (1.6–2.2x for gold badges) and position bias (up to 1.9x for the initial position) and overestimates social influence bias (1.8–2.3x for initial votes). The implications of our work include: redesigning user interface to avoid voter biases; making changes to platforms’ policy to mitigate voter biases; detecting other forms of biases in online platforms. © 2019 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+M3  - Editorial
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 7
+ER  -
+
+TY  - JOUR
+AU  - Schouwstra, M.
+AU  - de Swart, H.
+AU  - Thompson, B.
+TI  - Interpreting Silent Gesture: Cognitive Biases and Rational Inference in Emerging Language Systems
+PY  - 2019
+T2  - Cognitive Science
+VL  - 43
+IS  - 7
+C7  - e12732
+DO  - 10.1111/cogs.12732
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85069043422&doi=10.1111%2Fcogs.12732&partnerID=40&md5=ad7bab49763020f17ab1a19aa3814b37
+AB  - Natural languages make prolific use of conventional constituent-ordering patterns to indicate “who did what to whom,” yet the mechanisms through which these regularities arise are not well understood. A series of recent experiments demonstrates that, when prompted to express meanings through silent gesture, people bypass native language conventions, revealing apparent biases underpinning word order usage, based on the semantic properties of the information to be conveyed. We extend the scope of these studies by focusing, experimentally and computationally, on the interpretation of silent gesture. We show cross-linguistic experimental evidence that people use variability in constituent order as a cue to obtain different interpretations. To illuminate the computational principles that govern interpretation of non-conventional communication, we derive a Bayesian model of interpretation via biased inductive inference and estimate these biases from the experimental data. Our analyses suggest people's interpretations balance the ambiguity that is characteristic of emerging language systems, with ordering preferences that are skewed and asymmetric, but defeasible. © 2019 Cognitive Science Society, Inc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 11
+ER  -
+
+TY  - JOUR
+AU  - Stilgenbauer, J.-L.
+AU  - Baratgin, J.
+TI  - Assessing the accuracy of diagnostic probability estimation: Evidence for defeasible modus ponens
+PY  - 2019
+T2  - International Journal of Approximate Reasoning
+VL  - 105
+SP  - 229
+EP  - 240
+DO  - 10.1016/j.ijar.2018.11.015
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85057775405&doi=10.1016%2Fj.ijar.2018.11.015&partnerID=40&md5=28f08bc1f3effcbb21e8a1adf1b42a21
+AB  - Diagnostic reasoning aims to determine the cause of some given effect. Previous researches in categorical judgment concluded that the widely used Modus Ponens schema of inference leads to better diagnostic decisions than the Affirming the Consequent schema of inference. In this paper, Defeasible Modus Ponens (DMP) and Defeasible Affirming the Consequent (DAC), are considered as the two basic inference schemas to estimate the diagnostic probability. We compare DMP and DAC in a probabilistic setting. We are particularly interested in whether, in this setting too, there are grounds for preferring DMP. The results from our experiment show that DMP is more widely used and tends to lead to significantly more accurate probability estimates than DAC. © 2018 Elsevier Inc.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Ahsen, M.E.
+AU  - Ayvaci, M.U.S.
+AU  - Raghunathan, S.
+TI  - When algorithmic predictions use human-generated data: A bias-aware classification algorithm for breast cancer diagnosis
+PY  - 2019
+T2  - Information Systems Research
+VL  - 30
+IS  - 1
+SP  - 97
+EP  - 116
+DO  - 10.1287/isre.2018.0789
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065427066&doi=10.1287%2Fisre.2018.0789&partnerID=40&md5=54fc85a39ff6986a2739e0211737f1e8
+AB  - When algorithms use data generated by human beings, they inherit the errors stemming from human biases, which likely diminishes their performance. We examine the design and value of a bias-aware linear classification algorithm that accounts for bias in input data, using breast cancer diagnosis as our specific setting. In this context, a referring physician makes a follow-up recommendation to a patient based on two inputs: the patient's clinical-risk information and the radiologist's mammogram assessment. Critically, the radiologist's assessment could be biased by the clinical-risk information, which in turn can negatively affect the referring physician's performance. Thus, a bias-aware algorithm has the potential to be of significant value if integrated into a clinical decision support system used by the referring physician. We develop and show that a bias-aware algorithm can eliminate the adverse impact of bias if the error in the mammogram assessment due to radiologist's bias has no variance. On the other hand, in the presence of error variance, the adverse impact of bias can be mitigated, but not eliminated, by the bias-aware algorithm. The bias-aware algorithm assigns less (more) weight to the clinicalrisk information (radiologist's mammogram assessment) when the mean error increases (decreases), but the reverse happens when the error variance increases. Using point estimates obtained from mammography practice and the medical literature, we show that the bias-aware algorithm can significantly improve the expected patient life years or the accuracy of decisions based on mammography. © 2019, INFORMS.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 60
+ER  -
+
+TY  - CONF
+AU  - Shepperd, M.
+AU  - Mair, C.
+AU  - Jørgensen, M.
+TI  - An experimental evaluation of a de-biasing intervention for professional software developers
+PY  - 2018
+T2  - Proceedings of the ACM Symposium on Applied Computing
+SP  - 1510
+EP  - 1517
+DO  - 10.1145/3167132.3167293
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050545193&doi=10.1145%2F3167132.3167293&partnerID=40&md5=61bf62e712c505c14d430e6885d99d55
+AB  - Context: The role of expert judgement is essential in our quest to improve software project planning and execution. However, its accuracy is dependent on many factors, not least the avoidance of judgement biases, such as the anchoring bias, arising from being influenced by initial information, even when it's misleading or irrelevant. This strong effect is widely documented. Objective: We aimed to replicate this anchoring bias using professionals and, novel in a software engineering context, explore de-biasing interventions through increasing knowledge and awareness of judgement biases. Method: We ran two series of experiments in company settings with a total of 410 software developers. Some developers took part in a workshop to heighten their awareness of a range of cognitive biases, including anchoring. Later, the anchoring bias was induced by presenting low or high productivity values, followed by the participants' estimates of their own project productivity. Our hypothesis was that the workshop would lead to reduced bias, i.e., work as a de-biasing intervention. Results: The anchors had a large effect (robust Cohen's d = 1.19) in influencing estimates. This was substantially reduced in those participants who attended the workshop (robust Cohen's d = 0.72). The reduced bias related mainly to the high anchor. The de-biasing intervention also led to a threefold reduction in estimate variance. Conclusion: The impact of anchors upon judgement was substantial. Learning about judgement biases does appear capable of mitigating, although not removing, the anchoring bias. The positive effect of de-biasing through learning about biases suggests that it has value. © 2018 ACM.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 19
+ER  -
+
+TY  - BOOK
+AU  - Roman, A.
+TI  - Thinking-driven testing: The most reasonable approach to quality control
+PY  - 2018
+SP  - 1
+EP  - 305
+DO  - 10.1007/978-3-319-73195-7
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85046022509&doi=10.1007%2F978-3-319-73195-7&partnerID=40&md5=9a3c836bfeec494772aab685a1928398
+AB  - This book presents a new paradigm of software testing by emphasizing the role of critical thinking, system thinking and rationality as the most important skills for the tester. It thus approaches software testing from a different perspective than in past literature, as the vast majority of books describe testing in the context of specific tools, automation, documentation, particular test design techniques or test management. In addition, the book proposes a novel meta-approach for designing effective test strategies, which is based on recent advances in psychology, economics, system sciences and logic. Chapter 1 starts by introducing the fundamental ideas underlying software testing. Chapter 2 then describes meta-strategies in software testing, i.e. general approaches that can be adapted to many different situations that a software tester encounters. Next, Chapter 3 presents the concept of Thinking-Driven Testing (TDT). This approach utilizes the concepts discussed in the two previous chapters and introduces the main ideas that underlie a reasonable and optimal approach to software testing. Chapter 4 builds on this basis and proposes a specific approach to testing, called TQED, that makes it possible to increase creativity in the context of delivering effective, optimal test ideas. Chapter 5 provides an overview of different types of testing techniques in order to understand the fundamental concepts of test design, while Chapter 6 details various pitfalls a tester may encounter and that can originate from a wide range of testing process areas. Lastly, Chapter 7 puts all this into practice, as it contains several exercises that will help testers develop a number of crucial skills: logical thinking and reasoning, thinking out of the box, creativity, counting and estimating, and analytical thinking. By promoting critical, rational and creative thinking, this book invites readers to re-examine common assumptions regarding software testing and shows them how to become professional testers who bring added value to their company. © Springer International Publishing AG 2018. All rights are reserved.
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Shmueli, O.
+AU  - Pliskin, N.
+AU  - Fink, L.
+TI  - Can the outside-view approach improve planning decisions in software development projects?
+PY  - 2016
+T2  - Information Systems Journal
+VL  - 26
+IS  - 4
+SP  - 395
+EP  - 418
+DO  - 10.1111/isj.12091
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945971918&doi=10.1111%2Fisj.12091&partnerID=40&md5=289aca5fc9280add2b608a5af71869a7
+AB  - This study empirically tackles the question of whether taking an outside-view approach, recommended for reducing the irrational behaviours associated with the planning fallacy, can also reduce the time underestimation, scope overload and over-requirement problems plaguing planning decisions in software development. Drawing on descriptive behavioural decision theory, this study examines whether the planning fallacy, a cognitive bias referring to the tendency of people to underestimate costs and overestimate benefits in evaluating a task to be performed, can provide a theoretical platform for mitigating irrational behaviours in the planning of software development projects. In particular, we argue that taking an outside-view approach in planning decisions for software development may have the same mitigating effects on time underestimation, scope overload and over-requirement it has been shown to have on cost underestimation and benefit overestimation. In an experiment investigating this argument, participants were randomly assigned to four groups by manipulating two outside-view mechanisms: reference information about past completion times (present/absent) and role perspective (developer/consultant). After being presented with a to-be-developed software project, they were requested to estimate development times of various software features and to recommend which features to include within project scope given a fixed duration for the entire project. The results confirm that the three problems of time underestimation, scope overload and over-requirement are manifested in planning decisions for fixed-schedule software development projects. Moreover, the results show that these problems are mitigated, yet not eliminated, by presenting reference information about past completion times and by having a consultant role. © 2015 Wiley Publishing Ltd
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 32
+ER  -
+
+TY  - CONF
+AU  - Yan, G.
+AU  - Kucuk, Y.
+AU  - Slocum, M.
+AU  - Last, D.C.
+TI  - A Bayesian cogntive approach to quantifying software exploitability based on reachability testing
+PY  - 2016
+T2  - Lecture Notes in Computer Science
+VL  - 9866 LNCS
+SP  - 343
+EP  - 365
+DO  - 10.1007/978-3-319-45871-7_21
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84988418427&doi=10.1007%2F978-3-319-45871-7_21&partnerID=40&md5=fd88113abe0ed92be58fccce1dbe837d
+AB  - Computer hackers or their malware surrogates constantly look for software vulnerabilities in the cyberspace to perform various online crimes, such as identity theft, cyber espionage, and denial of service attacks. It is thus crucial to assess accurately the likelihood that a software can be exploited before it is put into practical use. In this work, we propose a cognitive framework that uses Bayesian reasoning as its first principle to quantify software exploitability. Using the Bayes’ rule, our framework combines in an organic manner the evaluator’s prior beliefs with her empirical observations from software tests that check if the security-critical components of a software are reachable from its attack surface. We rigorously analyze this framework as a system of nonlinear equations, and henceforth perform extensive numerical simulations to gain insights into issues such as convergence of parameter estimation and the effects of the evaluator’s cognitive characteristics. © Springer International Publishing Switzerland 2016.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - White, R.W.
+AU  - Horvitz, E.
+TI  - Belief dynamics and biases in web search
+PY  - 2015
+T2  - ACM Transactions on Information Systems
+VL  - 33
+IS  - 4
+C7  - 18
+DO  - 10.1145/2746229
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84929171867&doi=10.1145%2F2746229&partnerID=40&md5=41df4ddfeae505e8c428e9b940428356
+AB  - We investigate how beliefs about the efficacy of medical interventions are influenced by searchers' exposure to information on retrieved Web pages. We present a methodology for measuring participants' beliefs and confidence about the efficacy of treatment before, during, and after search episodes. We consider interventions studied in the Cochrane collection of meta-analyses. We extract related queries from search engine logs and consider the Cochrane assessments as ground truth. We analyze the dynamics of belief over time and show the influence of prior beliefs and confidence at the end of sessions. We present evidence for confirmation bias and for anchoring-and-adjustment during search and retrieval. Then, we build predictive models to estimate postsearch beliefs using sets of features about behavior and content. The findings provide insights about the influence of Web content on the beliefs of people and have implications for the design of search systems. © 2015 ACM.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 37
+ER  -
+
+TY  - CONF
+AU  - Grossklags, J.
+AU  - Reitter, D.
+TI  - How task familiarity and cognitive predispositions impact behavior in a security game of timing
+PY  - 2014
+T2  - Proceedings. The Computer Security Foundations Workshop III
+VL  - 2014-January
+C7  - 6957106
+SP  - 111
+EP  - 122
+DO  - 10.1109/CSF.2014.16
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84939646313&doi=10.1109%2FCSF.2014.16&partnerID=40&md5=c4c4c3305b77d7b07449a7dc7f21d958
+AB  - This paper addresses security and safety choices that involve a decision on the timing of an action. Examples of such decisions include when to check log files for intruders and when to monitor financial accounts for fraud or errors. To better understand how performance in timing-related security situations is shaped by individuals' cognitive predispositions, we effectively combine survey measures with economic experiments. Two behavioral experiments are presented in which the timing of online security actions is the critical decision-making factor. The feedback modality in the decision-environment is varied between visual feedback with history (Experiment 1), and temporal feedback without history (Experiment 2). Using psychometric scales, we study the role of individual difference variables, specifically risk propensity and need for cognition. The analysis is based on the data from over 450 participants. We find that risk propensity is not a hindrance in timing tasks. Participants of average risk propensity generally benefit from a reflective disposition (high need for cognition), particularly when visual feedback is given. Overall, participants benefit from need for cognition, however, in the more difficult, temporal-estimation task, this requires familiarity with the task. © 2014 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 17
+ER  -
+
+TY  - JOUR
+AU  - Çalıklı, G.
+AU  - Basar, A.B.
+TI  - Influence of confirmation biases of developers on software quality: An empirical study
+PY  - 2013
+T2  - Software Quality Journal
+VL  - 21
+IS  - 2
+SP  - 377
+EP  - 416
+DO  - 10.1007/s11219-012-9180-0
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84875477125&doi=10.1007%2Fs11219-012-9180-0&partnerID=40&md5=bcfb9e0f063708e69b9c688aa7c4c823
+AB  - The thought processes of people have a significant impact on software quality, as software is designed, developed and tested by people. Cognitive biases, which are defined as patterned deviations of human thought from the laws of logic and mathematics, are a likely cause of software defects. However, there is little empirical evidence to date to substantiate this assertion. In this research, we focus on a specific cognitive bias, confirmation bias, which is defined as the tendency of people to seek evidence that verifies a hypothesis rather than seeking evidence to falsify a hypothesis. Due to this confirmation bias, developers tend to perform unit tests to make their program work rather than to break their code. Therefore, confirmation bias is believed to be one of the factors that lead to an increased software defect density. In this research, we present a metric scheme that explores the impact of developers' confirmation bias on software defect density. In order to estimate the effectiveness of our metric scheme in the quantification of confirmation bias within the context of software development, we performed an empirical study that addressed the prediction of the defective parts of software. In our empirical study, we used confirmation bias metrics on five datasets obtained from two companies. Our results provide empirical evidence that human thought processes and cognitive aspects deserve further investigation to improve decision making in software development for effective process management and resource allocation. © 2012 Springer Science+Business Media, LLC.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Scholten, L.
+AU  - Scheidegger, A.
+AU  - Reichert, P.
+AU  - Maurer, M.
+TI  - Combining expert knowledge and local data for improved service life modeling of water supply networks
+PY  - 2013
+T2  - Environmental Modelling and Software
+VL  - 42
+SP  - 1
+EP  - 16
+DO  - 10.1016/j.envsoft.2012.11.013
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84874515592&doi=10.1016%2Fj.envsoft.2012.11.013&partnerID=40&md5=ac364eea62e77492edf62808505f5f37
+AB  - The presented approach aims to overcome the scarce data problem in service life modeling of water networks by combining subjective expert knowledge and local replacement data. A procedure to elicit imprecise quantile estimates of survival functions from experts, considering common cognitive biases, was developed and applied. The individual expert priors of the parameters of the service life distribution are obtained by regression over the stated distribution quantiles and aggregated into a single prior distribution. Furthermore, a likelihood function for the commonly encountered censored and truncated pipe replacement data is formulated. The suitability of the suggested Bayesian approach based on elicitation data from eight experts and real network data is demonstrated. Robust parameter estimates could be derived in data situations where frequentist maximum likelihood estimation is unsatisfactory, and to show how the consideration of imprecision and in-between-variance of experts improves posterior inference. © 2012 Elsevier Ltd.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 42
+ER  -
+
+TY  - CONF
+AU  - Çalıklı, G.
+AU  - Basar, A.B.
+TI  - The impact of confirmation bias on the releasebased defect prediction of developer groups
+PY  - 2013
+T2  - Proceedings of the International Conference on Software Engineering and Knowledge Engineering, SEKE
+VL  - 2013-January
+IS  - January
+SP  - 461
+EP  - 466
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84937706159&partnerID=40&md5=155cfd16f2d8bb81e0d0ae24cdc4f09a
+AB  - During software development life cycle (SDLC), source codes are created and updated by groups of one or more developers. Information about the defect rates introduced by developer groups for the current release of a software product might guide project managers to form developer groups in order to manage defect rates for the next releases. In this research, we use partial least squares regression (PLSR) and principal component regression (PCR) to model the relation between defect rates and a specific cognitive aspect of developers, namely confirmation bias. In order to empirically estimate the performance of our model, we use datasets from three industrial software projects. © © 2013 by Knowledge Systems Institute Graduate School.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Conroy, P.
+AU  - Kruchten, P.
+TI  - Performance norms: An approach to rework reduction in software development
+PY  - 2012
+C7  - 6335063
+DO  - 10.1109/CCECE.2012.6335063
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870407409&doi=10.1109%2FCCECE.2012.6335063&partnerID=40&md5=85f995e8d445e8da1ca76603e29d29e9
+AB  - Rework consumes large portions of software engineering budgets. Human factors, and Cognitive Bias in particular, have been shown in other disciplines to be implicated in the kinds of reasoning errors that lead to rework. Research of these phenomena in software engineering lags similar efforts in other disciplines. This study identifies the Performance Norms, standards by which Cognitive Biases are determined to have occurred, in a single but critically important software engineering task: Estimating. Analysis of data from professional practitioners regarding real-life situations indicates that several Performance Norms for Estimating are often 'in play', the least important being that assumed in previous, lab-based experiments. Most of these Norms require skills very different from those in which most technical personnel are trained. We conclude that rework reduction efforts will continue to falter until Performance Norms are recognized as key determinants in software engineering practice. © 2012 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Magazinius, A.
+AU  - Börjesson, S.
+AU  - Feldt, R.
+TI  - Investigating intentional distortions in software cost estimation - An exploratory study
+PY  - 2012
+T2  - Journal of Systems and Software
+VL  - 85
+IS  - 8
+SP  - 1770
+EP  - 1781
+DO  - 10.1016/j.jss.2012.03.026
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84861341260&doi=10.1016%2Fj.jss.2012.03.026&partnerID=40&md5=702e2a7a144a4b539145ef372fbdec87
+AB  - Cost estimation of software projects is an important activity that continues to be a source of problems for practitioners despite improvement efforts. Most of the research on estimation has focused on methodological issues while the research focused on human factors primarily has targeted cognitive biases or perceived inhibitors. This paper focuses on the complex organizational context of estimation and investigates whether estimates may be distorted, i.e. intentionally changed for reasons beyond legitimate changes due to changing prerequisites such as requirements or scope. An exploratory study was conducted with 15 interviewees at six large companies that develop software-intensive products. The interviewees represent five stakeholder roles in estimation, with a majority being project or line managers. Document analysis was used to complement the interviews and provided additional context. The results show that both estimate increase and estimate decrease exist and that some of these changes can be explained as intentional distortions. The direction of the distortion depends on the context and the stakeholders involved. The paper underlines that it is critical to consider also human and organizational factors when addressing estimation problems and that intentional estimate distortions should be given more and direct attention. © 2012 Elsevier Inc. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 28
+ER  -
+
+TY  - JOUR
+AU  - Richard, P.J.
+AU  - Coltman, T.R.
+AU  - Keating, B.W.
+TI  - Designing IS service strategy: An information acceleration approach
+PY  - 2012
+T2  - European Journal of Information Systems
+VL  - 21
+IS  - 1
+SP  - 87
+EP  - 98
+DO  - 10.1057/ejis.2010.62
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84856994585&doi=10.1057%2Fejis.2010.62&partnerID=40&md5=f1f4fbbb5717cb711f6cf192272c5da9
+AB  - Information technology-based innovation involves considerable risk requiring foresight; yet our understanding of the way in which managers develop the insight to support new breakthrough applications is limited and remains obscured by high levels of technical and market uncertainty. This paper applies discrete choice analysis to support improved empirical explanation of how and why decisions are made in information systems (IS). A new experimental method based on information acceleration (IA) is also applied to improve prediction of future IS service strategies. Both explanation and prediction are important to IS research and these two behaviourally sound methods complement each other. Specifically, the combination of IA and discrete choice analysis removes misspecification artefacts from response variability and generates more accurate parameter estimates that better explain IS decision making. © 2012 Operational Research Society Ltd. All rights reserved.
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Ralph, P.
+TI  - Toward a theory of debiasing software development
+PY  - 2011
+T2  - Lecture Notes in Business Information Processing
+VL  - 93 LNBIP
+SP  - 92
+EP  - 105
+DO  - 10.1007/978-3-642-25676-9_8
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-82955184640&doi=10.1007%2F978-3-642-25676-9_8&partnerID=40&md5=5894905472e923cb9507a513d6c455bd
+AB  - Despite increasingly sophisticated programming languages, software developer training, testing tools, integrated development environments and project management techniques, software project failure, abandonment and overrun rates remain high. One way to address this is to focus on common systematic errors made by software project participants. In many cases, such errors are manifestations of cognitive biases. Consequently this paper proposes a theory of the role of cognitive biases in software development project success. The proposed theory posits that such errors are mutual properties of people and tasks; they may therefore be avoided by modifying the person-task system using specific sociotechnical interventions. The theory is illustrated using the case of planning poker, a task estimation technique designed to overcome anchoring bias. © 2011 Springer-Verlag Berlin Heidelberg.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 28
+ER  -
+
+TY  - CONF
+AU  - Lessmann, S.
+AU  - Listiani, M.
+AU  - Voß, S.
+TI  - Decision support in car leasing: A forecasting model for residual value estimation
+PY  - 2010
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870971347&partnerID=40&md5=81871e1f701e5f7b86db20891fc9d2f5
+AB  - The paper proposes a methodology to support pricing decisions in the car leasing industry. In particular, the price is given by the monthly fee to be paid by the lessee as compensation for using a car over some contract horizon. After contract expiration, lessors are obliged to take back the vehicle, which will then be sold in the used car market. Therefore, lessors require an accurate estimate of cars' residual values to manage the risk inherent to their business and determine profitable prices. We explore the organizational and technical requirements associated with this forecasting task and develop a prediction model that complies with identified application constraints. The model is rigorously tested within an empirical study and compared to established benchmarks. The results obtained in several experiments provide strong evidence for the proposed model being effective in generating accurate predictions of cars' residual values and efficient in requiring little user intervention.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 19
+ER  -
+
+TY  - CONF
+AU  - Watkins, A.
+AU  - Berndt, D.
+AU  - Aebischer, K.
+AU  - Fisher, J.
+AU  - Johnson, L.
+TI  - Breeding software test cases for complex systems
+PY  - 2004
+T2  - Proceedings of the Hawaii International Conference on System Science
+VL  - 37
+C7  - STTCT05
+SP  - 4847
+EP  - 4856
+DO  - 10.1109/hicss.2004.1265712
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-12344306014&doi=10.1109%2Fhicss.2004.1265712&partnerID=40&md5=98be642b2bd2890be20874dc82f97e2e
+AB  - The potential cost savings from handling software errors within a development cycle, rather than subsequent cycles, has been estimated at 38.3 billion dollars. Such figures emphasize that current testing methods are inadequate, and that helping reduce software bugs and errors is an important area of research with a substantial payoff. This paper reports on research using genetic algorithms for test case generation for systems level testing, building on past work at the unit testing level. The goals of the paper are to explore the use of genetic algorithms for testing complex distributed systems, as well as to develop a framework or vocabulary of important environmental attributes that characterize complex systems failures. In addition, preliminary visualization techniques that might help software developers to understand and uncover complex systems failures are explored.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 19
+ER  -
+
+TY  - CONF
+AU  - Paynter, J.
+TI  - Software engineering project management, estimation and metrics: Discussion summary and recommendations
+PY  - 1996
+C7  - 534043
+SP  - 500
+EP  - 503
+DO  - 10.1109/SEEP.1996.534043
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061151276&doi=10.1109%2FSEEP.1996.534043&partnerID=40&md5=589b80c93af3b4b743f4551b898aab93
+AB  - The topics of software engineering project management, estimation and metrics are discussed. The following questions are used to guide the discussion. How should student projects be managed-by staff or the students themselves? Can project management tools be used effectively for student projects? Should metrics be taught as a separate course component? To what degree can we rely on metric data derived from student projects? Much of the discussion focuses on the nature and organisation of the student projects themselves. © 1996 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 19 January 2026; Cited By: 0
+ER  -
+

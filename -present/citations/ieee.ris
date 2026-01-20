@@ -1,0 +1,662 @@
+TY  - CONF
+TI  - Software engineering project management, estimation and metrics: discussion summary and recommendations
+T2  - Proceedings 1996 International Conference Software Engineering: Education and Practice
+SP  - 500
+EP  - 503
+AU  - J. Paynter
+PY  - 1996
+KW  - Software engineering
+KW  - Project management
+KW  - Capability maturity model
+KW  - Quality management
+KW  - Abstracts
+KW  - Conference proceedings
+KW  - Vehicles
+KW  - Risk management
+DO  - 10.1109/SEEP.1996.534043
+JO  - Proceedings 1996 International Conference Software Engineering: Education and Practice
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings 1996 International Conference Software Engineering: Education and Practice
+Y1  - 24-27 Jan. 1996
+AB  - The topics of software engineering project management, estimation and metrics are discussed. The following questions are used to guide the discussion. How should student projects be managed-by staff or the students themselves? Can project management tools be used effectively for student projects? Should metrics be taught as a separate course component? To what degree can we rely on metric data derived from student projects? Much of the discussion focuses on the nature and organisation of the student projects themselves.
+ER  - 
+
+TY  - CONF
+TI  - Performance norms: An approach to rework reduction in software development
+T2  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+SP  - 1
+EP  - 6
+AU  - P. Conroy
+AU  - P. Kruchten
+PY  - 2012
+KW  - Software engineering
+KW  - Cognition
+KW  - Standards
+KW  - Humans
+KW  - Psychology
+KW  - Interviews
+KW  - Software
+KW  - rework
+KW  - human factors
+KW  - cognitive bias
+KW  - performance norms
+KW  - grounded theory
+DO  - 10.1109/CCECE.2012.6335063
+JO  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+IS  - 
+SN  - 0840-7789
+VO  - 
+VL  - 
+JA  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+Y1  - 29 April-2 May 2012
+AB  - Rework consumes large portions of software engineering budgets. Human factors, and Cognitive Bias in particular, have been shown in other disciplines to be implicated in the kinds of reasoning errors that lead to rework. Research of these phenomena in software engineering lags similar efforts in other disciplines. This study identifies the Performance Norms, standards by which Cognitive Biases are determined to have occurred, in a single but critically important software engineering task: Estimating. Analysis of data from professional practitioners regarding real-life situations indicates that several Performance Norms for Estimating are often ‘in play’, the least important being that assumed in previous, lab-based experiments. Most of these Norms require skills very different from those in which most technical personnel are trained. We conclude that rework reduction efforts will continue to falter until Performance Norms are recognized as key determinants in software engineering practice.
+ER  - 
+
+TY  - JOUR
+TI  - Relations Between Effort Estimates, Skill Indicators, and Measured Programming Skill
+T2  - IEEE Transactions on Software Engineering
+SP  - 2892
+EP  - 2906
+AU  - M. Jørgensen
+AU  - G. R. Bergersen
+AU  - K. Liestøl
+PY  - 2021
+KW  - Software engineering
+KW  - Psychology
+KW  - Programming profession
+KW  - Estimation
+KW  - Java
+KW  - D.2.9.b cost estimation
+KW  - D.2.1.d management
+KW  - D.2.0 software engineering
+KW  - D.2.0b software psychology
+DO  - 10.1109/TSE.2020.2973638
+JO  - IEEE Transactions on Software Engineering
+IS  - 12
+SN  - 1939-3520
+VO  - 47
+VL  - 47
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 Dec. 2021
+AB  - There are large skill differences among software developers, and clients and managers will benefit from being able to identify those with better skill. This study examines the relations between low effort estimates, and other commonly used skill indicators, and measured programming skill. One hundred and four professional software developers were recruited. After skill-related information was collected, they were asked to estimate the effort for four larger and five smaller programming tasks. Finally, they completed a programming skill test. The lowest and most over-optimistic effort estimates for the larger tasks were given by those with the lowest programming skill, which is in accordance with the well-known Dunning-Kruger effect. For the smaller tasks, however, those with the lowest programming skill had the highest and most over-pessimistic estimates. The other programming skill indicators, such as length of experience, company assessed skill and self-assessed skill, were only moderately correlated with measured skill and not particularly useful in guiding developer skill identification. A practical implication is that for larger and more complex tasks, the use of low effort estimates and commonly used skill indicators as selection criteria leads to a substantial risk of selecting among the least skilled developers.
+ER  - 
+
+TY  - CONF
+TI  - Breeding software test cases for complex systems
+T2  - 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the
+SP  - 10 pp.
+EP  - 
+AU  - A. Watkins
+AU  - D. Berndt
+AU  - K. Aebischer
+AU  - J. Fisher
+AU  - L. Johnson
+PY  - 2004
+KW  - Software testing
+KW  - System testing
+KW  - Computer aided software engineering
+KW  - Costs
+KW  - Automatic testing
+KW  - Computer bugs
+KW  - Genetic algorithms
+KW  - Humans
+KW  - Productivity
+KW  - Vocabulary
+DO  - 10.1109/HICSS.2004.1265712
+JO  - 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 37th Annual Hawaii International Conference on System Sciences, 2004. Proceedings of the
+Y1  - 5-8 Jan. 2004
+AB  - The potential cost savings from handling software errors within a development cycle, rather than subsequent cycles, has been estimated at 38.3 billion dollars. Such figures emphasize that current testing methods are inadequate, and that helping reduce software bugs and errors is an important area of research with a substantial payoff. This paper reports on research using genetic algorithms for test case generation for systems level testing, building on past work at the unit testing level. The goals of the paper are to explore the use of genetic algorithms for testing complex distributed systems, as well as to develop a framework or vocabulary of important environmental attributes that characterize complex systems failures. In addition, preliminary visualization techniques that might help software developers to understand and uncover complex systems failures are explored.
+ER  - 
+
+TY  - JOUR
+TI  - Software Development Estimation Biases: The Role of Interdependence
+T2  - IEEE Transactions on Software Engineering
+SP  - 677
+EP  - 693
+AU  - M. Jorgensen
+AU  - S. Grimstad
+PY  - 2012
+KW  - Estimation
+KW  - Software
+KW  - Companies
+KW  - Context
+KW  - Programming
+KW  - Outsourcing
+KW  - Instruments
+KW  - Effort estimation
+KW  - estimation bias
+KW  - cultural differences
+KW  - software engineering.
+DO  - 10.1109/TSE.2011.40
+JO  - IEEE Transactions on Software Engineering
+IS  - 3
+SN  - 1939-3520
+VO  - 38
+VL  - 38
+JA  - IEEE Transactions on Software Engineering
+Y1  - May-June 2012
+AB  - Software development effort estimates are frequently too low, which may lead to poor project plans and project failures. One reason for this bias seems to be that the effort estimates produced by software developers are affected by information that has no relevance for the actual use of effort. We attempted to acquire a better understanding of the underlying mechanisms and the robustness of this type of estimation bias. For this purpose, we hired 374 software developers working in outsourcing companies to participate in a set of three experiments. The experiments examined the connection between estimation bias and developer dimensions: self-construal (how one sees oneself), thinking style, nationality, experience, skill, education, sex, and organizational role. We found that estimation bias was present along most of the studied dimensions. The most interesting finding may be that the estimation bias increased significantly with higher levels of interdependence, i.e., with stronger emphasis on connectedness, social context, and relationships. We propose that this connection may be enabled by an activation of one's self-construal when engaging in effort estimation, and a connection between a more interdependent self-construal and increased search for indirect messages, lower ability to ignore irrelevant context, and a stronger emphasis on socially desirable responses.
+ER  - 
+
+TY  - CONF
+TI  - Reliability and Accuracy of the Estimation Process - Wideband Delphi vs. Wisdom of Crowds
+T2  - 2011 IEEE 35th Annual Computer Software and Applications Conference
+SP  - 350
+EP  - 359
+AU  - M. G. Stochel
+PY  - 2011
+KW  - Estimation
+KW  - Wideband
+KW  - Software
+KW  - Accuracy
+KW  - Reliability
+KW  - Psychology
+KW  - Humans
+KW  - Wisdom of Crowds
+KW  - Wideband Delphi
+KW  - estimation
+KW  - estimation accuracy
+KW  - estimation reliability
+DO  - 10.1109/COMPSAC.2011.53
+JO  - 2011 IEEE 35th Annual Computer Software and Applications Conference
+IS  - 
+SN  - 0730-3157
+VO  - 
+VL  - 
+JA  - 2011 IEEE 35th Annual Computer Software and Applications Conference
+Y1  - 18-22 July 2011
+AB  - This research paper addresses the reliability of estimation techniques based on technical knowledge possessed by software engineers. The goal was to identify weaknesses and limitations in the estimation practices based on Wideband Delphi method and to propose an alternative solution. The initial experiment highlights the results of employing a different estimation method based on Wisdom of Crowds approach and compares them to standard Wideband Delphi approach. The estimation was focused on the expected quality of the software release -- predicting the distribution pattern of defects among the system components which would be found throughout the development and test phases (before reaching the customer). The final results for both estimation techniques were evaluated against real system data (the software product release development in the public safety domain).
+ER  - 
+
+TY  - CONF
+TI  - Cognitive bias in the verification and validation of space flight systems
+T2  - 2012 IEEE Aerospace Conference
+SP  - 1
+EP  - 10
+AU  - S. Larson
+PY  - 2012
+KW  - Accuracy
+KW  - Testing
+KW  - Probability
+KW  - Meteorology
+KW  - Availability
+KW  - Mars
+DO  - 10.1109/AERO.2012.6187404
+JO  - 2012 IEEE Aerospace Conference
+IS  - 
+SN  - 1095-323X
+VO  - 
+VL  - 
+JA  - 2012 IEEE Aerospace Conference
+Y1  - 3-10 March 2012
+AB  - Cognitive bias is generally recognized as playing a significant role in virtually all domains of human decision making. Insight in to this role is informally built in to many of the system engineering practices employed in the aero space industry. The review process, for example, typically has features that help to counteract the effect of bias. This paper presents a discussion of how commonly recognized biases may affect the verification and validation process. Verifying and validating a system is arguably more challenging than development, both technically and cognitively. Whereas there may be a relatively limited number of options available for the design of a particular aspect of a system, there is a virtually unlimited number of potential verification scenarios that may be explored. The probability of any particular scenario occurring in operations is typically very difficult to estimate, which increases reliance on judgment that may be affected by bias. Implementing a verification activity often presents technical challenges that, if they can be overcome at all, often result in a departure from actual flight conditions (e.g., 1-g testing, simulation, time compression, artificial fault injection) that may raise additional questions about the meaningfulness of the results, and create opportunities for the introduction of additional biases. In addition to mitigating the biases it can introduce directly, the verification and validation process must also overcome the cumulative effect of biases introduced during all previous stages of development. A variety of cognitive biases will be described, with research results for illustration. A handful of case studies will be presented that show how cognitive bias may have affected the verification and validation process on recent JPL flight projects, identify areas of strength and weakness, and identify potential changes or additions to commonly used techniques that could provide a more robust verification and validation of future systems.
+ER  - 
+
+TY  - CONF
+TI  - Preliminaries on the Accurate Estimation of the Hurst Exponent Using Time Series
+T2  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+SP  - 1
+EP  - 8
+AU  - G. Millán
+AU  - R. Osorio-Comparán
+AU  - G. Lefranc
+PY  - 2021
+KW  - High-speed networks
+KW  - Gaussian noise
+KW  - Conferences
+KW  - Time series analysis
+KW  - Estimation
+KW  - Computer networks
+KW  - Fractals
+KW  - Fractality
+KW  - High-speed computer network
+KW  - Hurst exponent (H)
+KW  - Time series
+KW  - Traffic flows
+DO  - 10.1109/ICAACCA51523.2021.9465274
+JO  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Automation/XXIV Congress of the Chilean Association of Automatic Control (ICA-ACCA)
+Y1  - 22-26 March 2021
+AB  - This article explores the required amount of time series points from a high-speed computer network to accurately estimate the Hurst exponent. The methodology consists in designing an experiment using estimators that are applied to time series addresses resulting from the capture of high-speed network traffic, followed by addressing the minimum amount of point required to obtain in accurate estimates of the Hurst exponent. The methodology addresses the exhaustive analysis of the Hurst exponent considering bias behaviour, standard deviation, and Mean Squared Error using fractional Gaussian noise signals with stationary increases. Our results show that the Whittle estimator successfully estimates the Hurst exponent in series with few points. Based on the results obtained, a minimum length for the time series is empirically proposed. Finally, to validate the results, the methodology is applied to real traffic captures in a high-speed computer network.
+ER  - 
+
+TY  - CONF
+TI  - A Dynamic Theory of Security Free-Riding by Firms in the WFH Age
+T2  - 2022 Winter Simulation Conference (WSC)
+SP  - 484
+EP  - 495
+AU  - R. Pal
+AU  - R. X. Sequeira
+AU  - L. Zhu
+AU  - Y. She
+PY  - 2022
+KW  - COVID-19
+KW  - Costs
+KW  - Pandemics
+KW  - Aggregates
+KW  - Organizations
+KW  - Benchmark testing
+KW  - Nash equilibrium
+DO  - 10.1109/WSC57314.2022.10015385
+JO  - 2022 Winter Simulation Conference (WSC)
+IS  - 
+SN  - 1558-4305
+VO  - 
+VL  - 
+JA  - 2022 Winter Simulation Conference (WSC)
+Y1  - 11-14 Dec. 2022
+AB  - The COVID-19 pandemic has radically transformed the work-from-home (WFH) paradigm, and expanded an organization's cyber-vulnerability space. We propose a novel strategic method to quantify the degree of sub-optimal cybersecurity in an organization of employees, all of whom work in heterogeneous WFH “siloes”. Specifically, we model the per-unit cost of asymmetric WFH employees to invest in security-improving effort units as time-discounted exponential martingales over time, and derive as benchmark - the centrally-planned socially optimal aggregate employee effort at any given time instant. We then derive the time-varying strategic Nash equilibrium amount of aggregate employee effort in cybersecurity in a distributed setting. The time-varying ratio of these centralized and distributed estimates quantifies the free riding dynamics, i.e., security sub-optimality, within an organization. Rigorous estimates of the degree of sub-optimal cybersecurity will drive organizational policy makers to design appropriate (customized) solutions that voluntarily incentivize WFH employees to invest in required cybersecurity best practices.
+ER  - 
+
+TY  - CONF
+TI  - Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines
+T2  - 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 5772
+EP  - 5780
+AU  - C. N. Duong
+AU  - K. Luu
+AU  - K. G. Quach
+AU  - T. D. Bui
+PY  - 2016
+KW  - Face
+KW  - Aging
+KW  - Shape
+KW  - Computational modeling
+KW  - Databases
+KW  - Forensics
+KW  - Feature extraction
+DO  - 10.1109/CVPR.2016.622
+JO  - 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 1063-6919
+VO  - 
+VL  - 
+JA  - 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 27-30 June 2016
+AB  - Modeling the face aging process is a challenging task due to large and non-linear variations present in different stages of face development. This paper presents a deep model approach for face age progression that can efficiently capture the non-linear aging process and automatically synthesize a series of age-progressed faces in various age ranges. In this approach, we first decompose the long-term age progress into a sequence of short-term changes and model it as a face sequence. The Temporal Deep Restricted Boltzmann Machines based age progression model together with the prototype faces are then constructed to learn the aging transformation between faces in the sequence. In addition, to enhance the wrinkles of faces in the later age ranges, the wrinkle models are further constructed using Restricted Boltzmann Machines to capture their variations in different facial regions. The geometry constraints are also taken into account in the last step for more consistent age-progressed results. The proposed approach is evaluated using various face aging databases, i.e. FGNET, Cross-Age Celebrity Dataset (CACD) and MORPH, and our collected large-scale aging database named AginG Faces in the Wild (AGFW). In addition, when ground-truth age is not available for input image, our proposed system is able to automatically estimate the age of the input face before aging process is employed.
+ER  - 
+
+TY  - JOUR
+TI  - Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating and Convergence
+T2  - IEEE Transactions on Mobile Computing
+SP  - 459
+EP  - 471
+AU  - H. Xie
+AU  - J. C. S. Lui
+PY  - 2023
+KW  - Task analysis
+KW  - Crowdsensing
+KW  - Data integrity
+KW  - Estimation
+KW  - Reliability theory
+KW  - Sensors
+KW  - Mobile computing
+KW  - Crowdsensing
+KW  - worker reliability
+KW  - feedback rating
+KW  - stochastic approximation
+KW  - martingale
+DO  - 10.1109/TMC.2021.3072477
+JO  - IEEE Transactions on Mobile Computing
+IS  - 1
+SN  - 1558-0660
+VO  - 22
+VL  - 22
+JA  - IEEE Transactions on Mobile Computing
+Y1  - 1 Jan. 2023
+AB  - Worker reliability estimation is a fundamental problem in crowdsensing applications. This paper proposes a robust feedback rating approach to estimate worker reliability explicitly. In this approach, the requester provides a feedback rating to reflect the quality of the sensor data submitted by each worker. The aggregation of each worker's historical feedback ratings serves as a reliability estimate. The challenges are: (1) Feedback ratings are subjected to noise; (2) Workers’ cognitive bias in task selection leads to sensor data quality variations. We develop a mathematical model to quantify rating noise from requesters and the degree of cognitive bias of workers in task selection. We derive sufficient conditions, under which the aggregate rating is asymptotically accurate in estimating worker reliability, via stochastic approximation techniques. These conditions identify a class of asymptotically accurate rating aggregation rules for crowdsensing applications. We further derive the minimum number of ratings needed to guarantee a given reliability estimation accuracy, via martingale theory. Via extensive experiments: (1) We reveal fundamental understandings on how various factors such as rating noise influence the minimum number of ratings needed to achieve certain accuracy; (2) We show that our feedback rating approach improves air quality index estimation accuracy by as high as 50 percent over the a typical baseline algorithm.
+ER  - 
+
+TY  - JOUR
+TI  - Trustworthy Visual-Textual Retrieval
+T2  - IEEE Transactions on Image Processing
+SP  - 4515
+EP  - 4526
+AU  - Y. Qin
+AU  - L. Huang
+AU  - D. Peng
+AU  - B. Jiang
+AU  - J. Tianyi Zhou
+AU  - X. Peng
+AU  - P. Hu
+PY  - 2025
+KW  - Uncertainty
+KW  - Visualization
+KW  - Reliability
+KW  - Predictive models
+KW  - Artificial intelligence
+KW  - Training
+KW  - Semantics
+KW  - Measurement uncertainty
+KW  - Data models
+KW  - Cross modal retrieval
+KW  - Visual-textual retrieval
+KW  - trustworthy cross-modal learning
+KW  - uncertainty learning
+KW  - multimodal learning
+DO  - 10.1109/TIP.2025.3587575
+JO  - IEEE Transactions on Image Processing
+IS  - 
+SN  - 1941-0042
+VO  - 34
+VL  - 34
+JA  - IEEE Transactions on Image Processing
+Y1  - 2025
+AB  - Visual-textual retrieval, as a link between computer vision and natural language processing, aims at jointly learning visual-semantic relevance to bridge the heterogeneity gap across visual and textual spaces. Existing methods conduct retrieval only relying on the ranking of pairwise similarities, but they cannot self-evaluate the uncertainty of retrieved results, resulting in unreliable retrieval and hindering interpretability. To address this problem, we propose a novel Trust-Consistent Learning framework (TCL) to endow visual-textual retrieval with uncertainty evaluation for trustworthy retrieval. More specifically, TCL first models the matching evidence according to cross-modal similarity to estimate the uncertainty for cross-modal uncertainty-aware learning. Second, a simple yet effective consistency module is presented to enforce the subjective opinions of bidirectional learning to be consistent for high reliability and accuracy. Finally, extensive experiments are conducted to demonstrate the superiority and generalizability of TCL on six widely-used benchmark datasets, i.e., Flickr30K, MS-COCO, MSVD, MSR-VTT, ActivityNet, and DiDeMo. Furthermore, some qualitative experiments are carried out to provide comprehensive and insightful analyses for trustworthy visual-textual retrieval, verifying the reliability and interoperability of TCL. The code is available in https://github.com/QinYang79/TCL
+ER  - 
+
+TY  - CONF
+TI  - Make Object Connect: A Pose Estimation Network for UAV Images of the Outdoor Scene
+T2  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+SP  - 7827
+EP  - 7830
+AU  - J. Cao
+AU  - Y. You
+AU  - L. Xia
+AU  - J. Liu
+PY  - 2022
+KW  - Point cloud compression
+KW  - Geometry
+KW  - Visualization
+KW  - Image segmentation
+KW  - Pose estimation
+KW  - Feature extraction
+KW  - Cameras
+KW  - pose estimation
+KW  - feature matching
+KW  - unmanned aerial vehicle (UA V)
+KW  - 3D reconstruction
+DO  - 10.1109/IGARSS46834.2022.9884183
+JO  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+IS  - 
+SN  - 2153-7003
+VO  - 
+VL  - 
+JA  - IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium
+Y1  - 17-22 July 2022
+AB  - As the basics of 3D vision, pose estimation with 2D images is of significance in 3D reconstruction, UAV positioning, and other fields. However, the related works focus on the natural images and pay less attention to the wide-coverage UAV remote sensing (RS) images. In fact, the relationship between objects in UAV images can benefit pose estimation. Therefore, aiming at the outdoor scene captured by the UAV monocular camera, a novel pose estimation network that emphasizes the association between objects is proposed. The multi-scale visual features extracted by the convolutional neural network (CNN) are manipulated by the object-agnostic segmentation model to indicate the existing space of all possible objects in the whole scene. The features of all possible objects are embedded into vectors, and then processed with a graph convolution network (GCN) for relationship analysis. Based on the known sparse point cloud and the optimized features of 2D images, the camera pose is regressed iteratively by 3D visual geometry. To verify the feasibility of the network, experiments are conducted on the Extended CMU Seasons and the simulation UAV dataset. Results prove that our network emphasizes more features on the small objects and obtains superior pose estimation results.
+ER  - 
+
+TY  - JOUR
+TI  - Uncertainty handling and cognitive biases in knowledge engineering
+T2  - IEEE Transactions on Systems, Man, and Cybernetics
+SP  - 563
+EP  - 570
+AU  - M. L. Donell
+AU  - P. E. Lehner
+PY  - 1993
+KW  - Uncertainty
+KW  - Knowledge engineering
+KW  - Robotics and automation
+KW  - Orbital robotics
+KW  - Service robots
+KW  - Cognitive robotics
+KW  - Automatic control
+KW  - Parallel robots
+KW  - Energy consumption
+KW  - Null space
+DO  - 10.1109/21.229469
+JO  - IEEE Transactions on Systems, Man, and Cybernetics
+IS  - 2
+SN  - 2168-2909
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Systems, Man, and Cybernetics
+Y1  - March-April 1993
+AB  - The extent to which cognitive biases have an impact on knowledge engineering, particularly in the area of uncertainty handling, is explored. Subjects wrote rules to predict the color of objects drawn from an urn, based on several indicators. They also assigned confidence values to their rules. This task, though admittedly simplistic, was taken as representative of a large class of diagnosis and prediction problems. The results suggest that, using an automated aid, subjects can write a highly accurate, nearly unbiased set of rules that will predict event type based on three indicators: weight, size, and shape. Estimates of certainty extracted from rules generated by subjects using a prototype automated knowledge elicitation tool, as well as certainties that were later directly estimated, are shown to be highly correlated with the true probabilities for each event type. However, both types of certainty estimates were significantly less than the actual baseline probabilities. Also, in contrast to some results in the judgment and decision making literature, there was no evidence that the subject's judgements or rules could be closely approximated with a linear model.<>
+ER  - 
+
+TY  - CONF
+TI  - A pricing approach to enhance the adaptability and accuracy of real estate price: An empirical study
+T2  - 2010 International Conference on Management Science & Engineering 17th Annual Conference Proceedings
+SP  - 1638
+EP  - 1645
+AU  - Z. Qing-hua
+AU  - C. Bin-Wu
+AU  - P. Xv
+PY  - 2010
+KW  - Pricing
+KW  - Biological system modeling
+KW  - Marketing and sales
+KW  - Industries
+KW  - Investments
+KW  - Analytical models
+KW  - Economics
+KW  - AHP
+KW  - econometrics
+KW  - price
+KW  - real estate
+DO  - 10.1109/ICMSE.2010.5720002
+JO  - 2010 International Conference on Management Science & Engineering 17th Annual Conference Proceedings
+IS  - 
+SN  - 2155-1855
+VO  - 
+VL  - 
+JA  - 2010 International Conference on Management Science & Engineering 17th Annual Conference Proceedings
+Y1  - 24-26 Nov. 2010
+AB  - Real estate market is a complex system. As an important part of it, the determination of price relates to the developers' investment income[1]. Therefore, how to scientifically determine the selling price of real estate projects is that all developers have to face, as well as the problem that customers widespread concerned. In this study, we described several key models in current market and analyzed the limitations of each model. Then we made an empirical study of customers' behavior in Wuhan city, with which we put forward several dimensions which have the greatest impact on the project properties for sale. Then we determined the weights by using the AHP. In addition, we made a data analysis and evaluation about the questionnaire data through statistical software econometric Eviews 3.1. Based on which, we obtained the estimates of the economic model. Finally, we draw the relevant price function and determined the appropriate market position or price range. This not only opens up new pricing models for real estate developers, but also facilitates the promotion of efficient use.
+ER  - 
+
+TY  - CONF
+TI  - Discriminating different color from EEG signals using Interval-Type 2 fuzzy space classifier (a neuro-marketing study on the effect of color to cognitive state)
+T2  - 2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)
+SP  - 1
+EP  - 6
+AU  - A. Rakshit
+AU  - R. Lahiri
+PY  - 2016
+KW  - Color
+KW  - Electroencephalography
+KW  - EEG
+KW  - Neuro-Marketing
+KW  - Color
+KW  - PSD
+KW  - IT2FS
+KW  - Mental Arousal
+KW  - Friedman Test
+KW  - Precision
+KW  - Recall Value
+DO  - 10.1109/ICPEICES.2016.7853388
+JO  - 2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)
+Y1  - 4-6 July 2016
+AB  - Color perception is one of the most important cognitive features of human brain. Different colors lead to different cognitive activities and different mental arousal levels; as revealed by power spectral density obtained from EEG signals. As the color plays an important role in marketing and packaging industry; so neuro-marketing research; based on color stimuli is considered to be an important tool for market researcher. In order to assess the impact of each color; prime focus is to detect different colors from EEG signals. This study employs four color stimuli; e.g. red; green; yellow and blue; that were shown to various subjects and EEG signal corresponding to the mentioned stimulus was acquired. Power spectral density of each color was estimated and different activation areas of brain for each stimulus is illustrated in figures. This paper also employs an Interval-Type-II fuzzy space classifier for distinguishing between different stimuli that are considered for the concerned experiment. It is noted that classification rate is maximum for red color and minimum in case of yellow color. Precision and recall values also have been highlighted here. For detailed analysis; the performance of IT2FS classifier has been compared with other standard classifiers by Friedman Test.
+ER  - 
+
+TY  - CONF
+TI  - Trustworthiness evaluation in digital supply chains: a metric-based, stakeholder-driven approach
+T2  - International Conference on AI and the Digital Economy (CADE 2025)
+SP  - 161
+EP  - 166
+AU  - M. Asante
+AU  - G. Epiphaniou
+AU  - C. Maple
+PY  - 2025
+DO  - 10.1049/icp.2025.2979
+JO  - International Conference on AI and the Digital Economy (CADE 2025)
+IS  - 
+SN  - 
+VO  - 2025
+VL  - 2025
+JA  - International Conference on AI and the Digital Economy (CADE 2025)
+Y1  - 14-16 July 2025
+AB  - As digital supply chains (DSCs) evolve into highly interconnected, data-driven ecosystems, evaluating the trustworthiness of data assets has become critical for operational integrity, risk management, and strategic decision-making. Existing frameworks primarily focus on detecting threats and responding to risks, offering limited capabilities for proactive, pre-risk evaluation that considers stakeholders specific concerns. This paper introduces a modular Data Trustworthiness Evaluation (DTE) model as part of the broader Data Trustworthiness Threat and Risk Estimation Framework (DTTREF). The model defines six interdependent trustworthiness pillars — data quality, data privacy, data security, data interoperability, data heterogeneity, and data risk appetite — and applies the Analytic Hierarchy Process (AHP) to elicit and integrate stakeholder preferences into a quantifiable trustworthiness score. This approach advances the current state-of-the-art by embedding trustworthiness as a measurable, context-aware layer in digital supply chain governance, addressing gaps in stakeholder engagement and enabling adaptive, real-time evaluation strategies.
+ER  - 
+
+TY  - CONF
+TI  - Video acuity assessment in mobile devices
+T2  - 2015 IEEE Conference on Computer Communications (INFOCOM)
+SP  - 1
+EP  - 9
+AU  - E. Baik
+AU  - A. Pande
+AU  - C. Stover
+AU  - P. Mohapatra
+PY  - 2015
+KW  - Streaming media
+KW  - Distortion
+KW  - Measurement
+KW  - Mobile communication
+KW  - Visualization
+KW  - Accuracy
+KW  - Mobile handsets
+KW  - Video Quality
+KW  - Quality of Experience
+KW  - Mobile Video
+DO  - 10.1109/INFOCOM.2015.7218361
+JO  - 2015 IEEE Conference on Computer Communications (INFOCOM)
+IS  - 
+SN  - 0743-166X
+VO  - 
+VL  - 
+JA  - 2015 IEEE Conference on Computer Communications (INFOCOM)
+Y1  - 26 April-1 May 2015
+AB  - The quality of mobile videos is usually quantified through the Quality of Experience (QoE), which is usually based on network QoS measurements, user engagement, or post-view subjective scores. Such quantifications are not adequate for real-time evaluation. They cannot provide on-line feedback for improvement of visual acuity, which represents the actual viewing experience of the end user. We present a visual acuity framework which makes fast online computations in a mobile device and provide an accurate estimate of mobile video QoE. We identify and study the three main causes that impact visual acuity in mobile videos: spatial distortions, types of buffering and resolution changes. Each of them can be accurately modeled using our framework. We use machine learning techniques to build a prediction model for visual acuity, which depicts more than 78% accuracy. We present an experimental implementation on iPhone 4 and 5s to show that the proposed visual acuity framework is feasible to deploy in mobile devices. Using a data corpus of over 2852 mobile video clips for the experiments, we validate the proposed framework.
+ER  - 
+
+TY  - JOUR
+TI  - Perceptual Alignment of Spatial Auditory and Tactile Stimuli for Effective Directional Cueing
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 2589
+EP  - 2599
+AU  - D. Lee
+AU  - S. Choi
+PY  - 2025
+KW  - Location awareness
+KW  - Azimuth
+KW  - Actuators
+KW  - Accuracy
+KW  - Multisensory integration
+KW  - Visualization
+KW  - Hazards
+KW  - Ear
+KW  - Training
+KW  - Spatial audio
+KW  - Audio-Tactile
+KW  - Spatial Audio
+KW  - Tactile Cueing
+KW  - Crossmodal Congruence
+KW  - Multisensory Integration
+KW  - Avoidance
+DO  - 10.1109/TVCG.2025.3549128
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 5
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - May 2025
+AB  - Spatial audio and directional tactile cues are crucial for target localization and collision avoidance, especially when visual information is limited or cognitive load is high. As multisensory cues, spatially aligned auditory and tactile stimuli can perform better than misaligned ones, but achieving precise alignment is challenging. This study aims to (1) identify just noticeable differences (JNDs) of direction between auditory and tactile stimuli in the horizontal plane and (2) evaluate hazard avoidance performance with misaligned cues within the JNDs. The estimated JNDs increase from 26° to 84° as the stimuli shifted from the center to the side of the body. We also demonstrate that perceptual alignment of auditory and tactile cues within the JND ranges yielded comparable hazard avoidance performance and usability to exact physical alignment. Our study offers useful insights for more efficient and accurate spatial audio-tactile rendering systems for extended reality (XR).
+ER  - 
+
+TY  - JOUR
+TI  - Distributed Resource Allocation for Human-Autonomy Teaming With Human Preference Uncertainty
+T2  - IEEE Control Systems Letters
+SP  - 2327
+EP  - 2332
+AU  - Y. Yao
+AU  - R. Mbagna Nanko
+AU  - Y. Wang
+AU  - X. Wang
+PY  - 2025
+KW  - Uncertainty
+KW  - Probabilistic logic
+KW  - Discrete Fourier transforms
+KW  - Resource management
+KW  - Autonomous agents
+KW  - Vectors
+KW  - Decision making
+KW  - Standards
+KW  - Gaussian distribution
+KW  - Distributed algorithms
+KW  - Distributed resource allocation
+KW  - human-autonomy teaming
+KW  - human preference uncertainty
+DO  - 10.1109/LCSYS.2025.3604959
+JO  - IEEE Control Systems Letters
+IS  - 
+SN  - 2475-1456
+VO  - 9
+VL  - 9
+JA  - IEEE Control Systems Letters
+Y1  - 2025
+AB  - This letter investigates distributed resource allocation involving multiple autonomous agents and multiple humans, focusing on two challenges: (i) the dependency between autonomous and human agents through interaction; (ii) accounting for human uncertainties where both parties must collectively satisfy globally coupled probabilistic resource constraints. To address these, we first quantify the distribution of human choice behaviors using the maximum likelihood estimation (MLE), where human decisions evolve in response to nearby agent behaviors. Building on this human model, we introduce a novel reformulation that approximates the original probabilistic constraint via a polyhedral inner approximation, which then enables a fully distributed algorithm design over the system’s communication graph while ensuring probabilistic constraint satisfaction. The proposed approach is validated through theoretical analysis and human-subject experiments.
+ER  - 
+
+TY  - JOUR
+TI  - Object Ownership Processing in Peripersonal Space: An Electroencephalographic Study
+T2  - Journal of Cognitive Neuroscience
+SP  - 1774
+EP  - 1786
+AU  - L. Lenglart
+AU  - C. Roger
+AU  - A. Sampaio
+AU  - Y. Coello
+PY  - 2025
+DO  - 10.1162/jocn_a_02337
+JO  - Journal of Cognitive Neuroscience
+IS  - 10
+SN  - 0898-929X
+VO  - 37
+VL  - 37
+JA  - Journal of Cognitive Neuroscience
+Y1  - 1 Oct. 2025
+AB  - A fundamental aspect of interacting with objects in the environment is the ability to distinguish between objects that can be directly acted upon in the peripersonal space (PPS) and those out of immediate reach in the extrapersonal space (EPS). Performing appropriate actions also requires integrating social conceptual information related to who owns a particular object. While prior research has demonstrated that spatial and social factors influence object processing, how these factors are integrated is not yet fully understood. To address this issue, the present study explored the neurophysiological correlates of object ownership processing when objects were located in either the PPS or EPS. Facing a virtual character, 28 participants estimated the reachability of self-owned or other-owned objects, placed at different distances. The analysis confirmed that self-owned objects are processed faster when located in PPS, and other-owned objects are processed faster when located in EPS. EEG signals analysis revealed that early ERP components, such as the N1 and anterior N2, were modulated solely by objects' spatial location. In contrast, later components, including the P3 and anterior N400, were influenced by object ownership, although depending on object's location in space. These results suggest an early perceptual prioritization of objects in the PPS and a prioritization of objects that engages the self at a postperceptual stage. Overall, the findings provide new insights into how objects are processed depending on their spatial and social properties, and confirm that virtual reality represents a promising tool to probe neural mechanisms supporting perception and action in social contexts.
+ER  - 
+
+TY  - CONF
+TI  - Blockchain Trust and Risk Perception Influencing Millennial Cryptocurrency Investment Decisions
+T2  - 2025 4th International Conference on Creative Communication and Innovative Technology (ICCIT)
+SP  - 1
+EP  - 7
+AU  - B. Tiara
+AU  - J. Suwita
+AU  - Kusnadi
+AU  - T. Nurhaeni
+AU  - A. Asmawati
+AU  - D. Apriliasari
+AU  - S. A. Anjani
+PY  - 2025
+KW  - Statistical analysis
+KW  - Shape
+KW  - Decision making
+KW  - Smart contracts
+KW  - Systems architecture
+KW  - Real-time systems
+KW  - Blockchains
+KW  - Cryptocurrency
+KW  - Systems simulation
+KW  - Investment
+KW  - Blockchain Trust
+KW  - Risk Perception
+KW  - Cryptocurrency Investment
+KW  - Millennial Investors
+KW  - Behavioral Biases
+DO  - 10.1109/ICCIT65724.2025.11167522
+JO  - 2025 4th International Conference on Creative Communication and Innovative Technology (ICCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Creative Communication and Innovative Technology (ICCIT)
+Y1  - 15-16 Aug. 2025
+AB  - The proliferation of Blockchain technology has reshaped modern financial system architectures by offering enhanced transparency, security, and efficiency. This study proposes a hybrid analytical framework combining behavioral modeling with technological evaluation to examine the determinants of cryptocurrency investment behavior among Indonesian millennials. By integrating Blockchain affinity metrics with structured risk perception modeling, the research explores how individual trust in distributed ledger technologies, system reliability, and digital literacy influence investment intent. A quantitative method was applied using data from 482 respondents, followed by statistical analysis and system simulation in MATLAB to validate the interaction effects between trust factors and risk sensitivity. The findings reveal that Blockchain’s operational features specifically data immutability, smart contract automation, and real-time auditability significantly enhance investment willingness among digital-native users. Additionally, a predictive model was constructed to estimate investment likelihood based on Blockchain affinity and individual risk coefficients, achieving 87.3% accuracy. The results emphasize the importance of technological assurance mechanisms in reducing perceived risks and increasing adoption of decentralized financial assets. This study provides valuable insights for designing Blockchain-based investment platforms through adaptive trust frameworks, user-friendly interfaces, and real-time risk analytics.
+ER  - 
+
+

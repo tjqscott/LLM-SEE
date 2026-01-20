@@ -1,0 +1,339 @@
+TY  - JOUR
+AN  - rayyan-435619266
+TI  - Sequence effects in the estimation of software development effort
+Y1  - 2020
+Y2  - 1
+Y3  - 1
+T2  - Journal of Systems and Software
+SN  - 0164-1212
+VL  - 159
+SP  - 110448
+AU  - Jørgensen, Magne
+AU  - Halkjelsvik, Torleif
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121219302225
+KW  - Effort estimation
+KW  - Human judgment
+KW  - Sequence effect
+KW  - Software development
+DO  - https://doi.org/10.1016/j.jss.2019.110448
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619267
+TI  - When providing optimistic and pessimistic scenarios can be detrimental to judgmental demand forecasts and production decisions
+Y1  - 2019
+Y2  - 3
+Y3  - 16
+T2  - European Journal of Operational Research
+SN  - 0377-2217
+VL  - 273
+IS  - 3
+SP  - 992-1004
+AU  - Goodwin, Paul
+AU  - Gönül, M. Sinan
+AU  - Önkal, Dilek
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221718308105
+KW  - Forecasting
+KW  - Judgment
+KW  - Extrapolation
+KW  - Scenarios
+KW  - Production planning
+DO  - https://doi.org/10.1016/j.ejor.2018.09.033
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619269
+TI  - The effects of optimistic and pessimistic biasing on software project status reporting
+Y1  - 2007
+Y2  - 3
+Y3  - 1
+T2  - Information & Management
+SN  - 0378-7206
+VL  - 44
+IS  - 2
+SP  - 130-141
+AU  - Snow, Andrew P.
+AU  - Keil, Mark
+AU  - Wallace, Linda
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720606001145
+KW  - Project management and scheduling
+KW  - Reporting bias
+KW  - Software project management
+KW  - Traffic light reporting
+KW  - Information theory
+DO  - https://doi.org/10.1016/j.im.2006.10.009
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619290
+TI  - A Novel Hybrid Deep Learning Framework with Metaheuristic Optimization for Accurate Software Effort Estimation
+Y1  - 2025
+T2  - SN Computer Science
+VL  - 6
+IS  - 8
+AU  - Badana, M.
+AU  - Beesetti, B.K.
+AU  - Sundari, M.R.
+AU  - Ramya, P.
+AU  - Rao, G.S.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105019110196&doi=10.1007%2Fs42979-025-04459-3&partnerID=40&md5=8305929dce2ce9bf91326f8e7a219472
+N1  - Export Date: 19 January 2026; Cited By: 0
+DO  - 10.1007/s42979-025-04459-3
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619302
+TI  - Effort Estimation in Agile and DevOps: A Systematic Literature Review of Stakeholder Dissatisfaction
+Y1  - 2025
+T2  - IEEE Access
+VL  - 13
+SP  - 167925-167941
+AU  - Ruk, S.A.
+AU  - Mahmood, Y.
+AU  - Azmi, A.
+AU  - Firdaus Mohd Azmi, N.
+AU  - Gul, S.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013786007&doi=10.1109%2FACCESS.2025.3600321&partnerID=40&md5=941d572eddc2b96c6274a3379315009a
+N1  - Export Date: 19 January 2026; Cited By: 0
+DO  - 10.1109/ACCESS.2025.3600321
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619305
+TI  - A Hybrid Metaheuristic Aware Enhanced Deep Learning Approach for Software Effort Estimation
+Y1  - 2024
+T2  - Engineering, Technology and Applied Science Research
+VL  - 14
+IS  - 6
+SP  - 19024-19029
+AU  - Badana, M.
+AU  - Kranthi Kiran, M.K.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85211479778&doi=10.48084%2Fetasr.8890&partnerID=40&md5=d6a5a2fdb9c78f32d6c7cfd492befc95
+N1  - Export Date: 19 January 2026; Cited By: 3
+DO  - 10.48084/etasr.8890
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619317
+TI  - Much more than a prediction: Expert-based software effort estimation as a behavioral act
+Y1  - 2023
+T2  - Empirical Software Engineering
+VL  - 28
+IS  - 4
+AU  - Matsubara, P.G.F.
+AU  - Steinmacher, I.
+AU  - Gadelha, B.
+AU  - Conte, T.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164178905&doi=10.1007%2Fs10664-023-10332-9&partnerID=40&md5=0eb3c604988f9eed5e0ec0f8f5c55f04
+N1  - Export Date: 19 January 2026; Cited By: 5
+DO  - 10.1007/s10664-023-10332-9
+ER  -
+
+TY  - CONF
+AN  - rayyan-435619325
+TI  - Do You See What You Mean? Using Predictive Visualizations to Reduce Optimism in Duration Estimates
+Y1  - 2022
+T2  - Conference on Human Factors in Computing Systems - Proceedings
+AU  - Koval, M.
+AU  - Jansen, Y.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130529796&doi=10.1145%2F3491102.3502010&partnerID=40&md5=859cec9fb8fe25adf676a1e59090563c
+N1  - Export Date: 19 January 2026; Cited By: 9
+DO  - 10.1145/3491102.3502010
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619329
+TI  - Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation
+Y1  - 2021
+T2  - Requirements Engineering
+VL  - 26
+IS  - 3
+SP  - 459-480
+AU  - Gren, L.
+AU  - Berntsson-Svensson, R.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85104452176&doi=10.1007%2Fs00766-021-00351-7&partnerID=40&md5=b20821de7ba8e1b6131911e95b391224
+N1  - Export Date: 19 January 2026; Cited By: 6
+DO  - 10.1007/s00766-021-00351-7
+ER  -
+
+TY  - CONF
+AN  - rayyan-435619341
+TI  - An experimental evaluation of a de-biasing intervention for professional software developers
+Y1  - 2018
+T2  - Proceedings of the ACM Symposium on Applied Computing
+SP  - 1510-1517
+AU  - Shepperd, M.
+AU  - Mair, C.
+AU  - Jørgensen, M.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85050545193&doi=10.1145%2F3167132.3167293&partnerID=40&md5=61bf62e712c505c14d430e6885d99d55
+N1  - Export Date: 19 January 2026; Cited By: 19
+DO  - 10.1145/3167132.3167293
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619343
+TI  - Can the outside-view approach improve planning decisions in software development projects?
+Y1  - 2016
+T2  - Information Systems Journal
+VL  - 26
+IS  - 4
+SP  - 395-418
+AU  - Shmueli, O.
+AU  - Pliskin, N.
+AU  - Fink, L.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84945971918&doi=10.1111%2Fisj.12091&partnerID=40&md5=289aca5fc9280add2b608a5af71869a7
+N1  - Export Date: 19 January 2026; Cited By: 32
+DO  - 10.1111/isj.12091
+ER  -
+
+TY  - CONF
+AN  - rayyan-435619353
+TI  - Toward a theory of debiasing software development
+Y1  - 2011
+T2  - Lecture Notes in Business Information Processing
+VL  - 93
+SP  - 92-105
+AU  - Ralph, P.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-82955184640&doi=10.1007%2F978-3-642-25676-9_8&partnerID=40&md5=5894905472e923cb9507a513d6c455bd
+N1  - Export Date: 19 January 2026; Cited By: 28
+DO  - 10.1007/978-3-642-25676-9_8
+ER  -
+
+TY  - CONF
+AN  - rayyan-435619356
+TI  - Software engineering project management, estimation and metrics: Discussion summary and recommendations
+Y1  - 1996
+SP  - 500-503
+AU  - Paynter, J.
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061151276&doi=10.1109%2FSEEP.1996.534043&partnerID=40&md5=589b80c93af3b4b743f4551b898aab93
+N1  - Export Date: 19 January 2026; Cited By: 0
+DO  - 10.1109/SEEP.1996.534043
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619359
+TI  - Relations Between Effort Estimates, Skill Indicators, and Measured Programming Skill
+Y1  - 2021
+T2  - IEEE Transactions on Software Engineering
+SN  - 1939-3520     VO  - 47
+J2  - IEEE Transactions on Software Engineering
+VL  - 47
+IS  - 12
+SP  - 2892-2906
+AU  - M. Jørgensen
+AU  - G. R. Bergersen
+AU  - K. Liestøl
+KW  - Software engineering
+KW  - Psychology
+KW  - Programming profession
+KW  - Estimation
+KW  - Java
+KW  - D.2.9.b cost estimation
+KW  - D.2.1.d management
+KW  - D.2.0 software engineering
+KW  - D.2.0b software psychology
+DO  - 10.1109/TSE.2020.2973638
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619361
+TI  - Software Development Estimation Biases: The Role of Interdependence
+Y1  - 2012
+T2  - IEEE Transactions on Software Engineering
+SN  - 1939-3520     VO  - 38
+J2  - IEEE Transactions on Software Engineering
+VL  - 38
+IS  - 3
+SP  - 677-693
+AU  - M. Jorgensen
+AU  - S. Grimstad
+KW  - Estimation
+KW  - Software
+KW  - Companies
+KW  - Context
+KW  - Programming
+KW  - Outsourcing
+KW  - Instruments
+KW  - Effort estimation
+KW  - estimation bias
+KW  - cultural differences
+KW  - software engineering.
+DO  - 10.1109/TSE.2011.40
+ER  -
+
+TY  - CONF
+AN  - rayyan-435619362
+TI  - Reliability and Accuracy of the Estimation Process - Wideband Delphi vs. Wisdom of Crowds
+Y1  - 2011
+T2  - 2011 IEEE 35th Annual Computer Software and Applications Conference
+SN  - 0730-3157     VO  - 
+J2  - 2011 IEEE 35th Annual Computer Software and Applications Conference
+SP  - 350-359
+AU  - M. G. Stochel
+KW  - Estimation
+KW  - Wideband
+KW  - Software
+KW  - Accuracy
+KW  - Reliability
+KW  - Psychology
+KW  - Humans
+KW  - Wisdom of Crowds
+KW  - Wideband Delphi
+KW  - estimation
+KW  - estimation accuracy
+KW  - estimation reliability
+DO  - 10.1109/COMPSAC.2011.53
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619389
+TI  - More time, more work: How time limits bias estimates of task scope and project duration
+Y1  - 2020
+Y2  - 11
+T2  - JUDGMENT AND DECISION MAKING
+SN  - 1930-2975
+VL  - 15
+IS  - 6
+SP  - 994-1008
+AU  - Goswami, I
+AU  - Urminsky, O
+ER  -
+
+TY  - JOUR
+AN  - rayyan-435619390
+TI  - Impact of Request Formats on Effort Estimation: Are LLMs Different Than Humans?
+Y1  - 2025
+Y2  - 6
+T2  - Proc. ACM Softw. Eng.
+VL  - 2
+AU  - Calikli, G\"{u}l
+AU  - Alhamed, Mohammed
+UR  - https://doi.org/10.1145/3715771
+PB  - Association for Computing Machinery
+CY  - New York, NY, USA
+KW  - Cognitive bias
+KW  - Empirical software engineering
+KW  - Human judgement
+KW  - Large Language Models (LLMs)
+KW  - Software effort estimation
+DO  - 10.1145/3715771
+ER  -
+
+TY  - Conference Article
+AN  - rayyan-435619394
+TI  - Anchoring and adjustment in software estimation - Proceedings of the 10th European Software Engineering Conference Held Jointly with 13th ACM SIGSOFT International Symposium on Foundations of Software Engineering
+Y1  - 2005
+SP  - 346–355
+AU  - Aranda, Jorge
+AU  - Easterbrook, Steve
+UR  - https://doi.org/10.1145/1081706.1081761
+PB  - Association for Computing Machinery
+CY  - New York, NY, USA
+T3  - ESEC/FSE-13
+KW  - anchoring and adjustment
+KW  - cognitive bias
+KW  - effort estimation
+KW  - empirical software engineering
+DO  - 10.1145/1081706.1081761
+ER  -
+

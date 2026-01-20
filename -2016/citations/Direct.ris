@@ -1,0 +1,169 @@
+TY  - JOUR
+T1  - Combining expert knowledge and local data for improved service life modeling of water supply networks
+AU  - Scholten, Lisa
+AU  - Scheidegger, Andreas
+AU  - Reichert, Peter
+AU  - Maurer, Max
+JO  - Environmental Modelling & Software
+VL  - 42
+SP  - 1
+EP  - 16
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2012.11.013
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815212002848
+KW  - Scarce data
+KW  - Expert knowledge elicitation
+KW  - Expert aggregation
+KW  - Bayesian inference
+KW  - Water supply network
+KW  - Service life modeling
+AB  - The presented approach aims to overcome the scarce data problem in service life modeling of water networks by combining subjective expert knowledge and local replacement data. A procedure to elicit imprecise quantile estimates of survival functions from experts, considering common cognitive biases, was developed and applied. The individual expert priors of the parameters of the service life distribution are obtained by regression over the stated distribution quantiles and aggregated into a single prior distribution. Furthermore, a likelihood function for the commonly encountered censored and truncated pipe replacement data is formulated. The suitability of the suggested Bayesian approach based on elicitation data from eight experts and real network data is demonstrated. Robust parameter estimates could be derived in data situations where frequentist maximum likelihood estimation is unsatisfactory, and to show how the consideration of imprecision and in-between-variance of experts improves posterior inference.
+ER  - 
+
+TY  - JOUR
+T1  - The effects of optimistic and pessimistic biasing on software project status reporting
+AU  - Snow, Andrew P.
+AU  - Keil, Mark
+AU  - Wallace, Linda
+JO  - Information & Management
+VL  - 44
+IS  - 2
+SP  - 130
+EP  - 141
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0378-7206
+DO  - https://doi.org/10.1016/j.im.2006.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720606001145
+KW  - Project management and scheduling
+KW  - Reporting bias
+KW  - Software project management
+KW  - Traffic light reporting
+KW  - Information theory
+AB  - Anecdotal evidence suggests that project managers (PMs) sometime provide biased status reports to management. In our research project we surveyed PMs to explore possible motivations for bias, the frequency with which bias occurs, and the strength of the bias typically applied. We found that status reports were biased 60% of the time and that the bias was twice as likely to be optimistic as pessimistic. By applying these results to an information-theoretic model, we estimated that only about 10–15% of biased project status reports were, in fact, accurate and these occurred only when pessimistic bias offset project management status errors. There appeared to be no significant difference in the type or frequency of bias applied to high-risk versus low-risk projects. Our work should provide a better understanding of software project status reporting.
+ER  - 
+
+TY  - JOUR
+T1  - Investigating intentional distortions in software cost estimation – An exploratory study
+AU  - Magazinius, Ana
+AU  - Börjesson, Sofia
+AU  - Feldt, Robert
+JO  - Journal of Systems and Software
+VL  - 85
+IS  - 8
+SP  - 1770
+EP  - 1781
+PY  - 2012
+DA  - 2012/08/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2012.03.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121212000763
+KW  - Cost estimation
+KW  - Distortion
+KW  - Human factors
+KW  - Organizational factors
+KW  - Organizational politics
+KW  - Estimation inaccuracy
+KW  - Software engineering
+KW  - Empirical study
+AB  - Cost estimation of software projects is an important activity that continues to be a source of problems for practitioners despite improvement efforts. Most of the research on estimation has focused on methodological issues while the research focused on human factors primarily has targeted cognitive biases or perceived inhibitors. This paper focuses on the complex organizational context of estimation and investigates whether estimates may be distorted, i.e. intentionally changed for reasons beyond legitimate changes due to changing prerequisites such as requirements or scope. An exploratory study was conducted with 15 interviewees at six large companies that develop software-intensive products. The interviewees represent five stakeholder roles in estimation, with a majority being project or line managers. Document analysis was used to complement the interviews and provided additional context. The results show that both estimate increase and estimate decrease exist and that some of these changes can be explained as intentional distortions. The direction of the distortion depends on the context and the stakeholders involved. The paper underlines that it is critical to consider also human and organizational factors when addressing estimation problems and that intentional estimate distortions should be given more and direct attention.
+ER  - 
+
+TY  - JOUR
+T1  - A spatially distributed risk screening tool to assess climate and land use change impacts on water-related ecosystem services
+AU  - Sample, James E.
+AU  - Baber, Ingrid
+AU  - Badger, Rebecca
+JO  - Environmental Modelling & Software
+VL  - 83
+SP  - 12
+EP  - 26
+PY  - 2016
+DA  - 2016/09/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2016.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815216301475
+KW  - Ecosystem services
+KW  - Land use
+KW  - Climate change
+KW  - Adaptation
+KW  - Qualitative risk assessment
+KW  - Water resources
+AB  - To support the implementation of the European Water Framework Directive (WFD), and as part of a tiered approach to prioritise detailed modelling, a high-level screening methodology has been developed to assess the vulnerability of water-related ecosystem services (ES) to future change. The approach incorporates a range of spatially distributed scenarios of land use and climate, which are used as inputs to a qualitative risk assessment model underpinned by expert opinion. The method makes use of widely available datasets and provides a structured way of capturing and “codifying” expert knowledge, as well as for assessing the degree of consensus between different expert groups. The range of model output reflects uncertainty in both the expert-derived assumptions and the climate & land use simulations considered. The approach has been developed in collaboration with the Scottish Environment Protection Agency (SEPA) and applied in Scotland to support the second cycle of River Basin Management Planning.
+ER  - 
+
+TY  - JOUR
+T1  - Hypothesis-driven information fusion in adversarial, deceptive environments
+AU  - Kott, Alexander
+AU  - Singh, Rajdeep
+AU  - McEneaney, William M.
+AU  - Milks, Wes
+JO  - Information Fusion
+VL  - 12
+IS  - 2
+SP  - 131
+EP  - 144
+PY  - 2011
+DA  - 2011/04/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2010.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253510000771
+KW  - Information fusion
+KW  - Military intelligence
+KW  - Risk-sensitive control
+KW  - Adversarial reasoning
+KW  - Deception analysis
+AB  - The problem domain addressed in this work is urban, armed engagement against a guerilla force. The paper focuses particularly on the algorithm developed to combine incomplete and potentially deceptive observations of the opponent forces and actions into a fused estimate of the opponent’s actual positions and strengths. The algorithm generates and maintains a set of hypotheses, and evaluates each hypothesis in a manner that combines ongoing observations with recognition of the opponent’s efforts to conceal its forces and to deceive. The theoretical foundations of the proposed approach derive primarily from the theory of risk-sensitive control. The paper describes an implementation of the proposed approach that approximates theoretical constructs with heuristics for the sake of computational feasibility in applications that require near-real-time generation of fused estimates. Multiple realistic experiments, including live force experiments, demonstrated quantitatively that the resulting tools are capable of producing estimates at least comparable in accuracy to those produced by competent humans. The paper also discusses the potential incorporation of the tools into operational battle command systems.
+ER  - 
+
+TY  - JOUR
+T1  - Optimistic bias about online privacy risks: Testing the moderating effects of perceived controllability and prior experience
+AU  - Cho, Hichang
+AU  - Lee, Jae-Shin
+AU  - Chung, Siyoung
+JO  - Computers in Human Behavior
+VL  - 26
+IS  - 5
+SP  - 987
+EP  - 995
+PY  - 2010
+DA  - 2010/09/01/
+T2  - Advancing Educational Research on Computer-supported Collaborative Learning (CSCL) through the use of gStudy CSCL Tools
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2010.02.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563210000373
+KW  - Online privacy
+KW  - Optimistic bias
+KW  - Risk judgments
+KW  - Perceived vulnerability
+KW  - Perceived controllability
+KW  - Prior experience
+AB  - This study examined the ways in which Internet users construct their risk judgments about online privacy. The results, based on telephone survey data from a national probability sample in Singapore (n=910), revealed that (a) individuals distinguish between two separate dimensions of risk judgment (personal level and societal level), (b) individuals display a strong optimistic bias about online privacy risks, judging themselves to be significantly less vulnerable than others to these risks, and (c) internal belief (perceived controllability) and individual difference (prior experience) significantly moderate optimistic bias by increasing or decreasing the gap between personal- and societal-level risk estimates. The implications of the findings for research and practice are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - A software tool for elicitation of expert knowledge about species richness or similar counts
+AU  - Fisher, Rebecca
+AU  - O'Leary, Rebecca A.
+AU  - Low-Choy, Samantha
+AU  - Mengersen, Kerrie
+AU  - Caley, M. Julian
+JO  - Environmental Modelling & Software
+VL  - 30
+SP  - 1
+EP  - 14
+PY  - 2012
+DA  - 2012/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2011.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S136481521100274X
+KW  - Elicitation software
+KW  - Estimating counts
+KW  - Species richness
+KW  - Expert elicitation
+KW  - Expert opinion
+KW  - Estimating counts
+AB  - Elicitation of expert knowledge has proven to be useful in a variety of disciplines including ecology, conservation management and policy. Here we report the development of a protocol and software tool that aids elicitation of expert knowledge of complex systems of count data, focusing on a case study of elicitation of species richness estimates for coral reefs. The software uses newly developed elicitation procedures to elicit probability distributions of counts in a structured and ordered protocol. We present a novel tool that has considerable advantage over more classical “survey” type methods for canvassing expert opinion, including the ability to produce rapid feedback based on fitted statistical distributions (thereby ensuring that expert's opinions are captured with accuracy) and a means of estimating credible bounds for estimates (essential when few experts are available). It is user friendly, based on open source software (R and tcl/tk), cross platform (Windows and Mac OSX) and the code can be easily modified to tailor the software to a range of applications.
+ER  - 

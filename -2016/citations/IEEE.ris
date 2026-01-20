@@ -1,0 +1,285 @@
+TY  - CONF
+TI  - Is It Possible to Disregard Obsolete Requirements? An Initial Experiment on a Potentially New Bias in Software Effort Estimation
+T2  - 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+SP  - 56
+EP  - 61
+AU  - L. Gren
+AU  - R. B. Svensson
+AU  - M. Unterkalmsteiner
+PY  - 2017
+DO  - 10.1109/CHASE.2017.10
+JO  - 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE/ACM 10th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)
+Y1  - 23-23 May 2017
+ER  - 
+
+TY  - CONF
+TI  - Performance norms: An approach to rework reduction in software development
+T2  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+SP  - 1
+EP  - 6
+AU  - P. Conroy
+AU  - P. Kruchten
+PY  - 2012
+DO  - 10.1109/CCECE.2012.6335063
+JO  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+IS  - 
+SN  - 0840-7789
+VO  - 
+VL  - 
+JA  - 2012 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+Y1  - 29 April-2 May 2012
+ER  - 
+
+TY  - JOUR
+TI  - Effort Estimation in Agile and DevOps: A Systematic Literature Review of Stakeholder Dissatisfaction
+T2  - IEEE Access
+SP  - 167925
+EP  - 167941
+AU  - S. A. Ruk
+AU  - Y. Mahmood
+AU  - A. Azmi
+AU  - N. Firdaus Mohd Azmi
+AU  - S. Gul
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3600321
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - On the Pose Estimation Software for Measuring Movement Features in the Finger-to-Nose Test
+T2  - 2022 IEEE International Conference on Digital Health (ICDH)
+SP  - 77
+EP  - 86
+AU  - E. Martini
+AU  - N. Valè
+AU  - M. Boldo
+AU  - A. Righetti
+AU  - N. Smania
+AU  - N. Bombieri
+PY  - 2022
+DO  - 10.1109/ICDH55609.2022.00021
+JO  - 2022 IEEE International Conference on Digital Health (ICDH)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Digital Health (ICDH)
+Y1  - 10-16 July 2022
+ER  - 
+
+TY  - CONF
+TI  - Confirming Distortional Behaviors in Software Cost Estimation Practice
+T2  - 2011 37th EUROMICRO Conference on Software Engineering and Advanced Applications
+SP  - 411
+EP  - 418
+AU  - A. Magazinius
+AU  - R. Feldt
+PY  - 2011
+DO  - 10.1109/SEAA.2011.61
+JO  - 2011 37th EUROMICRO Conference on Software Engineering and Advanced Applications
+IS  - 
+SN  - 2376-9505
+VO  - 
+VL  - 
+JA  - 2011 37th EUROMICRO Conference on Software Engineering and Advanced Applications
+Y1  - 30 Aug.-2 Sept. 2011
+ER  - 
+
+TY  - CONF
+TI  - Adaptive multichannel sequential lattice prediction filtering method for range estimation in cognitive radios
+T2  - 2014 IEEE/ION Position, Location and Navigation Symposium - PLANS 2014
+SP  - 426
+EP  - 433
+AU  - M. T. Ozden
+PY  - 2014
+DO  - 10.1109/PLANS.2014.6851400
+JO  - 2014 IEEE/ION Position, Location and Navigation Symposium - PLANS 2014
+IS  - 
+SN  - 2153-3598
+VO  - 
+VL  - 
+JA  - 2014 IEEE/ION Position, Location and Navigation Symposium - PLANS 2014
+Y1  - 5-8 May 2014
+ER  - 
+
+TY  - CONF
+TI  - Biased Manifold Embedding: A Framework for Person-Independent Head Pose Estimation
+T2  - 2007 IEEE Conference on Computer Vision and Pattern Recognition
+SP  - 1
+EP  - 7
+AU  - V. N. Balasubramanian
+AU  - J. Ye
+AU  - S. Panchanathan
+PY  - 2007
+DO  - 10.1109/CVPR.2007.383280
+JO  - 2007 IEEE Conference on Computer Vision and Pattern Recognition
+IS  - 
+SN  - 1063-6919
+VO  - 
+VL  - 
+JA  - 2007 IEEE Conference on Computer Vision and Pattern Recognition
+Y1  - 17-22 June 2007
+ER  - 
+
+TY  - JOUR
+TI  - Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating and Convergence
+T2  - IEEE Transactions on Mobile Computing
+SP  - 459
+EP  - 471
+AU  - H. Xie
+AU  - J. C. S. Lui
+PY  - 2023
+DO  - 10.1109/TMC.2021.3072477
+JO  - IEEE Transactions on Mobile Computing
+IS  - 1
+SN  - 1558-0660
+VO  - 22
+VL  - 22
+JA  - IEEE Transactions on Mobile Computing
+Y1  - 1 Jan. 2023
+ER  - 
+
+TY  - JOUR
+TI  - Cognitive Sensors Based on Ridge Phase-Smoothing Localization and Multiregional Histograms of Oriented Gradients
+T2  - IEEE Transactions on Emerging Topics in Computing
+SP  - 123
+EP  - 134
+AU  - B. -W. Chen
+AU  - S. Rho
+AU  - M. imran
+AU  - M. Guizani
+AU  - W. -K. Fan
+PY  - 2019
+DO  - 10.1109/TETC.2016.2585040
+JO  - IEEE Transactions on Emerging Topics in Computing
+IS  - 1
+SN  - 2168-6750
+VO  - 7
+VL  - 7
+JA  - IEEE Transactions on Emerging Topics in Computing
+Y1  - 1 Jan.-March 2019
+ER  - 
+
+TY  - CONF
+TI  - Face Biometric Fairness Evaluation on Real vs Synthetic Cross-Spectral Images
+T2  - 2022 IEEE 4th International Conference on Cognitive Machine Intelligence (CogMI)
+SP  - 101
+EP  - 106
+AU  - K. Lai
+AU  - V. Shmerko
+AU  - S. Yanushkevich
+PY  - 2022
+DO  - 10.1109/CogMI56440.2022.00024
+JO  - 2022 IEEE 4th International Conference on Cognitive Machine Intelligence (CogMI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 4th International Conference on Cognitive Machine Intelligence (CogMI)
+Y1  - 14-17 Dec. 2022
+ER  - 
+
+TY  - CONF
+TI  - Adaptive multichannel sequential lattice prediction filtering method for cognitive radio spectrum sensing in subbands
+T2  - 2012 IV International Congress on Ultra Modern Telecommunications and Control Systems
+SP  - 961
+EP  - 968
+AU  - M. T. Ozden
+PY  - 2012
+DO  - 10.1109/ICUMT.2012.6459798
+JO  - 2012 IV International Congress on Ultra Modern Telecommunications and Control Systems
+IS  - 
+SN  - 2157-023X
+VO  - 
+VL  - 
+JA  - 2012 IV International Congress on Ultra Modern Telecommunications and Control Systems
+Y1  - 3-5 Oct. 2012
+ER  - 
+
+TY  - CONF
+TI  - A Novel DOA Estimation Method of Several Sources for 5G Networks
+T2  - 2020 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)
+SP  - 1
+EP  - 6
+AU  - A. Abdelbari
+AU  - B. Bilgehan
+PY  - 2020
+DO  - 10.1109/ICECCE49384.2020.9179306
+JO  - 2020 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Electrical, Communication, and Computer Engineering (ICECCE)
+Y1  - 12-13 June 2020
+ER  - 
+
+TY  - CONF
+TI  - Robust WCET Estimation via Ensemble Learning with Fractional-Order Legendre Function Kernels
+T2  - 2025 Fifth National and the First International Conference on Applied Research in Electrical Engineering (AREE)
+SP  - 1
+EP  - 8
+AU  - A. H. A. Monfared
+AU  - M. M. Moghaddam
+AU  - S. Sharif-Bakhtiar
+AU  - K. Parand
+AU  - K. Borna
+PY  - 2025
+DO  - 10.1109/AREE63378.2025.10880291
+JO  - 2025 Fifth National and the First International Conference on Applied Research in Electrical Engineering (AREE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Fifth National and the First International Conference on Applied Research in Electrical Engineering (AREE)
+Y1  - 4-5 Feb. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Command and control (C2) theory: A challenge to control science
+T2  - IEEE Transactions on Automatic Control
+SP  - 286
+EP  - 293
+AU  - M. Athans
+PY  - 1987
+DO  - 10.1109/TAC.1987.1104607
+JO  - IEEE Transactions on Automatic Control
+IS  - 4
+SN  - 1558-2523
+VO  - 32
+VL  - 32
+JA  - IEEE Transactions on Automatic Control
+Y1  - April 1987
+ER  - 
+
+TY  - CONF
+TI  - Volumetric reconstruction applied to perceptual studies of size and weight
+T2  - IEEE Winter Conference on Applications of Computer Vision
+SP  - 45
+EP  - 52
+AU  - J. Balzer
+AU  - M. Peters
+AU  - S. Soatto
+PY  - 2014
+DO  - 10.1109/WACV.2014.6836119
+JO  - IEEE Winter Conference on Applications of Computer Vision
+IS  - 
+SN  - 1550-5790
+VO  - 
+VL  - 
+JA  - IEEE Winter Conference on Applications of Computer Vision
+Y1  - 24-26 March 2014
+ER  - 
+
+

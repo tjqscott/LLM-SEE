@@ -1,0 +1,201 @@
+﻿TY  - JOUR
+AU  - Wilcockson, TDW
+AU  - Pothos, EM
+AU  - Cox, WM
+TI  - An online cognitive bias task: the Rough Estimation Task using Qualtrics
+T2  - BEHAVIOURAL PHARMACOLOGY
+AB  - Measurement of cognitive bias typically relies on laboratory-based tasks. In order for cognitive bias measures to be useful outside of laboratory settings, a simple measure is required which does not rely on precise measurement tools, for example, precise reaction time measurement (which can be done only with specialized software typically running through either dedicated hardware or specifically configured computers). The Rough Estimation Task is a simple reading task which has been previously shown to be an effective measure of alcohol-related cognitive bias. We conducted an online version of the Rough Estimation Task, so that we could measure cognitive bias away from a laboratory environment. We also measured whether baseline Rough Estimation Task scores could predict future drinking and Rough Estimation Task scores. A sample of undergraduate participants completed the study online. We found that the online Rough Estimation Task was associated with both current and future drinking, as measured in a follow-up online task. The results imply that the online Rough Estimation Task could be used as a simple online measure of cognitive bias for both concurrent and future drinking behavior, and so raises hope for employing this measure outside of laboratory settings and possibly even in clinical applications.
+SN  - 0955-8810
+SN  - 1473-5849
+DA  - FEB
+PY  - 2020
+VL  - 31
+IS  - 1
+SP  - 97
+EP  - 101
+DO  - 10.1097/FBP.0000000000000508
+AN  - WOS:000528911400010
+ER  -
+
+TY  - CPAPER
+AU  - Conroy, P
+AU  - Kruchten, P
+A1  - IEEE
+TI  - PERFORMANCE NORMS: AN APPROACH TO REWORK REDUCTION IN SOFTWARE DEVELOPMENT
+T2  - 2012 25TH IEEE CANADIAN CONFERENCE ON ELECTRICAL & COMPUTER ENGINEERING (CCECE)
+CP  - 25th IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)
+AB  - Rework consumes large portions of software engineering budgets. Human factors, and Cognitive Bias in particular, have been shown in other disciplines to be implicated in the kinds of reasoning errors that lead to rework. Research of these phenomena in software engineering lags similar efforts in other disciplines. This study identifies the Performance Norms, standards by which Cognitive Biases are determined to have occurred, in a single but critically important software engineering task: Estimating. Analysis of data from professional practitioners regarding real-life situations indicates that several Performance Norms for Estimating are often 'in play', the least important being that assumed in previous, lab-based experiments. Most of these Norms require skills very different from those in which most technical personnel are trained. We conclude that rework reduction efforts will continue to falter until Performance Norms are recognized as key determinants in software engineering practice.
+SN  - 978-1-4673-1433-6
+PY  - 2012
+AN  - WOS:000312379300249
+ER  -
+
+TY  - CPAPER
+AU  - Ralph, P
+ED  - Wrycza, S
+TI  - Toward a Theory of Debiasing Software Development
+T2  - RESEARCH IN SYSTEMS ANALYSIS AND DESIGN: MODELS AND METHODS
+CP  - 4th SIGSAND/PLAIS Symposium on systems Analysis and Design
+AB  - Despite increasingly sophisticated programming languages, software developer training, testing tools, integrated development environments and project management techniques, software project failure, abandonment and overrun rates remain high. One way to address this is to focus on common systematic errors made by software project participants. In many cases, such errors are manifestations of cognitive biases. Consequently this paper proposes a theory of the role of cognitive biases in software development project success. The proposed theory posits that such errors are mutual properties of people and tasks; they may therefore be avoided by modifying the person-task system using specific sociotechnical interventions. The theory is illustrated using the case of planning poker, a task estimation technique designed to overcome anchoring bias.
+SN  - 1865-1348
+SN  - 1865-1356
+SN  - 978-3-642-25675-2
+PY  - 2011
+VL  - 93
+SP  - 92
+EP  - 105
+AN  - WOS:000307087300008
+ER  -
+
+TY  - CPAPER
+AU  - Shepperd, M
+AU  - Mair, C
+AU  - Jorgensen, M
+A1  - Assoc Comp Machinery
+TI  - An Experimental Evaluation of a De-biasing Intervention for Professional Software Developers
+T2  - 33RD ANNUAL ACM SYMPOSIUM ON APPLIED COMPUTING
+CP  - 33rd Annual ACM Symposium on Applied Computing (ACM SAC)
+AB  - Context: The role of expert judgement is essential in our quest to improve software project planning and execution. However, its accuracy is dependent on many factors, not least the avoidance of judgement biases, such as the anchoring bias, arising from being influenced by initial information, even when it's misleading or irrelevant. This strong effect is widely documented.
+   Objective: We aimed to replicate this anchoring bias using professionals and, novel in a software engineering context, explore de-biasing interventions through increasing knowledge and awareness of judgement biases.
+   Method: We ran two series of experiments in company settings with a total of 410 software developers. Some developers took part in a workshop to heighten their awareness of a range of cognitive biases, including anchoring. Later, the anchoring bias was induced by presenting low or high productivity values, followed by the participants' estimates of their own project productivity. Our hypothesis was that the workshop would lead to reduced bias, i.e., work as a de-biasing intervention.
+   Results: The anchors had a large effect (robust Cohen's d = 1.19) in influencing estimates. This was substantially reduced in those participants who attended the workshop (robust Cohen's d = 0.72). The reduced bias related mainly to the high anchor. The de-biasing intervention also led to a threefold reduction in estimate variance.
+   Conclusion: The impact of anchors upon judgement was substantial. Learning about judgement biases does appear capable of mitigating, although not removing, the anchoring bias. The positive effect of de-biasing through learning about biases suggests that it has value.
+SN  - 978-1-4503-5191-1
+PY  - 2018
+SP  - 1510
+EP  - 1517
+DO  - 10.1145/3167132.3167293
+AN  - WOS:000455180700214
+ER  -
+
+TY  - JOUR
+AU  - Çalikli, G
+AU  - Bener, AB
+TI  - Influence of confirmation biases of developers on software quality: an empirical study
+T2  - SOFTWARE QUALITY JOURNAL
+AB  - The thought processes of people have a significant impact on software quality, as software is designed, developed and tested by people. Cognitive biases, which are defined as patterned deviations of human thought from the laws of logic and mathematics, are a likely cause of software defects. However, there is little empirical evidence to date to substantiate this assertion. In this research, we focus on a specific cognitive bias, confirmation bias, which is defined as the tendency of people to seek evidence that verifies a hypothesis rather than seeking evidence to falsify a hypothesis. Due to this confirmation bias, developers tend to perform unit tests to make their program work rather than to break their code. Therefore, confirmation bias is believed to be one of the factors that lead to an increased software defect density. In this research, we present a metric scheme that explores the impact of developers' confirmation bias on software defect density. In order to estimate the effectiveness of our metric scheme in the quantification of confirmation bias within the context of software development, we performed an empirical study that addressed the prediction of the defective parts of software. In our empirical study, we used confirmation bias metrics on five datasets obtained from two companies. Our results provide empirical evidence that human thought processes and cognitive aspects deserve further investigation to improve decision making in software development for effective process management and resource allocation.
+SN  - 0963-9314
+SN  - 1573-1367
+DA  - JUN
+PY  - 2013
+VL  - 21
+IS  - 2
+SP  - 377
+EP  - 416
+DO  - 10.1007/s11219-012-9180-0
+AN  - WOS:000316746700007
+ER  -
+
+TY  - JOUR
+AU  - Gren, L
+AU  - Svensson, RB
+TI  - Is it possible to disregard obsolete requirements? a family of experiments in software effort estimation
+T2  - REQUIREMENTS ENGINEERING
+AB  - Expert judgement is a common method for software effort estimations in practice today. Estimators are often shown extra obsolete requirements together with the real ones to be implemented. Only one previous study has been conducted on if such practices bias the estimations. We conducted six experiments with both students and practitioners to study, and quantify, the effects of obsolete requirements on software estimation. By conducting a family of six experiments using both students and practitioners as research subjects (N=461), and by using a Bayesian Data Analysis approach, we investigated different aspects of this effect. We also argue for, and show an example of, how we by using a Bayesian approach can be more confident in our results and enable further studies with small sample sizes. We found that the presence of obsolete requirements triggered an overestimation in effort across all experiments. The effect, however, was smaller in a field setting compared to using students as subjects. Still, the over-estimations triggered by the obsolete requirements were systematically around twice the percentage of the included obsolete ones, but with a large 95% credible interval. The results have implications for both research and practice in that the found systematic error should be accounted for in both studies on software estimation and, maybe more importantly, in estimation practices to avoid over-estimations due to this systematic error. We partly explain this error to be stemming from the cognitive bias of anchoring-and-adjustment, i.e. the obsolete requirements anchored a much larger software. However, further studies are needed in order to accurately predict this effect.
+SN  - 0947-3602
+SN  - 1432-010X
+DA  - SEP
+PY  - 2021
+VL  - 26
+IS  - 3
+SP  - 459
+EP  - 480
+DO  - 10.1007/s00766-021-00351-7
+C6  - APR 2021
+AN  - WOS:000639369700001
+ER  -
+
+TY  - JOUR
+AU  - Shmueli, O
+AU  - Pliskin, N
+AU  - Fink, L
+TI  - Can the outside-view approach improve planning decisions in software development projects?
+T2  - INFORMATION SYSTEMS JOURNAL
+AB  - This study empirically tackles the question of whether taking an outside-view approach, recommended for reducing the irrational behaviours associated with the planning fallacy, can also reduce the time underestimation, scope overload and over-requirement problems plaguing planning decisions in software development. Drawing on descriptive behavioural decision theory, this study examines whether the planning fallacy, a cognitive bias referring to the tendency of people to underestimate costs and overestimate benefits in evaluating a task to be performed, can provide a theoretical platform for mitigating irrational behaviours in the planning of software development projects. In particular, we argue that taking an outside-view approach in planning decisions for software development may have the same mitigating effects on time underestimation, scope overload and over-requirement it has been shown to have on cost underestimation and benefit overestimation. In an experiment investigating this argument, participants were randomly assigned to four groups by manipulating two outside-view mechanisms: reference information about past completion times (present/absent) and role perspective (developer/consultant). After being presented with a to-be-developed software project, they were requested to estimate development times of various software features and to recommend which features to include within project scope given a fixed duration for the entire project. The results confirm that the three problems of time underestimation, scope overload and over-requirement are manifested in planning decisions for fixed-schedule software development projects. Moreover, the results show that these problems are mitigated, yet not eliminated, by presenting reference information about past completion times and by having a consultant role.
+SN  - 1350-1917
+SN  - 1365-2575
+DA  - JUL
+PY  - 2016
+VL  - 26
+IS  - 4
+SP  - 395
+EP  - 418
+DO  - 10.1111/isj.12091
+AN  - WOS:000378422300005
+ER  -
+
+TY  - CPAPER
+AU  - Ahmetoglu, Y
+AU  - Brumby, DP
+AU  - Cox, AL
+A1  - ASSOC COMPUTING MACHINERY
+TI  - Bridging the Gap Between Time Management Research and Task Management App Design: A Study on the Integration of Planning Fallacy Mitigation Strategies
+T2  - PROCEEDINGS OF THE 3RD ANNUAL MEETING OF THE SYMPOSIUM ON HUMAN-COMPUTER INTERACTION FOR WORK, CHIWORK 2024
+CP  - 3rd Symposium on Human-Computer Interaction for Work (CHIWORK)
+AB  - Accurate time estimations are vital for meeting deadlines and reducing work-related stress, yet individuals frequently succumb to a wide-spread cognitive bias, the planning fallacy, resulting in poor time management. This research article reports on two studies aimed at addressing this challenge. First, through a review of the psychological literature, we identify four key strategies recommended by research for supporting accurate time estimations in daily tasks. These strategies serve as the foundation for the second study, where we conduct a functionality analysis of prevalent personal task management apps to investigate their alignment with the identified strategies. Our analysis reveals a significant disparity: while research-informed strategies are recommended, they are rarely implemented to a good standard in current apps. This discrepancy emphasizes the importance of addressing this gap between theory and practice. By highlighting the need for future efforts to focus on aiding workers in task duration estimation, this study identifies opportunities for improving the design of task management software to enhance user productivity and alleviate stress.
+SN  - 979-8-4007-1017-9
+PY  - 2024
+C7  - 12
+DO  - 10.1145/3663384.3663404
+AN  - WOS:001266116300012
+ER  -
+
+TY  - JOUR
+AU  - Xie, H
+AU  - Lui, JCS
+TI  - Quantifying Worker Reliability for Crowdsensing Applications: Robust Feedback Rating and Convergence
+T2  - IEEE TRANSACTIONS ON MOBILE COMPUTING
+AB  - Worker reliability estimation is a fundamental problem in crowdsensing applications. This paper proposes a robust feedback rating approach to estimate worker reliability explicitly. In this approach, the requester provides a feedback rating to reflect the quality of the sensor data submitted by each worker. The aggregation of each worker's historical feedback ratings serves as a reliability estimate. The challenges are: (1) Feedback ratings are subjected to noise; (2) Workers' cognitive bias in task selection leads to sensor data quality variations. We develop a mathematical model to quantify rating noise from requesters and the degree of cognitive bias of workers in task selection. We derive sufficient conditions, under which the aggregate rating is asymptotically accurate in estimating worker reliability, via stochastic approximation techniques. These conditions identify a class of asymptotically accurate rating aggregation rules for crowdsensing applications. We further derive the minimum number of ratings needed to guarantee a given reliability estimation accuracy, via martingale theory. Via extensive experiments: (1) We reveal fundamental understandings on how various factors such as rating noise influence the minimum number of ratings needed to achieve certain accuracy; (2) We show that our feedback rating approach improves air quality index estimation accuracy by as high as 50 percent over the a typical baseline algorithm.
+SN  - 1536-1233
+SN  - 1558-0660
+DA  - JAN 1
+PY  - 2023
+VL  - 22
+IS  - 1
+SP  - 459
+EP  - 471
+DO  - 10.1109/TMC.2021.3072477
+AN  - WOS:000894974200030
+ER  -
+
+TY  - CPAPER
+AU  - Chen, PH
+AU  - Botzolakis, E
+AU  - Mohan, S
+AU  - Bryan, RN
+AU  - Cook, T
+ED  - Zhang, J
+ED  - Cook, TS
+TI  - Feasibility of Streamlining an Interactive Bayesian-Based Diagnostic Support Tool Designed for Clinical Practice
+T2  - MEDICAL IMAGING 2016: PACS AND IMAGING INFORMATICS: NEXT GENERATION AND INNOVATIONS
+CP  - Conference on Medical Imaging - PACS and Imaging Informatics - Next Generation and Innovations
+AB  - In radiology, diagnostic errors occur either through the failure of detection or incorrect interpretation. Errors are estimated to occur in 30-35% of all exams and contribute to 40-54% of medical malpractice litigations. In this work, we focus on reducing incorrect interpretation of known imaging features.
+   Existing literature categorizes cognitive bias leading a radiologist to an incorrect diagnosis despite having correctly recognized the abnormal imaging features: anchoring bias, framing effect, availability bias, and premature closure. Computational methods make a unique contribution, as they do not exhibit the same cognitive biases as a human. Bayesian networks formalize the diagnostic process. They modify pre-test diagnostic probabilities using clinical and imaging features, arriving at a post-test probability for each possible diagnosis.
+   To translate Bayesian networks to clinical practice, we implemented an entirely web-based open-source software tool. In this tool, the radiologist first selects a network of choice (e.g. basal ganglia). Then, large, clearly labeled buttons displaying salient imaging features are displayed on the screen serving both as a checklist and for input. As the radiologist inputs the value of an extracted imaging feature, the conditional probabilities of each possible diagnosis are updated. The software presents its level of diagnostic discrimination using a Pareto distribution chart, updated with each additional imaging feature.
+   Active collaboration with the clinical radiologist is a feasible approach to software design and leads to design decisions closely coupling the complex mathematics of conditional probability in Bayesian networks with practice.
+SN  - 0277-786X
+SN  - 1996-756X
+SN  - 978-1-5106-0024-9
+PY  - 2016
+VL  - 9789
+C7  - 97890C
+DO  - 10.1117/12.2216574
+AN  - WOS:000378538300009
+ER  -
+
+TY  - JOUR
+AU  - Goswami, I
+AU  - Urminsky, O
+TI  - More time, more work: How time limits bias estimates of task scope and project duration
+T2  - JUDGMENT AND DECISION MAKING
+AB  - We propose that externally induced time limits on a task overly affect predictions of other people's completion times for that task, due to an over-generalized association between the time available and inferred task scope. We find higher estimates of the time needed to complete a given task by another person when the time limit is longer. While such predictions could be normative when time limits are informative, the effect persists even when the decision-maker knows that the limit is arbitrary and is unknown to the other person, and therefore, cannot affect behavior. Perception of task scope mediates the relationship between time limits and completion time estimates, and weakening the association between time limits and task scope attenuates the effect. The over-learned cognitive bias persists even among experienced decision-makers making estimates in a familiar setting. Our findings have implications for people who make decisions that use judgments of others' task completion time as an input.
+SN  - 1930-2975
+DA  - NOV
+PY  - 2020
+VL  - 15
+IS  - 6
+SP  - 994
+EP  - 1008
+AN  - WOS:000595304900015
+ER  -
+

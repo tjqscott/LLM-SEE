@@ -1,0 +1,986 @@
+TY  - JOUR
+T1  - Bias and discrimination in ML-based systems of administrative decision-making and support
+AU  - MAC, Trang Anh
+JO  - Computer Law & Security Review
+VL  - 55
+SP  - 106070
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 2212-473X
+DO  - https://doi.org/10.1016/j.clsr.2024.106070
+UR  - https://www.sciencedirect.com/science/article/pii/S0267364924001365
+KW  - Bias
+KW  - Discrimination
+KW  - AI
+KW  - Machine learning
+KW  - Decision-making
+KW  - Support
+AB  - In 2020, the alleged wilful and gross negligence of four social workers, who did not notice and failed to report the risks to an eight-year-old boy's life from the violent abuses by his mother and her boyfriend back in 2013, ultimately leading to his death, had been heavily criticised.11*Trang Anh MAC, LLM. Digital Law, University of Paris XII Est-Créteil, reporter at AstraIA Gear. This paper is the English version of her master thesis, under supervision of Dr. Laurie MARGUET and Prof. Florent MADELAINE A. Reyes-Velarde, Charges dismissed against social workers linked to Gabriel Fernandez's killing, Los Angeles Times, 16 Jul 2020, available online at https://www.latimes.com/california/story/2020-07-15/charges-against-the-social-workers-linked-to-gabriel-fernandez-killing-will-be-dropped The documentary, Trials of Gabriel Fernandez in 2020,22https://www.imdb.com/title/tt11822998/ has discussed the Allegheny Family Screening Tool (AFST33Allegheny County, Allegheny Family Screening Tool, available online at https://www.alleghenycounty.us/Services/Human-Services-DHS/DHS-News-and-Events/Accomplishments-and-Innovations/Allegheny-Family-Screening-Tool), implemented by Allegheny County, US since 2016 to foresee involvement with the social services system. Rhema Vaithianathan44Bio of Prof. Rhema Vaithianathan. Available online at https://academics.aut.ac.nz/rhema.vaithianathan, the Centre for Social Data Analytics co-director, and the Children's Data Network55Our team, Children’s Data Network. Available online at https://www.datanetwork.org/people/ members, with Emily Putnam-Hornstein66Bio of PhD. Emily Putnam-Hornstein. Available online at https://www.datanetwork.org/people/#emily-putnam-hornstein, established the exemplary and screening tool, integrating and analysing enormous amounts of data details of the person allegedly associating to injustice to children, housed in DHS Data Warehouse77Allegheny County, DHS Data Warehouse. Available online at https://www.alleghenycounty.us/Services/Human-Services-DHS/DHS-News-and-Events/Accomplishments-and-Innovations/DHS-Data-Warehouse. They considered that may be the solution for the failure of the overwhelmed manual administrative systems. However, like other applications of AI in our modern world, in the public sector, Algorithmic Decisions Making and Support systems, it is also denounced because of the data and algorithmic bias.88N. LaGrone, Can AI Reduce Harm to Children?: Gabriel Fernandez and the Case for Machine Learning, 9 April 2020, available online at https://www.azavea.com/blog/2020/04/09/can-ai-reduce-harm-to-children/ This topic has been weighed up for the last few years but not has been put to an end yet. Therefore, this humble research is a glance through the problems - the bias and discrimination of AI based Administrative Decision Making and Support systems. At first, I determined the bias and discrimination, their blur boundary between two definitions from the legal perspective, then went into the details of the causes of bias in each stage of AI system development, mainly as the results of bias data sources and human decisions in the past, society and political contexts, and the developers’ ethics. In the same chapter, I presented the non-discrimination legal framework, including their application and convergence with the administration laws in regard to the automated decision making and support systems, as well as the involvement of ethics and regulations on personal data protection. In the next chapter, I tried to outline new proposals for potential solutions from both legal and technical perspectives. In respect to the former, my focus was fairness definitions and other current options for the developers, for example, the toolkits, benchmark datasets, debiased data, etc. For the latter, I reported the strategies and new proposals governing the datasets and AI systems development, implementation in the near future.
+ER  - 
+
+TY  - JOUR
+T1  - The level of strength of an explanation: A quantitative evaluation technique for post-hoc XAI methods
+AU  - Bello, Marilyn
+AU  - Amador, Rosalís
+AU  - García, María-Matilde
+AU  - Ser, Javier Del
+AU  - Mesejo, Pablo
+AU  - Cordón, Óscar
+JO  - Pattern Recognition
+VL  - 161
+SP  - 111221
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0031-3203
+DO  - https://doi.org/10.1016/j.patcog.2024.111221
+UR  - https://www.sciencedirect.com/science/article/pii/S0031320324009725
+KW  - Explainable artificial intelligence
+KW  - Trustworthiness
+KW  - Feature attribution
+KW  - Quantitative evaluation
+KW  - Likelihood ratio
+AB  - Explainability has become one of the leading research topics within Artificial Intelligence (AI) in the last few years, as it has increased the confidence and credibility of “black box” models, such as deep neural networks. However, the evaluation of the explanations provided by different explainability approaches remains a hot research topic. This evaluation enables the possibility of comparing different existing techniques and would play a crucial role in improving the auditability of AI-based systems. The current literature on the subject considers that the evaluation of explainability methods can be approached in two ways: qualitative and quantitative. While qualitative evaluations are based on assumptions induced by human understanding that are hard to develop and prone to introduce certain cognitive biases, quantitative ones avoid these biases by excluding the human expert from the evaluation process. However, the main challenge in quantitatively evaluating an explanation is the lack of ground truth specifying what defines a correct explanation. In this paper, we propose an evaluation measure that quantifies the Level of Strength of an Explanation (LSE), i.e., the extent to which the explanation produced by a post-hoc explainability method supports the class predicted by a classifier. Our proposal is inspired by the semantics underlying the Likelihood Ratio in evaluating forensic evidence, which is defined as the weight to be attributed to a piece of forensic evidence according to the prosecution and defense propositions. To validate our proposal, nine popular explainability techniques are compared across two deep neural architectures dedicated to image classification and three classifiers for binary classification over tabular datasets. In addition, we use MetaQuantus as a meta-evaluation approach. Results from our experimental study reveal that GradCAM and LRP outperform the other explainability methods in terms of the proposed LSE measure.
+ER  - 
+
+TY  - JOUR
+T1  - Continuous reinforcement learning via advantage value difference reward shaping: A proximal policy optimization perspective
+AU  - Lin, Jiawei
+AU  - Wei, Xuekai
+AU  - Xian, Weizhi
+AU  - Yan, Jielu
+AU  - U, Leong Hou
+AU  - Feng, Yong
+AU  - Shang, Zhaowei
+AU  - Zhou, Mingliang
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 151
+SP  - 110676
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2025.110676
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197625006761
+KW  - Deep reinforcement learning
+KW  - Continuous control tasks
+KW  - Reward shaping
+KW  - Advantage value difference
+KW  - Temporal difference error
+AB  - Deep reinforcement learning has shown great promise in industrial applications. However, these algorithms suffer from low learning efficiency because of sparse reward signals in continuous control tasks. Reward shaping addresses this issue by transforming sparse rewards into more informative signals, but some designs that rely on domain experts or heuristic rules can introduce cognitive biases, leading to suboptimal solutions. To overcome this challenge, this paper proposes the advantage value difference (AVD), a generalized potential-based end-to-end exploration reward function. The main contribution of this paper is to improve the agent’s exploration efficiency, accelerate the learning process, and prevent premature convergence to local optima. The method leverages the temporal difference error to estimate the potential of states and uses the advantage function to guide the learning process toward more effective strategies. In the context of engineering applications, this paper proves the superiority of AVD in continuous control tasks within the multi-joint dynamics with contact (MuJoCo) environment. Specifically, the proposed method achieves an average increase of 23.5% in episode rewards for the Hopper, Swimmer, and Humanoid tasks compared with the state-of-the-art approaches. The results demonstrate the significant improvement in learning efficiency achieved by AVD for industrial robotic systems.
+ER  - 
+
+TY  - JOUR
+T1  - Advancements in biomedical rendering: A survey on AI-based denoising techniques
+AU  - Denisova, Elena
+AU  - Francia, Piergiorgio
+AU  - Nardi, Cosimo
+AU  - Bocchi, Leonardo
+JO  - Computers in Biology and Medicine
+VL  - 197
+SP  - 110979
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2025.110979
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482525013319
+KW  - Realistic volumetric rendering
+KW  - Diagnostic imaging
+KW  - Artificial intelligence
+KW  - Surveys and questionnaires
+AB  - A recent investigation into deep learning-based denoising for early Monte Carlo (MC) Path Tracing in computed tomography (CT) volume visualization yielded promising quantitative outcomes but inconsistent qualitative assessments. This research probes the underlying causes of this incongruity by deploying a web-based SurveyMonkey questionnaire distributed among healthcare professionals. The survey targeted radiologists, residents, orthopedic surgeons, and veterinarians, leveraging the authors’ professional networks for dissemination. To evaluate perceptions, the questionnaire featured randomized sections gauging attitudes towards AI-enhanced image and video quality, confidence in reference images, and clinical applicability. Seventy-four participants took part, encompassing a spectrum of experience levels: <1 year (n=11), 1–3 years (n=27), 3–5 years (n=12), and >5 years (n=24). A substantial majority (77%) expressed a preference for AI-enhanced images over traditional MC estimates, a preference influenced by participant experience (adjusted OR 0.81, 95% CI 0.67–0.98, p=0.033). Experience correlates with confidence in AI-generated images (adjusted OR 0.98, 95% CI 0.95–1, p=0.018–0.047) and satisfaction with video previews, both with and without AI (adjusted OR 0.96–0.98, 95% CI 0.92–1, p = 0.033–0.048). Significant monotonic relationships emerged between experience, confidence (σ = 0.25–0.26, p = 0.025–0.029), and satisfaction (σ = 0.23–0.24, p = 0.037–0.046). The findings underscore the potential of AI post-processing to improve the rendering of biomedical volumes, noting enhanced confidence and satisfaction among experienced participants. The study reveals that participants’ preferences may not align perfectly with quality metrics such as peak signal-to-noise ratio and structural similarity index, highlighting nuances in evaluating AI’s qualitative impact on CT image denoising.
+ER  - 
+
+TY  - JOUR
+T1  - UIR-ES: An unsupervised underwater image restoration framework with equivariance and stein unbiased risk estimator
+AU  - Zhu, Jiacheng
+AU  - Wen, Junjie
+AU  - Hong, Duanqin
+AU  - Lin, Zhanpeng
+AU  - Hong, Wenxing
+JO  - Image and Vision Computing
+VL  - 151
+SP  - 105285
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0262-8856
+DO  - https://doi.org/10.1016/j.imavis.2024.105285
+UR  - https://www.sciencedirect.com/science/article/pii/S0262885624003901
+KW  - Underwater image restoration
+KW  - Unsupervised learning
+KW  - Equivariance
+KW  - Stein unbiased risk estimator
+AB  - Underwater imaging faces challenges for enhancing object visibility and restoring true colors due to the absorptive and scattering characteristics of water. Underwater image restoration (UIR) seeks solutions to restore clean images from degraded ones, providing significant utility in downstream tasks. Recently, data-driven UIR has garnered much attention due to the potent expressive capabilities of deep neural networks (DNNs). These DNNs are supervised, relying on a large amount of labeled training samples. However, acquiring such data is expensive or even impossible in real-world underwater scenarios. While recent researches suggest that unsupervised learning is effective in UIR, none of these frameworks consider signal physical priors. In this work, we present a novel physics-inspired unsupervised UIR framework empowered by equivariance and unbiased estimation techniques. Specifically, equivariance stems from the invariance, inherent in natural signals to enhance data-efficient learning. Given that degraded images invariably contain noise, we propose a noise-tolerant loss for unsupervised UIR based on the Stein unbiased risk estimator to achieve an accurate estimation of the data consistency. Extensive experiments on the benchmark UIR datasets, including the UIEB and RUIE datasets, validate the superiority of the proposed method in terms of quantitative scores, visual outcomes, and generalization ability, compared to state-of-the-art counterparts. Moreover, our method demonstrates even comparable performance with the supervised model.
+ER  - 
+
+TY  - JOUR
+T1  - Including insider threats into risk management through Bayesian threat graph networks
+AU  - d'Ambrosio, Nicola
+AU  - Perrone, Gaetano
+AU  - Romano, Simon Pietro
+JO  - Computers & Security
+VL  - 133
+SP  - 103410
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103410
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823003206
+KW  - Insider threats
+KW  - Risk assessment
+KW  - Risk management
+KW  - Bayesian attack graphs
+KW  - Attack graphs
+KW  - Data security
+AB  - Cybersecurity incidents do represent a serious danger for companies. In fact, the number of cyber crimes is exponentially growing in a scenario where the global COVID-19 pandemic determined several conditions that have negatively affected companies' cyber-security posture. The adoption of risk management processes can help reduce security threats and mitigate both financial and reputation losses. In computer systems, it is crucial to relate security risks to the system infrastructure. Bayesian attack graph models can help reach such a goal. The approach is very effective as it allows to define the attack paths an attacker would perform against a specific network infrastructure. In this way, it is possible to construct a truthful representation of a company's security risks that cannot be obtained with other approaches. Still, Bayesian risk management approaches are usually based on advanced threats. Namely, those threats relate to vulnerabilities that can only be exploited by a skilled attacker. Although several works enrich the expressiveness of the proposed Bayesian model, current proposals do not provide insights into how it is possible to estimate security control costs, asset values, and threat probabilities for other types of threats. Furthermore, they do not take insider threats into consideration. This work shows that a risk management framework based on Bayesian Attack Graphs can be adapted to include a variety of threats, including those related to the insiders. We first extend an interesting work based on Bayesian Decision Networks to cover a broader range of threats. Then, we formalize several concepts, such as security control coverage and risk strategy, and show that our model can easily integrate insider threats when specific properties are defined. Finally, in order to address insider threats, we enrich the model with security controls that differ from the standard ones, such as technical IT training sessions and employee satisfaction surveys.
+ER  - 
+
+TY  - JOUR
+T1  - Hypothesis-driven information fusion in adversarial, deceptive environments
+AU  - Kott, Alexander
+AU  - Singh, Rajdeep
+AU  - McEneaney, William M.
+AU  - Milks, Wes
+JO  - Information Fusion
+VL  - 12
+IS  - 2
+SP  - 131
+EP  - 144
+PY  - 2011
+DA  - 2011/04/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2010.09.001
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253510000771
+KW  - Information fusion
+KW  - Military intelligence
+KW  - Risk-sensitive control
+KW  - Adversarial reasoning
+KW  - Deception analysis
+AB  - The problem domain addressed in this work is urban, armed engagement against a guerilla force. The paper focuses particularly on the algorithm developed to combine incomplete and potentially deceptive observations of the opponent forces and actions into a fused estimate of the opponent’s actual positions and strengths. The algorithm generates and maintains a set of hypotheses, and evaluates each hypothesis in a manner that combines ongoing observations with recognition of the opponent’s efforts to conceal its forces and to deceive. The theoretical foundations of the proposed approach derive primarily from the theory of risk-sensitive control. The paper describes an implementation of the proposed approach that approximates theoretical constructs with heuristics for the sake of computational feasibility in applications that require near-real-time generation of fused estimates. Multiple realistic experiments, including live force experiments, demonstrated quantitatively that the resulting tools are capable of producing estimates at least comparable in accuracy to those produced by competent humans. The paper also discusses the potential incorporation of the tools into operational battle command systems.
+ER  - 
+
+TY  - JOUR
+T1  - A software tool for elicitation of expert knowledge about species richness or similar counts
+AU  - Fisher, Rebecca
+AU  - O'Leary, Rebecca A.
+AU  - Low-Choy, Samantha
+AU  - Mengersen, Kerrie
+AU  - Caley, M. Julian
+JO  - Environmental Modelling & Software
+VL  - 30
+SP  - 1
+EP  - 14
+PY  - 2012
+DA  - 2012/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2011.11.011
+UR  - https://www.sciencedirect.com/science/article/pii/S136481521100274X
+KW  - Elicitation software
+KW  - Estimating counts
+KW  - Species richness
+KW  - Expert elicitation
+KW  - Expert opinion
+KW  - Estimating counts
+AB  - Elicitation of expert knowledge has proven to be useful in a variety of disciplines including ecology, conservation management and policy. Here we report the development of a protocol and software tool that aids elicitation of expert knowledge of complex systems of count data, focusing on a case study of elicitation of species richness estimates for coral reefs. The software uses newly developed elicitation procedures to elicit probability distributions of counts in a structured and ordered protocol. We present a novel tool that has considerable advantage over more classical “survey” type methods for canvassing expert opinion, including the ability to produce rapid feedback based on fitted statistical distributions (thereby ensuring that expert's opinions are captured with accuracy) and a means of estimating credible bounds for estimates (essential when few experts are available). It is user friendly, based on open source software (R and tcl/tk), cross platform (Windows and Mac OSX) and the code can be easily modified to tailor the software to a range of applications.
+ER  - 
+
+TY  - JOUR
+T1  - Perceptions of Adolescents With Cancer Related to a Pain Management App and Its Evaluation: Qualitative Study Nested Within a Multicenter Pilot Feasibility Study
+AU  - Jibb, Lindsay A
+AU  - Stevens, Bonnie J
+AU  - Nathan, Paul C
+AU  - Seto, Emily
+AU  - Cafazzo, Joseph A
+AU  - Johnston, Donna L
+AU  - Hum, Vanessa
+AU  - Stinson, Jennifer N
+JO  - JMIR mHealth and uHealth
+VL  - 6
+IS  - 4
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 2291-5222
+DO  - https://doi.org/10.2196/mhealth.9319
+UR  - https://www.sciencedirect.com/science/article/pii/S2291522218001511
+KW  - pain
+KW  - adolescent
+KW  - cancer
+KW  - supportive care
+KW  - mHealth
+KW  - qualitative
+AB  - Background
+Pain in adolescents with cancer is common and negatively impacts health-related quality of life. The Pain Squad+ smartphone app, capable of providing adolescents with real-time pain management support, was developed to enhance pain management using a phased approach (ie, systematic review, consensus conference and vetting, iterative usability testing cycles). A 28-day Pain Squad+ pilot was conducted with 40 adolescents with cancer to evaluate the feasibility of implementing the app in a future clinical trial and to obtain estimates of treatment effect.
+Objective
+The objective of our nested qualitative study was to elucidate the perceptions of adolescents with cancer to determine the acceptability and perceived helpfulness of Pain Squad+, suggestions for app improvement, and satisfaction with the pilot study protocol.
+Methods
+Post pilot study participation, telephone-based, semistructured, and audio-recorded exit interviews were conducted with 20 adolescents with cancer (12-18 years). All interviews were transcribed and independently coded by 2 study team members. Content analysis was conducted to identify data categories and overarching themes.
+Results
+Five major themes comprising multiple categories and codes emerged. These themes focused on the acceptability of the intervention, acceptability of the study, the perceived active ingredients of the intervention, the suitability of the intervention to adolescents’ lives, and recommendations for intervention improvement.
+Conclusions
+Overall, Pain Squad+ and the pilot study protocol were acceptable to adolescents with cancer. Suggestions for intervention and study improvements will be incorporated into the design of a future randomized clinical trial (RCT) aimed at assessing the effectiveness of Pain Squad+ on adolescents with cancer health outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Determining the initial spatial extent of an environmental impact assessment with a probabilistic screening methodology
+AU  - Peeters, Luk J.M.
+AU  - Pagendam, Daniel E.
+AU  - Crosbie, Russell S.
+AU  - Rachakonda, Praveen K.
+AU  - Dawes, Warrick R.
+AU  - Gao, Lei
+AU  - Marvanek, Steve P.
+AU  - Zhang, YongQiang
+AU  - McVicar, Tim R.
+JO  - Environmental Modelling & Software
+VL  - 109
+SP  - 353
+EP  - 367
+PY  - 2018
+DA  - 2018/11/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2018.08.020
+UR  - https://www.sciencedirect.com/science/article/pii/S136481521830392X
+KW  - Environmental impact assessment
+KW  - Uncertainty analysis
+KW  - Hydrogeology
+KW  - Coal bed methane
+KW  - Coal mining
+AB  - A crucial decision in defining the scope of an environmental impact assessment is to delineate the initial assessment area. We developed a probabilistic methodology to determine this area, which starts by identifying a key environmental variable, maximum acceptable change and acceptable probability of exceeding that threshold. The exceedance probability is determined with a limits of acceptability rejection sampling of informed prior parameter distributions. A qualitative uncertainty analysis, a formal and systematic discussion of the main assumptions and model choices, is complemented with global sensitivity analysis of the model results to identify the major sources of uncertainty and provide guidance for further research and data collection. For the case study on coal development in the Gloucester Basin (NSW, Australia), the initial assessment extent is unlikely to extend more than 5 km from the edge of the planned coal mines. The major source of uncertainty is the planned mine water production rate.
+ER  - 
+
+TY  - JOUR
+T1  - Probability propagation for path planning in unknown environments
+AU  - Di Gennaro, Giovanni
+AU  - Buonanno, Amedeo
+AU  - Fioretti, Giovanni
+AU  - Verolla, Francesco
+AU  - Palmieri, Francesco A.N.
+AU  - Pattipati, Krishna R.
+JO  - Intelligent Systems with Applications
+VL  - 26
+SP  - 200527
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2667-3053
+DO  - https://doi.org/10.1016/j.iswa.2025.200527
+UR  - https://www.sciencedirect.com/science/article/pii/S2667305325000535
+KW  - Bayesian networks
+KW  - Factor graphs
+KW  - Path planning
+KW  - Unknown environment
+KW  - Unknown goal position
+AB  - We propose a probability propagation framework for path planning on discrete grids where an agent can navigate in an unknown environment to discover new areas and goals. We introduce a technique in which the probabilistic backward flow provides guidance towards discovering multiple distributed goals and hidden regions. This is achieved using a maximum likelihood path estimation framework in which the hidden areas become constrained goals that “attract” the agent. Simulations on various grids are included in the paper. The results show how this idea, applied to a completely unknown environment and goal position, may provide a unifying and powerful method for distributed dynamic path planning.
+ER  - 
+
+TY  - JOUR
+T1  - Pseudo-label guided selective mutual learning for semi-supervised 3D medical image segmentation
+AU  - Hang, Wenlong
+AU  - Dai, Peng
+AU  - Pan, Chengao
+AU  - Liang, Shuang
+AU  - Zhang, Qingfeng
+AU  - Wu, Qiang
+AU  - Jin, Yukun
+AU  - Wang, Qiong
+AU  - Qin, Jing
+JO  - Biomedical Signal Processing and Control
+VL  - 100
+SP  - 107144
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 1746-8094
+DO  - https://doi.org/10.1016/j.bspc.2024.107144
+UR  - https://www.sciencedirect.com/science/article/pii/S1746809424012023
+KW  - Semi-supervised learning
+KW  - Confirmation bias
+KW  - Pseudo-label
+KW  - Medical image segmentation
+AB  - Semi-supervised learning (SSL) have shown promising results in 3D medical image segmentation by utilizing both labeled and readily available unlabeled images. Most current SSL methods predict unlabeled data under different perturbations by employing subnetworks with same architecture. Despite their progress, the homogenization of subnetworks limits the diverse predictions on both labeled and unlabeled data, thereby making it difficult for subnetworks to correct each other and giving rise to confirmation bias issue. In this paper, we introduce an SSL framework termed pseudo-label guided selective mutual learning (PLSML), which incorporates two distinct subnetworks and selectively utilizes their derived pseudo-labels for mutual supervision to mitigate the above issue. Specifically, the discrepancies of pseudo-labels from two distinct subnetworks are used to select the regions within labeled images that are prone to missegmentation. We then introduce a mutual discrepancy correction (MDC) regularization to revisit these regions. Moreover, a selective mutual pseudo supervision (SMPS) regularization is introduced to estimate the reliability of pseudo-labels of unlabeled images, and selectively leverage the more reliable pseudo-labels in the two subnetworks to supervise the other one. The integration of MDC and SMPS regularizations facilitates inter-subnetwork mutual correction, consequently mitigating confirmation bias. Extensive experiments on two 3D medical image datasets demonstrate the superiority of our PLSML as compared to state-of-the-art SSL methods. The source code is available online at https://github.com/1pca0/PLSML.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding the peer review endeavor in scientific publishing
+AU  - Zhang, Guangyao
+AU  - Xu, Shenmeng
+AU  - Sun, Yao
+AU  - Jiang, Chunlin
+AU  - Wang, Xianwen
+JO  - Journal of Informetrics
+VL  - 16
+IS  - 2
+SP  - 101264
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 1751-1577
+DO  - https://doi.org/10.1016/j.joi.2022.101264
+UR  - https://www.sciencedirect.com/science/article/pii/S1751157722000165
+KW  - Peer review
+KW  - Publons
+KW  - Review length
+KW  - Peer review endeavor
+AB  - Peer review plays an essential role in the scholarly publishing life cycle. Using the verified peer review records of reviewers who use the Publons, we employed review length as a potential indicator of the effort researchers spend on peer review. We then examined the associations between various factors and review length. Special focus was placed on estimating the relationships between non-academic (economic and sociological aspects) factors and review length. Our results show that gender, country-level cultural backgrounds, and country-level economic backgrounds were significantly associated with review length. In addition, there are significant associations of disciplines (humanities & social sciences or hard sciences), English proficiency, publications, and verified reviews with review length.
+ER  - 
+
+TY  - JOUR
+T1  - Web-based tool for expert elicitation of the variogram
+AU  - Truong, Phuong N.
+AU  - Heuvelink, Gerard B.M.
+AU  - Gosling, John Paul
+JO  - Computers & Geosciences
+VL  - 51
+SP  - 390
+EP  - 399
+PY  - 2013
+DA  - 2013/02/01/
+SN  - 0098-3004
+DO  - https://doi.org/10.1016/j.cageo.2012.08.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0098300412002890
+KW  - Spatial variability
+KW  - Expert knowledge
+KW  - Geostatistics
+KW  - Subjective prior information
+AB  - The variogram is the keystone of geostatistics. Estimation of the variogram is deficient and difficult when there are no or too few observations available due to budget constraints or physical and temporal obstacles. In such cases, expert knowledge can be an important source of information. Expert knowledge can also fulfil the increasing demand for an a priori variogram in Bayesian geostatistics and spatial sampling optimization. Formal expert elicitation provides a sound scientific basis to reliably and consistently extract knowledge from experts. In this study, we aimed at applying existing statistical expert elicitation techniques to extract the variogram of a regionalized variable that is assumed to have either a multivariate normal or lognormal spatial probability distribution from expert knowledge. To achieve this, we developed an elicitation protocol and implemented it as a web-based tool to facilitate the elicitation of beliefs from multiple experts. Our protocol has two main rounds: elicitation of the marginal probability distribution and elicitation of the variogram. The web-based tool has three main components: a web interface for expert elicitation and feedback; a component for statistical computation and mathematical pooling of multiple experts’ knowledge; and a database management component. Results from a test case study show that the protocol is adequate and that the online elicitation tool functions satisfactorily. The web-based tool is free to use and supports scientists to conveniently elicit the variogram of spatial random variables from experts. The source code is available from the journal FTP site under the GNU General Public License.
+ER  - 
+
+TY  - JOUR
+T1  - Software feature refinement prioritization based on online user review mining
+AU  - Zhang, Jianzhang
+AU  - Wang, Yinglin
+AU  - Xie, Tian
+JO  - Information and Software Technology
+VL  - 108
+SP  - 30
+EP  - 34
+PY  - 2019
+DA  - 2019/04/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2018.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584918302489
+KW  - Online software reviews
+KW  - Feature extraction
+KW  - Topic model
+KW  - Feature refinement
+KW  - Release planning
+AB  - Context
+Online software reviews have provided a wealth of user feedback on software applications. User reviews along with ratings have been influential in a series of software engineering tasks e.g. software maintenance and release planning.
+Objective
+Our research aims to assist managers in prioritizing features to be refined in next release from the perspective of enhancing user ratings via mining online reviews.
+Method
+We first extract software features from user reviews and determine their probability distribution in each review with LDA. Then the ground truth rating of each feature is estimated by linear regression under the assumption that the software functionality rating is a convex combination of all feature ratings weighted by their distribution probabilities over the review. Finally, we formalize feature refinement prioritization as an optimization problem which maximizes user group’s rating on the software functionality under the constraint of development budget.
+Results
+The proposed approach can use topic model to jointly extract features from user reviews semi-supervisedly and determine each feature’s weight in each user’s rating on the software functionality. The estimated ground truth ratings of all features reveal how reviewer group evaluate those features. Finally, we provide an illustrative example to demonstrate the key idea of our framework.
+Conclusion
+Our proposed framework is general to various software products with mass user reviews and semi-automatic without much human efforts and intervention. The framework’s interpretability helps managers better understand user feedback on the software functionality and make feature refinement plan for the upcoming releases.
+ER  - 
+
+TY  - JOUR
+T1  - How to identify and treat data inconsistencies when eliciting health-state utility values for patient-centered decision making
+AU  - Triantaphyllou, Evangelos
+AU  - Yanase, Juri
+JO  - Artificial Intelligence in Medicine
+VL  - 106
+SP  - 101882
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0933-3657
+DO  - https://doi.org/10.1016/j.artmed.2020.101882
+UR  - https://www.sciencedirect.com/science/article/pii/S0933365718307334
+KW  - Health-state utilities
+KW  - Quality-Adjusted life years (QALYs)
+KW  - Shared decision making
+KW  - Cost/utility analysis
+KW  - Patient-Centered healthcare
+KW  - Quadratic optimization
+AB  - Background
+Health utilities express the perceptions patients have on the impact potential adverse events of medical treatments may have on their quality of life. Being able to accurately assess health utilities is crucial when deciding what is the best treatment when multiple and diverse treatment options exist, or when performing a cost / utility analysis. Due to the emotional and other complexities that may exist when such data are elicited, the values of the health utilities may be inaccurate and cause inconsistencies. Existing literature indicates that such inconsistencies may be very frequent. However, no method has been developed for dealing with such inconsistencies in an effective manner.
+Methods
+Given a set of health utilities, this paper first explores ways for determining if there are any inconsistencies in their values. It also proposes a number of quadratic optimization approaches to best estimate the actual (and hence unknown) values when a set of initial health utility values are provided by the patient and certain inconsistencies have been detected. This is achieved by readjusting the initial values in a way that is minimal and also satisfies certain consistency requirements.
+Results
+The proposed methods are applied on an illustrative example related to localized prostate cancer. Data from some published studies were used to illustrate how a set of initial values can be analyzed. This analysis aims at readjusting them in a minimal manner that would also satisfy some key numerical constraints pertinent to health utility values.
+Conclusions
+The numerical results and the computational complexities of the proposed models indicate that the proposed approaches are practical as they involve quadratic optimization modeling. These approaches are novel as the problem of addressing numerical inconsistencies in the elicitation process of health utilities has not been addressed adequately. The approaches are also critical in shared decision making and also when performing cost / utility analyses because health utilities play a central role in determining the quality-adjusted life years when making decisions in these healthcare domains.
+ER  - 
+
+TY  - JOUR
+T1  - Sequence effects in the estimation of software development effort
+AU  - Jørgensen, Magne
+AU  - Halkjelsvik, Torleif
+JO  - Journal of Systems and Software
+VL  - 159
+SP  - 110448
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2019.110448
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121219302225
+KW  - Effort estimation
+KW  - Human judgment
+KW  - Sequence effect
+KW  - Software development
+AB  - Currently, little is known about how much the sequence in which software development tasks or projects are estimated affects judgment-based effort estimates. To gain more knowledge, we examined estimation sequence effects in two experiments. In the first experiment, 362 software professionals estimated the effort of three large tasks of similar sizes, whereas in the second experiment 104 software professionals estimated the effort of four large and five small tasks. The sequence of the tasks was randomised in both experiments. The first experiment, with tasks of similar size, showed a mean increase of 10% from the first to the second and a 3% increase from the second to the third estimate. The second experiment showed that estimating a larger task after a smaller one led to a mean decrease in the estimate of 24%, and that estimating a smaller task after a larger one led to a mean increase of 25%. There was no statistically significant reduction in the sequence effect with higher competence. We conclude that more awareness about how the estimation sequence affects the estimates may reduce potentially harmful estimation biases. In particular, it may reduce the likelihood of a bias towards too low effort estimates.
+ER  - 
+
+TY  - JOUR
+T1  - When providing optimistic and pessimistic scenarios can be detrimental to judgmental demand forecasts and production decisions
+AU  - Goodwin, Paul
+AU  - Gönül, M. Sinan
+AU  - Önkal, Dilek
+JO  - European Journal of Operational Research
+VL  - 273
+IS  - 3
+SP  - 992
+EP  - 1004
+PY  - 2019
+DA  - 2019/03/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2018.09.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221718308105
+KW  - Forecasting
+KW  - Judgment
+KW  - Extrapolation
+KW  - Scenarios
+KW  - Production planning
+AB  - This paper examines the accuracy of judgmental forecasts of product demand and the quality of subsequent production level decisions under two different conditions: (i) the availability of only time series information on past demand; (ii) the availability of time series information together with scenarios that outline possible prospects for the product in the forthcoming period. An experiment indicated that production level decisions made by participants had a greater deviation from optimality when they also received optimistic and pessimistic scenarios. This resulted from less accurate point forecasts made by these participants. Further analysis suggested that participants focussed on the scenario that was congruent with the position of the latest observation relative to the series mean and discounted the opposing scenario. This led to greater weight being attached to this observation, thereby exacerbating the tendency of judgmental forecasters to see systematic changes in random movements in time series.
+ER  - 
+
+TY  - JOUR
+T1  - The Effects of Objective Push-Type Sleep Feedback on Habitual Sleep Behavior and Momentary Symptoms in Daily Life: mHealth Intervention Trial Using a Health Care Internet of Things System
+AU  - Takeuchi, Hiroki
+AU  - Suwa, Kaori
+AU  - Kishi, Akifumi
+AU  - Nakamura, Toru
+AU  - Yoshiuchi, Kazuhiro
+AU  - Yamamoto, Yoshiharu
+JO  - JMIR mHealth and uHealth
+VL  - 10
+IS  - 10
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 2291-5222
+DO  - https://doi.org/10.2196/39150
+UR  - https://www.sciencedirect.com/science/article/pii/S2291522222000365
+KW  - wearable activity monitor
+KW  - smartphone app
+KW  - sleep feedback
+KW  - ecological momentary assessment
+KW  - stabilized sleep timing
+KW  - mood and physical symptoms
+AB  - Background
+Sleep is beneficial for physical and mental health. Several mobile and wearable sleep-tracking devices have been developed, and personalized sleep feedback is the most common functionality among these devices. To date, no study has implemented an objective push-type feedback message and investigated the characteristics of habitual sleep behavior and diurnal symptoms when receiving sleep feedback.
+Objective
+We conducted a mobile health intervention trial to examine whether sending objective push-type sleep feedback changes the self-reported mood, physical symptoms, and sleep behavior of Japanese office workers.
+Methods
+In total, 31 office workers (mean age 42.3, SD 7.9 years; male-to-female ratio 21:10) participated in a 2-arm intervention trial from November 30 to December 19, 2020. The participants were instructed to indicate their momentary mood and physical symptoms (depressive mood, anxiety, stress, sleepiness, fatigue, and neck and shoulder stiffness) 5 times a day using a smartphone app. In addition, daily work performance was rated once a day after work. They were randomly assigned to either a feedback or control group, wherein they did or did not receive messages about their sleep status on the app every morning, respectively. All participants wore activity monitors on their nondominant wrists, through which objective sleep data were registered on the web on a server. On the basis of the estimated sleep data on the server, personalized sleep feedback messages were generated and sent to the participants in the feedback group using the app. These processes were fully automated.
+Results
+Using hierarchical statistical models, we examined the differences in the statistical properties of sleep variables (sleep duration and midpoint of sleep) and daily work performance over the trial period. Group differences in the diurnal slopes for mood and physical symptoms were examined using a linear mixed effect model. We found a significant group difference among within-individual residuals at the midpoint of sleep (expected a posteriori for the difference: −15, 95% credible interval −26 to −4 min), suggesting more stable sleep timing in the feedback group. However, there were no significant group differences in daily work performance. We also found significant group differences in the diurnal slopes for sleepiness (P<.001), fatigue (P=.002), and neck and shoulder stiffness (P<.001), which was largely due to better scores in the feedback group at wake-up time relative to those in the control group.
+Conclusions
+This is the first mobile health study to demonstrate that objective push-type sleep feedback improves sleep timing of and physical symptoms in healthy office workers. Future research should incorporate specific behavioral instructions intended to improve sleep habits and examine the effectiveness of these instructions.
+ER  - 
+
+TY  - JOUR
+T1  - The effects of optimistic and pessimistic biasing on software project status reporting
+AU  - Snow, Andrew P.
+AU  - Keil, Mark
+AU  - Wallace, Linda
+JO  - Information & Management
+VL  - 44
+IS  - 2
+SP  - 130
+EP  - 141
+PY  - 2007
+DA  - 2007/03/01/
+SN  - 0378-7206
+DO  - https://doi.org/10.1016/j.im.2006.10.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0378720606001145
+KW  - Project management and scheduling
+KW  - Reporting bias
+KW  - Software project management
+KW  - Traffic light reporting
+KW  - Information theory
+AB  - Anecdotal evidence suggests that project managers (PMs) sometime provide biased status reports to management. In our research project we surveyed PMs to explore possible motivations for bias, the frequency with which bias occurs, and the strength of the bias typically applied. We found that status reports were biased 60% of the time and that the bias was twice as likely to be optimistic as pessimistic. By applying these results to an information-theoretic model, we estimated that only about 10–15% of biased project status reports were, in fact, accurate and these occurred only when pessimistic bias offset project management status errors. There appeared to be no significant difference in the type or frequency of bias applied to high-risk versus low-risk projects. Our work should provide a better understanding of software project status reporting.
+ER  - 
+
+TY  - JOUR
+T1  - Incorporation of expert knowledge in the statistical detection of diagnosis related group misclassification
+AU  - Suleiman, Mani
+AU  - Demirhan, Haydar
+AU  - Boyd, Leanne
+AU  - Girosi, Federico
+AU  - Aksakalli, Vural
+JO  - International Journal of Medical Informatics
+VL  - 136
+SP  - 104086
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2020.104086
+UR  - https://www.sciencedirect.com/science/article/pii/S1386505619307920
+KW  - Bayesian analysis
+KW  - Clinical coding
+KW  - DRGs
+KW  - Health informatics
+KW  - Statistical modeling
+AB  - Background
+In activity based funding systems, the misclassification of inpatient episode Diagnostic Related Groups (DRGs) can have significant impacts on the revenue of health care providers. Weakly informative Bayesian models can be used to estimate an episode's probability of DRG misclassification.
+Methods
+This study proposes a new, Hybrid prior approach which utilises guesses that are elicited from a clinical coding auditor, switching to non-informative priors where this information is inadequate. This model's ability to detect DRG revision is compared to benchmark weakly informative Bayesian models and maximum likelihood estimates.
+Results
+Based on repeated 5-fold cross-validation, classification performance was greatest for the Hybrid prior model, which achieved best classification accuracy in 14 out of 20 trials, significantly outperforming benchmark models.
+Conclusions
+The incorporation of elicited expert guesses via a Hybrid prior produced a significant improvement in DRG error detection; hence, it has the ability to enhance the efficiency of clinical coding audits when put into practice at a health care provider.
+ER  - 
+
+TY  - JOUR
+T1  - Physics-informed neural networks prediction approach for knowledge dissemination model considering knowledge media
+AU  - Xia, Dan
+AU  - He, Min
+AU  - Mei, Jun
+AU  - Min, QiuSha
+JO  - Knowledge-Based Systems
+VL  - 324
+SP  - 113514
+PY  - 2025
+DA  - 2025/08/03/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2025.113514
+UR  - https://www.sciencedirect.com/science/article/pii/S095070512500560X
+KW  - Knowledge dissemination
+KW  - Epidemic models
+KW  - Physics-informed neural networks
+KW  - Stability analysis
+KW  - Parameter estimation
+AB  - Given the subjectivity of manual selection and the time-consuming nature of parameter adjustment, this paper proposes a physics-informed neural networks (PINNs) approach for parameter estimation and prediction of our newly constructed knowledge dissemination model based on the co-evolution of knowledge communities and knowledge media. Firstly, considering the three stages of knowledge perception, knowledge internalization, and knowledge forgetting, the dynamic equation of the susceptible–exposed–infected–recovered-media (SEIRM) model is established. Secondly, in order to address the challenge of unknown model parameters and model prediction in real-life scenarios, the SEIRM model is embedded as prior knowledge into PINNs. Then, the obtained parameters are used to calculate the basic reproduction number R0 using the next-generation matrix method. The existence and stability of the system’s knowledge-free equilibrium (KFE) and knowledge-endemic equilibrium (KEE) are also demonstrated. Finally, through a series of simulation experiments, the influence mechanisms of learning attitude, knowledge difficulty, and knowledge internalization ability on knowledge dissemination are revealed. The experimental results demonstrate that the trained PINNs can learn the behavior of the unknown knowledge dissemination system and estimate important parameters more accurately than the Livermore solver (LSODA) of fixed parameters. The MAE and MAPE values of the predicted parameters reach approximately 1.75e−04 and 0.03%. Plus, PINNs’ loss value throughout different epochs is typically lower than that of deep neural networks (DNN) under the constraint of limited training data.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis and Prediction of Differential Operation and Maintenance Cost of Power Transmission and Transformation
+AU  - Yang, Fan
+AU  - Chen, Fulei
+AU  - Zhao, Chen
+AU  - Li, Jianqing
+AU  - Kang, Jian
+JO  - Procedia Computer Science
+VL  - 228
+SP  - 1277
+EP  - 1286
+PY  - 2023
+DA  - 2023/01/01/
+T2  - 3rd International Conference on Machine Learning and Big Data Analytics for IoT Security and Privacy
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2023.11.087
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092301918X
+KW  - Power Transmission and Transformation Project
+KW  - Operation and Maintenance Cost
+KW  - Random Forest
+KW  - Particle Swarm Optimization
+AB  - The operation and maintenance expenses of power transmission and transformation projects, as a significant power supply carrier of the nation, continue to rise as a result of the sustained and quick expansion of China's social economy and the quick growth of the country's power demand. Power grid businesses are under a lot of market pressure. To increase the level of lean management of the operation and maintenance costs of power transmission and transformation projects, power grid enterprises must significantly enhance their capacity to estimate the operation and maintenance costs of their organizations in advance. Machine learning algorithms are gradually applied to the operation and maintenance cost prediction of power transmission and transformation projects of power grid enterprises as a result of the ongoing development of big data technology, effectively increasing the accuracy of operation and maintenance cost prediction. In this paper, by analyzing the variables affecting the differential operation and maintenance cost of power transmission and transformation projects, a scientific and reasonable investment analysis model for the differential operation and maintenance cost of power transmission and transformation projects is constructed using the stochastic forest algorithm of particle swarm optimization, and the variables affecting the differential operation and maintenance cost of substations and transmission lines are obtained, which proves that the trend of the prediction model in this paper is more consistent with the actual situation.
+ER  - 
+
+TY  - JOUR
+T1  - Revealing Pairs-trading opportunities with long short-term memory networks
+AU  - Flori, Andrea
+AU  - Regoli, Daniele
+JO  - European Journal of Operational Research
+VL  - 295
+IS  - 2
+SP  - 772
+EP  - 791
+PY  - 2021
+DA  - 2021/12/01/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2021.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221721001995
+KW  - Finance
+KW  - Machine learning
+KW  - Pairs-trading
+KW  - Statistical arbitrage
+KW  - Neural networks
+AB  - This work examines a deep learning approach to complement investors’ practices for the identification of pairs-trading opportunities among cointegrated stocks. We refer to the reversal effect, consisting in the fact that temporarily market deviations are likely to correct and finally converge again, to generate valuable pairs-trading signals based on the application of Long Short-Term Memory networks (LSTM). Specifically, we propose to use the LSTM to estimate the probability of a stock to exhibit increasing market returns in the near future compared to its peers, and we compare and combine these predictions with trading practices based on sorting stocks according to either price or returns gaps. In so doing, we investigate the ability of our proposed approach to provide valuable signals under different perspectives including variations in the investment horizons, transaction costs and weighting schemes. Our analysis shows that strategies including such predictions can contribute to improve portfolio performances providing predictive signals whose information content goes above and beyond the one embedded in both price and returns gaps.
+ER  - 
+
+TY  - JOUR
+T1  - Providing detection strategies to improve human detection of deepfakes: An experimental study
+AU  - Somoray, Klaire
+AU  - Miller, Dan J.
+JO  - Computers in Human Behavior
+VL  - 149
+SP  - 107917
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2023.107917
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563223002686
+KW  - Deepfake
+KW  - Human detection
+KW  - Deepfake detection strategies
+KW  - Accuracy
+KW  - Confidence
+AB  - Deepfake videos are becoming more pervasive. In this preregistered online experiment, participants (N = 454, Mage = 37.19, SDage = 13.25, males = 57.5%) categorize a series of 20 videos as either real or deepfake. All participants saw 10 real and 10 deepfake videos. Participants were randomly assigned to receive a list of strategies for detecting deepfakes based on visual cues (e.g., looking for common artifacts such as skin smoothness) or to act as a control group. Participants were also asked how confident they were that they categorized each video correctly (per video confidence) and to estimate how many videos they correctly categorized out of 20 (overall confidence). The sample performed above chance on the detection activity, correctly categorizing 60.70% of videos on average (SD = 13.00). The detection strategies intervention did not impact detection accuracy or detection confidence, with the intervention and control groups performing similarly on the detection activity and showing similar levels of confidence. Inconsistent with previous research, the study did not find that participants had a bias toward categorizing videos as real. Participants overestimated their ability to detect deepfakes at the individual video level. However, they tended to underestimate their abilities on the overall confidence question.
+ER  - 
+
+TY  - JOUR
+T1  - Identifying key AI challenges in make-to-order manufacturing organisations: A multiple case study
+AU  - Flyckt, Jonatan
+AU  - Gorschek, Tony
+AU  - Mendez, Daniel
+AU  - Lavesson, Niklas
+JO  - Journal of Systems and Software
+VL  - 230
+SP  - 112559
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112559
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225002286
+KW  - Multiple case study
+KW  - Artificial intelligence
+KW  - Manufacturing
+KW  - Make-to-order
+KW  - Data requirements
+AB  - Artificial Intelligence can make manufacturing organisations more effective and efficient, but it is not clear which AI tasks hold the greatest potential. Make-to-order manufacturers must constantly adapt to customers’ unique and rapidly changing needs, and therefore have different challenges than make-to-stock manufacturers. Our ambition is to develop an AI-enabled software system to support manufacturing organisations in improving their processes. To this end, we first seek to understand the data and technology requirements for key AI-enabled tasks in a make-to-order setting and determine the level of performance and explainability needed to address them. We perform a multiple case study of five make-to-order packaging manufacturers, interviewing personnel from sales, production, and supply chain to identify and prioritise operational challenges suitable for AI approaches. Demand forecasting emerges as the most important task, followed by predictive maintenance, quality inspection, complex decision risk estimation, and production planning. Participants emphasise the importance of explainable techniques to ensure trust in the systems. The results highlight a need for a greater control of the production process and a better understanding of customer needs. Although most of the tasks could be solved with current techniques, some, such as intermittent demand forecasting and complex decision risk estimation, would require further development. The study clarifies the potential of AI-enabled systems in make-to-order manufacturing and outlines the steps required to realise it.
+ER  - 
+
+TY  - JOUR
+T1  - Investigating intentional distortions in software cost estimation – An exploratory study
+AU  - Magazinius, Ana
+AU  - Börjesson, Sofia
+AU  - Feldt, Robert
+JO  - Journal of Systems and Software
+VL  - 85
+IS  - 8
+SP  - 1770
+EP  - 1781
+PY  - 2012
+DA  - 2012/08/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2012.03.026
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121212000763
+KW  - Cost estimation
+KW  - Distortion
+KW  - Human factors
+KW  - Organizational factors
+KW  - Organizational politics
+KW  - Estimation inaccuracy
+KW  - Software engineering
+KW  - Empirical study
+AB  - Cost estimation of software projects is an important activity that continues to be a source of problems for practitioners despite improvement efforts. Most of the research on estimation has focused on methodological issues while the research focused on human factors primarily has targeted cognitive biases or perceived inhibitors. This paper focuses on the complex organizational context of estimation and investigates whether estimates may be distorted, i.e. intentionally changed for reasons beyond legitimate changes due to changing prerequisites such as requirements or scope. An exploratory study was conducted with 15 interviewees at six large companies that develop software-intensive products. The interviewees represent five stakeholder roles in estimation, with a majority being project or line managers. Document analysis was used to complement the interviews and provided additional context. The results show that both estimate increase and estimate decrease exist and that some of these changes can be explained as intentional distortions. The direction of the distortion depends on the context and the stakeholders involved. The paper underlines that it is critical to consider also human and organizational factors when addressing estimation problems and that intentional estimate distortions should be given more and direct attention.
+ER  - 
+
+TY  - JOUR
+T1  - Optimistic bias about online privacy risks: Testing the moderating effects of perceived controllability and prior experience
+AU  - Cho, Hichang
+AU  - Lee, Jae-Shin
+AU  - Chung, Siyoung
+JO  - Computers in Human Behavior
+VL  - 26
+IS  - 5
+SP  - 987
+EP  - 995
+PY  - 2010
+DA  - 2010/09/01/
+T2  - Advancing Educational Research on Computer-supported Collaborative Learning (CSCL) through the use of gStudy CSCL Tools
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2010.02.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563210000373
+KW  - Online privacy
+KW  - Optimistic bias
+KW  - Risk judgments
+KW  - Perceived vulnerability
+KW  - Perceived controllability
+KW  - Prior experience
+AB  - This study examined the ways in which Internet users construct their risk judgments about online privacy. The results, based on telephone survey data from a national probability sample in Singapore (n=910), revealed that (a) individuals distinguish between two separate dimensions of risk judgment (personal level and societal level), (b) individuals display a strong optimistic bias about online privacy risks, judging themselves to be significantly less vulnerable than others to these risks, and (c) internal belief (perceived controllability) and individual difference (prior experience) significantly moderate optimistic bias by increasing or decreasing the gap between personal- and societal-level risk estimates. The implications of the findings for research and practice are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Process mining for healthcare decision analytics with micro-costing estimations
+AU  - Leemans, Sander J.J.
+AU  - Partington, Andrew
+AU  - Karnon, Jonathan
+AU  - Wynn, Moe T.
+JO  - Artificial Intelligence in Medicine
+VL  - 135
+SP  - 102473
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0933-3657
+DO  - https://doi.org/10.1016/j.artmed.2022.102473
+UR  - https://www.sciencedirect.com/science/article/pii/S0933365722002251
+KW  - Process mining
+KW  - Decision analytics
+KW  - Healthcare economics
+AB  - Managing constrained healthcare resources is an important and inescapable role of healthcare decision makers. Allocative decisions are based on downstream consequences of changes to care processes: judging whether the costs involved are offset by the magnitude of the consequences, and therefore whether the change represents value for money. Process mining techniques can inform such decisions by quantitatively discovering, comparing and detailing care processes using recorded data, however the scope of techniques typically excludes anything ‘after-the-process’ i.e., their accumulated costs and resulting consequences. Cost considerations are increasingly incorporated into process mining techniques, but the majority of healthcare costs for service and overhead components are commonly apportioned and recorded at the patient (trace) level, hiding event level detail. Within decision-analysis, event-driven and individual-level simulation models are sometimes used to forecast the expected downstream consequences of process changes, but are expensive to manually operationalise. In this paper, we address both of these gaps within and between process mining and decision analytics, by better linking them together. In particular, we introduce a new type of process model containing trace data that can be used in individual-level or cohort-level decision-analytical model building. Furthermore, we enhance these models with process-based micro-costing estimations. The approach was evaluated with health economics and decision modelling experts, with discussion centred on how the outputs could be used, and how similar information would otherwise be compiled.
+ER  - 
+
+TY  - JOUR
+T1  - Debiasing judgmental decisions by providing individual error pattern feedback
+AU  - Balla, Nathalie
+AU  - Setzer, Thomas
+JO  - Data & Knowledge Engineering
+VL  - 162
+SP  - 102530
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 0169-023X
+DO  - https://doi.org/10.1016/j.datak.2025.102530
+UR  - https://www.sciencedirect.com/science/article/pii/S0169023X25001259
+KW  - Decision support system
+KW  - Debiasing
+KW  - Error feedback
+KW  - Self-reflection
+KW  - Collaborative intelligence
+AB  - We present a Decision Support System (DSS) that provides experts with feedback on their personal potential bias based on their previous error pattern. Feedback is calculated using a knowledge database containing a library of biases and typical error patterns that suggest them. An error pattern means any identifiable structure of errors. For instance, an inference engine might detect continuously too high forecasts of an expert submitted via a user interface, regularly exceeding the actual quantities observed later. The engine might then positively evaluate a rule indicating an overestimation bias and provide feedback on the detected error pattern and/or the presumed bias, potentially including further explanations. As the feedback stems from an expert’s own error pattern, it intends to enhance their self-reflection and support wise consideration of the feedback. We assume that this allows experts to acquire knowledge about their own flawed judgmental heuristics, that experts are able to apply the feedback systematically and selectively to different decision tasks and to therefore reduce their potential bias and error. To test these assumptions, we conduct experiments with the DSS. Therein, subjects provide point estimations as well as certainty intervals and subsequently receive error feedback given by a machine based on his or her previous answers. After the feedback, subjects answer further questions. Results indicate that subjects reflect on their own error pattern and apply the feedback selectively to further, upcoming estimations and reduce overall bias and error.
+ER  - 
+
+TY  - JOUR
+T1  - A Patient Outcomes–Driven Feedback Platform for Emergency Medicine Clinicians: Human-Centered Design and Usability Evaluation of Linking Outcomes Of Patients (LOOP)
+AU  - Strauss, Alexandra T
+AU  - Morgan, Cameron
+AU  - El Khuri, Christopher
+AU  - Slogeris, Becky
+AU  - Smith, Aria G
+AU  - Klein, Eili
+AU  - Toerper, Matt
+AU  - DeAngelo, Anthony
+AU  - Debraine, Arnaud
+AU  - Peterson, Susan
+AU  - Gurses, Ayse P
+AU  - Levin, Scott
+AU  - Hinson, Jeremiah
+JO  - JMIR Human Factors
+VL  - 9
+IS  - 1
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 2292-9495
+DO  - https://doi.org/10.2196/30130
+UR  - https://www.sciencedirect.com/science/article/pii/S2292949522000724
+KW  - emergency medicine
+KW  - usability
+KW  - human-centered design
+KW  - health informatics
+KW  - feedback
+KW  - practice-based learning and improvement
+KW  - emergency room
+KW  - ER
+KW  - platform
+KW  - outcomes
+KW  - closed-loop learning
+AB  - Background
+The availability of patient outcomes–based feedback is limited in episodic care environments such as the emergency department. Emergency medicine (EM) clinicians set care trajectories for a majority of hospitalized patients and provide definitive care to an even larger number of those discharged into the community. EM clinicians are often unaware of the short- and long-term health outcomes of patients and how their actions may have contributed. Despite large volumes of patients and data, outcomes-driven learning that targets individual clinician experiences is meager. Integrated electronic health record (EHR) systems provide opportunity, but they do not have readily available functionality intended for outcomes-based learning.
+Objective
+This study sought to unlock insights from routinely collected EHR data through the development of an individualizable patient outcomes feedback platform for EM clinicians. Here, we describe the iterative development of this platform, Linking Outcomes Of Patients (LOOP), under a human-centered design framework, including structured feedback obtained from its use.
+Methods
+This multimodal study consisting of human-centered design studios, surveys (24 physicians), interviews (11 physicians), and a LOOP application usability evaluation (12 EM physicians for ≥30 minutes each) was performed between August 2019 and February 2021. The study spanned 3 phases: (1) conceptual development under a human-centered design framework, (2) LOOP technical platform development, and (3) usability evaluation comparing pre- and post-LOOP feedback gathering practices in the EHR.
+Results
+An initial human-centered design studio and EM clinician surveys revealed common themes of disconnect between EM clinicians and their patients after the encounter. Fundamental postencounter outcomes of death (15/24, 63% respondents identified as useful), escalation of care (20/24, 83%), and return to ED (16/24, 67%) were determined high yield for demonstrating proof-of-concept in our LOOP application. The studio aided the design and development of LOOP, which integrated physicians throughout the design and content iteration. A final LOOP prototype enabled usability evaluation and iterative refinement prior to launch. Usability evaluation compared to status quo (ie, pre-LOOP) feedback gathering practices demonstrated a shift across all outcomes from “not easy” to “very easy” to obtain and from “not confident” to “very confident” in estimating outcomes after using LOOP. On a scale from 0 (unlikely) to 10 (most likely), the users were very likely (9.5) to recommend LOOP to a colleague.
+Conclusions
+This study demonstrates the potential for human-centered design of a patient outcomes–driven feedback platform for individual EM providers. We have outlined a framework for working alongside clinicians with a multidisciplined team to develop and test a tool that augments their clinical experience and enables closed-loop learning.
+ER  - 
+
+TY  - JOUR
+T1  - Symptomatology, risk, and protective factors of gaming disorder: A network analytical approach
+AU  - Tang, Ming Chun
+AU  - Ebrahimi, Omid V.
+AU  - Cheng, Cecilia
+JO  - Computers in Human Behavior
+VL  - 148
+SP  - 107899
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2023.107899
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563223002509
+KW  - Gaming addiction
+KW  - Problematic gaming
+KW  - Network analysis
+KW  - Risk factor
+KW  - Protective factor
+KW  - Maladaptive gaming cognition
+AB  - Research has identified various cognitive risk and protective (CRP) factors that contribute to gaming disorder (GD), but it remains unclear how GD symptoms are differentially related to specific CRP factors. To fill the gap, this study used network analysis to identify the most central components in the connections between CRP factors and GD symptoms, shedding light on the most important factors for the development and maintenance of GD. The participants of this study were 3002 adult online gamers (49.8% men, mean age = 36.3 years). Two unregularized Gaussian graphical models were estimated, one that only included GD symptoms and another that included both GD symptoms and CRP factors. The findings showed that “cognitive flexibility”, “gaming self-esteem”, and “loss of control” were the most central cognitive protective factor, cognitive risk factor, and GD symptom, respectively. Moreover, the GD symptom of “escape”, the cognitive risk factor of “loss sensitivity”, and the cognitive protective factor of “cognitive flexibility” were most prominent in bridging different constructs, reflecting two mechanistic clusters of GD: escapism and reward-seeking. The findings further revealed that the cognitive risk factor of “maladaptive gaming cognition” was closely connected to GD symptoms, indicating its influential role as a harmful mechanism underlying GD. Overall, our network analysis indicates that having secure self-beliefs and situation-based flexibility may be crucial for healthy gaming.
+ER  - 
+
+TY  - JOUR
+T1  - BGCSL: An unsupervised framework reveals the underlying structure of large-scale whole-brain functional connectivity networks
+AU  - Zhang, Hua
+AU  - Zeng, Weiming
+AU  - Li, Ying
+AU  - Deng, Jin
+AU  - Wei, Boyang
+JO  - Computer Methods and Programs in Biomedicine
+VL  - 260
+SP  - 108573
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0169-2607
+DO  - https://doi.org/10.1016/j.cmpb.2024.108573
+UR  - https://www.sciencedirect.com/science/article/pii/S0169260724005662
+KW  - Brain FCNs
+KW  - fMRI analysis
+KW  - Deep graph structure learning
+KW  - Graph contrastive learning
+AB  - Background and Objective:
+Inferring large-scale brain networks from functional magnetic resonance imaging (fMRI) provides more detailed and richer connectivity information, which is critical for gaining insight into brain structure and function and for predicting clinical phenotypes. However, as the number of network nodes increases, most existing methods suffer from the following limitations: (1) Traditional shallow models often struggle to estimate large-scale brain networks. (2) Existing deep graph structure learning models rely on downstream tasks and labels. (3) They rely on sparse postprocessing operations. To overcome these limitations, this paper proposes a novel framework for revealing large-scale functional brain connectivity networks through graph contrastive structure learning, called BGCSL.
+Methods:
+Unlike traditional supervised graph structure learning methods, this framework does not rely on labeled information. It consists of two important modules: sparse graph structure learner and graph contrastive learning (GCL). It employs dynamic augmentation in GCL to train a sparse graph structure learner, enabling it to capture the intrinsic structure of the data.
+Results:
+We conducted extensive experiments on 12 synthetic datasets and 2 public functional magnetic resonance imaging datasets, demonstrating the effectiveness of our proposed framework. In the synthetic datasets, particularly in cases where node features are insufficient, BGCSL still maintains state-of-the-art performance. More importantly, on the ABIDE-I and HCP-rest datasets, BGCSL improved the downstream task performance of GCN-based models, including the original GCN, dGCN, and ContrastPool, to varying degrees.
+Conclusion:
+Our proposed method holds significant potential as a valuable reference for future large-scale brain network estimation and representation and is conducive to supporting the exploration of more fine-grained biomarkers.
+ER  - 
+
+TY  - JOUR
+T1  - Combining expert knowledge and local data for improved service life modeling of water supply networks
+AU  - Scholten, Lisa
+AU  - Scheidegger, Andreas
+AU  - Reichert, Peter
+AU  - Maurer, Max
+JO  - Environmental Modelling & Software
+VL  - 42
+SP  - 1
+EP  - 16
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2012.11.013
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815212002848
+KW  - Scarce data
+KW  - Expert knowledge elicitation
+KW  - Expert aggregation
+KW  - Bayesian inference
+KW  - Water supply network
+KW  - Service life modeling
+AB  - The presented approach aims to overcome the scarce data problem in service life modeling of water networks by combining subjective expert knowledge and local replacement data. A procedure to elicit imprecise quantile estimates of survival functions from experts, considering common cognitive biases, was developed and applied. The individual expert priors of the parameters of the service life distribution are obtained by regression over the stated distribution quantiles and aggregated into a single prior distribution. Furthermore, a likelihood function for the commonly encountered censored and truncated pipe replacement data is formulated. The suitability of the suggested Bayesian approach based on elicitation data from eight experts and real network data is demonstrated. Robust parameter estimates could be derived in data situations where frequentist maximum likelihood estimation is unsatisfactory, and to show how the consideration of imprecision and in-between-variance of experts improves posterior inference.
+ER  - 
+
+TY  - JOUR
+T1  - A spatially distributed risk screening tool to assess climate and land use change impacts on water-related ecosystem services
+AU  - Sample, James E.
+AU  - Baber, Ingrid
+AU  - Badger, Rebecca
+JO  - Environmental Modelling & Software
+VL  - 83
+SP  - 12
+EP  - 26
+PY  - 2016
+DA  - 2016/09/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2016.05.011
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815216301475
+KW  - Ecosystem services
+KW  - Land use
+KW  - Climate change
+KW  - Adaptation
+KW  - Qualitative risk assessment
+KW  - Water resources
+AB  - To support the implementation of the European Water Framework Directive (WFD), and as part of a tiered approach to prioritise detailed modelling, a high-level screening methodology has been developed to assess the vulnerability of water-related ecosystem services (ES) to future change. The approach incorporates a range of spatially distributed scenarios of land use and climate, which are used as inputs to a qualitative risk assessment model underpinned by expert opinion. The method makes use of widely available datasets and provides a structured way of capturing and “codifying” expert knowledge, as well as for assessing the degree of consensus between different expert groups. The range of model output reflects uncertainty in both the expert-derived assumptions and the climate & land use simulations considered. The approach has been developed in collaboration with the Scottish Environment Protection Agency (SEPA) and applied in Scotland to support the second cycle of River Basin Management Planning.
+ER  - 
+
+TY  - JOUR
+T1  - Is review visibility fostering helpful votes? The role of review rank and review characteristics in the adoption of information
+AU  - Alzate, Miriam
+AU  - Arce-Urriza, Marta
+AU  - Cebollada, Javier
+JO  - Computers in Human Behavior
+VL  - 153
+SP  - 108088
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2023.108088
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563223004399
+KW  - eWOM
+KW  - Online reviews
+KW  - Review helpfulness
+KW  - Review order
+KW  - Review visibility
+AB  - In online environments, where consumers usually face information overload, information regarding the number of helpful votes received by online reviews serves as a trust sign to aid consumers in their purchasing journeys. As consumers can only vote for a review as helpful if they have viewed it, the position of the review in the sequence of reviews is likely to influence the number of helpful votes that the review receives. We propose a model in which review helpfulness depends not only on the characteristics of the review and reviewer, but also on its visibility. Review visibility is defined in this study as the probability of a review being viewed by a consumer, and is measured by the inverse rank order of the review in the sequence of reviews at the online retailer when consumers sort reviews according to different criteria (most helpful and most recent). Using a database of 59,526 online reviews from a popular cosmetics online store in the US, we estimate a zero-inflated negative binomial (ZINB) regression and find evidence that review visibility has a strong impact in explaining the likelihood of a review being read by consumers and subsequently voted as helpful by consumers. This effect is even stronger when sorting is most helpful.
+ER  - 
+
+TY  - JOUR
+T1  - Reasoning-based uncertainty estimation for scalable multidimensional media bias annotation: A benchmark across diverse media spaces
+AU  - Liu, Yifan
+AU  - Maussymbayeva, Aliya
+AU  - Murzakhmetov, Aslanbek
+AU  - Nemerenco, Alexandra
+AU  - Li, Yike
+AU  - Wang, Dong
+JO  - Knowledge-Based Systems
+VL  - 334
+SP  - 115058
+PY  - 2026
+DA  - 2026/02/15/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2025.115058
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705125020969
+KW  - Media bias identification
+KW  - Human-LLM collaboration
+KW  - Uncertainty estimation
+KW  - Social media analysis
+AB  - Media bias significantly shapes public perception by reinforcing stereotypes and exacerbating societal divisions. Prior research has often focused on isolated media bias dimensions such as political bias or racial bias, neglecting the complex interrelationships among various bias dimensions across different topic domains. Moreover, models trained on existing media bias benchmarks exhibit substantial performance degradation when applied to recent social media content. This shortfall primarily arises because these benchmarks do not adequately reflect the rapidly evolving nature of social media content, which is characterized by shifting user behaviors and emerging trends. To this end, we introduce a new dataset collected from YouTube and Reddit over the past five years. To efficiently and reliably annotate our collected dataset, we propose Uncertainty Estimation-guided Annotation Refinement (UEAR), a novel human-LLM collaborative annotation scheme. UEAR estimates the uncertainties of LLM-based annotations through a two-way reasoning process and refines uncertain annotations from LLM with human inputs. Our final dataset contains human-LLM joint annotations of YouTube and Reddit content across multiple bias dimensions (e.g., gender, racial) and diverse topic domains (e.g., politics, sports), capturing the complex interplay of biases across societal sectors. We evaluate the annotation performance of UEAR on a manually annotated test set, demonstrating that UEAR can reliably generate multidimensional bias identification annotations with a 0.9082 macro F1 score, with limited human refinement. Through our statistical analysis of the generated annotations, we identify significant differences in bias expression patterns and intra-domain bias correlations across different domains. The code and data are made publicly available.
+ER  - 
+
+TY  - JOUR
+T1  - Revolutionizing optical networks: The integration and impact of large language models
+AU  - Cruzes, Sergio
+JO  - Optical Switching and Networking
+VL  - 57
+SP  - 100812
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 1573-4277
+DO  - https://doi.org/10.1016/j.osn.2025.100812
+UR  - https://www.sciencedirect.com/science/article/pii/S1573427725000190
+KW  - Optical networks
+KW  - Network automation
+KW  - Large language models
+KW  - Digital twins
+AB  - The increasing complexity and scale of optical networks demand advanced automation frameworks capable of adapting to dynamic service requirements, physical-layer impairments, and multi-vendor environments. Traditional solutions—based on static rule sets or narrowly scoped machine learning models—struggle to manage real-time performance, heterogeneous data, and domain-specific variability. Large Language Models (LLMs), built on transformer architectures, offer a paradigm shift by enabling context-aware reasoning, multi-task generalization, and natural language interpretation. These models can automate configuration generation, fault diagnosis, alarm correlation, and routing and spectrum assignment (RSA), while enhancing Quality of Transmission (QoT) estimation and scenario modeling. This article provides a comprehensive survey of current automation approaches in optical networks, including software-defined networking (SDN), intent-based networking (IBN), machine learning (ML)-based orchestration, and cognitive control architectures. Special attention is given to emerging paradigms that integrate LLMs for intent interpretation, fault analysis, configuration generation, and reasoning. Building on these foundations, we propose a hybrid framework that integrates LLMs with Digital Twin (DT) technologies to enable closed-loop control, predictive optimization, and explainable, intent-driven decision-making. Telemetry streams feed both DT simulations and LLM-based reasoning agents, supporting proactive reconfiguration and fault mitigation. To address LLM limitations—such as hallucinations and inference latency —the framework incorporates prompt engineering, retrieval-augmented generation (RAG), domain-specific fine-tuning, and simulation-based validation. The proposed architecture paves the way for resilient, autonomous, and sustainable optical networks that can self-optimize and adapt in real time.
+ER  - 
+
+TY  - JOUR
+T1  - The quest of parsimonious XAI: A human-agent architecture for explanation formulation
+AU  - Mualla, Yazan
+AU  - Tchappi, Igor
+AU  - Kampik, Timotheus
+AU  - Najjar, Amro
+AU  - Calvaresi, Davide
+AU  - Abbas-Turki, Abdeljalil
+AU  - Galland, Stéphane
+AU  - Nicolle, Christophe
+JO  - Artificial Intelligence
+VL  - 302
+SP  - 103573
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 0004-3702
+DO  - https://doi.org/10.1016/j.artint.2021.103573
+UR  - https://www.sciencedirect.com/science/article/pii/S0004370221001247
+KW  - Explainable artificial intelligence
+KW  - Human-computer interaction
+KW  - Multi-agent systems
+KW  - Empirical user studies
+KW  - Statistical testing
+AB  - With the widespread use of Artificial Intelligence (AI), understanding the behavior of intelligent agents and robots is crucial to guarantee successful human-agent collaboration since it is not straightforward for humans to understand an agent's state of mind. Recent empirical studies have confirmed that explaining a system's behavior to human users fosters the latter's acceptance of the system. However, providing overwhelming or unnecessary information may also confuse the users and cause failure. For these reasons, parsimony has been outlined as one of the key features allowing successful human-agent interaction with parsimonious explanation defined as the simplest explanation (i.e. least complex) that describes the situation adequately (i.e. descriptive adequacy). While parsimony is receiving growing attention in the literature, most of the works are carried out on the conceptual front. This paper proposes a mechanism for parsimonious eXplainable AI (XAI). In particular, it introduces the process of explanation formulation and proposes HAExA, a human-agent explainability architecture allowing to make it operational for remote robots. To provide parsimonious explanations, HAExA relies on both contrastive explanations and explanation filtering. To evaluate the proposed architecture, several research hypotheses are investigated in an empirical user study that relies on well-established XAI metrics to estimate how trustworthy and satisfactory the explanations provided by HAExA are. The results are analyzed using parametric and non-parametric statistical testing.
+ER  - 
+
+TY  - JOUR
+T1  - Personal attacks decrease user activity in social networking platforms
+AU  - Urbaniak, Rafal
+AU  - Ptaszyński, Michał
+AU  - Tempska, Patrycja
+AU  - Leliwa, Gniewosz
+AU  - Brochocki, Maciej
+AU  - Wroczyński, Michał
+JO  - Computers in Human Behavior
+VL  - 126
+SP  - 106972
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 0747-5632
+DO  - https://doi.org/10.1016/j.chb.2021.106972
+UR  - https://www.sciencedirect.com/science/article/pii/S0747563221002958
+KW  - Verbal aggression online
+KW  - Personal attacks
+KW  - Social media
+KW  - Artificial intelligence
+KW  - Online engagement
+AB  - We conduct a large scale data-driven analysis of the effects of online personal attacks on social media user activity. First, we perform a thorough overview of the literature on the influence of social media on user behavior, especially on the impact that negative and aggressive behaviors, such as harassment and cyberbullying, have on users' engagement in online media platforms. The majority of previous research were small-scale self-reported studies, which is their limitation. This motivates our data-driven study. We perform a large-scale analysis of messages from Reddit, a discussion website, for a period of two weeks, involving 182,528 posts or comments to posts by 148,317 users. To efficiently collect and analyze the data we apply a high-precision personal attack detection technology. We analyze the obtained data from three perspectives: (i) classical statistical methods, (ii) Bayesian estimation, and (iii) model-theoretic analysis. The three perspectives agree: personal attacks decrease the victims’ activity. The results can be interpreted as an important signal to social media platforms and policy makers that leaving personal attacks unmoderated is quite likely to disengage the users and in effect depopulate the platform. On the other hand, application of cyberviolence detection technology in combination with various mitigation techniques could improve and strengthen the user community. As more of our lives is taking place online, keeping the virtual space inclusive for all users becomes an important problem which online media platforms need to face.
+ER  - 
