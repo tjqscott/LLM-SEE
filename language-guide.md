@@ -17,3 +17,5 @@
 - Time limit: The tendency to be overly influenced by a stated time limit in the estimation of task completion time.
 - Hindsight: The tendency to retroactively see a process as having been predictable or straightforward.
 - Wishful thinking: The tendency to form beliefs based on what is pleasing to imaging rather that strictly on evidence of rationality.
+- Sequence Effect: The tendency for an estimate to be biased by the magnitude of the immediately preceding estimate, rather than assessing the task in isolation.
+- Planning Fallacy: The tendency to underestimate the time needed to complete a future task, often stemming from a focus on the specific details of the task (inside view) while ignoring the distribution of outcomes from similar past projects (outside view).
