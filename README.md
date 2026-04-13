@@ -6,15 +6,17 @@ the results reported in the dissertation. It accompanies the dissertation titled
 > Uncovering the Cognitive Biases of LLMs in Software Effort Estimation
 
 ## Repository Structure
-.
+
+```
 ├── experiment_selection/       # Systematic review process and paper selection
 ├── experiments/                # Jupyter notebooks implementing all 16 experiments
 │   ├── utils.py                # Shared utility code for all notebooks
 │   └── ...
 ├── figures/                    # Figures appearing in the dissertation and the script to generate them
 ├── requirements_documents/     # All requirements documents used as estimation inputs
-└── statistical_analysis/       # R script and output for all statistical tests
+├── statistical_analysis/       # R script and output for all statistical tests
 └── results/                # Numerical outputs from all experiments
+```
 
 ## Prerequisites
 
