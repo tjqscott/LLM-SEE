@@ -1,0 +1,4432 @@
+{
+    "openai/gpt-5.2-codex": {
+        "Apache MXNet": {
+            "75": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 5000,
+                "pi_width": 1.0
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 2000,
+                "minimum": 1200,
+                "maximum": 4000,
+                "pi_width": 1.4
+            },
+            "90": {
+                "most_likely": 6000,
+                "minimum": 4000,
+                "maximum": 10000,
+                "pi_width": 1.0
+            }
+        },
+        "Sonatype Nexus": {
+            "90": {
+                "most_likely": 156,
+                "minimum": 100,
+                "maximum": 240,
+                "pi_width": 0.897
+            },
+            "99": {
+                "most_likely": 100,
+                "minimum": 60,
+                "maximum": 200,
+                "pi_width": 1.4
+            },
+            "50": {
+                "most_likely": 170,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.706
+            },
+            "75": {
+                "most_likely": 96,
+                "minimum": 72,
+                "maximum": 140,
+                "pi_width": 0.708
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "90": {
+                "most_likely": 140,
+                "minimum": 100,
+                "maximum": 220,
+                "pi_width": 0.857
+            },
+            "99": {
+                "most_likely": 180,
+                "minimum": 90,
+                "maximum": 360,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.75
+            },
+            "75": {
+                "most_likely": 200,
+                "minimum": 140,
+                "maximum": 280,
+                "pi_width": 0.7
+            }
+        },
+        "Moodle": {
+            "99": {
+                "most_likely": 140,
+                "minimum": 80,
+                "maximum": 260,
+                "pi_width": 1.286
+            },
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "90": {
+                "most_likely": 104,
+                "minimum": 72,
+                "maximum": 160,
+                "pi_width": 0.846
+            }
+        },
+        "Mule APIkit": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 180,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 120,
+                "minimum": 90,
+                "maximum": 180,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 140,
+                "minimum": 96,
+                "maximum": 220,
+                "pi_width": 0.886
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 100,
+                "maximum": 260,
+                "pi_width": 1.0
+            }
+        },
+        "Lsstcorp Data management": {
+            "50": {
+                "most_likely": 3200,
+                "minimum": 2500,
+                "maximum": 4200,
+                "pi_width": 0.531
+            },
+            "75": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 5200,
+                "pi_width": 0.778
+            },
+            "99": {
+                "most_likely": 4000,
+                "minimum": 2500,
+                "maximum": 7000,
+                "pi_width": 1.125
+            },
+            "90": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Spring DataCass": {
+            "50": {
+                "most_likely": 360,
+                "minimum": 260,
+                "maximum": 520,
+                "pi_width": 0.722
+            },
+            "75": {
+                "most_likely": 560,
+                "minimum": 400,
+                "maximum": 800,
+                "pi_width": 0.714
+            },
+            "90": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 1000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 320,
+                "minimum": 180,
+                "maximum": 700,
+                "pi_width": 1.625
+            }
+        },
+        "Alloy Framework": {
+            "90": {
+                "most_likely": 420,
+                "minimum": 260,
+                "maximum": 700,
+                "pi_width": 1.048
+            },
+            "99": {
+                "most_likely": 400,
+                "minimum": 300,
+                "maximum": 650,
+                "pi_width": 0.875
+            },
+            "50": {
+                "most_likely": 280,
+                "minimum": 220,
+                "maximum": 360,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 360,
+                "minimum": 250,
+                "maximum": 550,
+                "pi_width": 0.833
+            }
+        },
+        "Mule": {
+            "50": {
+                "most_likely": 320,
+                "minimum": 220,
+                "maximum": 480,
+                "pi_width": 0.812
+            },
+            "75": {
+                "most_likely": 280,
+                "minimum": 200,
+                "maximum": 400,
+                "pi_width": 0.714
+            },
+            "90": {
+                "most_likely": 420,
+                "minimum": 300,
+                "maximum": 650,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Apache Mesos": {
+            "50": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.75
+            },
+            "75": {
+                "most_likely": 1400,
+                "minimum": 900,
+                "maximum": 2200,
+                "pi_width": 0.929
+            },
+            "99": {
+                "most_likely": 8000,
+                "minimum": 4500,
+                "maximum": 16000,
+                "pi_width": 1.438
+            },
+            "90": {
+                "most_likely": 2000,
+                "minimum": 1500,
+                "maximum": 2600,
+                "pi_width": 0.55
+            }
+        },
+        "Lyrasis Dura Cloud": {
+            "50": {
+                "most_likely": 720,
+                "minimum": 500,
+                "maximum": 1000,
+                "pi_width": 0.694
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 380,
+                "maximum": 750,
+                "pi_width": 0.712
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Spring XD": {
+            "50": {
+                "most_likely": 720,
+                "minimum": 550,
+                "maximum": 1000,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 540,
+                "minimum": 400,
+                "maximum": 800,
+                "pi_width": 0.741
+            },
+            "90": {
+                "most_likely": 760,
+                "minimum": 520,
+                "maximum": 1180,
+                "pi_width": 0.868
+            },
+            "99": {
+                "most_likely": 600,
+                "minimum": 350,
+                "maximum": 1200,
+                "pi_width": 1.417
+            }
+        },
+        "MongoDB Compass": {
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 220,
+                "minimum": 160,
+                "maximum": 320,
+                "pi_width": 0.727
+            },
+            "99": {
+                "most_likely": 220,
+                "minimum": 120,
+                "maximum": 500,
+                "pi_width": 1.727
+            },
+            "75": {
+                "most_likely": 208,
+                "minimum": 160,
+                "maximum": 320,
+                "pi_width": 0.769
+            }
+        },
+        "The Mongo C++ driver": {
+            "50": {
+                "most_likely": 200,
+                "minimum": 140,
+                "maximum": 280,
+                "pi_width": 0.7
+            },
+            "75": {
+                "most_likely": 240,
+                "minimum": 160,
+                "maximum": 360,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 200,
+                "minimum": 120,
+                "maximum": 320,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 320,
+                "minimum": 200,
+                "maximum": 700,
+                "pi_width": 1.562
+            }
+        },
+        "Atlassian Clover": {
+            "90": {
+                "most_likely": 4000,
+                "minimum": 2500,
+                "maximum": 7000,
+                "pi_width": 1.125
+            },
+            "99": {
+                "most_likely": 6000,
+                "minimum": 3000,
+                "maximum": 15000,
+                "pi_width": 2.0
+            },
+            "50": {
+                "most_likely": 4000,
+                "minimum": 3000,
+                "maximum": 5500,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 7000,
+                "pi_width": 0.889
+            }
+        },
+        "Apache Usergrid": {
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 720,
+                "minimum": 500,
+                "maximum": 1400,
+                "pi_width": 1.25
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1500,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 750,
+                "minimum": 520,
+                "maximum": 1150,
+                "pi_width": 0.84
+            }
+        },
+        "The MongoDB Engineering": {
+            "99": {
+                "most_likely": 1100,
+                "minimum": 700,
+                "maximum": 1800,
+                "pi_width": 1.0
+            },
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 400,
+                "minimum": 250,
+                "maximum": 700,
+                "pi_width": 1.125
+            },
+            "90": {
+                "most_likely": 950,
+                "minimum": 700,
+                "maximum": 1400,
+                "pi_width": 0.737
+            }
+        },
+        "Aptana Studio": {
+            "99": {
+                "most_likely": 1800,
+                "minimum": 900,
+                "maximum": 4000,
+                "pi_width": 1.722
+            },
+            "90": {
+                "most_likely": 1000,
+                "minimum": 600,
+                "maximum": 1600,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 400,
+                "maximum": 720,
+                "pi_width": 0.615
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1700,
+                "pi_width": 0.75
+            }
+        },
+        "Atlassian Crowd": {
+            "90": {
+                "most_likely": 2600,
+                "minimum": 1800,
+                "maximum": 4000,
+                "pi_width": 0.846
+            },
+            "99": {
+                "most_likely": 1600,
+                "minimum": 900,
+                "maximum": 3200,
+                "pi_width": 1.438
+            },
+            "50": {
+                "most_likely": 1320,
+                "minimum": 1100,
+                "maximum": 1800,
+                "pi_width": 0.53
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1700,
+                "pi_width": 0.667
+            }
+        },
+        "DotNetNuke Platform": {
+            "75": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3600,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 2500,
+                "minimum": 1800,
+                "maximum": 4500,
+                "pi_width": 1.08
+            },
+            "50": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3200,
+                "pi_width": 0.583
+            }
+        },
+        "Hyperledger Indy Node": {
+            "50": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1400,
+                "pi_width": 0.7
+            },
+            "75": {
+                "most_likely": 550,
+                "minimum": 380,
+                "maximum": 850,
+                "pi_width": 0.855
+            },
+            "90": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1600,
+                "pi_width": 0.9
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            }
+        },
+        "The Titanium SDK": {
+            "50": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1500,
+                "pi_width": 0.8
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 700,
+                "maximum": 1300,
+                "pi_width": 0.667
+            },
+            "90": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 10000,
+                "minimum": 6000,
+                "maximum": 20000,
+                "pi_width": 1.4
+            }
+        },
+        "Atlassian Bamboo": {
+            "50": {
+                "most_likely": 800,
+                "minimum": 650,
+                "maximum": 950,
+                "pi_width": 0.375
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 360,
+                "maximum": 750,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 2000,
+                "minimum": 1400,
+                "maximum": 3200,
+                "pi_width": 0.9
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            }
+        },
+        "Appcelerator Daemon": {
+            "50": {
+                "most_likely": 400,
+                "minimum": 320,
+                "maximum": 520,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 240,
+                "minimum": 160,
+                "maximum": 360,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 220,
+                "maximum": 500,
+                "pi_width": 0.875
+            },
+            "99": {
+                "most_likely": 520,
+                "minimum": 320,
+                "maximum": 1050,
+                "pi_width": 1.404
+            }
+        },
+        "Atlassian Software Server": {
+            "50": {
+                "most_likely": 640,
+                "minimum": 500,
+                "maximum": 800,
+                "pi_width": 0.469
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 700,
+                "maximum": 1300,
+                "pi_width": 0.667
+            },
+            "90": {
+                "most_likely": 900,
+                "minimum": 600,
+                "maximum": 1300,
+                "pi_width": 0.778
+            },
+            "99": {
+                "most_likely": 900,
+                "minimum": 600,
+                "maximum": 1600,
+                "pi_width": 1.111
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 4400,
+                "minimum": 3200,
+                "maximum": 6500,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 9000,
+                "minimum": 4500,
+                "maximum": 18000,
+                "pi_width": 1.5
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "50": {
+                "most_likely": 250,
+                "minimum": 180,
+                "maximum": 320,
+                "pi_width": 0.56
+            },
+            "75": {
+                "most_likely": 450,
+                "minimum": 320,
+                "maximum": 650,
+                "pi_width": 0.733
+            },
+            "90": {
+                "most_likely": 600,
+                "minimum": 420,
+                "maximum": 1000,
+                "pi_width": 0.967
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 300,
+                "maximum": 900,
+                "pi_width": 1.25
+            }
+        },
+        "MongoDB Core Server": {
+            "50": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 900,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 500,
+                "minimum": 350,
+                "maximum": 700,
+                "pi_width": 0.7
+            },
+            "90": {
+                "most_likely": 1100,
+                "minimum": 700,
+                "maximum": 2000,
+                "pi_width": 1.182
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 600,
+                "maximum": 2400,
+                "pi_width": 1.5
+            }
+        },
+        "The Mongo Java driver": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": 300,
+                "pi_width": 1.0
+            },
+            "90": {
+                "most_likely": 160,
+                "minimum": 80,
+                "maximum": 320,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 80,
+                "maximum": 400,
+                "pi_width": 2.0
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "50": {
+                "most_likely": 800,
+                "minimum": 600,
+                "maximum": 1000,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 350,
+                "maximum": 850,
+                "pi_width": 0.962
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2200,
+                "pi_width": 1.167
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Titanium Mobile Platform": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 90,
+                "maximum": 160,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": 300,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 200,
+                "minimum": 120,
+                "maximum": 400,
+                "pi_width": 1.4
+            }
+        },
+        "Appcelerator Studio": {
+            "50": {
+                "most_likely": 25000,
+                "minimum": 18000,
+                "maximum": 35000,
+                "pi_width": 0.68
+            },
+            "75": {
+                "most_likely": 15000,
+                "minimum": 12000,
+                "maximum": 22000,
+                "pi_width": 0.667
+            },
+            "90": {
+                "most_likely": 8000,
+                "minimum": 5000,
+                "maximum": 13000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 12000,
+                "minimum": 6000,
+                "maximum": 20000,
+                "pi_width": 1.167
+            }
+        },
+        "Command-Line Interface": {
+            "50": {
+                "most_likely": 240,
+                "minimum": 180,
+                "maximum": 320,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 200,
+                "minimum": 140,
+                "maximum": 320,
+                "pi_width": 0.9
+            },
+            "90": {
+                "most_likely": 400,
+                "minimum": 240,
+                "maximum": 700,
+                "pi_width": 1.15
+            },
+            "99": {
+                "most_likely": 360,
+                "minimum": 240,
+                "maximum": 700,
+                "pi_width": 1.278
+            }
+        },
+        "Hyperledger Fabric": {
+            "50": {
+                "most_likely": 240,
+                "minimum": 160,
+                "maximum": 360,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 700,
+                "minimum": 500,
+                "maximum": 1000,
+                "pi_width": 0.714
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 520,
+                "pi_width": 0.875
+            },
+            "99": {
+                "most_likely": 420,
+                "minimum": 250,
+                "maximum": 900,
+                "pi_width": 1.548
+            }
+        }
+    },
+    "google/gemini-3-flash-preview": {
+        "Sonatype Nexus": {
+            "90": {
+                "most_likely": 80,
+                "minimum": 55,
+                "maximum": 130,
+                "pi_width": 0.938
+            },
+            "99": {
+                "most_likely": 80,
+                "minimum": 40,
+                "maximum": 240,
+                "pi_width": 2.5
+            },
+            "50": {
+                "most_likely": 60,
+                "minimum": 50,
+                "maximum": 74,
+                "pi_width": 0.4
+            },
+            "75": {
+                "most_likely": 72,
+                "minimum": 48,
+                "maximum": 110,
+                "pi_width": 0.861
+            }
+        },
+        "Mule APIkit": {
+            "50": {
+                "most_likely": 72,
+                "minimum": 60,
+                "maximum": 88,
+                "pi_width": 0.389
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 130,
+                "maximum": 210,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 130,
+                "minimum": 110,
+                "maximum": 180,
+                "pi_width": 0.538
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 110,
+                "maximum": 280,
+                "pi_width": 1.062
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "99": {
+                "most_likely": 260,
+                "minimum": 180,
+                "maximum": 520,
+                "pi_width": 1.308
+            },
+            "50": {
+                "most_likely": 400,
+                "minimum": 320,
+                "maximum": 480,
+                "pi_width": 0.4
+            },
+            "75": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 480,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 220,
+                "maximum": 480,
+                "pi_width": 0.812
+            }
+        },
+        "Apache MXNet": {
+            "75": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 4800,
+                "minimum": 2200,
+                "maximum": 11500,
+                "pi_width": 1.938
+            },
+            "90": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "50": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4000,
+                "pi_width": 0.5
+            }
+        },
+        "Alloy Framework": {
+            "90": {
+                "most_likely": 640,
+                "minimum": 480,
+                "maximum": 920,
+                "pi_width": 0.688
+            },
+            "99": {
+                "most_likely": 640,
+                "minimum": 380,
+                "maximum": 1150,
+                "pi_width": 1.203
+            },
+            "50": {
+                "most_likely": 480,
+                "minimum": 380,
+                "maximum": 600,
+                "pi_width": 0.458
+            },
+            "75": {
+                "most_likely": 480,
+                "minimum": 400,
+                "maximum": 560,
+                "pi_width": 0.333
+            }
+        },
+        "Lsstcorp Data management": {
+            "50": {
+                "most_likely": 2600,
+                "minimum": 2000,
+                "maximum": 3200,
+                "pi_width": 0.462
+            },
+            "75": {
+                "most_likely": 2100,
+                "minimum": 1700,
+                "maximum": 2600,
+                "pi_width": 0.429
+            },
+            "90": {
+                "most_likely": 1850,
+                "minimum": 1200,
+                "maximum": 3100,
+                "pi_width": 1.027
+            },
+            "99": {
+                "most_likely": 3200,
+                "minimum": 1800,
+                "maximum": 7500,
+                "pi_width": 1.781
+            }
+        },
+        "Spring DataCass": {
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 200,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 204,
+                "minimum": 160,
+                "maximum": 280,
+                "pi_width": 0.588
+            },
+            "90": {
+                "most_likely": 24,
+                "minimum": 12,
+                "maximum": 60,
+                "pi_width": 2.0
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 110,
+                "maximum": 280,
+                "pi_width": 1.062
+            }
+        },
+        "Mule": {
+            "50": {
+                "most_likely": 240,
+                "minimum": 180,
+                "maximum": 290,
+                "pi_width": 0.458
+            },
+            "75": {
+                "most_likely": 195,
+                "minimum": 165,
+                "maximum": 250,
+                "pi_width": 0.436
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 180,
+                "maximum": 540,
+                "pi_width": 1.125
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 220,
+                "maximum": 1150,
+                "pi_width": 1.938
+            }
+        },
+        "Lyrasis Dura Cloud": {
+            "50": {
+                "most_likely": 640,
+                "minimum": 480,
+                "maximum": 820,
+                "pi_width": 0.531
+            },
+            "75": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 620,
+                "pi_width": 0.542
+            },
+            "90": {
+                "most_likely": 520,
+                "minimum": 420,
+                "maximum": 780,
+                "pi_width": 0.692
+            },
+            "99": {
+                "most_likely": 720,
+                "minimum": 480,
+                "maximum": 1450,
+                "pi_width": 1.347
+            }
+        },
+        "Spring XD": {
+            "50": {
+                "most_likely": 1550,
+                "minimum": 1300,
+                "maximum": 1900,
+                "pi_width": 0.387
+            },
+            "75": {
+                "most_likely": 1150,
+                "minimum": 970,
+                "maximum": 1410,
+                "pi_width": 0.383
+            },
+            "90": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3400,
+                "pi_width": 0.818
+            },
+            "99": {
+                "most_likely": 3200,
+                "minimum": 1800,
+                "maximum": 7500,
+                "pi_width": 1.781
+            }
+        },
+        "Apache Mesos": {
+            "50": {
+                "most_likely": 5200,
+                "minimum": 4100,
+                "maximum": 6300,
+                "pi_width": 0.423
+            },
+            "75": {
+                "most_likely": 2400,
+                "minimum": 1850,
+                "maximum": 3100,
+                "pi_width": 0.521
+            },
+            "90": {
+                "most_likely": 8400,
+                "minimum": 5200,
+                "maximum": 14500,
+                "pi_width": 1.107
+            },
+            "99": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 8500,
+                "pi_width": 1.104
+            }
+        },
+        "MongoDB Compass": {
+            "50": {
+                "most_likely": 135,
+                "minimum": 110,
+                "maximum": 165,
+                "pi_width": 0.407
+            },
+            "75": {
+                "most_likely": 185,
+                "minimum": 150,
+                "maximum": 240,
+                "pi_width": 0.486
+            },
+            "90": {
+                "most_likely": 140,
+                "minimum": 115,
+                "maximum": 190,
+                "pi_width": 0.536
+            },
+            "99": {
+                "most_likely": 260,
+                "minimum": 140,
+                "maximum": 580,
+                "pi_width": 1.692
+            }
+        },
+        "The Mongo C++ driver": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 95,
+                "maximum": 150,
+                "pi_width": 0.458
+            },
+            "75": {
+                "most_likely": 240,
+                "minimum": 205,
+                "maximum": 310,
+                "pi_width": 0.438
+            },
+            "90": {
+                "most_likely": 420,
+                "minimum": 310,
+                "maximum": 650,
+                "pi_width": 0.81
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 320,
+                "maximum": 1150,
+                "pi_width": 1.729
+            }
+        },
+        "Atlassian Crowd": {
+            "90": {
+                "most_likely": 1350,
+                "minimum": 1100,
+                "maximum": 1850,
+                "pi_width": 0.556
+            },
+            "99": {
+                "most_likely": 1350,
+                "minimum": 850,
+                "maximum": 2600,
+                "pi_width": 1.296
+            },
+            "50": {
+                "most_likely": 800,
+                "minimum": 650,
+                "maximum": 950,
+                "pi_width": 0.375
+            },
+            "75": {
+                "most_likely": 640,
+                "minimum": 520,
+                "maximum": 880,
+                "pi_width": 0.562
+            }
+        },
+        "DotNetNuke Platform": {
+            "75": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 1950,
+                "pi_width": 0.586
+            },
+            "90": {
+                "most_likely": 1100,
+                "minimum": 900,
+                "maximum": 1450,
+                "pi_width": 0.5
+            },
+            "99": {
+                "most_likely": 1650,
+                "minimum": 1100,
+                "maximum": 2800,
+                "pi_width": 1.03
+            },
+            "50": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 1800,
+                "pi_width": 0.483
+            }
+        },
+        "Hyperledger Indy Node": {
+            "50": {
+                "most_likely": 1200,
+                "minimum": 950,
+                "maximum": 1450,
+                "pi_width": 0.417
+            },
+            "75": {
+                "most_likely": 780,
+                "minimum": 640,
+                "maximum": 940,
+                "pi_width": 0.385
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 850,
+                "maximum": 1850,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 1350,
+                "minimum": 950,
+                "maximum": 2100,
+                "pi_width": 0.852
+            }
+        },
+        "Atlassian Clover": {
+            "99": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 9500,
+                "pi_width": 1.312
+            },
+            "50": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4200,
+                "pi_width": 0.562
+            },
+            "90": {
+                "most_likely": 4500,
+                "minimum": 3800,
+                "maximum": 5700,
+                "pi_width": 0.422
+            },
+            "75": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            }
+        },
+        "Apache Usergrid": {
+            "99": {
+                "most_likely": 480,
+                "minimum": 240,
+                "maximum": 1150,
+                "pi_width": 1.896
+            },
+            "75": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 480,
+                "pi_width": 0.75
+            },
+            "50": {
+                "most_likely": 400,
+                "minimum": 320,
+                "maximum": 500,
+                "pi_width": 0.45
+            },
+            "90": {
+                "most_likely": 420,
+                "minimum": 320,
+                "maximum": 650,
+                "pi_width": 0.786
+            }
+        },
+        "The Titanium SDK": {
+            "50": {
+                "most_likely": 4500,
+                "minimum": 3900,
+                "maximum": 5200,
+                "pi_width": 0.289
+            },
+            "75": {
+                "most_likely": 14400,
+                "minimum": 9600,
+                "maximum": 22000,
+                "pi_width": 0.861
+            },
+            "90": {
+                "most_likely": 14400,
+                "minimum": 8200,
+                "maximum": 28500,
+                "pi_width": 1.41
+            },
+            "99": {
+                "most_likely": 18500,
+                "minimum": 8200,
+                "maximum": 45000,
+                "pi_width": 1.989
+            }
+        },
+        "Aptana Studio": {
+            "99": {
+                "most_likely": 1450,
+                "minimum": 850,
+                "maximum": 3200,
+                "pi_width": 1.621
+            },
+            "90": {
+                "most_likely": 1150,
+                "minimum": 750,
+                "maximum": 1900,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 820,
+                "minimum": 720,
+                "maximum": 1030,
+                "pi_width": 0.378
+            },
+            "50": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 1800,
+                "pi_width": 0.483
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "50": {
+                "most_likely": 1750,
+                "minimum": 1400,
+                "maximum": 2100,
+                "pi_width": 0.4
+            },
+            "75": {
+                "most_likely": 2200,
+                "minimum": 1800,
+                "maximum": 2700,
+                "pi_width": 0.409
+            },
+            "90": {
+                "most_likely": 1850,
+                "minimum": 1200,
+                "maximum": 3100,
+                "pi_width": 1.027
+            },
+            "99": {
+                "most_likely": 2850,
+                "minimum": 2250,
+                "maximum": 4100,
+                "pi_width": 0.649
+            }
+        },
+        "Appcelerator Daemon": {
+            "50": {
+                "most_likely": 300,
+                "minimum": 240,
+                "maximum": 360,
+                "pi_width": 0.4
+            },
+            "75": {
+                "most_likely": 210,
+                "minimum": 160,
+                "maximum": 280,
+                "pi_width": 0.571
+            },
+            "90": {
+                "most_likely": 280,
+                "minimum": 220,
+                "maximum": 410,
+                "pi_width": 0.679
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 320,
+                "maximum": 850,
+                "pi_width": 1.104
+            }
+        },
+        "Atlassian Software Server": {
+            "50": {
+                "most_likely": 520,
+                "minimum": 460,
+                "maximum": 580,
+                "pi_width": 0.231
+            },
+            "75": {
+                "most_likely": 580,
+                "minimum": 420,
+                "maximum": 850,
+                "pi_width": 0.741
+            },
+            "90": {
+                "most_likely": 1250,
+                "minimum": 1000,
+                "maximum": 1650,
+                "pi_width": 0.52
+            },
+            "99": {
+                "most_likely": 820,
+                "minimum": 540,
+                "maximum": 1450,
+                "pi_width": 1.11
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "50": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 440,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 360,
+                "minimum": 240,
+                "maximum": 520,
+                "pi_width": 0.778
+            },
+            "90": {
+                "most_likely": 420,
+                "minimum": 320,
+                "maximum": 680,
+                "pi_width": 0.857
+            },
+            "99": {
+                "most_likely": 540,
+                "minimum": 320,
+                "maximum": 1100,
+                "pi_width": 1.444
+            }
+        },
+        "MongoDB Core Server": {
+            "50": {
+                "most_likely": 260,
+                "minimum": 215,
+                "maximum": 310,
+                "pi_width": 0.365
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 640,
+                "minimum": 320,
+                "maximum": 1200,
+                "pi_width": 1.375
+            },
+            "99": {
+                "most_likely": 320,
+                "minimum": 180,
+                "maximum": 850,
+                "pi_width": 2.094
+            }
+        },
+        "The Mongo Java driver": {
+            "50": {
+                "most_likely": 210,
+                "minimum": 180,
+                "maximum": 250,
+                "pi_width": 0.333
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 200,
+                "minimum": 120,
+                "maximum": 360,
+                "pi_width": 1.2
+            },
+            "99": {
+                "most_likely": 140,
+                "minimum": 85,
+                "maximum": 260,
+                "pi_width": 1.25
+            }
+        },
+        "Atlassian Bamboo": {
+            "50": {
+                "most_likely": 260,
+                "minimum": 220,
+                "maximum": 330,
+                "pi_width": 0.423
+            },
+            "75": {
+                "most_likely": 620,
+                "minimum": 540,
+                "maximum": 800,
+                "pi_width": 0.419
+            },
+            "90": {
+                "most_likely": 640,
+                "minimum": 480,
+                "maximum": 950,
+                "pi_width": 0.734
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "50": {
+                "most_likely": 180,
+                "minimum": 140,
+                "maximum": 230,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 440,
+                "maximum": 660,
+                "pi_width": 0.423
+            },
+            "90": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 720,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 720,
+                "minimum": 480,
+                "maximum": 1650,
+                "pi_width": 1.625
+            }
+        },
+        "Titanium Mobile Platform": {
+            "50": {
+                "most_likely": 130,
+                "minimum": 105,
+                "maximum": 160,
+                "pi_width": 0.423
+            },
+            "75": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 480,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": 280,
+                "pi_width": 0.889
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Appcelerator Studio": {
+            "50": {
+                "most_likely": 2600,
+                "minimum": 2100,
+                "maximum": 3150,
+                "pi_width": 0.404
+            },
+            "75": {
+                "most_likely": 2100,
+                "minimum": 1700,
+                "maximum": 2650,
+                "pi_width": 0.452
+            },
+            "90": {
+                "most_likely": 6500,
+                "minimum": 4800,
+                "maximum": 9500,
+                "pi_width": 0.723
+            },
+            "99": {
+                "most_likely": 6120,
+                "minimum": 4200,
+                "maximum": 11500,
+                "pi_width": 1.193
+            }
+        },
+        "Command-Line Interface": {
+            "50": {
+                "most_likely": 520,
+                "minimum": 440,
+                "maximum": 660,
+                "pi_width": 0.423
+            },
+            "75": {
+                "most_likely": 450,
+                "minimum": 390,
+                "maximum": 610,
+                "pi_width": 0.489
+            },
+            "90": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 320,
+                "maximum": 950,
+                "pi_width": 1.312
+            }
+        },
+        "Hyperledger Fabric": {
+            "50": {
+                "most_likely": 84,
+                "minimum": 64,
+                "maximum": 112,
+                "pi_width": 0.571
+            },
+            "75": {
+                "most_likely": 120,
+                "minimum": 85,
+                "maximum": 170,
+                "pi_width": 0.708
+            },
+            "90": {
+                "most_likely": 64,
+                "minimum": 40,
+                "maximum": 110,
+                "pi_width": 1.094
+            },
+            "99": {
+                "most_likely": 120,
+                "minimum": 65,
+                "maximum": 280,
+                "pi_width": 1.792
+            }
+        },
+        "Moodle": {
+            "50": {
+                "most_likely": 54,
+                "minimum": 42,
+                "maximum": 68,
+                "pi_width": 0.481
+            },
+            "75": {
+                "most_likely": 52,
+                "minimum": 44,
+                "maximum": 64,
+                "pi_width": 0.385
+            },
+            "90": {
+                "most_likely": 80,
+                "minimum": 64,
+                "maximum": 115,
+                "pi_width": 0.637
+            },
+            "99": {
+                "most_likely": 72,
+                "minimum": 40,
+                "maximum": 160,
+                "pi_width": 1.667
+            }
+        },
+        "The MongoDB Engineering": {
+            "50": {
+                "most_likely": 880,
+                "minimum": 720,
+                "maximum": 1050,
+                "pi_width": 0.375
+            },
+            "75": {
+                "most_likely": 480,
+                "minimum": 400,
+                "maximum": 660,
+                "pi_width": 0.542
+            },
+            "90": {
+                "most_likely": 1850,
+                "minimum": 1200,
+                "maximum": 3100,
+                "pi_width": 1.027
+            },
+            "99": {
+                "most_likely": 800,
+                "minimum": 450,
+                "maximum": 1850,
+                "pi_width": 1.75
+            }
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Hyperledger Sawtooth": {
+            "90": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "99": {
+                "most_likely": 140,
+                "minimum": 100,
+                "maximum": 200,
+                "pi_width": 0.714
+            },
+            "50": {
+                "most_likely": 60,
+                "minimum": 50,
+                "maximum": 80,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 220,
+                "minimum": 160,
+                "maximum": 300,
+                "pi_width": 0.636
+            }
+        },
+        "Moodle": {
+            "99": {
+                "most_likely": 76,
+                "minimum": 53,
+                "maximum": 99,
+                "pi_width": 0.605
+            },
+            "50": {
+                "most_likely": 120,
+                "minimum": 90,
+                "maximum": 160,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 80,
+                "minimum": 60,
+                "maximum": 120,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 40,
+                "minimum": 30,
+                "maximum": 55,
+                "pi_width": 0.625
+            }
+        },
+        "Apache MXNet": {
+            "50": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4000,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 710,
+                "minimum": 580,
+                "maximum": 860,
+                "pi_width": 0.394
+            },
+            "90": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 600,
+                "pi_width": 0.5
+            },
+            "99": {
+                "most_likely": 500,
+                "minimum": 380,
+                "maximum": 650,
+                "pi_width": 0.54
+            }
+        },
+        "Sonatype Nexus": {
+            "90": {
+                "most_likely": 80,
+                "minimum": 60,
+                "maximum": 120,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 36,
+                "minimum": 24,
+                "maximum": 60,
+                "pi_width": 1.0
+            },
+            "50": {
+                "most_likely": 60,
+                "minimum": 30,
+                "maximum": 100,
+                "pi_width": 1.167
+            },
+            "75": {
+                "most_likely": 80,
+                "minimum": 60,
+                "maximum": 120,
+                "pi_width": 0.75
+            }
+        },
+        "Spring DataCass": {
+            "50": {
+                "most_likely": 16,
+                "minimum": 12,
+                "maximum": 24,
+                "pi_width": 0.75
+            },
+            "75": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 140,
+                "minimum": 110,
+                "maximum": 190,
+                "pi_width": 0.571
+            },
+            "90": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Mule APIkit": {
+            "75": {
+                "most_likely": 14,
+                "minimum": 10,
+                "maximum": 20,
+                "pi_width": 0.714
+            },
+            "50": {
+                "most_likely": 40,
+                "minimum": 30,
+                "maximum": 55,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 60,
+                "minimum": 48,
+                "maximum": 80,
+                "pi_width": 0.533
+            },
+            "99": {
+                "most_likely": 130,
+                "minimum": 110,
+                "maximum": 170,
+                "pi_width": 0.462
+            }
+        },
+        "Lsstcorp Data management": {
+            "50": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 700,
+                "maximum": 1200,
+                "pi_width": 0.556
+            },
+            "90": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6750,
+                "pi_width": 0.7
+            },
+            "99": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 7100,
+                "pi_width": 0.615
+            }
+        },
+        "The Titanium SDK": {
+            "90": {
+                "most_likely": 1110,
+                "minimum": 900,
+                "maximum": 1,
+                "pi_width": -0.81
+            },
+            "50": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3200,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 20,
+                "minimum": 12,
+                "maximum": 32,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 1400,
+                "minimum": 1100,
+                "maximum": 2100,
+                "pi_width": 0.714
+            }
+        },
+        "Alloy Framework": {
+            "90": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 280,
+                "minimum": 200,
+                "maximum": 400,
+                "pi_width": 0.714
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.75
+            },
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 200,
+                "pi_width": 0.5
+            }
+        },
+        "Mule": {
+            "50": {
+                "most_likely": 40,
+                "minimum": 30,
+                "maximum": 55,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 40,
+                "minimum": 30,
+                "maximum": 55,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 16,
+                "minimum": 12,
+                "maximum": 24,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 80,
+                "minimum": 56,
+                "maximum": 120,
+                "pi_width": 0.8
+            }
+        },
+        "Lyrasis Dura Cloud": {
+            "50": {
+                "most_likely": 600,
+                "minimum": 450,
+                "maximum": 800,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 180,
+                "minimum": 135,
+                "maximum": 225,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 650,
+                "minimum": 450,
+                "maximum": 950,
+                "pi_width": 0.769
+            },
+            "99": {
+                "most_likely": 650,
+                "minimum": 450,
+                "maximum": 950,
+                "pi_width": 0.769
+            }
+        },
+        "Spring XD": {
+            "50": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1600,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 400,
+                "minimum": 300,
+                "maximum": 500,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            }
+        },
+        "Apache Mesos": {
+            "50": {
+                "most_likely": 900,
+                "minimum": 700,
+                "maximum": 1100,
+                "pi_width": 0.444
+            },
+            "99": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 7000,
+                "pi_width": 0.889
+            },
+            "75": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 7500,
+                "pi_width": 0.692
+            }
+        },
+        "MongoDB Compass": {
+            "50": {
+                "most_likely": 80,
+                "minimum": 60,
+                "maximum": 120,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 220,
+                "minimum": 160,
+                "maximum": 300,
+                "pi_width": 0.636
+            },
+            "75": {
+                "most_likely": 60,
+                "minimum": 45,
+                "maximum": 80,
+                "pi_width": 0.583
+            },
+            "99": {
+                "most_likely": 84,
+                "minimum": 70,
+                "maximum": 110,
+                "pi_width": 0.476
+            }
+        },
+        "Hyperledger Fabric": {
+            "99": {
+                "most_likely": 60,
+                "minimum": 45,
+                "maximum": 85,
+                "pi_width": 0.667
+            },
+            "50": {
+                "most_likely": 40,
+                "minimum": 32,
+                "maximum": 50,
+                "pi_width": 0.45
+            },
+            "75": {
+                "most_likely": 18,
+                "minimum": 12,
+                "maximum": 26,
+                "pi_width": 0.778
+            },
+            "90": {
+                "most_likely": 40,
+                "minimum": 24,
+                "maximum": 80,
+                "pi_width": 1.4
+            }
+        },
+        "Aptana Studio": {
+            "99": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.75
+            },
+            "75": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2600,
+                "pi_width": 0.778
+            },
+            "50": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 440,
+                "pi_width": 0.625
+            }
+        },
+        "The Mongo C++ driver": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 180,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 640,
+                "pi_width": 0.583
+            },
+            "90": {
+                "most_likely": 600,
+                "minimum": 450,
+                "maximum": 850,
+                "pi_width": 0.667
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.75
+            }
+        },
+        "Apache Usergrid": {
+            "90": {
+                "most_likely": 300,
+                "minimum": 240,
+                "maximum": 380,
+                "pi_width": 0.467
+            },
+            "99": {
+                "most_likely": 450,
+                "minimum": 350,
+                "maximum": 600,
+                "pi_width": 0.556
+            },
+            "50": {
+                "most_likely": 480,
+                "minimum": 380,
+                "maximum": 580,
+                "pi_width": 0.417
+            },
+            "75": {
+                "most_likely": 215,
+                "minimum": 160,
+                "maximum": 290,
+                "pi_width": 0.605
+            }
+        },
+        "Atlassian Clover": {
+            "90": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "99": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "75": {
+                "most_likely": 650,
+                "minimum": 450,
+                "maximum": 950,
+                "pi_width": 0.769
+            },
+            "50": {
+                "most_likely": 1600,
+                "minimum": 1200,
+                "maximum": 2200,
+                "pi_width": 0.625
+            }
+        },
+        "The MongoDB Engineering": {
+            "99": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.75
+            },
+            "50": {
+                "most_likely": 600,
+                "minimum": 450,
+                "maximum": 800,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 240,
+                "minimum": 200,
+                "maximum": 300,
+                "pi_width": 0.417
+            }
+        },
+        "Atlassian Crowd": {
+            "90": {
+                "most_likely": 430,
+                "minimum": 350,
+                "maximum": 550,
+                "pi_width": 0.465
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.75
+            },
+            "50": {
+                "most_likely": 450,
+                "minimum": 360,
+                "maximum": 600,
+                "pi_width": 0.533
+            },
+            "75": {
+                "most_likely": 300,
+                "minimum": 225,
+                "maximum": 375,
+                "pi_width": 0.5
+            }
+        },
+        "DotNetNuke Platform": {
+            "75": {
+                "most_likely": 1100,
+                "minimum": 800,
+                "maximum": 1500,
+                "pi_width": 0.636
+            },
+            "90": {
+                "most_likely": 450,
+                "minimum": 350,
+                "maximum": 600,
+                "pi_width": 0.556
+            },
+            "99": {
+                "most_likely": 545,
+                "minimum": 380,
+                "maximum": 750,
+                "pi_width": 0.679
+            },
+            "50": {
+                "most_likely": 350,
+                "minimum": 298,
+                "maximum": 403,
+                "pi_width": 0.3
+            }
+        },
+        "Hyperledger Indy Node": {
+            "50": {
+                "most_likely": 400,
+                "minimum": 300,
+                "maximum": 600,
+                "pi_width": 0.75
+            },
+            "75": {
+                "most_likely": 700,
+                "minimum": 550,
+                "maximum": 950,
+                "pi_width": 0.571
+            },
+            "90": {
+                "most_likely": 600,
+                "minimum": 450,
+                "maximum": 850,
+                "pi_width": 0.667
+            },
+            "99": {
+                "most_likely": 880,
+                "minimum": 720,
+                "maximum": 1240,
+                "pi_width": 0.591
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "50": {
+                "most_likely": 1050,
+                "minimum": 850,
+                "maximum": 1250,
+                "pi_width": 0.381
+            },
+            "75": {
+                "most_likely": 1600,
+                "minimum": 1200,
+                "maximum": 2000,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 8000,
+                "minimum": 6000,
+                "maximum": 12000,
+                "pi_width": 0.75
+            },
+            "99": {
+                "most_likely": 2800,
+                "minimum": 2200,
+                "maximum": 3800,
+                "pi_width": 0.571
+            }
+        },
+        "Appcelerator Daemon": {
+            "50": {
+                "most_likely": 162,
+                "minimum": 126,
+                "maximum": 198,
+                "pi_width": 0.444
+            },
+            "75": {
+                "most_likely": 245,
+                "minimum": 185,
+                "maximum": 315,
+                "pi_width": 0.531
+            },
+            "90": {
+                "most_likely": 220,
+                "minimum": 160,
+                "maximum": 320,
+                "pi_width": 0.727
+            },
+            "99": {
+                "most_likely": 260,
+                "minimum": 208,
+                "maximum": 390,
+                "pi_width": 0.7
+            }
+        },
+        "Atlassian Software Server": {
+            "50": {
+                "most_likely": 400,
+                "minimum": 320,
+                "maximum": 480,
+                "pi_width": 0.4
+            },
+            "75": {
+                "most_likely": 600,
+                "minimum": 480,
+                "maximum": 750,
+                "pi_width": 0.45
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1600,
+                "pi_width": 0.583
+            },
+            "99": {
+                "most_likely": 1250,
+                "minimum": 900,
+                "maximum": 1750,
+                "pi_width": 0.68
+            }
+        },
+        "MongoDB Core Server": {
+            "50": {
+                "most_likely": 1,
+                "minimum": 1,
+                "maximum": 1,
+                "pi_width": 0.0
+            },
+            "75": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "90": {
+                "most_likely": 170,
+                "minimum": 120,
+                "maximum": 260,
+                "pi_width": 0.824
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 720,
+                "pi_width": 0.75
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 200,
+                "minimum": 160,
+                "maximum": 260,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 280,
+                "minimum": 200,
+                "maximum": 400,
+                "pi_width": 0.714
+            },
+            "99": {
+                "most_likely": 240,
+                "minimum": 150,
+                "maximum": 400,
+                "pi_width": 1.042
+            }
+        },
+        "The Mongo Java driver": {
+            "50": {
+                "most_likely": 65,
+                "minimum": 50,
+                "maximum": 85,
+                "pi_width": 0.538
+            },
+            "75": {
+                "most_likely": 44,
+                "minimum": 32,
+                "maximum": 60,
+                "pi_width": 0.636
+            },
+            "90": {
+                "most_likely": 56,
+                "minimum": 45,
+                "maximum": 75,
+                "pi_width": 0.536
+            },
+            "99": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "50": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 450,
+                "pi_width": 0.656
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 320,
+                "maximum": 720,
+                "pi_width": 0.833
+            }
+        },
+        "Atlassian Bamboo": {
+            "50": {
+                "most_likely": 800,
+                "minimum": 600,
+                "maximum": 1100,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 240,
+                "minimum": 192,
+                "maximum": 288,
+                "pi_width": 0.4
+            },
+            "90": {
+                "most_likely": 350,
+                "minimum": 263,
+                "maximum": 438,
+                "pi_width": 0.5
+            },
+            "99": {
+                "most_likely": 260,
+                "minimum": 200,
+                "maximum": 350,
+                "pi_width": 0.577
+            }
+        },
+        "Titanium Mobile Platform": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 180,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 92,
+                "minimum": 70,
+                "maximum": 120,
+                "pi_width": 0.543
+            },
+            "90": {
+                "most_likely": 100,
+                "minimum": 60,
+                "maximum": 160,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            }
+        },
+        "Appcelerator Studio": {
+            "50": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3200,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 6500,
+                "pi_width": 0.604
+            },
+            "90": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "99": {
+                "most_likely": 1,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Command-Line Interface": {
+            "50": {
+                "most_likely": 120,
+                "minimum": 90,
+                "maximum": 160,
+                "pi_width": 0.583
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 200,
+                "pi_width": 0.5
+            },
+            "90": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 320,
+                "minimum": 240,
+                "maximum": 440,
+                "pi_width": 0.625
+            }
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Hyperledger Sawtooth": {
+            "90": {
+                "most_likely": 540,
+                "minimum": 330,
+                "maximum": 810,
+                "pi_width": 0.889
+            },
+            "99": {
+                "most_likely": 540,
+                "minimum": 200,
+                "maximum": 1200,
+                "pi_width": 1.852
+            },
+            "50": {
+                "most_likely": 480,
+                "minimum": 360,
+                "maximum": 680,
+                "pi_width": 0.667
+            },
+            "75": {
+                "most_likely": 555,
+                "minimum": 400,
+                "maximum": 800,
+                "pi_width": 0.721
+            }
+        },
+        "Apache MXNet": {
+            "50": {
+                "most_likely": 24000,
+                "minimum": 19000,
+                "maximum": 32000,
+                "pi_width": 0.542
+            },
+            "75": {
+                "most_likely": 16000,
+                "minimum": 11500,
+                "maximum": 23000,
+                "pi_width": 0.719
+            },
+            "90": {
+                "most_likely": 30000,
+                "minimum": 21000,
+                "maximum": 45000,
+                "pi_width": 0.8
+            },
+            "99": {
+                "most_likely": 38000,
+                "minimum": 18000,
+                "maximum": 80000,
+                "pi_width": 1.632
+            }
+        },
+        "Sonatype Nexus": {
+            "90": {
+                "most_likely": 104,
+                "minimum": 72,
+                "maximum": 180,
+                "pi_width": 1.038
+            },
+            "99": {
+                "most_likely": 136,
+                "minimum": 72,
+                "maximum": 340,
+                "pi_width": 1.971
+            },
+            "50": {
+                "most_likely": 96,
+                "minimum": 80,
+                "maximum": 124,
+                "pi_width": 0.458
+            },
+            "75": {
+                "most_likely": 100,
+                "minimum": 72,
+                "maximum": 155,
+                "pi_width": 0.83
+            }
+        },
+        "Mule APIkit": {
+            "50": {
+                "most_likely": 105,
+                "minimum": 80,
+                "maximum": 140,
+                "pi_width": 0.571
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 240,
+                "pi_width": 0.75
+            },
+            "90": {
+                "most_likely": 160,
+                "minimum": 100,
+                "maximum": 280,
+                "pi_width": 1.125
+            },
+            "99": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Lsstcorp Data management": {
+            "50": {
+                "most_likely": 3400,
+                "minimum": 2800,
+                "maximum": 4200,
+                "pi_width": 0.412
+            },
+            "75": {
+                "most_likely": 2800,
+                "minimum": 2000,
+                "maximum": 4000,
+                "pi_width": 0.714
+            },
+            "90": {
+                "most_likely": 3000,
+                "minimum": 1800,
+                "maximum": 5500,
+                "pi_width": 1.233
+            },
+            "99": {
+                "most_likely": 4800,
+                "minimum": 2400,
+                "maximum": 12000,
+                "pi_width": 2.0
+            }
+        },
+        "Spring DataCass": {
+            "50": {
+                "most_likely": 300,
+                "minimum": 240,
+                "maximum": 380,
+                "pi_width": 0.467
+            },
+            "75": {
+                "most_likely": 360,
+                "minimum": 280,
+                "maximum": 480,
+                "pi_width": 0.556
+            },
+            "90": {
+                "most_likely": 360,
+                "minimum": 220,
+                "maximum": 580,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 250,
+                "maximum": 1100,
+                "pi_width": 1.771
+            }
+        },
+        "Alloy Framework": {
+            "90": {
+                "most_likely": 680,
+                "minimum": 400,
+                "maximum": 1100,
+                "pi_width": 1.029
+            },
+            "99": {
+                "most_likely": 760,
+                "minimum": 380,
+                "maximum": 1800,
+                "pi_width": 1.868
+            },
+            "50": {
+                "most_likely": 320,
+                "minimum": 270,
+                "maximum": 400,
+                "pi_width": 0.406
+            },
+            "75": {
+                "most_likely": 520,
+                "minimum": 415,
+                "maximum": 690,
+                "pi_width": 0.529
+            }
+        },
+        "Mule": {
+            "50": {
+                "most_likely": 620,
+                "minimum": 460,
+                "maximum": 840,
+                "pi_width": 0.613
+            },
+            "75": {
+                "most_likely": 1100,
+                "minimum": 820,
+                "maximum": 1330,
+                "pi_width": 0.464
+            },
+            "90": {
+                "most_likely": 1150,
+                "minimum": 850,
+                "maximum": 1700,
+                "pi_width": 0.739
+            },
+            "99": {
+                "most_likely": 1000,
+                "minimum": 550,
+                "maximum": 2200,
+                "pi_width": 1.65
+            }
+        },
+        "Lyrasis Dura Cloud": {
+            "50": {
+                "most_likely": 780,
+                "minimum": 600,
+                "maximum": 1040,
+                "pi_width": 0.564
+            },
+            "75": {
+                "most_likely": 950,
+                "minimum": 700,
+                "maximum": 1350,
+                "pi_width": 0.684
+            },
+            "90": {
+                "most_likely": 1450,
+                "minimum": 1080,
+                "maximum": 1900,
+                "pi_width": 0.566
+            },
+            "99": {
+                "most_likely": 1650,
+                "minimum": 900,
+                "maximum": 3200,
+                "pi_width": 1.394
+            }
+        },
+        "Spring XD": {
+            "50": {
+                "most_likely": 2000,
+                "minimum": 1560,
+                "maximum": 2600,
+                "pi_width": 0.52
+            },
+            "75": {
+                "most_likely": 1900,
+                "minimum": 1510,
+                "maximum": 2620,
+                "pi_width": 0.584
+            },
+            "90": {
+                "most_likely": 2400,
+                "minimum": 1660,
+                "maximum": 3370,
+                "pi_width": 0.713
+            },
+            "99": {
+                "most_likely": 2200,
+                "minimum": 1100,
+                "maximum": 5000,
+                "pi_width": 1.773
+            }
+        },
+        "Apache Mesos": {
+            "50": {
+                "most_likely": 13500,
+                "minimum": 10400,
+                "maximum": 17800,
+                "pi_width": 0.548
+            },
+            "75": {
+                "most_likely": 14500,
+                "minimum": 10500,
+                "maximum": 21000,
+                "pi_width": 0.724
+            },
+            "99": {
+                "most_likely": 15000,
+                "minimum": 7000,
+                "maximum": 45000,
+                "pi_width": 2.533
+            },
+            "90": {
+                "most_likely": 14200,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.915
+            }
+        },
+        "MongoDB Compass": {
+            "50": {
+                "most_likely": 250,
+                "minimum": 195,
+                "maximum": 315,
+                "pi_width": 0.48
+            },
+            "75": {
+                "most_likely": 280,
+                "minimum": 220,
+                "maximum": 368,
+                "pi_width": 0.529
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 220,
+                "maximum": 440,
+                "pi_width": 0.688
+            },
+            "99": {
+                "most_likely": 280,
+                "minimum": 120,
+                "maximum": 600,
+                "pi_width": 1.714
+            }
+        },
+        "The Mongo C++ driver": {
+            "50": {
+                "most_likely": 950,
+                "minimum": 750,
+                "maximum": 1200,
+                "pi_width": 0.474
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 600,
+                "maximum": 1400,
+                "pi_width": 0.889
+            },
+            "90": {
+                "most_likely": 900,
+                "minimum": 550,
+                "maximum": 1800,
+                "pi_width": 1.389
+            },
+            "99": {
+                "most_likely": 2000,
+                "minimum": 800,
+                "maximum": 5000,
+                "pi_width": 2.1
+            }
+        },
+        "Apache Usergrid": {
+            "90": {
+                "most_likely": 2700,
+                "minimum": 1900,
+                "maximum": 4200,
+                "pi_width": 0.852
+            },
+            "99": {
+                "most_likely": 2850,
+                "minimum": 1400,
+                "maximum": 7500,
+                "pi_width": 2.14
+            },
+            "75": {
+                "most_likely": 1550,
+                "minimum": 1170,
+                "maximum": 2110,
+                "pi_width": 0.606
+            },
+            "50": {
+                "most_likely": 950,
+                "minimum": 800,
+                "maximum": 1150,
+                "pi_width": 0.368
+            }
+        },
+        "The MongoDB Engineering": {
+            "99": {
+                "most_likely": 1100,
+                "minimum": 550,
+                "maximum": 2400,
+                "pi_width": 1.682
+            },
+            "50": {
+                "most_likely": 700,
+                "minimum": 560,
+                "maximum": 880,
+                "pi_width": 0.457
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 660,
+                "maximum": 1320,
+                "pi_width": 0.733
+            },
+            "90": {
+                "most_likely": 950,
+                "minimum": 680,
+                "maximum": 1350,
+                "pi_width": 0.705
+            }
+        },
+        "Atlassian Crowd": {
+            "90": {
+                "most_likely": 2000,
+                "minimum": 1400,
+                "maximum": 2600,
+                "pi_width": 0.6
+            },
+            "99": {
+                "most_likely": 2100,
+                "minimum": 1000,
+                "maximum": 4500,
+                "pi_width": 1.667
+            },
+            "50": {
+                "most_likely": 1450,
+                "minimum": 1200,
+                "maximum": 1750,
+                "pi_width": 0.379
+            },
+            "75": {
+                "most_likely": 1440,
+                "minimum": 1120,
+                "maximum": 1800,
+                "pi_width": 0.472
+            }
+        },
+        "DotNetNuke Platform": {
+            "75": {
+                "most_likely": 4200,
+                "minimum": 3200,
+                "maximum": 6500,
+                "pi_width": 0.786
+            },
+            "90": {
+                "most_likely": 5500,
+                "minimum": 3500,
+                "maximum": 9500,
+                "pi_width": 1.091
+            },
+            "99": {
+                "most_likely": 9500,
+                "minimum": 5500,
+                "maximum": 18000,
+                "pi_width": 1.316
+            },
+            "50": {
+                "most_likely": 5500,
+                "minimum": 4200,
+                "maximum": 7200,
+                "pi_width": 0.545
+            }
+        },
+        "Hyperledger Indy Node": {
+            "50": {
+                "most_likely": 1700,
+                "minimum": 1330,
+                "maximum": 2250,
+                "pi_width": 0.541
+            },
+            "75": {
+                "most_likely": 2140,
+                "minimum": 1620,
+                "maximum": 2800,
+                "pi_width": 0.551
+            },
+            "90": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3500,
+                "pi_width": 0.792
+            },
+            "99": {
+                "most_likely": 2800,
+                "minimum": 1500,
+                "maximum": 6000,
+                "pi_width": 1.607
+            }
+        },
+        "Atlassian Clover": {
+            "99": {
+                "most_likely": 8000,
+                "minimum": 4000,
+                "maximum": 18000,
+                "pi_width": 1.75
+            },
+            "50": {
+                "most_likely": 10000,
+                "minimum": 7500,
+                "maximum": 13000,
+                "pi_width": 0.55
+            },
+            "90": {
+                "most_likely": 7500,
+                "minimum": 4500,
+                "maximum": 13000,
+                "pi_width": 1.133
+            },
+            "75": {
+                "most_likely": 3800,
+                "minimum": 3000,
+                "maximum": 5350,
+                "pi_width": 0.618
+            }
+        },
+        "Aptana Studio": {
+            "99": {
+                "most_likely": 3650,
+                "minimum": 1800,
+                "maximum": 7500,
+                "pi_width": 1.562
+            },
+            "90": {
+                "most_likely": 3500,
+                "minimum": 2200,
+                "maximum": 5500,
+                "pi_width": 0.943
+            },
+            "75": {
+                "most_likely": 3400,
+                "minimum": 2500,
+                "maximum": 4700,
+                "pi_width": 0.647
+            },
+            "50": {
+                "most_likely": 2500,
+                "minimum": 2000,
+                "maximum": 3200,
+                "pi_width": 0.48
+            }
+        },
+        "The Titanium SDK": {
+            "50": {
+                "most_likely": 25000,
+                "minimum": 18000,
+                "maximum": 36000,
+                "pi_width": 0.72
+            },
+            "75": {
+                "most_likely": 13000,
+                "minimum": 9200,
+                "maximum": 18300,
+                "pi_width": 0.7
+            },
+            "90": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "99": {
+                "most_likely": 35000,
+                "minimum": 15000,
+                "maximum": 85000,
+                "pi_width": 2.0
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "50": {
+                "most_likely": 4400,
+                "minimum": 3800,
+                "maximum": 5100,
+                "pi_width": 0.295
+            },
+            "75": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 7100,
+                "pi_width": 0.635
+            },
+            "90": {
+                "most_likely": 4800,
+                "minimum": 3400,
+                "maximum": 7200,
+                "pi_width": 0.792
+            },
+            "99": {
+                "most_likely": 15000,
+                "minimum": 7000,
+                "maximum": 30000,
+                "pi_width": 1.533
+            }
+        },
+        "Atlassian Software Server": {
+            "50": {
+                "most_likely": 1180,
+                "minimum": 950,
+                "maximum": 1450,
+                "pi_width": 0.424
+            },
+            "75": {
+                "most_likely": 1600,
+                "minimum": 1200,
+                "maximum": 2080,
+                "pi_width": 0.55
+            },
+            "90": {
+                "most_likely": 2650,
+                "minimum": 1800,
+                "maximum": 4000,
+                "pi_width": 0.83
+            },
+            "99": {
+                "most_likely": 1750,
+                "minimum": 800,
+                "maximum": 4500,
+                "pi_width": 2.114
+            }
+        },
+        "Appcelerator Daemon": {
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 620,
+                "minimum": 490,
+                "maximum": 820,
+                "pi_width": 0.532
+            },
+            "90": {
+                "most_likely": 650,
+                "minimum": 450,
+                "maximum": 950,
+                "pi_width": 0.769
+            },
+            "99": {
+                "most_likely": 720,
+                "minimum": 350,
+                "maximum": 1800,
+                "pi_width": 2.014
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "50": {
+                "most_likely": 280,
+                "minimum": 230,
+                "maximum": 350,
+                "pi_width": 0.429
+            },
+            "75": {
+                "most_likely": 250,
+                "minimum": 195,
+                "maximum": 315,
+                "pi_width": 0.48
+            },
+            "90": {
+                "most_likely": 355,
+                "minimum": 250,
+                "maximum": 500,
+                "pi_width": 0.704
+            },
+            "99": {
+                "most_likely": 400,
+                "minimum": 220,
+                "maximum": 750,
+                "pi_width": 1.325
+            }
+        },
+        "Atlassian Bamboo": {
+            "50": {
+                "most_likely": 1600,
+                "minimum": 1300,
+                "maximum": 2000,
+                "pi_width": 0.438
+            },
+            "75": {
+                "most_likely": 1500,
+                "minimum": 1170,
+                "maximum": 1930,
+                "pi_width": 0.507
+            },
+            "90": {
+                "most_likely": 1750,
+                "minimum": 1100,
+                "maximum": 2800,
+                "pi_width": 0.971
+            },
+            "99": {
+                "most_likely": 2100,
+                "minimum": 1000,
+                "maximum": 5500,
+                "pi_width": 2.143
+            }
+        },
+        "MongoDB Core Server": {
+            "50": {
+                "most_likely": 1150,
+                "minimum": 850,
+                "maximum": 1550,
+                "pi_width": 0.609
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 830,
+                "maximum": 1920,
+                "pi_width": 0.908
+            },
+            "90": {
+                "most_likely": 1400,
+                "minimum": 900,
+                "maximum": 2400,
+                "pi_width": 1.071
+            },
+            "99": {
+                "most_likely": 1800,
+                "minimum": 800,
+                "maximum": 4500,
+                "pi_width": 2.056
+            }
+        },
+        "The Mongo Java driver": {
+            "50": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.889
+            },
+            "75": {
+                "most_likely": 2100,
+                "minimum": 1590,
+                "maximum": 2750,
+                "pi_width": 0.552
+            },
+            "90": {
+                "most_likely": 2400,
+                "minimum": 1400,
+                "maximum": 4500,
+                "pi_width": 1.292
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 600,
+                "maximum": 4500,
+                "pi_width": 3.25
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "50": {
+                "most_likely": 2400,
+                "minimum": 2000,
+                "maximum": 3000,
+                "pi_width": 0.417
+            },
+            "75": {
+                "most_likely": 2600,
+                "minimum": 1900,
+                "maximum": 3550,
+                "pi_width": 0.635
+            },
+            "90": {
+                "most_likely": 3000,
+                "minimum": 1800,
+                "maximum": 5000,
+                "pi_width": 1.067
+            },
+            "99": {
+                "most_likely": 7000,
+                "minimum": 3500,
+                "maximum": 15000,
+                "pi_width": 1.643
+            }
+        },
+        "Titanium Mobile Platform": {
+            "50": {
+                "most_likely": 240,
+                "minimum": 180,
+                "maximum": 340,
+                "pi_width": 0.667
+            },
+            "75": {
+                "most_likely": 270,
+                "minimum": 190,
+                "maximum": 400,
+                "pi_width": 0.778
+            },
+            "90": {
+                "most_likely": 280,
+                "minimum": 180,
+                "maximum": 450,
+                "pi_width": 0.964
+            },
+            "99": {
+                "most_likely": 270,
+                "minimum": 140,
+                "maximum": 550,
+                "pi_width": 1.519
+            }
+        },
+        "Appcelerator Studio": {
+            "50": {
+                "most_likely": 20000,
+                "minimum": 16000,
+                "maximum": 27000,
+                "pi_width": 0.55
+            },
+            "75": {
+                "most_likely": 20000,
+                "minimum": 15800,
+                "maximum": 28000,
+                "pi_width": 0.61
+            },
+            "90": {
+                "most_likely": 31200,
+                "minimum": 21800,
+                "maximum": 45000,
+                "pi_width": 0.744
+            },
+            "99": {
+                "most_likely": 34000,
+                "minimum": 18000,
+                "maximum": 68000,
+                "pi_width": 1.471
+            }
+        },
+        "Command-Line Interface": {
+            "50": {
+                "most_likely": 520,
+                "minimum": 440,
+                "maximum": 640,
+                "pi_width": 0.385
+            },
+            "75": {
+                "most_likely": 720,
+                "minimum": 520,
+                "maximum": 1000,
+                "pi_width": 0.667
+            },
+            "90": {
+                "most_likely": 900,
+                "minimum": 560,
+                "maximum": 1450,
+                "pi_width": 0.989
+            },
+            "99": {
+                "most_likely": 1000,
+                "minimum": 480,
+                "maximum": 2200,
+                "pi_width": 1.72
+            }
+        },
+        "Hyperledger Fabric": {
+            "50": {
+                "most_likely": 480,
+                "minimum": 390,
+                "maximum": 600,
+                "pi_width": 0.438
+            },
+            "75": {
+                "most_likely": 540,
+                "minimum": 390,
+                "maximum": 780,
+                "pi_width": 0.722
+            },
+            "90": {
+                "most_likely": 575,
+                "minimum": 350,
+                "maximum": 950,
+                "pi_width": 1.043
+            },
+            "99": {
+                "most_likely": 850,
+                "minimum": 350,
+                "maximum": 2800,
+                "pi_width": 2.882
+            }
+        },
+        "Moodle": {
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 110,
+                "minimum": 80,
+                "maximum": 144,
+                "pi_width": 0.582
+            },
+            "90": {
+                "most_likely": 130,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 0.923
+            },
+            "99": {
+                "most_likely": 154,
+                "minimum": 70,
+                "maximum": 380,
+                "pi_width": 2.013
+            }
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Hyperledger Sawtooth": {
+            "90": {
+                "most_likely": 480,
+                "minimum": 240,
+                "maximum": 960,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 800,
+                "minimum": 400,
+                "maximum": 1600,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 700,
+                "maximum": 1800,
+                "pi_width": 0.917
+            },
+            "75": {
+                "most_likely": 260,
+                "minimum": 180,
+                "maximum": 380,
+                "pi_width": 0.769
+            }
+        },
+        "Moodle": {
+            "99": {
+                "most_likely": 240,
+                "minimum": 120,
+                "maximum": 480,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 80,
+                "maximum": 280,
+                "pi_width": 1.25
+            },
+            "90": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            }
+        },
+        "Apache MXNet": {
+            "50": {
+                "most_likely": 8000,
+                "minimum": 4000,
+                "maximum": 16000,
+                "pi_width": 1.5
+            },
+            "90": {
+                "most_likely": 2600,
+                "minimum": 1600,
+                "maximum": 4200,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 12000,
+                "minimum": 4000,
+                "maximum": 40000,
+                "pi_width": 3.0
+            },
+            "75": {
+                "most_likely": 10000,
+                "minimum": 5000,
+                "maximum": 20000,
+                "pi_width": 1.5
+            }
+        },
+        "Sonatype Nexus": {
+            "99": {
+                "most_likely": 240,
+                "minimum": 120,
+                "maximum": 480,
+                "pi_width": 1.5
+            },
+            "90": {
+                "most_likely": 180,
+                "minimum": 100,
+                "maximum": 320,
+                "pi_width": 1.222
+            },
+            "50": {
+                "most_likely": 100,
+                "minimum": 60,
+                "maximum": 180,
+                "pi_width": 1.2
+            },
+            "75": {
+                "most_likely": 100,
+                "minimum": 60,
+                "maximum": 160,
+                "pi_width": 1.0
+            }
+        },
+        "Mule APIkit": {
+            "75": {
+                "most_likely": 80,
+                "minimum": 50,
+                "maximum": 140,
+                "pi_width": 1.125
+            },
+            "99": {
+                "most_likely": 160,
+                "minimum": 80,
+                "maximum": 320,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 180,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            }
+        },
+        "Spring DataCass": {
+            "50": {
+                "most_likely": 240,
+                "minimum": 160,
+                "maximum": 360,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 280,
+                "minimum": 160,
+                "maximum": 400,
+                "pi_width": 0.857
+            },
+            "90": {
+                "most_likely": 450,
+                "minimum": 280,
+                "maximum": 800,
+                "pi_width": 1.156
+            },
+            "99": {
+                "most_likely": 1000,
+                "minimum": 400,
+                "maximum": 2500,
+                "pi_width": 2.1
+            }
+        },
+        "Lsstcorp Data management": {
+            "50": {
+                "most_likely": 2000,
+                "minimum": 1200,
+                "maximum": 3200,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 5200,
+                "minimum": 3600,
+                "maximum": 8400,
+                "pi_width": 0.923
+            },
+            "99": {
+                "most_likely": 4000,
+                "minimum": 1000,
+                "maximum": 16000,
+                "pi_width": 3.75
+            },
+            "90": {
+                "most_likely": 7000,
+                "minimum": 4000,
+                "maximum": 14000,
+                "pi_width": 1.429
+            }
+        },
+        "Alloy Framework": {
+            "90": {
+                "most_likely": 400,
+                "minimum": 200,
+                "maximum": 800,
+                "pi_width": 1.5
+            },
+            "75": {
+                "most_likely": 320,
+                "minimum": 200,
+                "maximum": 520,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 400,
+                "minimum": 160,
+                "maximum": 1200,
+                "pi_width": 2.6
+            },
+            "50": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 900,
+                "pi_width": 0.833
+            }
+        },
+        "Mule": {
+            "50": {
+                "most_likely": 400,
+                "minimum": 300,
+                "maximum": 550,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 600,
+                "maximum": 2200,
+                "pi_width": 1.333
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 600,
+                "maximum": 3600,
+                "pi_width": 2.5
+            },
+            "75": {
+                "most_likely": 450,
+                "minimum": 300,
+                "maximum": 750,
+                "pi_width": 1.0
+            }
+        },
+        "Lyrasis Dura Cloud": {
+            "50": {
+                "most_likely": 800,
+                "minimum": 600,
+                "maximum": 1100,
+                "pi_width": 0.625
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 1000,
+                "minimum": 600,
+                "maximum": 1800,
+                "pi_width": 1.2
+            },
+            "99": {
+                "most_likely": 4000,
+                "minimum": 2400,
+                "maximum": 8000,
+                "pi_width": 1.4
+            }
+        },
+        "Spring XD": {
+            "75": {
+                "most_likely": 1600,
+                "minimum": 1000,
+                "maximum": 2600,
+                "pi_width": 1.0
+            },
+            "50": {
+                "most_likely": 1600,
+                "minimum": 1000,
+                "maximum": 2400,
+                "pi_width": 0.875
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 4000,
+                "minimum": 1200,
+                "maximum": 12000,
+                "pi_width": 2.7
+            }
+        },
+        "Apache Mesos": {
+            "50": {
+                "most_likely": 1600,
+                "minimum": 1000,
+                "maximum": 2400,
+                "pi_width": 0.875
+            },
+            "75": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 3000,
+                "minimum": 1500,
+                "maximum": 8000,
+                "pi_width": 2.167
+            },
+            "90": {
+                "most_likely": 4000,
+                "minimum": 2000,
+                "maximum": 8000,
+                "pi_width": 1.5
+            }
+        },
+        "Hyperledger Fabric": {
+            "99": {
+                "most_likely": 160,
+                "minimum": 80,
+                "maximum": 400,
+                "pi_width": 2.0
+            },
+            "50": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "75": {
+                "most_likely": 160,
+                "minimum": 120,
+                "maximum": 220,
+                "pi_width": 0.625
+            },
+            "90": {
+                "most_likely": 140,
+                "minimum": 80,
+                "maximum": 250,
+                "pi_width": 1.214
+            }
+        },
+        "MongoDB Compass": {
+            "50": {
+                "most_likely": 200,
+                "minimum": 120,
+                "maximum": 320,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": 280,
+                "pi_width": 0.889
+            },
+            "90": {
+                "most_likely": 280,
+                "minimum": 120,
+                "maximum": 600,
+                "pi_width": 1.714
+            },
+            "99": {
+                "most_likely": 220,
+                "minimum": 140,
+                "maximum": 400,
+                "pi_width": 1.182
+            }
+        },
+        "The Mongo C++ driver": {
+            "50": {
+                "most_likely": 200,
+                "minimum": 120,
+                "maximum": 320,
+                "pi_width": 1.0
+            },
+            "75": {
+                "most_likely": 300,
+                "minimum": 200,
+                "maximum": 450,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 320,
+                "minimum": 200,
+                "maximum": 640,
+                "pi_width": 1.375
+            },
+            "99": {
+                "most_likely": 600,
+                "minimum": 250,
+                "maximum": 1800,
+                "pi_width": 2.583
+            }
+        },
+        "The MongoDB Engineering": {
+            "99": {
+                "most_likely": 1200,
+                "minimum": 400,
+                "maximum": 4000,
+                "pi_width": 3.0
+            },
+            "50": {
+                "most_likely": 900,
+                "minimum": 650,
+                "maximum": 1200,
+                "pi_width": 0.611
+            },
+            "75": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 900,
+                "minimum": 600,
+                "maximum": 1500,
+                "pi_width": 1.0
+            }
+        },
+        "DotNetNuke Platform": {
+            "75": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 1500,
+                "minimum": 750,
+                "maximum": 3000,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": 800,
+                "minimum": 600,
+                "maximum": 1200,
+                "pi_width": 0.75
+            }
+        },
+        "Apache Usergrid": {
+            "90": {
+                "most_likely": 1000,
+                "minimum": 600,
+                "maximum": 1500,
+                "pi_width": 0.9
+            },
+            "75": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "99": {
+                "most_likely": 800,
+                "minimum": 400,
+                "maximum": 1600,
+                "pi_width": 1.5
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.75
+            }
+        },
+        "Aptana Studio": {
+            "90": {
+                "most_likely": 1200,
+                "minimum": 600,
+                "maximum": 2400,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 2000,
+                "minimum": 1000,
+                "maximum": 5000,
+                "pi_width": 2.0
+            },
+            "75": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1400,
+                "pi_width": 0.7
+            },
+            "50": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            }
+        },
+        "Atlassian Clover": {
+            "90": {
+                "most_likely": 1600,
+                "minimum": 1000,
+                "maximum": 2600,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 1000,
+                "minimum": 400,
+                "maximum": 3000,
+                "pi_width": 2.6
+            },
+            "75": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "50": {
+                "most_likely": 2000,
+                "minimum": 1400,
+                "maximum": 3200,
+                "pi_width": 0.9
+            }
+        },
+        "Atlassian Crowd": {
+            "90": {
+                "most_likely": 1400,
+                "minimum": 800,
+                "maximum": 2400,
+                "pi_width": 1.143
+            },
+            "99": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 2000,
+                "pi_width": 1.0
+            },
+            "50": {
+                "most_likely": 1300,
+                "minimum": 1000,
+                "maximum": 1800,
+                "pi_width": 0.615
+            },
+            "75": {
+                "most_likely": 1000,
+                "minimum": 750,
+                "maximum": 1500,
+                "pi_width": 0.75
+            }
+        },
+        "Hyperledger Indy Node": {
+            "50": {
+                "most_likely": 1100,
+                "minimum": 700,
+                "maximum": 1600,
+                "pi_width": 0.818
+            },
+            "75": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 900,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 1800,
+                "minimum": 1000,
+                "maximum": 3500,
+                "pi_width": 1.389
+            },
+            "99": {
+                "most_likely": 1600,
+                "minimum": 800,
+                "maximum": 3200,
+                "pi_width": 1.5
+            }
+        },
+        "The Titanium SDK": {
+            "50": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 2400,
+                "minimum": 1500,
+                "maximum": 4000,
+                "pi_width": 1.042
+            },
+            "90": {
+                "most_likely": 10000,
+                "minimum": 5000,
+                "maximum": 20000,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 20000,
+                "minimum": 8000,
+                "maximum": 60000,
+                "pi_width": 2.6
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "50": {
+                "most_likely": 3200,
+                "minimum": 1600,
+                "maximum": 5600,
+                "pi_width": 1.25
+            },
+            "75": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "90": {
+                "most_likely": 4800,
+                "minimum": 2400,
+                "maximum": 9600,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 9000,
+                "minimum": 4000,
+                "maximum": 32000,
+                "pi_width": 3.111
+            }
+        },
+        "Appcelerator Daemon": {
+            "50": {
+                "most_likely": 480,
+                "minimum": 320,
+                "maximum": 720,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 800,
+                "minimum": 500,
+                "maximum": 1400,
+                "pi_width": 1.125
+            },
+            "90": {
+                "most_likely": 800,
+                "minimum": 500,
+                "maximum": 1600,
+                "pi_width": 1.375
+            },
+            "99": {
+                "most_likely": 600,
+                "minimum": 360,
+                "maximum": 1500,
+                "pi_width": 1.9
+            }
+        },
+        "Atlassian Software Server": {
+            "50": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 900,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 450,
+                "minimum": 300,
+                "maximum": 700,
+                "pi_width": 0.889
+            },
+            "90": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 1800,
+                "minimum": 900,
+                "maximum": 3600,
+                "pi_width": 1.5
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "50": {
+                "most_likely": 320,
+                "minimum": 200,
+                "maximum": 480,
+                "pi_width": 0.875
+            },
+            "75": {
+                "most_likely": 400,
+                "minimum": 260,
+                "maximum": 640,
+                "pi_width": 0.95
+            },
+            "90": {
+                "most_likely": 360,
+                "minimum": 240,
+                "maximum": 540,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 600,
+                "minimum": 350,
+                "maximum": 1200,
+                "pi_width": 1.417
+            }
+        },
+        "MongoDB Core Server": {
+            "50": {
+                "most_likely": 1000,
+                "minimum": 500,
+                "maximum": 2000,
+                "pi_width": 1.5
+            },
+            "75": {
+                "most_likely": 800,
+                "minimum": 400,
+                "maximum": 1600,
+                "pi_width": 1.5
+            },
+            "90": {
+                "most_likely": 1000,
+                "minimum": 400,
+                "maximum": 2500,
+                "pi_width": 2.1
+            },
+            "99": {
+                "most_likely": 2000,
+                "minimum": 800,
+                "maximum": 5000,
+                "pi_width": 2.1
+            }
+        },
+        "The Mongo Java driver": {
+            "50": {
+                "most_likely": 320,
+                "minimum": 200,
+                "maximum": 480,
+                "pi_width": 0.875
+            },
+            "75": {
+                "most_likely": 120,
+                "minimum": 80,
+                "maximum": 200,
+                "pi_width": 1.0
+            },
+            "90": {
+                "most_likely": 400,
+                "minimum": 250,
+                "maximum": 700,
+                "pi_width": 1.125
+            },
+            "99": {
+                "most_likely": 450,
+                "minimum": 280,
+                "maximum": 900,
+                "pi_width": 1.378
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "50": {
+                "most_likely": 360,
+                "minimum": 240,
+                "maximum": 540,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 900,
+                "minimum": 500,
+                "maximum": 1500,
+                "pi_width": 1.111
+            },
+            "90": {
+                "most_likely": 550,
+                "minimum": 300,
+                "maximum": 1000,
+                "pi_width": 1.273
+            },
+            "99": {
+                "most_likely": 1000,
+                "minimum": 400,
+                "maximum": 4000,
+                "pi_width": 3.6
+            }
+        },
+        "Titanium Mobile Platform": {
+            "50": {
+                "most_likely": 160,
+                "minimum": 100,
+                "maximum": 240,
+                "pi_width": 0.875
+            },
+            "75": {
+                "most_likely": 180,
+                "minimum": 120,
+                "maximum": 280,
+                "pi_width": 0.889
+            },
+            "90": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "99": {
+                "most_likely": 400,
+                "minimum": 200,
+                "maximum": 1000,
+                "pi_width": 2.0
+            }
+        },
+        "Atlassian Bamboo": {
+            "50": {
+                "most_likely": 1000,
+                "minimum": 750,
+                "maximum": 1250,
+                "pi_width": 0.5
+            },
+            "75": {
+                "most_likely": 1400,
+                "minimum": 800,
+                "maximum": 2400,
+                "pi_width": 1.143
+            },
+            "90": {
+                "most_likely": 2400,
+                "minimum": 1200,
+                "maximum": 4800,
+                "pi_width": 1.5
+            },
+            "99": {
+                "most_likely": 1800,
+                "minimum": 900,
+                "maximum": 3200,
+                "pi_width": 1.278
+            }
+        },
+        "Command-Line Interface": {
+            "50": {
+                "most_likely": 400,
+                "minimum": 280,
+                "maximum": 520,
+                "pi_width": 0.6
+            },
+            "75": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "90": {
+                "most_likely": 600,
+                "minimum": 400,
+                "maximum": 900,
+                "pi_width": 0.833
+            },
+            "99": {
+                "most_likely": 480,
+                "minimum": 300,
+                "maximum": 1200,
+                "pi_width": 1.875
+            }
+        },
+        "Appcelerator Studio": {
+            "50": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 4500,
+                "pi_width": 0.833
+            },
+            "75": {
+                "most_likely": 3200,
+                "minimum": 2000,
+                "maximum": 5200,
+                "pi_width": 1.0
+            },
+            "90": {
+                "most_likely": 8000,
+                "minimum": 5000,
+                "maximum": 13000,
+                "pi_width": 1.0
+            },
+            "99": {
+                "most_likely": 28000,
+                "minimum": 12000,
+                "maximum": 80000,
+                "pi_width": 2.429
+            }
+        }
+    }
+}

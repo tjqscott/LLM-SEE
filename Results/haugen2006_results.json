@@ -1,0 +1,1162 @@
+{
+    "google/gemini-3-flash-preview": {
+        "Hyperledger Fabric 05__Hyperledger Fabric 01": {
+            "unstructured": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer B": 9.0,
+                        "Developer C": 8.0,
+                        "Developer D": 9.0
+                    },
+                    "group": 8.5
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer B": 14.0,
+                        "Developer C": 12.0,
+                        "Developer D": 15.0
+                    },
+                    "group": 13.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 3.0,
+                        "Developer C": 8.0,
+                        "Developer B": 13.0,
+                        "Developer D": 8.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer C": 8.0,
+                        "Developer B": 40.0,
+                        "Developer A": 8.0,
+                        "Developer D": 45.0
+                    },
+                    "group": 40.0
+                }
+            ]
+        },
+        "Lsstcorp Data management 01__Lsstcorp Data management 02": {
+            "unstructured": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer B": 12.0,
+                        "Developer C": 10.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 11.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer B": 12.0,
+                        "Developer C": 8.0,
+                        "Developer D": 10.0
+                    },
+                    "group": 9.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer C": 8.0,
+                        "Developer B": 12.0,
+                        "Developer D": 8.0,
+                        "Developer A": 5.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer B": 14.0,
+                        "Developer C": 8.0,
+                        "Developer A": 5.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 11.0
+                }
+            ]
+        },
+        "MongoDB Compass 03__MongoDB Compass 02": {
+            "unstructured": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 14.0,
+                        "Developer C": 10.0,
+                        "Developer D": 16.0
+                    },
+                    "group": 12.5
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 14.0,
+                        "Developer C": 10.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 11.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer C": 8.0,
+                        "Developer D": 13.0,
+                        "Developer B": 18.0,
+                        "Developer A": 8.0
+                    },
+                    "group": 18.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer D": 13.0,
+                        "Developer C": 13.0,
+                        "Developer B": 13.0
+                    },
+                    "group": 13.0
+                }
+            ]
+        },
+        "Mule 02__Mule 01": {
+            "unstructured": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 3.0,
+                        "Developer B": 7.5,
+                        "Developer C": 6.0,
+                        "Developer D": 8.0
+                    },
+                    "group": 6.5
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 18.0,
+                        "Developer C": 15.0,
+                        "Developer D": 20.0
+                    },
+                    "group": 18.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 3.0,
+                        "Developer C": 8.0,
+                        "Developer D": 8.0,
+                        "Developer B": 13.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer C": 13.0,
+                        "Developer A": 8.0,
+                        "Developer D": 25.0,
+                        "Developer B": 45.0
+                    },
+                    "group": 40.0
+                }
+            ]
+        },
+        "Spring XD 17__Spring XD 09": {
+            "unstructured": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 3.0,
+                        "Developer B": 8.5,
+                        "Developer C": 8.0,
+                        "Developer D": 9.0
+                    },
+                    "group": 8.5
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 14.0,
+                        "Developer C": 10.0,
+                        "Developer D": 15.0
+                    },
+                    "group": 11.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer D": 8.0,
+                        "Developer A": 3.0,
+                        "Developer C": 5.0,
+                        "Developer B": 8.0
+                    },
+                    "group": 5.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer B": 13.0,
+                        "Developer C": 8.0,
+                        "Developer A": 5.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 13.0
+                }
+            ]
+        }
+    },
+    "openai/gpt-5.2-codex": {
+        "Hyperledger Fabric 05__Hyperledger Fabric 01": {
+            "unstructured": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 7.0,
+                        "Developer B": 10.0,
+                        "Developer C": 11.0,
+                        "Developer D": 12.0
+                    },
+                    "group": 10.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer A": 23.0,
+                        "Developer B": 32.0,
+                        "Developer C": 29.0,
+                        "Developer D": 30.0
+                    },
+                    "group": 28.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer C": 25.0,
+                        "Developer D": 13.0,
+                        "Developer B": 20.0
+                    },
+                    "group": 18.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer B": 80.0,
+                        "Developer D": 28.0,
+                        "Developer A": 20.0,
+                        "Developer C": 25.0
+                    },
+                    "group": 35.0
+                }
+            ]
+        },
+        "Lsstcorp Data management 01__Lsstcorp Data management 02": {
+            "unstructured": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 15.0,
+                        "Developer B": 26.0,
+                        "Developer C": 24.0,
+                        "Developer D": 27.0
+                    },
+                    "group": 23.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 18.0,
+                        "Developer B": 30.0,
+                        "Developer C": 24.0,
+                        "Developer D": 26.0
+                    },
+                    "group": 24.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer B": 40.0,
+                        "Developer A": 15.0,
+                        "Developer C": 15.0,
+                        "Developer D": 19.0
+                    },
+                    "group": 22.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer D": 25.0,
+                        "Developer B": 43.0,
+                        "Developer C": 35.0,
+                        "Developer A": 20.0
+                    },
+                    "group": 31.0
+                }
+            ]
+        },
+        "MongoDB Compass 03__MongoDB Compass 02": {
+            "unstructured": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 13.5,
+                        "Developer B": 20.0,
+                        "Developer C": 19.0,
+                        "Developer D": 22.0
+                    },
+                    "group": 18.6
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 13.0,
+                        "Developer B": 24.0,
+                        "Developer C": 20.0,
+                        "Developer D": 21.0
+                    },
+                    "group": 19.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer C": 35.0,
+                        "Developer D": 34.0,
+                        "Developer A": 21.0,
+                        "Developer B": 35.0
+                    },
+                    "group": 34.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 18.0,
+                        "Developer C": 28.0,
+                        "Developer B": 40.0,
+                        "Developer D": 20.0
+                    },
+                    "group": 28.0
+                }
+            ]
+        },
+        "Mule 02__Mule 01": {
+            "unstructured": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 17.0,
+                        "Developer B": 23.0,
+                        "Developer C": 22.0,
+                        "Developer D": 24.0
+                    },
+                    "group": 22.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 20.0,
+                        "Developer B": 50.0,
+                        "Developer C": 45.0,
+                        "Developer D": 55.0
+                    },
+                    "group": 50.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer B": 27.0,
+                        "Developer C": 20.0,
+                        "Developer D": 10.0,
+                        "Developer A": 14.0
+                    },
+                    "group": 18.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer C": 60.0,
+                        "Developer D": 30.0,
+                        "Developer B": 85.0,
+                        "Developer A": 32.0
+                    },
+                    "group": 60.0
+                }
+            ]
+        },
+        "Spring XD 17__Spring XD 09": {
+            "unstructured": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 9.0,
+                        "Developer C": 8.0,
+                        "Developer D": 9.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer A": 12.0,
+                        "Developer B": 20.0,
+                        "Developer C": 18.0,
+                        "Developer D": 19.0
+                    },
+                    "group": 17.25
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer D": 14.0,
+                        "Developer A": 10.0,
+                        "Developer B": 24.0,
+                        "Developer C": 18.0
+                    },
+                    "group": 18.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer C": 42.0,
+                        "Developer A": 20.0,
+                        "Developer B": 60.0,
+                        "Developer D": 25.0
+                    },
+                    "group": 40.0
+                }
+            ]
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Hyperledger Fabric 05__Hyperledger Fabric 01": {
+            "unstructured": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 12.0,
+                        "Developer C": 12.0,
+                        "Developer D": 12.0
+                    },
+                    "group": 12.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer A": 13.0,
+                        "Developer B": 16.0,
+                        "Developer C": 15.0,
+                        "Developer D": 17.0
+                    },
+                    "group": 15.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer D": 5.0,
+                        "Developer C": 8.0,
+                        "Developer B": 12.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer C": 8.0,
+                        "Developer A": 13.0,
+                        "Developer D": 12.0,
+                        "Developer B": 14.0
+                    },
+                    "group": 13.0
+                }
+            ]
+        },
+        "Lsstcorp Data management 01__Lsstcorp Data management 02": {
+            "unstructured": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 3.0,
+                        "Developer B": 7.0,
+                        "Developer C": 6.0,
+                        "Developer D": 6.0
+                    },
+                    "group": 6.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 16.0,
+                        "Developer B": 24.0,
+                        "Developer C": 22.0,
+                        "Developer D": 23.0
+                    },
+                    "group": 23.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer D": 12.0,
+                        "Developer B": 24.0,
+                        "Developer A": 6.0,
+                        "Developer C": 8.0
+                    },
+                    "group": 12.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 14.0,
+                        "Developer C": 12.0,
+                        "Developer D": 18.0,
+                        "Developer B": 19.0
+                    },
+                    "group": 16.0
+                }
+            ]
+        },
+        "MongoDB Compass 03__MongoDB Compass 02": {
+            "unstructured": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 15.0,
+                        "Developer C": 14.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 13.5
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 12.0,
+                        "Developer C": 14.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 12.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer B": 26.0,
+                        "Developer A": 6.0,
+                        "Developer C": 12.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 13.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer D": 8.0,
+                        "Developer A": 8.0,
+                        "Developer B": 18.0,
+                        "Developer C": 12.0
+                    },
+                    "group": 10.0
+                }
+            ]
+        },
+        "Mule 02__Mule 01": {
+            "unstructured": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 11.0,
+                        "Developer C": 9.0,
+                        "Developer D": 10.5
+                    },
+                    "group": 9.6
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 12.0,
+                        "Developer B": 30.0,
+                        "Developer C": 25.0,
+                        "Developer D": 28.0
+                    },
+                    "group": 28.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer C": 5.0,
+                        "Developer B": 18.0,
+                        "Developer D": 8.0,
+                        "Developer A": 8.0
+                    },
+                    "group": 13.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer B": 45.0,
+                        "Developer C": 20.0,
+                        "Developer A": 22.0,
+                        "Developer D": 20.0
+                    },
+                    "group": 45.0
+                }
+            ]
+        },
+        "Spring XD 17__Spring XD 09": {
+            "unstructured": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer B": 7.0,
+                        "Developer C": 6.0,
+                        "Developer D": 6.5
+                    },
+                    "group": 6.5
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer A": 1.0,
+                        "Developer B": 8.0,
+                        "Developer C": 5.0,
+                        "Developer D": 7.0
+                    },
+                    "group": 6.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer D": 6.0,
+                        "Developer C": 8.0,
+                        "Developer A": 5.0,
+                        "Developer B": 14.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer D": 12.0,
+                        "Developer B": 8.0,
+                        "Developer A": 5.0,
+                        "Developer C": 12.0
+                    },
+                    "group": 12.0
+                }
+            ]
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Hyperledger Fabric 05__Hyperledger Fabric 01": {
+            "unstructured": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 16.0,
+                        "Developer C": 20.0,
+                        "Developer D": 18.0
+                    },
+                    "group": 16.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer A": 16.0,
+                        "Developer B": 32.0,
+                        "Developer C": 40.0,
+                        "Developer D": 48.0
+                    },
+                    "group": 34.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer C": 21.0,
+                        "Developer D": 21.0,
+                        "Developer B": 34.0
+                    },
+                    "group": 21.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer C": 34.0,
+                        "Developer D": 34.0,
+                        "Developer A": 21.0,
+                        "Developer B": 55.0
+                    },
+                    "group": 34.0
+                }
+            ]
+        },
+        "Lsstcorp Data management 01__Lsstcorp Data management 02": {
+            "unstructured": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 12.0,
+                        "Developer C": 20.0,
+                        "Developer D": 15.0
+                    },
+                    "group": 13.5
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 34.0,
+                        "Developer C": 21.0,
+                        "Developer D": 26.0
+                    },
+                    "group": 23.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer C": 40.0,
+                        "Developer D": 34.0,
+                        "Developer A": 13.0,
+                        "Developer B": 34.0
+                    },
+                    "group": 34.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer C": 21.0,
+                        "Developer B": 89.0,
+                        "Developer D": 40.0,
+                        "Developer A": 13.0
+                    },
+                    "group": 40.0
+                }
+            ]
+        },
+        "MongoDB Compass 03__MongoDB Compass 02": {
+            "unstructured": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 24.0,
+                        "Developer C": 40.0,
+                        "Developer D": 36.0
+                    },
+                    "group": 27.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 10.0,
+                        "Developer B": 32.0,
+                        "Developer C": 40.0,
+                        "Developer D": 38.0
+                    },
+                    "group": 35.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 13.0,
+                        "Developer B": 40.0,
+                        "Developer D": 34.0,
+                        "Developer C": 34.0
+                    },
+                    "group": 34.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer D": 34.0,
+                        "Developer C": 42.0,
+                        "Developer B": 34.0,
+                        "Developer A": 13.0
+                    },
+                    "group": 34.0
+                }
+            ]
+        },
+        "Mule 02__Mule 01": {
+            "unstructured": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 20.0,
+                        "Developer C": 28.0,
+                        "Developer D": 26.0
+                    },
+                    "group": 23.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 10.0,
+                        "Developer B": 56.0,
+                        "Developer C": 72.0,
+                        "Developer D": null
+                    },
+                    "group": 56.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer C": 34.0,
+                        "Developer B": 34.0,
+                        "Developer A": 5.0,
+                        "Developer D": 21.0
+                    },
+                    "group": 21.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer C": 55.0,
+                        "Developer D": 100.0,
+                        "Developer B": 89.0,
+                        "Developer A": 21.0
+                    },
+                    "group": 65.0
+                }
+            ]
+        },
+        "Spring XD 17__Spring XD 09": {
+            "unstructured": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 8.0,
+                        "Developer C": 12.0,
+                        "Developer D": 10.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer A": 8.0,
+                        "Developer B": 32.0,
+                        "Developer C": 40.0,
+                        "Developer D": 48.0
+                    },
+                    "group": 32.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer C": 21.0,
+                        "Developer A": 8.0,
+                        "Developer B": 40.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 21.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer D": 21.0,
+                        "Developer C": 20.0,
+                        "Developer A": 8.0,
+                        "Developer B": 40.0
+                    },
+                    "group": 21.0
+                }
+            ]
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Hyperledger Fabric 05__Hyperledger Fabric 01": {
+            "unstructured": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer A": 10.0,
+                        "Developer B": 14.0,
+                        "Developer C": 13.0,
+                        "Developer D": 13.5
+                    },
+                    "group": 13.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer A": 27.0,
+                        "Developer B": 30.0,
+                        "Developer C": 28.5,
+                        "Developer D": 29.0
+                    },
+                    "group": 28.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Hyperledger Fabric 05",
+                    "individual": {
+                        "Developer D": 10.0,
+                        "Developer A": 10.0,
+                        "Developer B": 15.0,
+                        "Developer C": 13.0
+                    },
+                    "group": 12.0
+                },
+                {
+                    "release": "Hyperledger Fabric 01",
+                    "individual": {
+                        "Developer D": 21.0,
+                        "Developer C": 31.0,
+                        "Developer A": 18.0,
+                        "Developer B": 44.0
+                    },
+                    "group": 29.0
+                }
+            ]
+        },
+        "Lsstcorp Data management 01__Lsstcorp Data management 02": {
+            "unstructured": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 23.0,
+                        "Developer B": 25.0,
+                        "Developer C": 24.0,
+                        "Developer D": 24.0
+                    },
+                    "group": 24.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 25.0,
+                        "Developer B": 34.0,
+                        "Developer C": 30.0,
+                        "Developer D": 29.0
+                    },
+                    "group": 29.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Lsstcorp Data management 01",
+                    "individual": {
+                        "Developer A": 21.0,
+                        "Developer B": 29.0,
+                        "Developer D": 16.0,
+                        "Developer C": 25.0
+                    },
+                    "group": 22.0
+                },
+                {
+                    "release": "Lsstcorp Data management 02",
+                    "individual": {
+                        "Developer A": 4.0,
+                        "Developer D": 32.0,
+                        "Developer C": 31.0,
+                        "Developer B": 34.0
+                    },
+                    "group": 32.0
+                }
+            ]
+        },
+        "MongoDB Compass 03__MongoDB Compass 02": {
+            "unstructured": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 12.0,
+                        "Developer B": 18.0,
+                        "Developer C": 17.0,
+                        "Developer D": 17.0
+                    },
+                    "group": 16.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 12.0,
+                        "Developer B": 16.5,
+                        "Developer C": 14.5,
+                        "Developer D": 15.5
+                    },
+                    "group": 14.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "MongoDB Compass 03",
+                    "individual": {
+                        "Developer A": 13.0,
+                        "Developer B": 26.0,
+                        "Developer D": 12.0,
+                        "Developer C": 15.0
+                    },
+                    "group": 16.0
+                },
+                {
+                    "release": "MongoDB Compass 02",
+                    "individual": {
+                        "Developer A": 20.0,
+                        "Developer B": 30.0,
+                        "Developer C": 17.0,
+                        "Developer D": 25.0
+                    },
+                    "group": 23.0
+                }
+            ]
+        },
+        "Mule 02__Mule 01": {
+            "unstructured": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 11.0,
+                        "Developer B": 13.0,
+                        "Developer C": 14.0,
+                        "Developer D": 13.5
+                    },
+                    "group": 13.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 18.0,
+                        "Developer B": 26.0,
+                        "Developer C": 24.0,
+                        "Developer D": 25.0
+                    },
+                    "group": 23.0
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Mule 02",
+                    "individual": {
+                        "Developer A": 11.0,
+                        "Developer B": 22.0,
+                        "Developer C": 18.0,
+                        "Developer D": 13.0
+                    },
+                    "group": 16.0
+                },
+                {
+                    "release": "Mule 01",
+                    "individual": {
+                        "Developer A": 21.0,
+                        "Developer D": 29.0,
+                        "Developer C": 34.0,
+                        "Developer B": 48.0
+                    },
+                    "group": 34.0
+                }
+            ]
+        },
+        "Spring XD 17__Spring XD 09": {
+            "unstructured": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 5.0,
+                        "Developer B": 8.5,
+                        "Developer C": 7.5,
+                        "Developer D": 7.0
+                    },
+                    "group": 7.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer A": 15.0,
+                        "Developer B": 21.5,
+                        "Developer C": 19.5,
+                        "Developer D": 18.0
+                    },
+                    "group": 18.5
+                }
+            ],
+            "planning_poker": [
+                {
+                    "release": "Spring XD 17",
+                    "individual": {
+                        "Developer A": 6.0,
+                        "Developer C": 8.0,
+                        "Developer D": 8.0,
+                        "Developer B": 15.0
+                    },
+                    "group": 8.0
+                },
+                {
+                    "release": "Spring XD 09",
+                    "individual": {
+                        "Developer D": 13.0,
+                        "Developer A": 13.0,
+                        "Developer B": 30.0,
+                        "Developer C": 13.0
+                    },
+                    "group": 15.0
+                }
+            ]
+        }
+    }
+}

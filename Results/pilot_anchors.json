@@ -1,0 +1,174 @@
+{
+        "anchors": {
+        "Alloy Framework": {
+            "control_mean": 8.8,
+            "low": 2.0,
+            "high": 17.5
+        },
+        "Apache MXNet": {
+            "control_mean": 10.8,
+            "low": 2.0,
+            "high": 21.5
+        },
+        "Apache Mesos": {
+            "control_mean": 9.4,
+            "low": 2.0,
+            "high": 19.0
+        },
+        "Apache Usergrid": {
+            "control_mean": 7.2,
+            "low": 1.5,
+            "high": 14.5
+        },
+        "Appcelerator Command-Line Interface": {
+            "control_mean": 8.2,
+            "low": 1.5,
+            "high": 16.5
+        },
+        "Appcelerator Daemon": {
+            "control_mean": 7.2,
+            "low": 1.5,
+            "high": 14.5
+        },
+        "Appcelerator Studio": {
+            "control_mean": 13.6,
+            "low": 2.5,
+            "high": 27.0
+        },
+        "Aptana Studio": {
+            "control_mean": 8.2,
+            "low": 1.5,
+            "high": 16.5
+        },
+        "Atlassian Bamboo": {
+            "control_mean": 11,
+            "low": 2.0,
+            "high": 22.0
+        },
+        "Atlassian Clover": {
+            "control_mean": 12.6,
+            "low": 2.5,
+            "high": 25.0
+        },
+        "Atlassian Confluence Cloud": {
+            "control_mean": 18.2,
+            "low": 3.5,
+            "high": 36.5
+        },
+        "Atlassian Crowd": {
+            "control_mean": 9.4,
+            "low": 2.0,
+            "high": 19.0
+        },
+        "Atlassian Software Server": {
+            "control_mean": 7.8,
+            "low": 1.5,
+            "high": 15.5
+        },
+        "DotNetNuke Platform": {
+            "control_mean": 11.6,
+            "low": 2.5,
+            "high": 23.0
+        },
+        "Hyperledger Blockchain Explorer": {
+            "control_mean": 6.2,
+            "low": 1.0,
+            "high": 12.5
+        },
+        "Hyperledger Fabric": {
+            "control_mean": 15.2,
+            "low": 3.0,
+            "high": 30.5
+        },
+        "Hyperledger Indy Node": {
+            "control_mean": 14.2,
+            "low": 3.0,
+            "high": 28.5
+        },
+        "Hyperledger Indy SDK": {
+            "control_mean": 9.8,
+            "low": 2.0,
+            "high": 19.5
+        },
+        "Hyperledger Sawtooth": {
+            "control_mean": 10.8,
+            "low": 2.0,
+            "high": 21.5
+        },
+        "LSSTCorp Data Management": {
+            "control_mean": 43.4,
+            "low": 8.5,
+            "high": 87.0
+        },
+        "Lyrasis DuraCloud": {
+            "control_mean": 15.2,
+            "low": 3.0,
+            "high": 30.5
+        },
+        "MongoDB Compass": {
+            "control_mean": 11,
+            "low": 2.0,
+            "high": 22.0
+        },
+        "MongoDB Core Server": {
+            "control_mean": 13.8,
+            "low": 3.0,
+            "high": 27.5
+        },
+        "MongoDB Evergreen": {
+            "control_mean": 15.2,
+            "low": 3.0,
+            "high": 30.5
+        },
+        "Moodle": {
+            "control_mean": 12,
+            "low": 2.5,
+            "high": 24.0
+        },
+        "Mule APIkit": {
+            "control_mean": 6,
+            "low": 1.0,
+            "high": 12.0
+        },
+        "Mule": {
+            "control_mean": 10.6,
+            "low": 2.0,
+            "high": 21.0
+        },
+        "Sonatype Nexus": {
+            "control_mean": 10.8,
+            "low": 2.0,
+            "high": 21.5
+        },
+        "Spring Data Cassandra": {
+            "control_mean": 11.8,
+            "low": 2.5,
+            "high": 23.5
+        },
+        "Spring XD": {
+            "control_mean": 11.4,
+            "low": 2.5,
+            "high": 23.0
+        },
+        "The Mongo C++ Driver": {
+            "control_mean": 9.6,
+            "low": 2.0,
+            "high": 19.0
+        },
+        "The Mongo Java Driver": {
+            "control_mean": 6.8,
+            "low": 1.5,
+            "high": 13.5
+        },
+        "The Titanium SDK": {
+            "control_mean": 15.2,
+            "low": 3.0,
+            "high": 30.5
+        },
+        "Titanium Mobile Platform": {
+            "control_mean": 4.8,
+            "low": 1.0,
+            "high": 9.5
+        }
+    }
+}

@@ -1,0 +1,2902 @@
+{
+    "google/gemini-3-flash-preview": {
+        "Alloy Framework": {
+            "before": {
+                "EM": 3,
+                "PM": 1360,
+                "User": 1480,
+                "Tech": 1320
+            },
+            "group": 1360,
+            "after": {
+                "EM": 1360,
+                "PM": 1380,
+                "User": 1360,
+                "Tech": 1360
+            },
+            "avg_before": 1040.8,
+            "avg_after": 1365.0
+        },
+        "Apache MXNet": {
+            "before": {
+                "User": 6800,
+                "PM": 6325,
+                "EM": 4650,
+                "Tech": 2560
+            },
+            "group": 5150,
+            "after": {
+                "EM": 5325,
+                "PM": 5680,
+                "User": 5425,
+                "Tech": 5320
+            },
+            "avg_before": 5083.8,
+            "avg_after": 5437.5
+        },
+        "Apache Mesos": {
+            "before": {
+                "EM": 4,
+                "PM": 2100,
+                "Tech": 1600,
+                "User": null
+            },
+            "group": 1850,
+            "after": {
+                "EM": 1850,
+                "PM": 2050,
+                "User": 1850,
+                "Tech": 1850
+            },
+            "avg_before": 1234.7,
+            "avg_after": 1900.0
+        },
+        "Apache Usergrid": {
+            "before": {
+                "EM": 3500,
+                "PM": 2704,
+                "User": 1280,
+                "Tech": 1060
+            },
+            "group": 2150,
+            "after": {
+                "User": 2150,
+                "Tech": 2280,
+                "EM": 2325,
+                "PM": 2320
+            },
+            "avg_before": 2136.0,
+            "avg_after": 2268.8
+        },
+        "Appcelerator Command-Line Interface": {
+            "before": {
+                "EM": 2800,
+                "PM": 2200,
+                "User": 1440,
+                "Tech": 1860
+            },
+            "group": 2100,
+            "after": {
+                "PM": 2250,
+                "Tech": 2100,
+                "User": 2100,
+                "EM": 2100
+            },
+            "avg_before": 2075.0,
+            "avg_after": 2137.5
+        },
+        "Appcelerator Daemon": {
+            "before": {
+                "EM": 2000,
+                "PM": 1960,
+                "User": 2040,
+                "Tech": 2000
+            },
+            "group": 2000,
+            "after": {
+                "EM": 2000,
+                "PM": 2000,
+                "Tech": 2000,
+                "User": 2000
+            },
+            "avg_before": 2000.0,
+            "avg_after": 2000.0
+        },
+        "Appcelerator Studio": {
+            "before": {
+                "EM": 3,
+                "User": 2600,
+                "Tech": 3850,
+                "PM": 3600
+            },
+            "group": 3750,
+            "after": {
+                "EM": 3750,
+                "PM": 3937,
+                "User": 3750,
+                "Tech": 3750
+            },
+            "avg_before": 2513.2,
+            "avg_after": 3796.8
+        },
+        "Aptana Studio": {
+            "before": {
+                "EM": 1,
+                "PM": 2520,
+                "User": 2060,
+                "Tech": 1440
+            },
+            "group": 1980,
+            "after": {
+                "EM": 1980,
+                "PM": 2120,
+                "User": 1980,
+                "Tech": 1980
+            },
+            "avg_before": 1505.2,
+            "avg_after": 2015.0
+        },
+        "Atlassian Bamboo": {
+            "before": {
+                "EM": 3600,
+                "PM": 3634,
+                "User": 640,
+                "Tech": 1880
+            },
+            "group": 3150,
+            "after": {
+                "Tech": 3150,
+                "User": 2480,
+                "PM": 3425,
+                "EM": 3150
+            },
+            "avg_before": 2438.5,
+            "avg_after": 3051.2
+        },
+        "Atlassian Clover": {
+            "before": {
+                "EM": 4,
+                "PM": 4400,
+                "User": 2400,
+                "Tech": 3780
+            },
+            "group": 3650,
+            "after": {
+                "EM": 3650,
+                "PM": 3820,
+                "User": 3820,
+                "Tech": 3650
+            },
+            "avg_before": 2646.0,
+            "avg_after": 3735.0
+        },
+        "Atlassian Confluence Cloud": {
+            "before": {
+                "EM": 7,
+                "PM": 9800,
+                "User": 1,
+                "Tech": 9200
+            },
+            "group": 9500,
+            "after": {
+                "EM": 9500,
+                "User": 9500,
+                "PM": 9650,
+                "Tech": 9500
+            },
+            "avg_before": 4752.0,
+            "avg_after": 9537.5
+        },
+        "Atlassian Crowd": {
+            "before": {
+                "Tech": 1960,
+                "User": 4,
+                "EM": 2300,
+                "PM": 2760
+            },
+            "group": 2480,
+            "after": {
+                "PM": 2560,
+                "User": 2480,
+                "Tech": 2560,
+                "EM": 2520
+            },
+            "avg_before": 1756.0,
+            "avg_after": 2530.0
+        },
+        "Atlassian Software Server": {
+            "before": {
+                "EM": 1900,
+                "PM": 3240,
+                "User": 340,
+                "Tech": 1360
+            },
+            "group": 1710,
+            "after": {
+                "PM": 2150,
+                "Tech": 1710,
+                "User": 1710,
+                "EM": 1820
+            },
+            "avg_before": 1710.0,
+            "avg_after": 1847.5
+        },
+        "DotNetNuke Platform": {
+            "before": {
+                "PM": 5800,
+                "User": 1,
+                "EM": 4,
+                "Tech": 2640
+            },
+            "group": 4220,
+            "after": {
+                "PM": 4650,
+                "Tech": 4220,
+                "User": 4350,
+                "EM": 4220
+            },
+            "avg_before": 2111.2,
+            "avg_after": 4360.0
+        },
+        "Hyperledger Blockchain Explorer": {
+            "before": {
+                "EM": 1,
+                "PM": 1,
+                "Tech": 880,
+                "User": 2070
+            },
+            "group": 1240,
+            "after": {
+                "EM": 1240,
+                "PM": 1426,
+                "User": 1240,
+                "Tech": 1240
+            },
+            "avg_before": 738.0,
+            "avg_after": 1286.5
+        },
+        "Hyperledger Fabric": {
+            "before": {
+                "EM": 14,
+                "PM": 10620,
+                "User": 3600,
+                "Tech": 7087
+            },
+            "group": 7200,
+            "after": {
+                "EM": 7200,
+                "PM": 8280,
+                "User": 7920,
+                "Tech": 7200
+            },
+            "avg_before": 5330.2,
+            "avg_after": 7650.0
+        },
+        "Hyperledger Indy Node": {
+            "before": {
+                "EM": 6,
+                "User": 960,
+                "PM": 5980,
+                "Tech": 3800
+            },
+            "group": 3240,
+            "after": {
+                "EM": 3240,
+                "PM": 3650,
+                "Tech": 3240,
+                "User": 3240
+            },
+            "avg_before": 2686.5,
+            "avg_after": 3342.5
+        },
+        "Hyperledger Indy SDK": {
+            "before": {
+                "PM": 4,
+                "EM": 3,
+                "User": 3200,
+                "Tech": 2090
+            },
+            "group": 2400,
+            "after": {
+                "EM": 2400,
+                "PM": 2760,
+                "User": 2650,
+                "Tech": 2400
+            },
+            "avg_before": 1324.2,
+            "avg_after": 2552.5
+        },
+        "Hyperledger Sawtooth": {
+            "before": {
+                "EM": 4,
+                "PM": 2520,
+                "Tech": 1680,
+                "User": 2400
+            },
+            "group": 2160,
+            "after": {
+                "EM": 2160,
+                "PM": 2240,
+                "User": 2160,
+                "Tech": 2160
+            },
+            "avg_before": 1651.0,
+            "avg_after": 2180.0
+        },
+        "LSSTCorp Data Management": {
+            "before": {
+                "EM": 50,
+                "PM": 62100,
+                "User": 34,
+                "Tech": 42000
+            },
+            "group": 52000,
+            "after": {
+                "Tech": 52000,
+                "EM": 52000,
+                "PM": 56500,
+                "User": 54500
+            },
+            "avg_before": 26046.0,
+            "avg_after": 53750.0
+        },
+        "Lyrasis DuraCloud": {
+            "before": {
+                "EM": 7,
+                "PM": 4,
+                "User": 6800,
+                "Tech": 4500
+            },
+            "group": 5650,
+            "after": {
+                "EM": 5650,
+                "PM": 6500,
+                "User": 5800,
+                "Tech": null
+            },
+            "avg_before": 2827.8,
+            "avg_after": 5983.3
+        },
+        "MongoDB Compass": {
+            "before": {
+                "EM": 5,
+                "User": 2400,
+                "PM": 3400,
+                "Tech": 2920
+            },
+            "group": 2950,
+            "after": {
+                "EM": 2950,
+                "PM": 3120,
+                "User": 2950,
+                "Tech": 2950
+            },
+            "avg_before": 2181.2,
+            "avg_after": 2992.5
+        },
+        "MongoDB Core Server": {
+            "before": {
+                "Tech": 4000,
+                "EM": 4,
+                "PM": 4400,
+                "User": 2840
+            },
+            "group": 3800,
+            "after": {
+                "EM": 3800,
+                "PM": 4250,
+                "Tech": 3950,
+                "User": 3850
+            },
+            "avg_before": 2811.0,
+            "avg_after": 3962.5
+        },
+        "MongoDB Evergreen": {
+            "before": {
+                "EM": 8,
+                "PM": 7,
+                "Tech": 5600,
+                "User": 2800
+            },
+            "group": 4200,
+            "after": {
+                "EM": 4200,
+                "PM": 4600,
+                "User": 4200,
+                "Tech": 4450
+            },
+            "avg_before": 2103.8,
+            "avg_after": 4362.5
+        },
+        "Moodle": {
+            "before": {
+                "EM": 2150,
+                "PM": 2,
+                "User": 2400,
+                "Tech": 2000
+            },
+            "group": 2180,
+            "after": {
+                "EM": 2180,
+                "PM": 2200,
+                "User": 2180,
+                "Tech": 2180
+            },
+            "avg_before": 1638.0,
+            "avg_after": 2185.0
+        },
+        "Mule APIkit": {
+            "before": {
+                "EM": 1160,
+                "PM": 1400,
+                "Tech": 780,
+                "User": 400
+            },
+            "group": 1030,
+            "after": {
+                "PM": 1120,
+                "EM": 1030,
+                "User": 1030,
+                "Tech": 1030
+            },
+            "avg_before": 935.0,
+            "avg_after": 1052.5
+        },
+        "Mule": {
+            "before": {
+                "EM": 3200,
+                "PM": 2378,
+                "Tech": 2600,
+                "User": 2200
+            },
+            "group": 2600,
+            "after": {
+                "EM": 2600,
+                "PM": 2750,
+                "User": 2650,
+                "Tech": 2600
+            },
+            "avg_before": 2594.5,
+            "avg_after": 2650.0
+        },
+        "Sonatype Nexus": {
+            "before": {
+                "Tech": 2040,
+                "EM": 3,
+                "PM": 4000,
+                "User": 4
+            },
+            "group": 3200,
+            "after": {
+                "EM": 3200,
+                "User": 3200,
+                "PM": 3850,
+                "Tech": 3200
+            },
+            "avg_before": 1511.8,
+            "avg_after": 3362.5
+        },
+        "Spring Data Cassandra": {
+            "before": {
+                "EM": 3000,
+                "PM": 2960,
+                "User": 520,
+                "Tech": 1640
+            },
+            "group": 2480,
+            "after": {
+                "EM": 2480,
+                "PM": 2620,
+                "User": 2480,
+                "Tech": 2480
+            },
+            "avg_before": 2030.0,
+            "avg_after": 2515.0
+        },
+        "Spring XD": {
+            "before": {
+                "EM": 3,
+                "PM": 3,
+                "User": 4,
+                "Tech": 2160
+            },
+            "group": 2160,
+            "after": {
+                "EM": 2160,
+                "PM": 2484,
+                "User": 2160,
+                "Tech": 2160
+            },
+            "avg_before": 542.5,
+            "avg_after": 2241.0
+        },
+        "The Mongo C++ Driver": {
+            "before": {
+                "EM": 1380,
+                "PM": 1200,
+                "User": 2080,
+                "Tech": 1760
+            },
+            "group": 1605,
+            "after": {
+                "EM": 1605,
+                "PM": 1685,
+                "User": 1720,
+                "Tech": 1680
+            },
+            "avg_before": 1605.0,
+            "avg_after": 1672.5
+        },
+        "The Mongo Java Driver": {
+            "before": {
+                "EM": 1,
+                "PM": 1200,
+                "User": 736,
+                "Tech": 680
+            },
+            "group": 720,
+            "after": {
+                "EM": 720,
+                "PM": 840,
+                "User": 720,
+                "Tech": 720
+            },
+            "avg_before": 654.2,
+            "avg_after": 750.0
+        },
+        "The Titanium SDK": {
+            "before": {
+                "EM": 6500,
+                "User": 6,
+                "PM": 4300,
+                "Tech": 6400
+            },
+            "group": 5800,
+            "after": {
+                "User": 5800,
+                "Tech": 6150,
+                "PM": 6380,
+                "EM": 5800
+            },
+            "avg_before": 4301.5,
+            "avg_after": 6032.5
+        },
+        "Titanium Mobile Platform": {
+            "before": {
+                "EM": 420,
+                "PM": 1012,
+                "User": 320,
+                "Tech": 520
+            },
+            "group": 568,
+            "after": {
+                "EM": 580,
+                "PM": 640,
+                "User": 568,
+                "Tech": 568
+            },
+            "avg_before": 568.0,
+            "avg_after": 589.0
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Alloy Framework": {
+            "before": {
+                "EM": 2200,
+                "PM": 2800,
+                "User": 2960,
+                "Tech": 1250
+            },
+            "group": 2500,
+            "after": {
+                "EM": 2450,
+                "PM": 2700,
+                "Tech": 2600,
+                "User": null
+            },
+            "avg_before": 2302.5,
+            "avg_after": 2583.3
+        },
+        "Apache MXNet": {
+            "before": {
+                "User": 6680,
+                "EM": 8500,
+                "PM": 8000,
+                "Tech": 8050
+            },
+            "group": 7900,
+            "after": {
+                "PM": 8100,
+                "Tech": 8100,
+                "User": 7750,
+                "EM": 8100
+            },
+            "avg_before": 7807.5,
+            "avg_after": 8012.5
+        },
+        "Apache Mesos": {
+            "before": {
+                "EM": 7300,
+                "PM": 7020,
+                "User": 3100,
+                "Tech": 6540
+            },
+            "group": 6700,
+            "after": {
+                "EM": 6900,
+                "User": 6200,
+                "PM": 6900,
+                "Tech": 6900
+            },
+            "avg_before": 5990.0,
+            "avg_after": 6725.0
+        },
+        "Apache Usergrid": {
+            "before": {
+                "PM": 2350,
+                "EM": 2500,
+                "User": 1680,
+                "Tech": 2105
+            },
+            "group": 2250,
+            "after": {
+                "User": 2050,
+                "EM": 2330,
+                "Tech": 2350,
+                "PM": 2300
+            },
+            "avg_before": 2158.8,
+            "avg_after": 2257.5
+        },
+        "Appcelerator Command-Line Interface": {
+            "before": {
+                "EM": 3160,
+                "PM": 1544,
+                "Tech": 2130,
+                "User": 1290
+            },
+            "group": 2350,
+            "after": {
+                "EM": 2600,
+                "Tech": 2500,
+                "User": 2100,
+                "PM": 2500
+            },
+            "avg_before": 2031.0,
+            "avg_after": 2425.0
+        },
+        "Appcelerator Daemon": {
+            "before": {
+                "EM": 2500,
+                "PM": 2220,
+                "User": 2320,
+                "Tech": 1620
+            },
+            "group": 2300,
+            "after": {
+                "EM": 2400,
+                "User": 2300,
+                "PM": 2400,
+                "Tech": 2350
+            },
+            "avg_before": 2165.0,
+            "avg_after": 2362.5
+        },
+        "Appcelerator Studio": {
+            "before": {
+                "User": 9420,
+                "PM": 4680,
+                "Tech": 5500,
+                "EM": null
+            },
+            "group": 5400,
+            "after": {
+                "EM": 5600,
+                "User": 6200,
+                "PM": 5600,
+                "Tech": 5600
+            },
+            "avg_before": 6533.3,
+            "avg_after": 5750.0
+        },
+        "Aptana Studio": {
+            "before": {
+                "EM": 3800,
+                "User": 3050,
+                "PM": 3600,
+                "Tech": 3465
+            },
+            "group": 3500,
+            "after": {
+                "EM": 3600,
+                "PM": 3580,
+                "User": 3350,
+                "Tech": 3600
+            },
+            "avg_before": 3478.8,
+            "avg_after": 3532.5
+        },
+        "Atlassian Bamboo": {
+            "before": {
+                "EM": 6150,
+                "User": 7200,
+                "Tech": 2400,
+                "PM": 4260
+            },
+            "group": 5100,
+            "after": {
+                "EM": 5400,
+                "Tech": 5400,
+                "User": 6100,
+                "PM": 5400
+            },
+            "avg_before": 5002.5,
+            "avg_after": 5575.0
+        },
+        "Atlassian Clover": {
+            "before": {
+                "EM": 6050,
+                "User": 6456,
+                "PM": 5600,
+                "Tech": 4565
+            },
+            "group": 5700,
+            "after": {
+                "Tech": 5850,
+                "EM": 5850,
+                "User": 5950,
+                "PM": 5800
+            },
+            "avg_before": 5667.8,
+            "avg_after": 5862.5
+        },
+        "Atlassian Confluence Cloud": {
+            "before": {
+                "EM": 7500,
+                "PM": 12500,
+                "User": 24,
+                "Tech": 8166
+            },
+            "group": 9500,
+            "after": {
+                "EM": 9200,
+                "User": 9800,
+                "PM": 10800,
+                "Tech": 9400
+            },
+            "avg_before": 7047.5,
+            "avg_after": 9800.0
+        },
+        "Atlassian Crowd": {
+            "before": {
+                "EM": 4900,
+                "PM": 2788,
+                "User": 6450,
+                "Tech": 3980
+            },
+            "group": 4600,
+            "after": {
+                "Tech": 4850,
+                "EM": 4700,
+                "PM": 4700,
+                "User": 5100
+            },
+            "avg_before": 4529.5,
+            "avg_after": 4837.5
+        },
+        "Atlassian Software Server": {
+            "before": {
+                "EM": 1937,
+                "PM": 2000,
+                "Tech": 2662,
+                "User": 3300
+            },
+            "group": 2600,
+            "after": {
+                "Tech": 2700,
+                "EM": 2500,
+                "PM": 2700,
+                "User": 2850
+            },
+            "avg_before": 2474.8,
+            "avg_after": 2687.5
+        },
+        "DotNetNuke Platform": {
+            "before": {
+                "EM": 25000,
+                "Tech": 15,
+                "PM": 17200,
+                "User": 17500
+            },
+            "group": 19500,
+            "after": {
+                "EM": 21000,
+                "User": 19000,
+                "Tech": 20500,
+                "PM": 19000
+            },
+            "avg_before": 14928.8,
+            "avg_after": 19875.0
+        },
+        "Hyperledger Blockchain Explorer": {
+            "before": {
+                "EM": 2356,
+                "Tech": 740,
+                "PM": 760,
+                "User": 1800
+            },
+            "group": 2300,
+            "after": {
+                "EM": 2340,
+                "User": 2100,
+                "PM": 2150,
+                "Tech": 2300
+            },
+            "avg_before": 1414.0,
+            "avg_after": 2222.5
+        },
+        "Hyperledger Fabric": {
+            "before": {
+                "EM": 8500,
+                "PM": 11,
+                "Tech": 6760,
+                "User": 11
+            },
+            "group": 7600,
+            "after": {
+                "EM": 7900,
+                "User": 7800,
+                "PM": 8200,
+                "Tech": 7800
+            },
+            "avg_before": 3820.5,
+            "avg_after": 7925.0
+        },
+        "Hyperledger Indy Node": {
+            "before": {
+                "User": 16230,
+                "Tech": 7740,
+                "EM": 16,
+                "PM": 14500
+            },
+            "group": 13000,
+            "after": {
+                "EM": 13800,
+                "User": 14200,
+                "PM": 14000,
+                "Tech": 14200
+            },
+            "avg_before": 9621.5,
+            "avg_after": 14050.0
+        },
+        "Hyperledger Indy SDK": {
+            "before": {
+                "EM": 5200,
+                "User": 6500,
+                "PM": 7400,
+                "Tech": 6700
+            },
+            "group": 6900,
+            "after": {
+                "EM": 6700,
+                "User": 6700,
+                "Tech": 7100,
+                "PM": 7100
+            },
+            "avg_before": 6450.0,
+            "avg_after": 6900.0
+        },
+        "Hyperledger Sawtooth": {
+            "before": {
+                "EM": 8070,
+                "User": 16,
+                "Tech": 10740,
+                "PM": 7800
+            },
+            "group": 8900,
+            "after": {
+                "EM": 8700,
+                "PM": 9200,
+                "User": 8800,
+                "Tech": 9100
+            },
+            "avg_before": 6656.5,
+            "avg_after": 8950.0
+        },
+        "LSSTCorp Data Management": {
+            "before": {
+                "EM": 12,
+                "PM": 11430,
+                "User": 6,
+                "Tech": 12
+            },
+            "group": 12,
+            "after": {
+                "EM": 12,
+                "PM": 13,
+                "Tech": 12,
+                "User": 12
+            },
+            "avg_before": 2865.0,
+            "avg_after": 12.2
+        },
+        "Lyrasis DuraCloud": {
+            "before": {
+                "EM": 6400,
+                "User": 3360,
+                "PM": 4290,
+                "Tech": 6300
+            },
+            "group": 5400,
+            "after": {
+                "EM": 5700,
+                "User": 4600,
+                "PM": 5900,
+                "Tech": 5800
+            },
+            "avg_before": 5087.5,
+            "avg_after": 5500.0
+        },
+        "MongoDB Compass": {
+            "before": {
+                "EM": 7600,
+                "PM": 4670,
+                "Tech": 3400,
+                "User": 6870
+            },
+            "group": 5700,
+            "after": {
+                "EM": 6100,
+                "User": 6100,
+                "Tech": 5700,
+                "PM": 6100
+            },
+            "avg_before": 5635.0,
+            "avg_after": 6000.0
+        },
+        "MongoDB Core Server": {
+            "before": {
+                "PM": 37500,
+                "Tech": 41,
+                "User": 40000,
+                "EM": 24
+            },
+            "group": 38000,
+            "after": {
+                "EM": 38000,
+                "PM": 38000,
+                "User": 39000,
+                "Tech": 38000
+            },
+            "avg_before": 19391.2,
+            "avg_after": 38250.0
+        },
+        "MongoDB Evergreen": {
+            "before": {
+                "EM": 13,
+                "User": 15000,
+                "PM": 5180,
+                "Tech": 11
+            },
+            "group": 5200,
+            "after": {
+                "EM": 5200,
+                "PM": 5200,
+                "User": 6200,
+                "Tech": 5200
+            },
+            "avg_before": 5051.0,
+            "avg_after": 5450.0
+        },
+        "Moodle": {
+            "before": {
+                "User": 5400,
+                "Tech": 3700,
+                "EM": 11000,
+                "PM": 3250
+            },
+            "group": 7400,
+            "after": {
+                "User": 7800,
+                "EM": 8200,
+                "Tech": 7400,
+                "PM": 7800
+            },
+            "avg_before": 5837.5,
+            "avg_after": 7800.0
+        },
+        "Mule APIkit": {
+            "before": {
+                "PM": 1752,
+                "Tech": 1764,
+                "EM": 2600,
+                "User": 2785
+            },
+            "group": 2225,
+            "after": {
+                "EM": 2400,
+                "PM": 2350,
+                "User": 2400,
+                "Tech": 2350
+            },
+            "avg_before": 2225.2,
+            "avg_after": 2375.0
+        },
+        "Mule": {
+            "before": {
+                "EM": 3350,
+                "PM": 2900,
+                "User": 4840,
+                "Tech": 3580
+            },
+            "group": 3650,
+            "after": {
+                "EM": 3600,
+                "PM": 3650,
+                "User": 3900,
+                "Tech": 3650
+            },
+            "avg_before": 3667.5,
+            "avg_after": 3700.0
+        },
+        "Sonatype Nexus": {
+            "before": {
+                "PM": 4750,
+                "EM": 3560,
+                "Tech": 3530,
+                "User": null
+            },
+            "group": 3850,
+            "after": {
+                "EM": 3800,
+                "Tech": 3920,
+                "User": 4000,
+                "PM": 4200
+            },
+            "avg_before": 3946.7,
+            "avg_after": 3980.0
+        },
+        "Spring Data Cassandra": {
+            "before": {
+                "PM": 2400,
+                "EM": 2250,
+                "Tech": 1340,
+                "User": 2955
+            },
+            "group": 2500,
+            "after": {
+                "EM": 2500,
+                "PM": 2600,
+                "User": 2650,
+                "Tech": 2600
+            },
+            "avg_before": 2236.2,
+            "avg_after": 2587.5
+        },
+        "Spring XD": {
+            "before": {
+                "EM": 7200,
+                "User": 5550,
+                "PM": 7000,
+                "Tech": 9200
+            },
+            "group": 7300,
+            "after": {
+                "EM": 7300,
+                "User": 7100,
+                "Tech": 7400,
+                "PM": 7450
+            },
+            "avg_before": 7237.5,
+            "avg_after": 7312.5
+        },
+        "The Mongo C++ Driver": {
+            "before": {
+                "EM": 2700,
+                "PM": 3200,
+                "User": 3510,
+                "Tech": 2270
+            },
+            "group": 2920,
+            "after": {
+                "EM": 2960,
+                "User": 3050,
+                "Tech": 3050,
+                "PM": 3050
+            },
+            "avg_before": 2920.0,
+            "avg_after": 3027.5
+        },
+        "The Mongo Java Driver": {
+            "before": {
+                "EM": 1400,
+                "User": 1430,
+                "PM": 1174,
+                "Tech": 1605
+            },
+            "group": 1400,
+            "after": {
+                "EM": 1430,
+                "PM": 1400,
+                "User": 1415,
+                "Tech": 1450
+            },
+            "avg_before": 1402.2,
+            "avg_after": 1423.8
+        },
+        "The Titanium SDK": {
+            "before": {
+                "Tech": 20400,
+                "EM": 20000,
+                "User": 18,
+                "PM": 19000
+            },
+            "group": 20000,
+            "after": {
+                "EM": 20000,
+                "Tech": 20500,
+                "PM": 20000,
+                "User": 20000
+            },
+            "avg_before": 14854.5,
+            "avg_after": 20125.0
+        },
+        "Titanium Mobile Platform": {
+            "before": {
+                "EM": 1260,
+                "User": 1900,
+                "PM": 1340,
+                "Tech": 1200
+            },
+            "group": 1400,
+            "after": {
+                "EM": 1380,
+                "PM": 1440,
+                "User": 1550,
+                "Tech": 1400
+            },
+            "avg_before": 1425.0,
+            "avg_after": 1442.5
+        }
+    },
+    "openai/gpt-5.2-codex": {
+        "Alloy Framework": {
+            "before": {
+                "EM": 2980,
+                "User": 240,
+                "PM": 2460,
+                "Tech": 4000
+            },
+            "group": 3100,
+            "after": {
+                "EM": 3100,
+                "Tech": 3400,
+                "User": 3050,
+                "PM": 3000
+            },
+            "avg_before": 2420.0,
+            "avg_after": 3137.5
+        },
+        "Apache MXNet": {
+            "before": {
+                "EM": 15000,
+                "PM": 26,
+                "User": 370,
+                "Tech": 33800
+            },
+            "group": 20000,
+            "after": {
+                "EM": 19000,
+                "PM": 20000,
+                "Tech": 24000,
+                "User": 20000
+            },
+            "avg_before": 12299.0,
+            "avg_after": 20750.0
+        },
+        "Apache Mesos": {
+            "before": {
+                "EM": 5400,
+                "Tech": 3460,
+                "PM": 3660,
+                "User": 610
+            },
+            "group": 4000,
+            "after": {
+                "EM": 4300,
+                "Tech": 3800,
+                "PM": 4000,
+                "User": 3200
+            },
+            "avg_before": 3282.5,
+            "avg_after": 3825.0
+        },
+        "Apache Usergrid": {
+            "before": {
+                "EM": 2800,
+                "Tech": 2466,
+                "User": 630,
+                "PM": null
+            },
+            "group": 2400,
+            "after": {
+                "EM": 2600,
+                "PM": 2400,
+                "Tech": 2400,
+                "User": 1800
+            },
+            "avg_before": 1965.3,
+            "avg_after": 2300.0
+        },
+        "Appcelerator Command-Line Interface": {
+            "before": {
+                "EM": 1100,
+                "Tech": 1200,
+                "PM": 2390,
+                "User": 634
+            },
+            "group": 1350,
+            "after": {
+                "EM": 1300,
+                "PM": 1800,
+                "Tech": 1300,
+                "User": 1250
+            },
+            "avg_before": 1331.0,
+            "avg_after": 1412.5
+        },
+        "Appcelerator Daemon": {
+            "before": {
+                "EM": 3900,
+                "PM": 2700,
+                "User": 4380,
+                "Tech": 1850
+            },
+            "group": 3300,
+            "after": {
+                "User": 3600,
+                "EM": 3600,
+                "Tech": 3300,
+                "PM": 3200
+            },
+            "avg_before": 3207.5,
+            "avg_after": 3425.0
+        },
+        "Appcelerator Studio": {
+            "before": {
+                "EM": 7600,
+                "Tech": 6600,
+                "PM": 18000,
+                "User": 950
+            },
+            "group": 9200,
+            "after": {
+                "PM": 11000,
+                "EM": 9200,
+                "Tech": 8500,
+                "User": 6500
+            },
+            "avg_before": 8287.5,
+            "avg_after": 8800.0
+        },
+        "Aptana Studio": {
+            "before": {
+                "EM": 3200,
+                "PM": 3065,
+                "User": 700,
+                "Tech": 3000
+            },
+            "group": 3100,
+            "after": {
+                "EM": 3100,
+                "PM": 3100,
+                "Tech": 3100,
+                "User": 3000
+            },
+            "avg_before": 2491.2,
+            "avg_after": 3075.0
+        },
+        "Atlassian Bamboo": {
+            "before": {
+                "PM": 9500,
+                "EM": 2100,
+                "Tech": 3600,
+                "User": 560
+            },
+            "group": 4000,
+            "after": {
+                "PM": 5200,
+                "User": 3200,
+                "Tech": 3900,
+                "EM": 4000
+            },
+            "avg_before": 3940.0,
+            "avg_after": 4075.0
+        },
+        "Atlassian Clover": {
+            "before": {
+                "EM": 8800,
+                "PM": 13100,
+                "Tech": 12000,
+                "User": null
+            },
+            "group": 11800,
+            "after": {
+                "Tech": 11800,
+                "EM": 11200,
+                "User": 11900,
+                "PM": 12000
+            },
+            "avg_before": 11300.0,
+            "avg_after": 11725.0
+        },
+        "Atlassian Confluence Cloud": {
+            "before": {
+                "EM": 9000,
+                "PM": 42000,
+                "Tech": 40000,
+                "User": 1220
+            },
+            "group": 30000,
+            "after": {
+                "EM": 22000,
+                "Tech": 32000,
+                "User": 20000,
+                "PM": 35000
+            },
+            "avg_before": 23055.0,
+            "avg_after": 27250.0
+        },
+        "Atlassian Crowd": {
+            "before": {
+                "EM": 9600,
+                "Tech": 4000,
+                "PM": 9600,
+                "User": 1140
+            },
+            "group": 7000,
+            "after": {
+                "EM": 7000,
+                "Tech": 7000,
+                "User": 7000,
+                "PM": 7000
+            },
+            "avg_before": 6085.0,
+            "avg_after": 7000.0
+        },
+        "Atlassian Software Server": {
+            "before": {
+                "EM": 3540,
+                "User": 940,
+                "Tech": 2000,
+                "PM": null
+            },
+            "group": 2400,
+            "after": {
+                "Tech": 2300,
+                "PM": 2500,
+                "User": 2200,
+                "EM": 2500
+            },
+            "avg_before": 2160.0,
+            "avg_after": 2375.0
+        },
+        "DotNetNuke Platform": {
+            "before": {
+                "PM": 25000,
+                "EM": 8200,
+                "User": 1500,
+                "Tech": 4
+            },
+            "group": 14000,
+            "after": {
+                "Tech": 13000,
+                "User": 9000,
+                "EM": 12000,
+                "PM": 15000
+            },
+            "avg_before": 8676.0,
+            "avg_after": 12250.0
+        },
+        "Hyperledger Blockchain Explorer": {
+            "before": {
+                "EM": 2400,
+                "PM": 1,
+                "User": 980,
+                "Tech": 2160
+            },
+            "group": 1850,
+            "after": {
+                "EM": 2000,
+                "User": 1500,
+                "PM": 1750,
+                "Tech": 1900
+            },
+            "avg_before": 1385.2,
+            "avg_after": 1787.5
+        },
+        "Hyperledger Fabric": {
+            "before": {
+                "EM": 30,
+                "Tech": 7360,
+                "PM": 45000,
+                "User": 30000
+            },
+            "group": 28000,
+            "after": {
+                "EM": 28000,
+                "PM": 29000,
+                "User": 28500,
+                "Tech": 28000
+            },
+            "avg_before": 20597.5,
+            "avg_after": 28375.0
+        },
+        "Hyperledger Indy Node": {
+            "before": {
+                "Tech": 18000,
+                "EM": 22000,
+                "User": 363,
+                "PM": 58900
+            },
+            "group": 30000,
+            "after": {
+                "EM": 28500,
+                "PM": 44500,
+                "User": 20000,
+                "Tech": 27000
+            },
+            "avg_before": 24815.8,
+            "avg_after": 30000.0
+        },
+        "Hyperledger Indy SDK": {
+            "before": {
+                "EM": 11280,
+                "PM": 9000,
+                "Tech": 15700,
+                "User": 20800
+            },
+            "group": 15000,
+            "after": {
+                "EM": 15000,
+                "PM": 12000,
+                "User": 17000,
+                "Tech": 15200
+            },
+            "avg_before": 14195.0,
+            "avg_after": 14800.0
+        },
+        "Hyperledger Sawtooth": {
+            "before": {
+                "EM": 5200,
+                "PM": 4200,
+                "Tech": 4130,
+                "User": 640
+            },
+            "group": 4400,
+            "after": {
+                "Tech": 4350,
+                "PM": 4400,
+                "EM": 4800,
+                "User": 3600
+            },
+            "avg_before": 3542.5,
+            "avg_after": 4287.5
+        },
+        "LSSTCorp Data Management": {
+            "before": {
+                "EM": 207000,
+                "User": 2680,
+                "PM": 360000,
+                "Tech": 97200
+            },
+            "group": 220000,
+            "after": {
+                "EM": 218000,
+                "PM": 250000,
+                "User": 200000,
+                "Tech": 200000
+            },
+            "avg_before": 166720.0,
+            "avg_after": 217000.0
+        },
+        "Lyrasis DuraCloud": {
+            "before": {
+                "EM": 25000,
+                "PM": 10800,
+                "User": 920,
+                "Tech": 9125
+            },
+            "group": 11500,
+            "after": {
+                "EM": 15000,
+                "PM": 11500,
+                "User": 8000,
+                "Tech": 11000
+            },
+            "avg_before": 11461.2,
+            "avg_after": 11375.0
+        },
+        "MongoDB Compass": {
+            "before": {
+                "EM": 7900,
+                "PM": 10000,
+                "Tech": 4180,
+                "User": 11
+            },
+            "group": 8500,
+            "after": {
+                "EM": 8400,
+                "PM": 9000,
+                "User": 8300,
+                "Tech": 7000
+            },
+            "avg_before": 5522.8,
+            "avg_after": 8175.0
+        },
+        "MongoDB Core Server": {
+            "before": {
+                "EM": 60000,
+                "User": 960,
+                "Tech": 12400,
+                "PM": null
+            },
+            "group": 30000,
+            "after": {
+                "EM": 35000,
+                "PM": 30000,
+                "User": 12000,
+                "Tech": 22000
+            },
+            "avg_before": 24453.3,
+            "avg_after": 24750.0
+        },
+        "MongoDB Evergreen": {
+            "before": {
+                "EM": 24000,
+                "PM": 20600,
+                "User": 1030,
+                "Tech": 12000
+            },
+            "group": 20000,
+            "after": {
+                "EM": 22000,
+                "PM": 20000,
+                "User": 5000,
+                "Tech": 16000
+            },
+            "avg_before": 14407.5,
+            "avg_after": 15750.0
+        },
+        "Moodle": {
+            "before": {
+                "EM": 5130,
+                "Tech": 7000,
+                "User": 1500,
+                "PM": 10200
+            },
+            "group": 7200,
+            "after": {
+                "EM": 7200,
+                "PM": 8000,
+                "User": 4200,
+                "Tech": 7200
+            },
+            "avg_before": 5957.5,
+            "avg_after": 6650.0
+        },
+        "Mule APIkit": {
+            "before": {
+                "PM": 1900,
+                "User": 138,
+                "Tech": 1120,
+                "EM": 2100
+            },
+            "group": 1550,
+            "after": {
+                "EM": 1750,
+                "PM": 1650,
+                "Tech": 1400,
+                "User": 1500
+            },
+            "avg_before": 1314.5,
+            "avg_after": 1575.0
+        },
+        "Mule": {
+            "before": {
+                "PM": 13200,
+                "EM": 9,
+                "Tech": 2800,
+                "User": 695
+            },
+            "group": 4500,
+            "after": {
+                "User": 1500,
+                "Tech": 4500,
+                "EM": 4500,
+                "PM": 5000
+            },
+            "avg_before": 4176.0,
+            "avg_after": 3875.0
+        },
+        "Sonatype Nexus": {
+            "before": {
+                "EM": 5100,
+                "Tech": 4700,
+                "User": 740,
+                "PM": 6800
+            },
+            "group": 5200,
+            "after": {
+                "PM": 5600,
+                "EM": 5200,
+                "User": 4200,
+                "Tech": 5000
+            },
+            "avg_before": 4335.0,
+            "avg_after": 5000.0
+        },
+        "Spring Data Cassandra": {
+            "before": {
+                "EM": 3000,
+                "PM": 6400,
+                "Tech": 3020,
+                "User": 220
+            },
+            "group": 4000,
+            "after": {
+                "EM": 3800,
+                "PM": 4500,
+                "User": 1800,
+                "Tech": 3800
+            },
+            "avg_before": 3160.0,
+            "avg_after": 3475.0
+        },
+        "Spring XD": {
+            "before": {
+                "EM": 10500,
+                "Tech": 5500,
+                "PM": 9900,
+                "User": 1200
+            },
+            "group": 8700,
+            "after": {
+                "PM": 9000,
+                "EM": 8700,
+                "User": 4000,
+                "Tech": 8300
+            },
+            "avg_before": 6775.0,
+            "avg_after": 7500.0
+        },
+        "The Mongo C++ Driver": {
+            "before": {
+                "EM": 3000,
+                "PM": 3200,
+                "Tech": 6000,
+                "User": 5600
+            },
+            "group": 4800,
+            "after": {
+                "EM": 4300,
+                "PM": 4600,
+                "User": 5100,
+                "Tech": 4900
+            },
+            "avg_before": 4450.0,
+            "avg_after": 4725.0
+        },
+        "The Mongo Java Driver": {
+            "before": {
+                "User": 240,
+                "EM": 2900,
+                "PM": 2400,
+                "Tech": 590
+            },
+            "group": 1530,
+            "after": {
+                "EM": 1940,
+                "PM": 1700,
+                "User": 900,
+                "Tech": 1150
+            },
+            "avg_before": 1532.5,
+            "avg_after": 1422.5
+        },
+        "The Titanium SDK": {
+            "before": {
+                "EM": 9,
+                "Tech": 11000,
+                "PM": 10005,
+                "User": 851
+            },
+            "group": 10000,
+            "after": {
+                "PM": 10000,
+                "EM": 10000,
+                "User": 8000,
+                "Tech": 9800
+            },
+            "avg_before": 5466.2,
+            "avg_after": 9450.0
+        },
+        "Titanium Mobile Platform": {
+            "before": {
+                "EM": 770,
+                "PM": 530,
+                "Tech": 260,
+                "User": null
+            },
+            "group": 560,
+            "after": {
+                "PM": 550,
+                "EM": 600,
+                "User": 550,
+                "Tech": 500
+            },
+            "avg_before": 520.0,
+            "avg_after": 550.0
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Alloy Framework": {
+            "before": {
+                "EM": 3000,
+                "User": 600,
+                "Tech": 1000,
+                "PM": 1900
+            },
+            "group": 2000,
+            "after": {
+                "EM": 2000,
+                "PM": 2000,
+                "Tech": 2200,
+                "User": 1200
+            },
+            "avg_before": 1625.0,
+            "avg_after": 1850.0
+        },
+        "Apache MXNet": {
+            "before": {
+                "PM": 2520,
+                "EM": 2200,
+                "User": 400,
+                "Tech": 1567
+            },
+            "group": 2000,
+            "after": {
+                "EM": 2000,
+                "PM": 2100,
+                "User": 850,
+                "Tech": 2100
+            },
+            "avg_before": 1671.8,
+            "avg_after": 1762.5
+        },
+        "Apache Mesos": {
+            "before": {
+                "PM": 2450,
+                "EM": 2400,
+                "User": 2250,
+                "Tech": 3500
+            },
+            "group": 2700,
+            "after": {
+                "EM": 2700,
+                "PM": 2700,
+                "Tech": 2700,
+                "User": null
+            },
+            "avg_before": 2650.0,
+            "avg_after": 2700.0
+        },
+        "Apache Usergrid": {
+            "before": {
+                "Tech": 1800,
+                "EM": 1400,
+                "PM": 756,
+                "User": 440
+            },
+            "group": 1200,
+            "after": {
+                "EM": 1250,
+                "Tech": 1300,
+                "PM": 1300,
+                "User": 1200
+            },
+            "avg_before": 1099.0,
+            "avg_after": 1262.5
+        },
+        "Appcelerator Command-Line Interface": {
+            "before": {
+                "PM": 1448,
+                "EM": 4480,
+                "User": 3500,
+                "Tech": 1856
+            },
+            "group": 3200,
+            "after": {
+                "User": 3400,
+                "PM": 3200,
+                "Tech": 3100,
+                "EM": 3200
+            },
+            "avg_before": 2821.0,
+            "avg_after": 3225.0
+        },
+        "Appcelerator Daemon": {
+            "before": {
+                "Tech": 900,
+                "User": 2150,
+                "EM": 3700,
+                "PM": 1944
+            },
+            "group": 2600,
+            "after": {
+                "Tech": 2400,
+                "EM": 2600,
+                "PM": 2600,
+                "User": 2400
+            },
+            "avg_before": 2173.5,
+            "avg_after": 2500.0
+        },
+        "Appcelerator Studio": {
+            "before": {
+                "User": 560,
+                "Tech": 6500,
+                "EM": 3400,
+                "PM": 6040
+            },
+            "group": 6000,
+            "after": {
+                "PM": 6000,
+                "User": 2200,
+                "EM": 6000,
+                "Tech": 6200
+            },
+            "avg_before": 4125.0,
+            "avg_after": 5100.0
+        },
+        "Aptana Studio": {
+            "before": {
+                "Tech": 2150,
+                "User": 1200,
+                "EM": 2900,
+                "PM": 1050
+            },
+            "group": 1850,
+            "after": {
+                "PM": 1950,
+                "Tech": 1850,
+                "User": 1750,
+                "EM": 1850
+            },
+            "avg_before": 1825.0,
+            "avg_after": 1850.0
+        },
+        "Atlassian Bamboo": {
+            "before": {
+                "PM": 8570,
+                "EM": 4000,
+                "Tech": 13500,
+                "User": 880
+            },
+            "group": 8570,
+            "after": {
+                "User": 8570,
+                "Tech": 9000,
+                "PM": 8570,
+                "EM": 8570
+            },
+            "avg_before": 6737.5,
+            "avg_after": 8677.5
+        },
+        "Atlassian Clover": {
+            "before": {
+                "EM": 3500,
+                "Tech": 1400,
+                "PM": 3500,
+                "User": 210
+            },
+            "group": 2800,
+            "after": {
+                "EM": 2800,
+                "User": 850,
+                "Tech": 2300,
+                "PM": 2900
+            },
+            "avg_before": 2152.5,
+            "avg_after": 2212.5
+        },
+        "Atlassian Confluence Cloud": {
+            "before": {
+                "User": 620,
+                "PM": 65000,
+                "EM": 7500,
+                "Tech": 9000
+            },
+            "group": 8500,
+            "after": {
+                "User": 2200,
+                "Tech": 8700,
+                "PM": 9200,
+                "EM": 8500
+            },
+            "avg_before": 20530.0,
+            "avg_after": 7150.0
+        },
+        "Atlassian Crowd": {
+            "before": {
+                "PM": 3200,
+                "Tech": 2,
+                "EM": 6500,
+                "User": 500
+            },
+            "group": 100,
+            "after": {
+                "EM": 100,
+                "PM": 100,
+                "User": 25,
+                "Tech": 800
+            },
+            "avg_before": 2550.5,
+            "avg_after": 256.2
+        },
+        "Atlassian Software Server": {
+            "before": {
+                "Tech": 3450,
+                "EM": 50000,
+                "User": 2000,
+                "PM": 54000
+            },
+            "group": 52000,
+            "after": {
+                "EM": 52000,
+                "PM": 53000,
+                "User": 51000,
+                "Tech": 52000
+            },
+            "avg_before": 27362.5,
+            "avg_after": 52000.0
+        },
+        "DotNetNuke Platform": {
+            "before": {
+                "Tech": 3600,
+                "PM": 3400,
+                "EM": 2200,
+                "User": 1350
+            },
+            "group": 3000,
+            "after": {
+                "EM": 3000,
+                "User": 3200,
+                "Tech": 3200,
+                "PM": 3200
+            },
+            "avg_before": 2637.5,
+            "avg_after": 3150.0
+        },
+        "Hyperledger Blockchain Explorer": {
+            "before": {
+                "EM": 2100,
+                "User": 1800,
+                "Tech": 960,
+                "PM": 950
+            },
+            "group": 1500,
+            "after": {
+                "EM": 1550,
+                "Tech": 1500,
+                "PM": 1600,
+                "User": 1650
+            },
+            "avg_before": 1452.5,
+            "avg_after": 1575.0
+        },
+        "Hyperledger Fabric": {
+            "before": {
+                "EM": 42000,
+                "User": 5000,
+                "Tech": 15600,
+                "PM": 26000
+            },
+            "group": 32000,
+            "after": {
+                "User": 8000,
+                "EM": 34000,
+                "Tech": 30000,
+                "PM": 36000
+            },
+            "avg_before": 22150.0,
+            "avg_after": 27000.0
+        },
+        "Hyperledger Indy Node": {
+            "before": {
+                "User": 5500,
+                "PM": 3400,
+                "EM": 5500,
+                "Tech": 18500
+            },
+            "group": 6500,
+            "after": {
+                "EM": 7000,
+                "Tech": 6500,
+                "PM": 7150,
+                "User": 6000
+            },
+            "avg_before": 8225.0,
+            "avg_after": 6662.5
+        },
+        "Hyperledger Indy SDK": {
+            "before": {
+                "EM": 5500,
+                "Tech": 3930,
+                "User": 7200,
+                "PM": 4020
+            },
+            "group": 5200,
+            "after": {
+                "Tech": 5200,
+                "PM": 5200,
+                "User": 5400,
+                "EM": 5200
+            },
+            "avg_before": 5162.5,
+            "avg_after": 5250.0
+        },
+        "Hyperledger Sawtooth": {
+            "before": {
+                "PM": 6500,
+                "User": 460,
+                "EM": 15000,
+                "Tech": 6000
+            },
+            "group": 9500,
+            "after": {
+                "EM": 10000,
+                "Tech": 9500,
+                "User": 2200,
+                "PM": 10000
+            },
+            "avg_before": 6990.0,
+            "avg_after": 7925.0
+        },
+        "LSSTCorp Data Management": {
+            "before": {
+                "PM": 10400,
+                "Tech": 45000,
+                "User": 6500,
+                "EM": 21
+            },
+            "group": 35000,
+            "after": {
+                "PM": 35000,
+                "Tech": 36000,
+                "EM": 1200,
+                "User": 8500
+            },
+            "avg_before": 15480.2,
+            "avg_after": 20175.0
+        },
+        "Lyrasis DuraCloud": {
+            "before": {
+                "Tech": 5300,
+                "PM": 4100,
+                "EM": 5200,
+                "User": 800
+            },
+            "group": 4800,
+            "after": {
+                "EM": 4800,
+                "PM": 4950,
+                "User": 2200,
+                "Tech": 4900
+            },
+            "avg_before": 3850.0,
+            "avg_after": 4212.5
+        },
+        "MongoDB Compass": {
+            "before": {
+                "PM": 2800,
+                "EM": 5700,
+                "User": 2380,
+                "Tech": 3000
+            },
+            "group": 3200,
+            "after": {
+                "PM": 3200,
+                "Tech": 3100,
+                "EM": 3200,
+                "User": 3000
+            },
+            "avg_before": 3470.0,
+            "avg_after": 3125.0
+        },
+        "MongoDB Core Server": {
+            "before": {
+                "EM": 95000,
+                "User": 100000,
+                "PM": 25000,
+                "Tech": 15000
+            },
+            "group": 65000,
+            "after": {
+                "PM": 70000,
+                "EM": 65000,
+                "User": 65000,
+                "Tech": 65000
+            },
+            "avg_before": 58750.0,
+            "avg_after": 66250.0
+        },
+        "MongoDB Evergreen": {
+            "before": {
+                "PM": 4300,
+                "EM": 6500,
+                "Tech": 2650,
+                "User": 895
+            },
+            "group": 3500,
+            "after": {
+                "EM": 3500,
+                "PM": 3700,
+                "User": 1450,
+                "Tech": 4000
+            },
+            "avg_before": 3586.2,
+            "avg_after": 3162.5
+        },
+        "Moodle": {
+            "before": {
+                "EM": 4300,
+                "PM": 2990,
+                "Tech": 3500,
+                "User": 2360
+            },
+            "group": 3600,
+            "after": {
+                "Tech": 3700,
+                "PM": 3800,
+                "EM": 3600,
+                "User": 3200
+            },
+            "avg_before": 3287.5,
+            "avg_after": 3575.0
+        },
+        "Mule APIkit": {
+            "before": {
+                "EM": 2200,
+                "PM": 600,
+                "Tech": 500,
+                "User": 300
+            },
+            "group": 1000,
+            "after": {
+                "EM": 1000,
+                "User": 1100,
+                "PM": 1100,
+                "Tech": 1000
+            },
+            "avg_before": 900.0,
+            "avg_after": 1050.0
+        },
+        "Mule": {
+            "before": {
+                "EM": 6500,
+                "PM": 1680,
+                "User": 330,
+                "Tech": 1260
+            },
+            "group": 3200,
+            "after": {
+                "EM": 3200,
+                "Tech": 3200,
+                "PM": 3500,
+                "User": 2850
+            },
+            "avg_before": 2442.5,
+            "avg_after": 3187.5
+        },
+        "Sonatype Nexus": {
+            "before": {
+                "Tech": null,
+                "PM": 3480,
+                "EM": 3600,
+                "User": 3700
+            },
+            "group": 3593,
+            "after": {
+                "EM": 3593,
+                "User": 3595,
+                "Tech": 3593,
+                "PM": 3750
+            },
+            "avg_before": 3593.3,
+            "avg_after": 3632.8
+        },
+        "Spring Data Cassandra": {
+            "before": {
+                "User": 1140,
+                "EM": 2790,
+                "PM": 950,
+                "Tech": 1160
+            },
+            "group": 1250,
+            "after": {
+                "User": 1250,
+                "EM": 1250,
+                "Tech": 1250,
+                "PM": 1250
+            },
+            "avg_before": 1510.0,
+            "avg_after": 1250.0
+        },
+        "Spring XD": {
+            "before": {
+                "EM": 2350,
+                "User": 6500,
+                "Tech": 2400,
+                "PM": 6000
+            },
+            "group": 4500,
+            "after": {
+                "User": 4000,
+                "Tech": 4200,
+                "EM": 4500,
+                "PM": 4500
+            },
+            "avg_before": 4312.5,
+            "avg_after": 4300.0
+        },
+        "The Mongo C++ Driver": {
+            "before": {
+                "PM": 1185,
+                "EM": 3600,
+                "User": 1740,
+                "Tech": 635
+            },
+            "group": 2100,
+            "after": {
+                "PM": 2100,
+                "User": 1900,
+                "Tech": 2200,
+                "EM": 2100
+            },
+            "avg_before": 1790.0,
+            "avg_after": 2075.0
+        },
+        "The Mongo Java Driver": {
+            "before": {
+                "EM": 1600,
+                "PM": 700,
+                "User": 456,
+                "Tech": 460
+            },
+            "group": 600,
+            "after": {
+                "PM": 600,
+                "User": 550,
+                "EM": 600,
+                "Tech": 600
+            },
+            "avg_before": 804.0,
+            "avg_after": 587.5
+        },
+        "The Titanium SDK": {
+            "before": {
+                "EM": 8000,
+                "Tech": 44000,
+                "User": 10000,
+                "PM": 7130
+            },
+            "group": 8500,
+            "after": {
+                "Tech": 12000,
+                "PM": 9000,
+                "EM": 8500,
+                "User": 9200
+            },
+            "avg_before": 17282.5,
+            "avg_after": 9675.0
+        },
+        "Titanium Mobile Platform": {
+            "before": {
+                "EM": 510,
+                "User": 480,
+                "PM": 212,
+                "Tech": 415
+            },
+            "group": 460,
+            "after": {
+                "PM": 475,
+                "Tech": 480,
+                "User": 470,
+                "EM": null
+            },
+            "avg_before": 404.2,
+            "avg_after": 475.0
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Alloy Framework": {
+            "before": {
+                "User": 3120,
+                "EM": 2400,
+                "PM": 1950,
+                "Tech": 2800
+            },
+            "group": 2700,
+            "after": {
+                "Tech": 2850,
+                "User": 2850,
+                "EM": 2650,
+                "PM": 2650
+            },
+            "avg_before": 2567.5,
+            "avg_after": 2750.0
+        },
+        "Apache MXNet": {
+            "before": {
+                "Tech": 7200,
+                "EM": 15000,
+                "PM": 7200,
+                "User": 13800
+            },
+            "group": 12000,
+            "after": {
+                "Tech": 12600,
+                "PM": 13,
+                "EM": 13000,
+                "User": 12600
+            },
+            "avg_before": 10800.0,
+            "avg_after": 9553.2
+        },
+        "Apache Mesos": {
+            "before": {
+                "PM": 4500,
+                "Tech": 2400,
+                "EM": 3200,
+                "User": 3500
+            },
+            "group": null,
+            "after": {
+                "Tech": 3600,
+                "EM": 3600,
+                "User": 3400,
+                "PM": 4000
+            },
+            "avg_before": 3400.0,
+            "avg_after": 3650.0
+        },
+        "Apache Usergrid": {
+            "before": {
+                "User": 2500,
+                "EM": 3600,
+                "PM": 1920,
+                "Tech": null
+            },
+            "group": 2880,
+            "after": {
+                "PM": 2640,
+                "User": 3000,
+                "Tech": 3200,
+                "EM": 3000
+            },
+            "avg_before": 2673.3,
+            "avg_after": 2960.0
+        },
+        "Appcelerator Command-Line Interface": {
+            "before": {
+                "User": 4400,
+                "EM": 3400,
+                "Tech": 1400,
+                "PM": null
+            },
+            "group": 3200,
+            "after": {
+                "EM": 3250,
+                "User": 3500,
+                "Tech": 3500,
+                "PM": 3400
+            },
+            "avg_before": 3066.7,
+            "avg_after": 3412.5
+        },
+        "Appcelerator Daemon": {
+            "before": {
+                "Tech": 1600,
+                "EM": 5200,
+                "PM": 1500,
+                "User": 2800
+            },
+            "group": 3400,
+            "after": {
+                "EM": 4200,
+                "PM": 3600,
+                "Tech": 3650,
+                "User": null
+            },
+            "avg_before": 2775.0,
+            "avg_after": 3816.7
+        },
+        "Appcelerator Studio": {
+            "before": {
+                "EM": 10500,
+                "PM": 7750,
+                "Tech": 4800,
+                "User": 12500
+            },
+            "group": 9500,
+            "after": {
+                "EM": 9800,
+                "User": 11000,
+                "PM": 10200,
+                "Tech": 10200
+            },
+            "avg_before": 8887.5,
+            "avg_after": 10300.0
+        },
+        "Aptana Studio": {
+            "before": {
+                "PM": 1748,
+                "Tech": 3200,
+                "EM": 6000,
+                "User": null
+            },
+            "group": 3200,
+            "after": {
+                "EM": 3600,
+                "PM": 3600,
+                "Tech": 3400,
+                "User": 3800
+            },
+            "avg_before": 3649.3,
+            "avg_after": 3600.0
+        },
+        "Atlassian Bamboo": {
+            "before": {
+                "Tech": 4500,
+                "User": 5200,
+                "PM": 3500,
+                "EM": null
+            },
+            "group": 4650,
+            "after": {
+                "EM": 4800,
+                "Tech": 4750,
+                "PM": 4800,
+                "User": null
+            },
+            "avg_before": 4400.0,
+            "avg_after": 4783.3
+        },
+        "Atlassian Clover": {
+            "before": {
+                "Tech": 4200,
+                "User": 6000,
+                "EM": 12000,
+                "PM": 3700
+            },
+            "group": 6800,
+            "after": {
+                "Tech": 7200,
+                "PM": 7500,
+                "EM": 6800,
+                "User": 7100
+            },
+            "avg_before": 6475.0,
+            "avg_after": 7150.0
+        },
+        "Atlassian Confluence Cloud": {
+            "before": {
+                "Tech": 20000,
+                "EM": 11600,
+                "PM": 25000,
+                "User": 12000
+            },
+            "group": 18000,
+            "after": {
+                "PM": 20000,
+                "EM": 18500,
+                "Tech": 19500,
+                "User": 19000
+            },
+            "avg_before": 17150.0,
+            "avg_after": 19250.0
+        },
+        "Atlassian Crowd": {
+            "before": {
+                "Tech": 4500,
+                "PM": 8000,
+                "User": 12000,
+                "EM": 4800
+            },
+            "group": 7500,
+            "after": {
+                "Tech": 8200,
+                "PM": 8000,
+                "User": 8200,
+                "EM": 7200
+            },
+            "avg_before": 7325.0,
+            "avg_after": 7900.0
+        },
+        "Atlassian Software Server": {
+            "before": {
+                "User": 5200,
+                "EM": 5200,
+                "Tech": 2560,
+                "PM": 3200
+            },
+            "group": 4400,
+            "after": {
+                "User": 4800,
+                "EM": 4800,
+                "Tech": 4600,
+                "PM": 4300
+            },
+            "avg_before": 4040.0,
+            "avg_after": 4625.0
+        },
+        "DotNetNuke Platform": {
+            "before": {
+                "EM": 3200,
+                "Tech": 1600,
+                "User": 16300,
+                "PM": 4200
+            },
+            "group": 4200,
+            "after": {
+                "PM": 4500,
+                "EM": null,
+                "Tech": 4600,
+                "User": 6400
+            },
+            "avg_before": 6325.0,
+            "avg_after": 5166.7
+        },
+        "Hyperledger Blockchain Explorer": {
+            "before": {
+                "EM": 1920,
+                "PM": 2600,
+                "User": 2800,
+                "Tech": 1400
+            },
+            "group": 2400,
+            "after": {
+                "Tech": 2400,
+                "PM": 2500,
+                "EM": 2350,
+                "User": 2600
+            },
+            "avg_before": 2180.0,
+            "avg_after": 2462.5
+        },
+        "Hyperledger Fabric": {
+            "before": {
+                "EM": 27500,
+                "PM": 12000,
+                "Tech": 20000,
+                "User": 23000
+            },
+            "group": 21500,
+            "after": {
+                "User": 22800,
+                "Tech": 23800,
+                "PM": 22500,
+                "EM": 23500
+            },
+            "avg_before": 20625.0,
+            "avg_after": 23150.0
+        },
+        "Hyperledger Indy Node": {
+            "before": {
+                "PM": 18400,
+                "EM": 5680,
+                "Tech": 4200,
+                "User": 15000
+            },
+            "group": 14800,
+            "after": {
+                "EM": 15200,
+                "Tech": 15000,
+                "PM": 15200,
+                "User": null
+            },
+            "avg_before": 10820.0,
+            "avg_after": 15133.3
+        },
+        "Hyperledger Indy SDK": {
+            "before": {
+                "EM": 6,
+                "PM": 3000,
+                "User": 14000,
+                "Tech": 4800
+            },
+            "group": 4200,
+            "after": {
+                "User": 6000,
+                "Tech": 4600,
+                "PM": 4800,
+                "EM": 4200
+            },
+            "avg_before": 5451.5,
+            "avg_after": 4900.0
+        },
+        "Hyperledger Sawtooth": {
+            "before": {
+                "EM": 8500,
+                "User": 14000,
+                "PM": 9000,
+                "Tech": 12000
+            },
+            "group": 10500,
+            "after": {
+                "User": 11500,
+                "EM": 10200,
+                "Tech": 11000,
+                "PM": 11000
+            },
+            "avg_before": 10875.0,
+            "avg_after": 10925.0
+        },
+        "LSSTCorp Data Management": {
+            "before": {
+                "EM": 48000,
+                "Tech": 20000,
+                "PM": 58000,
+                "User": 48000
+            },
+            "group": null,
+            "after": {
+                "EM": 42000,
+                "PM": 55000,
+                "Tech": 42000,
+                "User": 45000
+            },
+            "avg_before": 43500.0,
+            "avg_after": 46000.0
+        },
+        "Lyrasis DuraCloud": {
+            "before": {
+                "User": 18000,
+                "EM": 11200,
+                "Tech": 7500,
+                "PM": 6400
+            },
+            "group": 9800,
+            "after": {
+                "EM": 10500,
+                "PM": 10500,
+                "Tech": 10200,
+                "User": 12800
+            },
+            "avg_before": 10775.0,
+            "avg_after": 11000.0
+        },
+        "MongoDB Compass": {
+            "before": {
+                "Tech": 3200,
+                "User": 6200,
+                "PM": 3168,
+                "EM": 4800
+            },
+            "group": 4080,
+            "after": {
+                "PM": 4320,
+                "EM": 4200,
+                "Tech": null,
+                "User": 4800
+            },
+            "avg_before": 4342.0,
+            "avg_after": 4440.0
+        },
+        "MongoDB Core Server": {
+            "before": {
+                "PM": 8000,
+                "Tech": 3800,
+                "User": 15000,
+                "EM": 35000
+            },
+            "group": 14500,
+            "after": {
+                "EM": 16000,
+                "Tech": 16200,
+                "User": 14800,
+                "PM": 16500
+            },
+            "avg_before": 15450.0,
+            "avg_after": 15875.0
+        },
+        "MongoDB Evergreen": {
+            "before": {
+                "User": 20000,
+                "PM": 5200,
+                "Tech": 4800,
+                "EM": 4200
+            },
+            "group": 6000,
+            "after": {
+                "User": 7500,
+                "Tech": 6500,
+                "PM": 6500,
+                "EM": 5800
+            },
+            "avg_before": 8550.0,
+            "avg_after": 6575.0
+        },
+        "Moodle": {
+            "before": {
+                "User": 7500,
+                "Tech": 2400,
+                "PM": 2800,
+                "EM": null
+            },
+            "group": 5200,
+            "after": {
+                "PM": 4800,
+                "Tech": 6000,
+                "User": 6000,
+                "EM": 6000
+            },
+            "avg_before": 4233.3,
+            "avg_after": 5700.0
+        },
+        "Mule APIkit": {
+            "before": {
+                "PM": 1840,
+                "Tech": 1200,
+                "User": 1600,
+                "EM": 3800
+            },
+            "group": 2200,
+            "after": {
+                "EM": 2500,
+                "Tech": 2400,
+                "PM": 2400,
+                "User": 2150
+            },
+            "avg_before": 2110.0,
+            "avg_after": 2362.5
+        },
+        "Mule": {
+            "before": {
+                "User": 9900,
+                "EM": 9600,
+                "PM": 2400,
+                "Tech": 2400
+            },
+            "group": 7800,
+            "after": {
+                "Tech": 8400,
+                "User": 8200,
+                "PM": 8600,
+                "EM": 8400
+            },
+            "avg_before": 6075.0,
+            "avg_after": 8400.0
+        },
+        "Sonatype Nexus": {
+            "before": {
+                "PM": 4200,
+                "Tech": 2400,
+                "EM": 4800,
+                "User": 9600
+            },
+            "group": 6000,
+            "after": {
+                "User": 6800,
+                "PM": 7200,
+                "Tech": 6400,
+                "EM": 6000
+            },
+            "avg_before": 5250.0,
+            "avg_after": 6600.0
+        },
+        "Spring Data Cassandra": {
+            "before": {
+                "PM": 1200,
+                "EM": 4800,
+                "Tech": 1400,
+                "User": 2400
+            },
+            "group": 2600,
+            "after": {
+                "Tech": 2650,
+                "User": 2750,
+                "EM": 3000,
+                "PM": 3000
+            },
+            "avg_before": 2450.0,
+            "avg_after": 2850.0
+        },
+        "Spring XD": {
+            "before": {
+                "PM": 5400,
+                "EM": 8000,
+                "Tech": 2850,
+                "User": 28000
+            },
+            "group": 8200,
+            "after": {
+                "EM": 8200,
+                "PM": 9500,
+                "Tech": 8400,
+                "User": null
+            },
+            "avg_before": 11062.5,
+            "avg_after": 8700.0
+        },
+        "The Mongo C++ Driver": {
+            "before": {
+                "PM": 1600,
+                "User": 3200,
+                "EM": 5400,
+                "Tech": 2400
+            },
+            "group": 3600,
+            "after": {
+                "EM": 3800,
+                "User": 3600,
+                "PM": 4000,
+                "Tech": 3400
+            },
+            "avg_before": 3150.0,
+            "avg_after": 3700.0
+        },
+        "The Mongo Java Driver": {
+            "before": {
+                "User": 2200,
+                "Tech": 890,
+                "PM": 800,
+                "EM": 960
+            },
+            "group": 1150,
+            "after": {
+                "PM": 1200,
+                "EM": 1200,
+                "Tech": 1120,
+                "User": null
+            },
+            "avg_before": 1212.5,
+            "avg_after": 1173.3
+        },
+        "The Titanium SDK": {
+            "before": {
+                "Tech": 5600,
+                "User": 15000,
+                "PM": 6240,
+                "EM": 15400
+            },
+            "group": null,
+            "after": {
+                "Tech": 13200,
+                "User": 9800,
+                "PM": 12000,
+                "EM": null
+            },
+            "avg_before": 10560.0,
+            "avg_after": 11666.7
+        },
+        "Titanium Mobile Platform": {
+            "before": {
+                "PM": 1200,
+                "Tech": 300,
+                "User": 800,
+                "EM": 1000
+            },
+            "group": 1000,
+            "after": {
+                "Tech": 1100,
+                "PM": 1150,
+                "EM": 1200,
+                "User": 950
+            },
+            "avg_before": 825.0,
+            "avg_after": 1100.0
+        }
+    }
+}

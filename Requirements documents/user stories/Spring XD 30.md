@@ -1,0 +1,10 @@
+﻿As a Spring XD developer, I'd like to move {{syslog}} module from XD to s-c-s repo, so I can use it as source to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{mail}} module from XD to s-c-s repo, so I can use it as source to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{tcp}} module from XD to s-c-s repo, so I can use it as source to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{tcp-client}} module from XD to s-c-s repo, so I can use it as source to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{gpfdist}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{hdfs-dataset}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{mail}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{mongo}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{mqtt}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.
+As a Spring XD developer, I'd like to move {{null}} module from XD to s-c-s repo, so I can use it as sink to build streaming pipeline.

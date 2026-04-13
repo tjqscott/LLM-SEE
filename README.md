@@ -1,41 +1,101 @@
-# systematic-review process
+# Replication Package — Uncovering the Cognitive Biases of LLMs in Software Effort Estimation
 
-First, the full text of the Mohanani et al. (2018) systematic mapping study was reviewed. The 65 identified primary studies were screened, starting with the title, followed by the abstract, and finally a full-text reading where required, in order to identify papers concerned with Software Effort Estimation (SEE). Sixteen relevant papers were identified. Eight listed Magne Jørgensen as the primary author, with his University of Oslo colleague Kjetil Moløkken on a further four. The remaining four papers were first-authored by Haugen and Løhre (also of Oslo), as well as Abdel-Hamid and Connolly (of California and Arizona, USA, respectively).
+This package contains all materials required to replicate the experiments and reproduce
+the results reported in the dissertation. It accompanies the dissertation titled:
 
-<img width="879" height="153" alt="image" src="https://github.com/user-attachments/assets/f71bdac1-5514-4f13-aaec-9378b9d2d32b" />
+> Uncovering the Cognitive Biases of LLMs in Software Effort Estimation
 
+## Repository Structure
+.
+├── experiment_selection/       # Systematic review process and paper selection
+├── experiments/                # Jupyter notebooks implementing all 16 experiments
+│   ├── utils.py                # Shared utility code for all notebooks
+│   └── ...
+├── figures/                    # Figures appearing in the dissertation and the script to generate them
+├── requirements_documents/     # All requirements documents used as estimation inputs
+└── statistical_analysis/       # R script and output for all statistical tests
+└── results/                # Numerical outputs from all experiments
 
-The search process outlined in the Mohanani paper was replicated across the five scientific databases. This meant searching for papers with the phrases 'software' and "cognitive bias" in their full text or metadata, while filtering for english language papers in the field of Computing/ Software. This process yielded similar results to the Mohanani paper, with the notable exception of Science direct. That particular database yielded over 100 fewer results while every other database was within a margin of error. One possible cause for this discrepancy is the Subject areas selector which contains a serperate section for Engineering and Decision Sciences which might not reflect the state of Science direct in 2016, furthermore, it is also possible that large numbers of papers have been removed in the past decade.
+## Prerequisites
 
-| Source         | Mohanani | Me  |
-| -------------- | -------- | --- |
-| ACM            | 69       | 71  |
-| IEEE           | 153      | 144 |
-| Science Direct | 293      | 178 |
-| Scopus         | 296      | 307 |
-| Web of Science | 15       | 17  |
-| Total          | 826      | 717 |
-| Duplicates     | 300+     | 75  |
+### Python
+Install dependencies with:
 
-> See the parameters subdirectory of the '-2016' directory for screenshots of the search parameters.
+```bash
+pip install openai asyncio pandas
+```
 
-A more in depth reading of the sixteen primary studies revealed that each contained the word estimate or some morphological relative (e.g. estimates, estimating) in its abstract. This fact was used to inform the search for modern papers by adding the term 'estim*' as a new search parameter, specifically in the abstract of candidate documents. The '*' character acts as a wildcard, allowing any word starting with 'estim' to satisfy the condition. Unfortunately, Science direct does not support wildcards, so the list: (estimated, estimate, estimates, estimating, estimator, estimation, estimative, estimability) was provided to cover all of the words identified in the primary studies and other potential morphological relatives.
+An OpenRouter API key is required to run the experiments. Set it as an environment
+variable before running any notebook:
 
-This new search was submitted on each of the five databases and the resulting citations were downloaded along with the abstract of each paper for further anlysis.
+```bash
+export OPENROUTER_API_KEY=your_key_here
+```
 
-| Source DB | Citation Count |
-| --- | --- |
-| ACM | 23 |
-| IEEE | 22 |
-| Science Direct | 40 |
-| Scopus | 67 |
-| Web of Science | 11 |
-| Total | 163 |
+### R
+R can be obtained from https://www.r-project.org/. The following packages are required:
 
-> See the parameters subdirectory of the '-present' directory for screenshots of the addition of the additional search parameter.
+```r
+install.packages("jsonlite")
+install.packages("effsize")
+```
 
-The 163 total citations from the five databases were uploaded to 'rayyan' for deduplication and a relevance review. Deduplication was carried out using the built in comparison tool. Nineteen papers were removed, leaving 144 in total. These clashes came in exactly two forms: 2 papers with the same DOI; 1 paper with a DOI and one without. In all cases, the authors and title were the same, but for some formatting changes (e.g. John Smith vs. J Smith). The papers were then checked for relevance to the field of software effort estimation (SEE), without yet considering other keywords. This left just nineteen total papers, with many being completely irrelevent to the field of computing (e.g. Health, Agriculture) and many more being within the field, but outwith SEE (e.g. ML frameworks, Wearable tech).
+### TAWOS
+The requirements documents were constructed from the TAWOS dataset, which must be
+obtained and set up independently if you wish to regenerate them from source. The
+dataset is publicly available at:
 
-Next, these nineteen papers along were tabulated alongside the sixteen primary studies identified by Mohanani et. al. after a final relevance check, which ensured that each paper was concerned with cognitive biases in software effort estimation and conducted an experiment therein using human participants. A total of 21 papers met the complete criteria, with the final list still dominated by Oslo based researchers (Jørgensen, Moløkken, Løhre, Haugen). These papers underwent a comprehensive data extraction and tabulation that can be found in experiment_data.csv. Justification for the selection of columns can be found in column-selection.md with a language guide for cell values at language-guide.md
+https://doi.org/10.1145/3524842.3528029
 
-Finally, this table was used alongside re-reads of the papers to select a battery of experiments that, combined, would give a comprehensive impression of recurring cognitive biases from the literature such that the combination of these experiments might provide a more hollistic understanding of the overall existance of cognitive biases in large language model software effort estimation. On top of these subjective parameters, consideration was given to high quality experiments that were adaptable to large language models, this meant avoiding (or adapting) experiments where participants were asked to analyse real projects that they were working on and those using visual aids in their trials as these do not lend themselves to language model replication.
+The SQL queries used to extract source data are provided in
+`requirements_documents/issues.sql` and `requirements_documents/summary.sql`.
+Pre-constructed documents are provided in the `requirements_documents/` folder and
+do not need to be regenerated to run the experiments.
+
+## Replication Steps
+
+Follow these steps in order to fully replicate the study.
+
+### 1. Run the Experiments
+
+Each experiment notebook is self-contained and can be run independently. The
+`requirements_documents/` folder and `utils.py` must be present in the same directory
+as the notebooks. Results will be written to the `results/` folder, which must also
+be present in the same directory.
+
+Open and run each of the following notebooks:
+
+| Notebook | Source Paper | Bias Category |
+|---|---|---|
+| `aranda2005.ipynb` | Aranda & Easterbrook (2005) | Anchoring |
+| `lohre2014.ipynb` | Løhre & Jørgensen (2014) | Anchoring |
+| `haugen2006.ipynb` | Haugen (2006) | Over-optimism |
+| `molokken2003.ipynb` | Moløkken & Jørgensen (2003) | Over-optimism |
+| `jorgensen2009.ipynb` | Jørgensen (2009) | Over-optimism |
+| `connolly1997.ipynb` | Connolly & Dean (1997) | Over-confidence |
+| `jorgensen2002.ipynb` | Jørgensen et al. (2002) | Over-confidence |
+
+Note that regenerated results may differ slightly from those provided due to
+implementation-level non-determinism in model providers, even at temperature zero.
+See Section 3.2 of the dissertation for a discussion of this limitation.
+
+### 2. Run the Statistical Analysis
+
+With the `results/` folder populated, run `statistical_analysis/analysis.R` from the
+same directory as `results/`. This will produce `output.md` containing all test
+statistics, corrected p-values, and effect sizes.
+
+### 3. Regenerate Figures
+
+With the `results/` folder populated, run `figures/visualise_results.py` from the
+same directory as `results/`. This will regenerate all figures reported in the
+dissertation.
+
+## Notes
+
+- Full methodological details, including prompt structure, experimental design, and
+  deviations from original study designs, are documented in the dissertation.
+- Failure logs were used during execution to guide post-hoc recovery of malformed
+  responses but were not retained as artefacts. Recovery logic is implemented within
+  `utils.py`.
+- Each subdirectory contains its own README with further details.

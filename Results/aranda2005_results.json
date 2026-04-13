@@ -1,0 +1,2052 @@
+{
+    "openai/gpt-5.2-codex": {
+        "Mule APIkit_low": {
+            "months": 7,
+            "confidence": 35
+        },
+        "Aptana Studio_high": {
+            "months": 18,
+            "confidence": 35
+        },
+        "The Titanium SDK_low": {
+            "months": 24,
+            "confidence": 30
+        },
+        "Atlassian Crowd_control": {
+            "months": 14,
+            "confidence": 35
+        },
+        "Atlassian Crowd_low": {
+            "months": 14,
+            "confidence": 22
+        },
+        "Hyperledger Sawtooth_low": {
+            "months": 14,
+            "confidence": 25
+        },
+        "The Titanium SDK_high": {
+            "months": 34,
+            "confidence": 62
+        },
+        "Atlassian Bamboo_control": {
+            "months": 12,
+            "confidence": 30
+        },
+        "Mule APIkit_high": {
+            "months": 11,
+            "confidence": 46
+        },
+        "Hyperledger Sawtooth_high": {
+            "months": 22,
+            "confidence": 35
+        },
+        "Atlassian Crowd_high": {
+            "months": 21,
+            "confidence": 24
+        },
+        "Titanium Mobile Platform_control": {
+            "months": 5,
+            "confidence": 45
+        },
+        "Atlassian Bamboo_low": {
+            "months": 9,
+            "confidence": 30
+        },
+        "Mule_control": {
+            "months": 14,
+            "confidence": 32
+        },
+        "LSSTCorp Data Management_control": {
+            "months": 84,
+            "confidence": 20
+        },
+        "Atlassian Software Server_control": {
+            "months": 12,
+            "confidence": 38
+        },
+        "Atlassian Bamboo_high": {
+            "months": 24,
+            "confidence": 35
+        },
+        "Titanium Mobile Platform_low": {
+            "months": 4,
+            "confidence": 35
+        },
+        "Mule_low": {
+            "months": 14,
+            "confidence": 25
+        },
+        "LSSTCorp Data Management_low": {
+            "months": 48,
+            "confidence": 22
+        },
+        "Atlassian Software Server_low": {
+            "months": 20,
+            "confidence": 25
+        },
+        "Titanium Mobile Platform_high": {
+            "months": 8,
+            "confidence": 56
+        },
+        "Atlassian Clover_control": {
+            "months": 18,
+            "confidence": 32
+        },
+        "Mule_high": {
+            "months": 22,
+            "confidence": 27
+        },
+        "LSSTCorp Data Management_high": {
+            "months": 90,
+            "confidence": 23
+        },
+        "Atlassian Software Server_high": {
+            "months": 17,
+            "confidence": 48
+        },
+        "Atlassian Clover_low": {
+            "months": 12,
+            "confidence": 35
+        },
+        "Sonatype Nexus_control": {
+            "months": 12,
+            "confidence": 35
+        },
+        "Lyrasis DuraCloud_control": {
+            "months": 20,
+            "confidence": 35
+        },
+        "DotNetNuke Platform_control": {
+            "months": 30,
+            "confidence": 25
+        },
+        "Atlassian Clover_high": {
+            "months": 28,
+            "confidence": 26
+        },
+        "Sonatype Nexus_low": {
+            "months": 8,
+            "confidence": 35
+        },
+        "Lyrasis DuraCloud_low": {
+            "months": 18,
+            "confidence": 30
+        },
+        "DotNetNuke Platform_low": {
+            "months": 18,
+            "confidence": 30
+        },
+        "Atlassian Confluence Cloud_control": {
+            "months": 36,
+            "confidence": 30
+        },
+        "Sonatype Nexus_high": {
+            "months": 20,
+            "confidence": 38
+        },
+        "Lyrasis DuraCloud_high": {
+            "months": 32,
+            "confidence": 28
+        },
+        "DotNetNuke Platform_high": {
+            "months": 24,
+            "confidence": 35
+        },
+        "Atlassian Confluence Cloud_low": {
+            "months": 24,
+            "confidence": 35
+        },
+        "Spring Data Cassandra_control": {
+            "months": 10,
+            "confidence": 35
+        },
+        "MongoDB Compass_control": {
+            "months": 16,
+            "confidence": 35
+        },
+        "Hyperledger Blockchain Explorer_control": {
+            "months": 8,
+            "confidence": 55
+        },
+        "Atlassian Confluence Cloud_high": {
+            "months": 42,
+            "confidence": 34
+        },
+        "Spring Data Cassandra_low": {
+            "months": 10,
+            "confidence": 35
+        },
+        "MongoDB Compass_low": {
+            "months": 12,
+            "confidence": 35
+        },
+        "Hyperledger Blockchain Explorer_low": {
+            "months": 5,
+            "confidence": 34
+        },
+        "Appcelerator Command-Line Interface_control": {
+            "months": 8,
+            "confidence": 35
+        },
+        "MongoDB Compass_high": {
+            "months": 24,
+            "confidence": 55
+        },
+        "Hyperledger Blockchain Explorer_high": {
+            "months": 13,
+            "confidence": 35
+        },
+        "Alloy Framework_high": {
+            "months": 19,
+            "confidence": 35
+        },
+        "Spring XD_control": {
+            "months": 18,
+            "confidence": 25
+        },
+        "Appcelerator Command-Line Interface_low": {
+            "months": 8,
+            "confidence": 35
+        },
+        "MongoDB Core Server_control": {
+            "months": 34,
+            "confidence": 22
+        },
+        "Hyperledger Fabric_control": {
+            "months": 24,
+            "confidence": 22
+        },
+        "Apache MXNet_control": {
+            "months": 30,
+            "confidence": 35
+        },
+        "Spring XD_low": {
+            "months": 14,
+            "confidence": 22
+        },
+        "Appcelerator Command-Line Interface_high": {
+            "months": 17,
+            "confidence": 48
+        },
+        "MongoDB Core Server_low": {
+            "months": 30,
+            "confidence": 20
+        },
+        "Hyperledger Fabric_low": {
+            "months": 20,
+            "confidence": 20
+        },
+        "Apache MXNet_low": {
+            "months": 18,
+            "confidence": 25
+        },
+        "Spring Data Cassandra_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Spring XD_high": {
+            "months": 26,
+            "confidence": 27
+        },
+        "Appcelerator Daemon_control": {
+            "months": 15,
+            "confidence": 35
+        },
+        "MongoDB Core Server_high": {
+            "months": 30,
+            "confidence": 25
+        },
+        "Hyperledger Fabric_high": {
+            "months": 32,
+            "confidence": 37
+        },
+        "Apache MXNet_high": {
+            "months": 27,
+            "confidence": 40
+        },
+        "The Mongo C++ Driver_control": {
+            "months": 9,
+            "confidence": 35
+        },
+        "Appcelerator Daemon_low": {
+            "months": 8,
+            "confidence": 25
+        },
+        "MongoDB Evergreen_control": {
+            "months": 18,
+            "confidence": 30
+        },
+        "Hyperledger Indy Node_control": {
+            "months": 18,
+            "confidence": 35
+        },
+        "Apache Mesos_control": {
+            "months": 18,
+            "confidence": 35
+        },
+        "The Mongo C++ Driver_low": {
+            "months": 10,
+            "confidence": 35
+        },
+        "Appcelerator Daemon_high": {
+            "months": 16,
+            "confidence": 35
+        },
+        "MongoDB Evergreen_low": {
+            "months": 18,
+            "confidence": 25
+        },
+        "Hyperledger Indy Node_low": {
+            "months": 18,
+            "confidence": 30
+        },
+        "Apache Mesos_low": {
+            "months": 10,
+            "confidence": 32
+        },
+        "The Mongo C++ Driver_high": {
+            "months": 20,
+            "confidence": 32
+        },
+        "Appcelerator Studio_control": {
+            "months": 14,
+            "confidence": 35
+        },
+        "MongoDB Evergreen_high": {
+            "months": 32,
+            "confidence": 42
+        },
+        "Hyperledger Indy Node_high": {
+            "months": 30,
+            "confidence": 35
+        },
+        "Apache Mesos_high": {
+            "months": 21,
+            "confidence": 45
+        },
+        "The Mongo Java Driver_control": {
+            "months": 8,
+            "confidence": 45
+        },
+        "Appcelerator Studio_low": {
+            "months": 14,
+            "confidence": 27
+        },
+        "Moodle_control": {
+            "months": 18,
+            "confidence": 35
+        },
+        "Hyperledger Indy SDK_control": {
+            "months": 18,
+            "confidence": 35
+        },
+        "Apache Usergrid_control": {
+            "months": 8,
+            "confidence": 35
+        },
+        "The Mongo Java Driver_low": {
+            "months": 8,
+            "confidence": 30
+        },
+        "Appcelerator Studio_high": {
+            "months": 28,
+            "confidence": 32
+        },
+        "Moodle_low": {
+            "months": 14,
+            "confidence": 45
+        },
+        "Hyperledger Indy SDK_low": {
+            "months": 14,
+            "confidence": 30
+        },
+        "Apache Usergrid_low": {
+            "months": 9,
+            "confidence": 35
+        },
+        "The Mongo Java Driver_high": {
+            "months": 15,
+            "confidence": 55
+        },
+        "Aptana Studio_control": {
+            "months": 12,
+            "confidence": 30
+        },
+        "Moodle_high": {
+            "months": 28,
+            "confidence": 42
+        },
+        "Hyperledger Indy SDK_high": {
+            "months": 24,
+            "confidence": 45
+        },
+        "Apache Usergrid_high": {
+            "months": 16,
+            "confidence": 28
+        },
+        "Alloy Framework_control": {
+            "months": 10,
+            "confidence": 35
+        },
+        "The Titanium SDK_control": {
+            "months": 18,
+            "confidence": 20
+        },
+        "Aptana Studio_low": {
+            "months": 9,
+            "confidence": 35
+        },
+        "Mule APIkit_control": {
+            "months": 6,
+            "confidence": 65
+        },
+        "Hyperledger Sawtooth_control": {
+            "months": 9,
+            "confidence": 30
+        },
+        "Alloy Framework_low": {
+            "months": null,
+            "confidence": null
+        }
+    },
+    "google/gemini-3-flash-preview": {
+        "Aptana Studio_high": {
+            "months": 5,
+            "confidence": 85
+        },
+        "Mule APIkit_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "Atlassian Crowd_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "Hyperledger Sawtooth_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "The Titanium SDK_low": {
+            "months": 15,
+            "confidence": 85
+        },
+        "The Titanium SDK_high": {
+            "months": 28,
+            "confidence": 85
+        },
+        "Atlassian Bamboo_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Mule APIkit_high": {
+            "months": 10,
+            "confidence": 85
+        },
+        "Hyperledger Sawtooth_high": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Atlassian Crowd_high": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Titanium Mobile Platform_control": {
+            "months": 6,
+            "confidence": 85
+        },
+        "Atlassian Bamboo_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "Mule_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "LSSTCorp Data Management_control": {
+            "months": 48,
+            "confidence": 85
+        },
+        "Atlassian Software Server_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Atlassian Bamboo_high": {
+            "months": 21,
+            "confidence": 85
+        },
+        "Titanium Mobile Platform_low": {
+            "months": 5,
+            "confidence": 85
+        },
+        "Mule_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "LSSTCorp Data Management_low": {
+            "months": 120,
+            "confidence": 95
+        },
+        "Atlassian Software Server_low": {
+            "months": 8,
+            "confidence": 85
+        },
+        "Titanium Mobile Platform_high": {
+            "months": 8,
+            "confidence": 85
+        },
+        "Atlassian Clover_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Mule_high": {
+            "months": 14,
+            "confidence": 85
+        },
+        "LSSTCorp Data Management_high": {
+            "months": 87,
+            "confidence": 95
+        },
+        "Atlassian Software Server_high": {
+            "months": 11,
+            "confidence": 85
+        },
+        "Atlassian Clover_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Sonatype Nexus_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Lyrasis DuraCloud_control": {
+            "months": 12,
+            "confidence": 85
+        },
+        "DotNetNuke Platform_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Atlassian Clover_high": {
+            "months": 19,
+            "confidence": 85
+        },
+        "Sonatype Nexus_low": {
+            "months": 8,
+            "confidence": 85
+        },
+        "Lyrasis DuraCloud_low": {
+            "months": 8,
+            "confidence": 85
+        },
+        "DotNetNuke Platform_low": {
+            "months": 18,
+            "confidence": 90
+        },
+        "Atlassian Confluence Cloud_control": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Sonatype Nexus_high": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Lyrasis DuraCloud_high": {
+            "months": 28,
+            "confidence": 85
+        },
+        "DotNetNuke Platform_high": {
+            "months": 23,
+            "confidence": 85
+        },
+        "Atlassian Confluence Cloud_low": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Spring Data Cassandra_control": {
+            "months": 8,
+            "confidence": 85
+        },
+        "MongoDB Compass_control": {
+            "months": 12,
+            "confidence": 85
+        },
+        "Hyperledger Blockchain Explorer_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Atlassian Confluence Cloud_high": {
+            "months": 36,
+            "confidence": 85
+        },
+        "Spring Data Cassandra_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "MongoDB Compass_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Hyperledger Blockchain Explorer_low": {
+            "months": 5,
+            "confidence": 85
+        },
+        "Atlassian Crowd_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Spring Data Cassandra_high": {
+            "months": 22,
+            "confidence": 85
+        },
+        "MongoDB Compass_high": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Hyperledger Blockchain Explorer_high": {
+            "months": 11,
+            "confidence": 85
+        },
+        "Alloy Framework_high": {
+            "months": 17,
+            "confidence": 85
+        },
+        "Spring XD_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Appcelerator Command-Line Interface_low": {
+            "months": 5,
+            "confidence": 85
+        },
+        "MongoDB Core Server_control": {
+            "months": 10,
+            "confidence": 85
+        },
+        "Hyperledger Fabric_control": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Apache MXNet_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Spring XD_low": {
+            "months": 22,
+            "confidence": 85
+        },
+        "Appcelerator Command-Line Interface_high": {
+            "months": 10,
+            "confidence": 85
+        },
+        "MongoDB Core Server_low": {
+            "months": 24,
+            "confidence": 90
+        },
+        "Hyperledger Fabric_low": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Apache MXNet_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Spring XD_high": {
+            "months": 22,
+            "confidence": 85
+        },
+        "Appcelerator Daemon_control": {
+            "months": 8,
+            "confidence": 85
+        },
+        "MongoDB Core Server_high": {
+            "months": 26,
+            "confidence": 85
+        },
+        "Hyperledger Fabric_high": {
+            "months": 26,
+            "confidence": 85
+        },
+        "Apache MXNet_high": {
+            "months": 19,
+            "confidence": 85
+        },
+        "The Mongo C++ Driver_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Appcelerator Daemon_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "MongoDB Evergreen_control": {
+            "months": 14,
+            "confidence": 75
+        },
+        "Hyperledger Indy Node_control": {
+            "months": 18,
+            "confidence": 85
+        },
+        "Apache Mesos_control": {
+            "months": 11,
+            "confidence": 85
+        },
+        "The Mongo C++ Driver_low": {
+            "months": 4,
+            "confidence": 85
+        },
+        "Appcelerator Daemon_high": {
+            "months": 9,
+            "confidence": 85
+        },
+        "MongoDB Evergreen_low": {
+            "months": 10,
+            "confidence": 85
+        },
+        "Hyperledger Indy Node_low": {
+            "months": 22,
+            "confidence": 85
+        },
+        "Apache Mesos_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "The Mongo C++ Driver_high": {
+            "months": 19,
+            "confidence": 85
+        },
+        "Appcelerator Studio_control": {
+            "months": 8,
+            "confidence": 85
+        },
+        "MongoDB Evergreen_high": {
+            "months": 30,
+            "confidence": 85
+        },
+        "Hyperledger Indy Node_high": {
+            "months": 30,
+            "confidence": 85
+        },
+        "Apache Mesos_high": {
+            "months": 19,
+            "confidence": 85
+        },
+        "The Mongo Java Driver_control": {
+            "months": 5,
+            "confidence": 85
+        },
+        "Appcelerator Studio_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Moodle_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Hyperledger Indy SDK_control": {
+            "months": 12,
+            "confidence": 85
+        },
+        "Apache Usergrid_control": {
+            "months": 8,
+            "confidence": 85
+        },
+        "The Mongo Java Driver_low": {
+            "months": 4,
+            "confidence": 85
+        },
+        "Appcelerator Studio_high": {
+            "months": 26,
+            "confidence": 85
+        },
+        "Moodle_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "Hyperledger Indy SDK_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "Apache Usergrid_low": {
+            "months": 5,
+            "confidence": 85
+        },
+        "The Mongo Java Driver_high": {
+            "months": 12,
+            "confidence": 85
+        },
+        "Aptana Studio_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Moodle_high": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Hyperledger Indy SDK_high": {
+            "months": 16,
+            "confidence": 85
+        },
+        "Alloy Framework_low": {
+            "months": 7,
+            "confidence": 85
+        },
+        "Apache Usergrid_high": {
+            "months": 13,
+            "confidence": 85
+        },
+        "The Titanium SDK_control": {
+            "months": 14,
+            "confidence": 85
+        },
+        "Aptana Studio_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "Mule APIkit_control": {
+            "months": 7,
+            "confidence": 85
+        },
+        "Hyperledger Sawtooth_control": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Alloy Framework_control": {
+            "months": 7,
+            "confidence": 85
+        },
+        "Appcelerator Command-Line Interface_control": {
+            "months": 10,
+            "confidence": 85
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Aptana Studio_high": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Hyperledger Sawtooth_control": {
+            "months": 15,
+            "confidence": 75
+        },
+        "Hyperledger Sawtooth_low": {
+            "months": 5,
+            "confidence": 75
+        },
+        "The Titanium SDK_low": {
+            "months": 15,
+            "confidence": 85
+        },
+        "Atlassian Bamboo_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Mule APIkit_high": {
+            "months": 12,
+            "confidence": 75
+        },
+        "Hyperledger Sawtooth_high": {
+            "months": 23,
+            "confidence": 75
+        },
+        "Atlassian Crowd_control": {
+            "months": 12,
+            "confidence": 75
+        },
+        "Atlassian Crowd_high": {
+            "months": 19,
+            "confidence": 70
+        },
+        "Atlassian Crowd_low": {
+            "months": 10,
+            "confidence": 85
+        },
+        "Mule_control": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Atlassian Bamboo_low": {
+            "months": 9,
+            "confidence": 80
+        },
+        "LSSTCorp Data Management_control": {
+            "months": 24,
+            "confidence": 70
+        },
+        "Mule APIkit_low": {
+            "months": 5,
+            "confidence": 80
+        },
+        "Titanium Mobile Platform_control": {
+            "months": 6,
+            "confidence": 75
+        },
+        "Atlassian Software Server_control": {
+            "months": 10,
+            "confidence": 85
+        },
+        "The Titanium SDK_high": {
+            "months": 34,
+            "confidence": 75
+        },
+        "Titanium Mobile Platform_low": {
+            "months": 4,
+            "confidence": 80
+        },
+        "Atlassian Software Server_low": {
+            "months": 24,
+            "confidence": 85
+        },
+        "Atlassian Clover_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Atlassian Bamboo_high": {
+            "months": 24,
+            "confidence": 75
+        },
+        "LSSTCorp Data Management_high": {
+            "months": 84,
+            "confidence": 80
+        },
+        "Mule_low": {
+            "months": 5,
+            "confidence": 80
+        },
+        "LSSTCorp Data Management_low": {
+            "months": 72,
+            "confidence": 85
+        },
+        "Atlassian Software Server_high": {
+            "months": 48,
+            "confidence": 85
+        },
+        "Titanium Mobile Platform_high": {
+            "months": 10,
+            "confidence": 75
+        },
+        "Atlassian Clover_low": {
+            "months": 9,
+            "confidence": 85
+        },
+        "Lyrasis DuraCloud_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Lyrasis DuraCloud_low": {
+            "months": 9,
+            "confidence": 80
+        },
+        "DotNetNuke Platform_low": {
+            "months": 18,
+            "confidence": 80
+        },
+        "Mule_high": {
+            "months": 21,
+            "confidence": 70
+        },
+        "Atlassian Clover_high": {
+            "months": 18,
+            "confidence": 70
+        },
+        "Atlassian Confluence Cloud_control": {
+            "months": 27,
+            "confidence": null
+        },
+        "DotNetNuke Platform_control": {
+            "months": 14,
+            "confidence": 75
+        },
+        "Lyrasis DuraCloud_high": {
+            "months": 30,
+            "confidence": 75
+        },
+        "Sonatype Nexus_control": {
+            "months": 12,
+            "confidence": 70
+        },
+        "Spring Data Cassandra_control": {
+            "months": 6,
+            "confidence": 75
+        },
+        "MongoDB Compass_control": {
+            "months": 10,
+            "confidence": 75
+        },
+        "Sonatype Nexus_low": {
+            "months": 6,
+            "confidence": 85
+        },
+        "DotNetNuke Platform_high": {
+            "months": 26,
+            "confidence": 75
+        },
+        "Atlassian Confluence Cloud_low": {
+            "months": 21,
+            "confidence": 80
+        },
+        "Atlassian Confluence Cloud_high": {
+            "months": 44,
+            "confidence": 75
+        },
+        "Spring Data Cassandra_low": {
+            "months": 5,
+            "confidence": 80
+        },
+        "MongoDB Compass_low": {
+            "months": 12,
+            "confidence": 85
+        },
+        "Hyperledger Blockchain Explorer_low": {
+            "months": 6,
+            "confidence": 80
+        },
+        "Sonatype Nexus_high": {
+            "months": 28,
+            "confidence": 75
+        },
+        "Alloy Framework_low": {
+            "months": 6,
+            "confidence": null
+        },
+        "Hyperledger Blockchain Explorer_control": {
+            "months": 8,
+            "confidence": 70
+        },
+        "Appcelerator Command-Line Interface_control": {
+            "months": 6,
+            "confidence": 75
+        },
+        "MongoDB Compass_high": {
+            "months": 22,
+            "confidence": 85
+        },
+        "Alloy Framework_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Spring XD_control": {
+            "months": 18,
+            "confidence": 80
+        },
+        "Apache MXNet_control": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Appcelerator Command-Line Interface_low": {
+            "months": 5,
+            "confidence": 80
+        },
+        "Spring Data Cassandra_high": {
+            "months": 26,
+            "confidence": 75
+        },
+        "Spring XD_low": {
+            "months": 15,
+            "confidence": 75
+        },
+        "Appcelerator Command-Line Interface_high": {
+            "months": 18,
+            "confidence": 80
+        },
+        "Hyperledger Fabric_control": {
+            "months": 12,
+            "confidence": 75
+        },
+        "Hyperledger Blockchain Explorer_high": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Hyperledger Fabric_low": {
+            "months": 24,
+            "confidence": 75
+        },
+        "MongoDB Core Server_low": {
+            "months": 18,
+            "confidence": 80
+        },
+        "Apache MXNet_low": {
+            "months": 12,
+            "confidence": 85
+        },
+        "Spring XD_high": {
+            "months": 30,
+            "confidence": 75
+        },
+        "Hyperledger Fabric_high": {
+            "months": 36,
+            "confidence": 80
+        },
+        "MongoDB Core Server_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "MongoDB Core Server_high": {
+            "months": 30,
+            "confidence": 70
+        },
+        "Apache MXNet_high": {
+            "months": 24,
+            "confidence": 75
+        },
+        "Hyperledger Indy Node_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Appcelerator Daemon_control": {
+            "months": 10,
+            "confidence": 75
+        },
+        "Appcelerator Daemon_low": {
+            "months": 9,
+            "confidence": 80
+        },
+        "The Mongo C++ Driver_control": {
+            "months": 10,
+            "confidence": 75
+        },
+        "The Mongo C++ Driver_low": {
+            "months": 5,
+            "confidence": 80
+        },
+        "Hyperledger Indy Node_low": {
+            "months": 12,
+            "confidence": 80
+        },
+        "MongoDB Evergreen_control": {
+            "months": 15,
+            "confidence": 75
+        },
+        "Apache Mesos_low": {
+            "months": 24,
+            "confidence": 85
+        },
+        "The Mongo C++ Driver_high": {
+            "months": 20,
+            "confidence": null
+        },
+        "Appcelerator Daemon_high": {
+            "months": 16,
+            "confidence": 75
+        },
+        "Apache Mesos_control": {
+            "months": 12,
+            "confidence": 75
+        },
+        "MongoDB Evergreen_low": {
+            "months": 7,
+            "confidence": 70
+        },
+        "Appcelerator Studio_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "MongoDB Evergreen_high": {
+            "months": 28,
+            "confidence": 70
+        },
+        "Apache Mesos_high": {
+            "months": 20,
+            "confidence": 80
+        },
+        "Hyperledger Indy Node_high": {
+            "months": 28,
+            "confidence": 70
+        },
+        "Moodle_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "The Mongo Java Driver_control": {
+            "months": 6,
+            "confidence": 75
+        },
+        "Hyperledger Indy SDK_control": {
+            "months": 12,
+            "confidence": 70
+        },
+        "Appcelerator Studio_low": {
+            "months": null,
+            "confidence": null
+        },
+        "Apache Usergrid_control": {
+            "months": 10,
+            "confidence": 75
+        },
+        "The Mongo Java Driver_low": {
+            "months": 4,
+            "confidence": 75
+        },
+        "Apache Usergrid_low": {
+            "months": 5,
+            "confidence": 70
+        },
+        "Moodle_low": {
+            "months": 14,
+            "confidence": 75
+        },
+        "Hyperledger Indy SDK_low": {
+            "months": 11,
+            "confidence": 85
+        },
+        "Moodle_high": {
+            "months": 24,
+            "confidence": 70
+        },
+        "Appcelerator Studio_high": {
+            "months": 24,
+            "confidence": 75
+        },
+        "The Mongo Java Driver_high": {
+            "months": 14,
+            "confidence": 80
+        },
+        "The Titanium SDK_control": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Hyperledger Indy SDK_high": {
+            "months": 22,
+            "confidence": 75
+        },
+        "Aptana Studio_low": {
+            "months": 10,
+            "confidence": 80
+        },
+        "Mule APIkit_control": {
+            "months": 6,
+            "confidence": 80
+        },
+        "Aptana Studio_control": {
+            "months": 7,
+            "confidence": 70
+        },
+        "Alloy Framework_control": {
+            "months": 9,
+            "confidence": 80
+        },
+        "Apache Usergrid_high": {
+            "months": null,
+            "confidence": null
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Mule APIkit_low": {
+            "months": 8,
+            "confidence": 42
+        },
+        "Aptana Studio_high": {
+            "months": 17,
+            "confidence": 62
+        },
+        "The Titanium SDK_low": {
+            "months": 22,
+            "confidence": 30
+        },
+        "Atlassian Crowd_low": {
+            "months": 8,
+            "confidence": 35
+        },
+        "Hyperledger Sawtooth_low": {
+            "months": 10,
+            "confidence": 35
+        },
+        "The Titanium SDK_high": {
+            "months": 31,
+            "confidence": 55
+        },
+        "Mule APIkit_high": {
+            "months": 12,
+            "confidence": 72
+        },
+        "Hyperledger Sawtooth_high": {
+            "months": 22,
+            "confidence": 40
+        },
+        "Atlassian Bamboo_control": {
+            "months": 12,
+            "confidence": 40
+        },
+        "Atlassian Crowd_high": {
+            "months": 16,
+            "confidence": 32
+        },
+        "Titanium Mobile Platform_control": {
+            "months": 4,
+            "confidence": 42
+        },
+        "Atlassian Bamboo_low": {
+            "months": 5,
+            "confidence": 30
+        },
+        "Mule_control": {
+            "months": 8,
+            "confidence": 35
+        },
+        "LSSTCorp Data Management_control": {
+            "months": 18,
+            "confidence": 25
+        },
+        "Atlassian Software Server_control": {
+            "months": 9,
+            "confidence": 30
+        },
+        "Titanium Mobile Platform_low": {
+            "months": 3,
+            "confidence": 52
+        },
+        "Atlassian Bamboo_high": {
+            "months": 22,
+            "confidence": 72
+        },
+        "Mule_low": {
+            "months": 9,
+            "confidence": 30
+        },
+        "LSSTCorp Data Management_low": {
+            "months": 9,
+            "confidence": 32
+        },
+        "Atlassian Software Server_low": {
+            "months": 3,
+            "confidence": 52
+        },
+        "Titanium Mobile Platform_high": {
+            "months": 10,
+            "confidence": 62
+        },
+        "Atlassian Clover_control": {
+            "months": 10,
+            "confidence": 32
+        },
+        "Mule_high": {
+            "months": 19,
+            "confidence": 32
+        },
+        "LSSTCorp Data Management_high": {
+            "months": 82,
+            "confidence": 12
+        },
+        "Atlassian Software Server_high": {
+            "months": 16,
+            "confidence": 47
+        },
+        "Atlassian Clover_low": {
+            "months": 8,
+            "confidence": 40
+        },
+        "Sonatype Nexus_control": {
+            "months": 13,
+            "confidence": 35
+        },
+        "Lyrasis DuraCloud_control": {
+            "months": 13,
+            "confidence": 40
+        },
+        "DotNetNuke Platform_control": {
+            "months": 13,
+            "confidence": 30
+        },
+        "Atlassian Clover_high": {
+            "months": 22,
+            "confidence": 32
+        },
+        "Sonatype Nexus_low": {
+            "months": 10,
+            "confidence": 40
+        },
+        "Lyrasis DuraCloud_low": {
+            "months": 6,
+            "confidence": 35
+        },
+        "DotNetNuke Platform_low": {
+            "months": 5,
+            "confidence": 42
+        },
+        "Atlassian Confluence Cloud_control": {
+            "months": 19,
+            "confidence": 30
+        },
+        "Sonatype Nexus_high": {
+            "months": 22,
+            "confidence": 55
+        },
+        "Lyrasis DuraCloud_high": {
+            "months": 30,
+            "confidence": 55
+        },
+        "DotNetNuke Platform_high": {
+            "months": 25,
+            "confidence": 42
+        },
+        "Atlassian Confluence Cloud_low": {
+            "months": 20,
+            "confidence": 32
+        },
+        "Spring Data Cassandra_control": {
+            "months": 6,
+            "confidence": 52
+        },
+        "MongoDB Compass_control": {
+            "months": 14,
+            "confidence": 35
+        },
+        "Hyperledger Blockchain Explorer_control": {
+            "months": 6,
+            "confidence": 40
+        },
+        "Atlassian Confluence Cloud_high": {
+            "months": 37,
+            "confidence": 55
+        },
+        "Spring Data Cassandra_low": {
+            "months": 6,
+            "confidence": 52
+        },
+        "MongoDB Compass_low": {
+            "months": 16,
+            "confidence": 35
+        },
+        "Hyperledger Blockchain Explorer_low": {
+            "months": 5,
+            "confidence": 42
+        },
+        "Atlassian Crowd_control": {
+            "months": 6,
+            "confidence": 40
+        },
+        "MongoDB Compass_high": {
+            "months": 22,
+            "confidence": 62
+        },
+        "Appcelerator Command-Line Interface_control": {
+            "months": 8,
+            "confidence": 30
+        },
+        "Hyperledger Blockchain Explorer_high": {
+            "months": 11,
+            "confidence": 42
+        },
+        "Alloy Framework_high": {
+            "months": 18,
+            "confidence": 62
+        },
+        "Spring Data Cassandra_high": {
+            "months": 22,
+            "confidence": 55
+        },
+        "Spring XD_control": {
+            "months": 10,
+            "confidence": 35
+        },
+        "Appcelerator Command-Line Interface_low": {
+            "months": 4,
+            "confidence": 40
+        },
+        "MongoDB Core Server_control": {
+            "months": 10,
+            "confidence": 32
+        },
+        "Hyperledger Fabric_control": {
+            "months": 15,
+            "confidence": 30
+        },
+        "Apache MXNet_control": {
+            "months": 14,
+            "confidence": 28
+        },
+        "Spring XD_low": {
+            "months": 7,
+            "confidence": 35
+        },
+        "Appcelerator Command-Line Interface_high": {
+            "months": 17,
+            "confidence": 42
+        },
+        "MongoDB Core Server_low": {
+            "months": 22,
+            "confidence": 52
+        },
+        "Hyperledger Fabric_low": {
+            "months": 20,
+            "confidence": 35
+        },
+        "Apache MXNet_low": {
+            "months": 9,
+            "confidence": 32
+        },
+        "Spring XD_high": {
+            "months": 14,
+            "confidence": 30
+        },
+        "Appcelerator Daemon_control": {
+            "months": 13,
+            "confidence": 32
+        },
+        "MongoDB Core Server_high": {
+            "months": 30,
+            "confidence": 32
+        },
+        "Hyperledger Fabric_high": {
+            "months": 29,
+            "confidence": 27
+        },
+        "Apache MXNet_high": {
+            "months": 22,
+            "confidence": 55
+        },
+        "Appcelerator Daemon_low": {
+            "months": 6,
+            "confidence": 42
+        },
+        "The Mongo C++ Driver_control": {
+            "months": 8,
+            "confidence": 40
+        },
+        "MongoDB Evergreen_control": {
+            "months": 12,
+            "confidence": 35
+        },
+        "Hyperledger Indy Node_control": {
+            "months": 13,
+            "confidence": 25
+        },
+        "Apache Mesos_control": {
+            "months": 10,
+            "confidence": 30
+        },
+        "The Mongo C++ Driver_low": {
+            "months": 8,
+            "confidence": 40
+        },
+        "Appcelerator Daemon_high": {
+            "months": 15,
+            "confidence": 47
+        },
+        "MongoDB Evergreen_low": {
+            "months": 10,
+            "confidence": 40
+        },
+        "Hyperledger Indy Node_low": {
+            "months": 20,
+            "confidence": 30
+        },
+        "Apache Mesos_low": {
+            "months": 9,
+            "confidence": 32
+        },
+        "The Mongo C++ Driver_high": {
+            "months": 19,
+            "confidence": 72
+        },
+        "Appcelerator Studio_control": {
+            "months": 12,
+            "confidence": 42
+        },
+        "MongoDB Evergreen_high": {
+            "months": 32,
+            "confidence": 42
+        },
+        "Hyperledger Indy Node_high": {
+            "months": 27,
+            "confidence": 30
+        },
+        "Apache Mesos_high": {
+            "months": 19,
+            "confidence": 62
+        },
+        "Appcelerator Studio_low": {
+            "months": 12,
+            "confidence": 42
+        },
+        "The Mongo Java Driver_control": {
+            "months": 5,
+            "confidence": 42
+        },
+        "Moodle_control": {
+            "months": 9,
+            "confidence": 35
+        },
+        "Hyperledger Indy SDK_control": {
+            "months": 18,
+            "confidence": 25
+        },
+        "Apache Usergrid_control": {
+            "months": 6,
+            "confidence": 40
+        },
+        "Appcelerator Studio_high": {
+            "months": 27,
+            "confidence": 62
+        },
+        "Alloy Framework_control": {
+            "months": 7,
+            "confidence": 35
+        },
+        "The Mongo Java Driver_low": {
+            "months": 4,
+            "confidence": 42
+        },
+        "Moodle_low": {
+            "months": 15,
+            "confidence": 42
+        },
+        "Hyperledger Indy SDK_low": {
+            "months": 14,
+            "confidence": 32
+        },
+        "Apache Usergrid_low": {
+            "months": 12,
+            "confidence": 35
+        },
+        "Aptana Studio_control": {
+            "months": 7,
+            "confidence": 35
+        },
+        "The Mongo Java Driver_high": {
+            "months": 14,
+            "confidence": 52
+        },
+        "Moodle_high": {
+            "months": 20,
+            "confidence": 40
+        },
+        "Alloy Framework_low": {
+            "months": 7,
+            "confidence": 42
+        },
+        "Hyperledger Indy SDK_high": {
+            "months": 21,
+            "confidence": 42
+        },
+        "Apache Usergrid_high": {
+            "months": 15,
+            "confidence": 55
+        },
+        "The Titanium SDK_control": {
+            "months": 18,
+            "confidence": 30
+        },
+        "Aptana Studio_low": {
+            "months": 13,
+            "confidence": 40
+        },
+        "Mule APIkit_control": {
+            "months": 6,
+            "confidence": 52
+        },
+        "Hyperledger Sawtooth_control": {
+            "months": 10,
+            "confidence": 30
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Hyperledger Sawtooth_low": {
+            "months": 20,
+            "confidence": 65
+        },
+        "Mule APIkit_control": {
+            "months": 5,
+            "confidence": 70
+        },
+        "Mule APIkit_low": {
+            "months": 4,
+            "confidence": 70
+        },
+        "Aptana Studio_high": {
+            "months": 18,
+            "confidence": 70
+        },
+        "Atlassian Crowd_control": {
+            "months": 8,
+            "confidence": 70
+        },
+        "The Titanium SDK_low": {
+            "months": 6,
+            "confidence": 65
+        },
+        "Aptana Studio_low": {
+            "months": 6,
+            "confidence": 65
+        },
+        "Mule APIkit_high": {
+            "months": 11,
+            "confidence": 70
+        },
+        "Hyperledger Sawtooth_high": {
+            "months": 20,
+            "confidence": 70
+        },
+        "Hyperledger Sawtooth_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Atlassian Crowd_low": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Titanium Mobile Platform_control": {
+            "months": 6,
+            "confidence": 70
+        },
+        "Atlassian Crowd_high": {
+            "months": 18,
+            "confidence": 75
+        },
+        "LSSTCorp Data Management_control": {
+            "months": 30,
+            "confidence": 50
+        },
+        "The Titanium SDK_high": {
+            "months": 20,
+            "confidence": 65
+        },
+        "Atlassian Software Server_control": {
+            "months": 12,
+            "confidence": 75
+        },
+        "Atlassian Bamboo_control": {
+            "months": 12,
+            "confidence": 60
+        },
+        "Titanium Mobile Platform_low": {
+            "months": 3,
+            "confidence": 70
+        },
+        "Titanium Mobile Platform_high": {
+            "months": 10,
+            "confidence": 70
+        },
+        "Atlassian Bamboo_low": {
+            "months": null,
+            "confidence": null
+        },
+        "Mule_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Atlassian Software Server_low": {
+            "months": 5,
+            "confidence": 70
+        },
+        "LSSTCorp Data Management_low": {
+            "months": 24,
+            "confidence": 60
+        },
+        "LSSTCorp Data Management_high": {
+            "months": 78,
+            "confidence": 65
+        },
+        "Atlassian Bamboo_high": {
+            "months": 24,
+            "confidence": 70
+        },
+        "Atlassian Software Server_high": {
+            "months": 16,
+            "confidence": 70
+        },
+        "Mule_high": {
+            "months": 24,
+            "confidence": 70
+        },
+        "Atlassian Clover_low": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Sonatype Nexus_control": {
+            "months": 6,
+            "confidence": 70
+        },
+        "Mule_low": {
+            "months": null,
+            "confidence": null
+        },
+        "Atlassian Clover_control": {
+            "months": 10,
+            "confidence": 70
+        },
+        "DotNetNuke Platform_control": {
+            "months": 16,
+            "confidence": 65
+        },
+        "Atlassian Clover_high": {
+            "months": 28,
+            "confidence": 65
+        },
+        "DotNetNuke Platform_low": {
+            "months": 6,
+            "confidence": 70
+        },
+        "MongoDB Compass_control": {
+            "months": 12,
+            "confidence": 70
+        },
+        "Lyrasis DuraCloud_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Lyrasis DuraCloud_control": {
+            "months": null,
+            "confidence": null
+        },
+        "DotNetNuke Platform_high": {
+            "months": 26,
+            "confidence": 65
+        },
+        "Hyperledger Blockchain Explorer_control": {
+            "months": 6,
+            "confidence": 75
+        },
+        "Sonatype Nexus_low": {
+            "months": null,
+            "confidence": null
+        },
+        "Lyrasis DuraCloud_low": {
+            "months": null,
+            "confidence": null
+        },
+        "MongoDB Compass_low": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Spring Data Cassandra_control": {
+            "months": 9,
+            "confidence": 70
+        },
+        "Spring Data Cassandra_low": {
+            "months": 5,
+            "confidence": 70
+        },
+        "Atlassian Confluence Cloud_low": {
+            "months": 20,
+            "confidence": 65
+        },
+        "Atlassian Confluence Cloud_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Sonatype Nexus_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Alloy Framework_low": {
+            "months": 7,
+            "confidence": 70
+        },
+        "Spring Data Cassandra_high": {
+            "months": 20,
+            "confidence": 75
+        },
+        "MongoDB Compass_high": {
+            "months": 20,
+            "confidence": 70
+        },
+        "Spring XD_control": {
+            "months": 9,
+            "confidence": 75
+        },
+        "Hyperledger Blockchain Explorer_low": {
+            "months": 4,
+            "confidence": 70
+        },
+        "Appcelerator Command-Line Interface_control": {
+            "months": 10,
+            "confidence": 65
+        },
+        "Atlassian Confluence Cloud_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Hyperledger Fabric_control": {
+            "months": 16,
+            "confidence": 60
+        },
+        "MongoDB Core Server_control": {
+            "months": 18,
+            "confidence": 60
+        },
+        "Hyperledger Blockchain Explorer_high": {
+            "months": null,
+            "confidence": null
+        },
+        "MongoDB Core Server_low": {
+            "months": 12,
+            "confidence": 70
+        },
+        "Appcelerator Command-Line Interface_high": {
+            "months": 14,
+            "confidence": 65
+        },
+        "Alloy Framework_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Appcelerator Command-Line Interface_low": {
+            "months": 4,
+            "confidence": 70
+        },
+        "Apache MXNet_low": {
+            "months": 9,
+            "confidence": 70
+        },
+        "MongoDB Core Server_high": {
+            "months": 30,
+            "confidence": 70
+        },
+        "Hyperledger Fabric_low": {
+            "months": 18,
+            "confidence": 70
+        },
+        "Apache MXNet_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Spring XD_low": {
+            "months": 9,
+            "confidence": 60
+        },
+        "Appcelerator Daemon_low": {
+            "months": 6,
+            "confidence": 80
+        },
+        "The Mongo C++ Driver_control": {
+            "months": 8,
+            "confidence": 70
+        },
+        "Hyperledger Fabric_high": {
+            "months": 27,
+            "confidence": 60
+        },
+        "Spring XD_high": {
+            "months": 24,
+            "confidence": 65
+        },
+        "Apache Mesos_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Appcelerator Daemon_control": {
+            "months": null,
+            "confidence": null
+        },
+        "Hyperledger Indy Node_control": {
+            "months": 12,
+            "confidence": 65
+        },
+        "Apache MXNet_high": {
+            "months": null,
+            "confidence": null
+        },
+        "MongoDB Evergreen_low": {
+            "months": 12,
+            "confidence": 75
+        },
+        "MongoDB Evergreen_control": {
+            "months": 10,
+            "confidence": 65
+        },
+        "The Mongo C++ Driver_low": {
+            "months": 5,
+            "confidence": 70
+        },
+        "The Mongo C++ Driver_high": {
+            "months": 18,
+            "confidence": 75
+        },
+        "Moodle_control": {
+            "months": 10,
+            "confidence": 65
+        },
+        "Appcelerator Daemon_high": {
+            "months": 11,
+            "confidence": 65
+        },
+        "Hyperledger Indy Node_low": {
+            "months": 12,
+            "confidence": 60
+        },
+        "Apache Mesos_high": {
+            "months": 20,
+            "confidence": 70
+        },
+        "Hyperledger Indy Node_high": {
+            "months": 30,
+            "confidence": 70
+        },
+        "Apache Mesos_low": {
+            "months": 9,
+            "confidence": 70
+        },
+        "Hyperledger Indy SDK_control": {
+            "months": 9,
+            "confidence": 70
+        },
+        "MongoDB Evergreen_high": {
+            "months": 28,
+            "confidence": 70
+        },
+        "The Mongo Java Driver_control": {
+            "months": 8,
+            "confidence": 75
+        },
+        "Appcelerator Studio_control": {
+            "months": 8,
+            "confidence": 70
+        },
+        "Moodle_low": {
+            "months": 6,
+            "confidence": 65
+        },
+        "The Mongo Java Driver_low": {
+            "months": 4,
+            "confidence": 75
+        },
+        "Appcelerator Studio_high": {
+            "months": 28,
+            "confidence": 65
+        },
+        "Apache Usergrid_low": {
+            "months": 4,
+            "confidence": 70
+        },
+        "Alloy Framework_control": {
+            "months": 8,
+            "confidence": 70
+        },
+        "Appcelerator Studio_low": {
+            "months": 6,
+            "confidence": 60
+        },
+        "Apache Usergrid_control": {
+            "months": 6,
+            "confidence": 70
+        },
+        "Aptana Studio_control": {
+            "months": 9,
+            "confidence": 70
+        },
+        "Hyperledger Indy SDK_low": {
+            "months": 10,
+            "confidence": 70
+        },
+        "The Titanium SDK_control": {
+            "months": 14,
+            "confidence": 65
+        },
+        "Moodle_high": {
+            "months": 24,
+            "confidence": 70
+        },
+        "Hyperledger Indy SDK_high": {
+            "months": 21,
+            "confidence": 70
+        },
+        "The Mongo Java Driver_high": {
+            "months": null,
+            "confidence": null
+        },
+        "Apache Usergrid_high": {
+            "months": 12,
+            "confidence": 70
+        }
+    }
+}

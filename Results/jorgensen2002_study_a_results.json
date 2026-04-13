@@ -1,0 +1,1202 @@
+{
+    "openai/gpt-5.2-codex": {
+        "Spring Data Cassandra": {
+            "most_likely": 4000,
+            "minimum": 2500,
+            "maximum": 6500,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Apache MXNet": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Atlassian Software Server": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Hyperledger Indy SDK": {
+            "most_likely": 50000,
+            "minimum": 32000,
+            "maximum": 85000,
+            "pi_width": 1.06,
+            "completion_times": null
+        },
+        "Aptana Studio": {
+            "most_likely": 4200,
+            "minimum": 3000,
+            "maximum": 7200,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Titanium Mobile Platform": {
+            "most_likely": 180,
+            "minimum": 120,
+            "maximum": 280,
+            "pi_width": 0.889,
+            "completion_times": null
+        },
+        "MongoDB Evergreen": {
+            "most_likely": 32000,
+            "minimum": 22000,
+            "maximum": 52000,
+            "pi_width": 0.938,
+            "completion_times": null
+        },
+        "Apache Mesos": {
+            "most_likely": 6000,
+            "minimum": 4000,
+            "maximum": 9000,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Hyperledger Sawtooth": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "DotNetNuke Platform": {
+            "most_likely": 4000,
+            "minimum": 2500,
+            "maximum": 8000,
+            "pi_width": 1.375,
+            "completion_times": null
+        },
+        "Spring XD": {
+            "most_likely": 16000,
+            "minimum": 12000,
+            "maximum": 24000,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Atlassian Bamboo": {
+            "most_likely": 14000,
+            "minimum": 9000,
+            "maximum": 24000,
+            "pi_width": 1.071,
+            "completion_times": null
+        },
+        "Moodle": {
+            "most_likely": 14000,
+            "minimum": 9000,
+            "maximum": 24000,
+            "pi_width": 1.071,
+            "completion_times": null
+        },
+        "Apache Usergrid": {
+            "most_likely": 2000,
+            "minimum": 1200,
+            "maximum": 3200,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "LSSTCorp Data Management": {
+            "most_likely": 350000,
+            "minimum": 250000,
+            "maximum": 700000,
+            "pi_width": 1.286,
+            "completion_times": null
+        },
+        "Hyperledger Blockchain Explorer": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 8000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "The Mongo C++ Driver": {
+            "most_likely": 3200,
+            "minimum": 2200,
+            "maximum": 5200,
+            "pi_width": 0.938,
+            "completion_times": null
+        },
+        "Mule APIkit": {
+            "most_likely": 1600,
+            "minimum": 1000,
+            "maximum": 2600,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Appcelerator Command-Line Interface": {
+            "most_likely": 4500,
+            "minimum": 2500,
+            "maximum": 8000,
+            "pi_width": 1.222,
+            "completion_times": null
+        },
+        "Atlassian Clover": {
+            "most_likely": 30000,
+            "minimum": 20000,
+            "maximum": 45000,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Lyrasis DuraCloud": {
+            "most_likely": 18000,
+            "minimum": 12000,
+            "maximum": 30000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Hyperledger Fabric": {
+            "most_likely": 120000,
+            "minimum": 60000,
+            "maximum": 200000,
+            "pi_width": 1.167,
+            "completion_times": null
+        },
+        "The Mongo Java Driver": {
+            "most_likely": 1800,
+            "minimum": 1200,
+            "maximum": 2600,
+            "pi_width": 0.778,
+            "completion_times": null
+        },
+        "Atlassian Confluence Cloud": {
+            "most_likely": 60000,
+            "minimum": 40000,
+            "maximum": 100000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Mule": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Appcelerator Daemon": {
+            "most_likely": 3600,
+            "minimum": 2400,
+            "maximum": 6000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "MongoDB Compass": {
+            "most_likely": 18000,
+            "minimum": 12000,
+            "maximum": 30000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Alloy Framework": {
+            "most_likely": 5200,
+            "minimum": 3500,
+            "maximum": 9000,
+            "pi_width": 1.058,
+            "completion_times": null
+        },
+        "Hyperledger Indy Node": {
+            "most_likely": 36000,
+            "minimum": 22000,
+            "maximum": 60000,
+            "pi_width": 1.056,
+            "completion_times": null
+        },
+        "The Titanium SDK": {
+            "most_likely": 40000,
+            "minimum": 30000,
+            "maximum": 65000,
+            "pi_width": 0.875,
+            "completion_times": null
+        },
+        "Atlassian Crowd": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 18000,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Sonatype Nexus": {
+            "most_likely": 18000,
+            "minimum": 12000,
+            "maximum": 28000,
+            "pi_width": 0.889,
+            "completion_times": null
+        },
+        "Appcelerator Studio": {
+            "most_likely": 9000,
+            "minimum": 6000,
+            "maximum": 18000,
+            "pi_width": 1.333,
+            "completion_times": null
+        },
+        "MongoDB Core Server": {
+            "most_likely": 100000,
+            "minimum": 60000,
+            "maximum": 200000,
+            "pi_width": 1.4,
+            "completion_times": null
+        }
+    },
+    "google/gemini-3-flash-preview": {
+        "Aptana Studio": {
+            "most_likely": 1450,
+            "minimum": 980,
+            "maximum": 2200,
+            "pi_width": 0.841,
+            "completion_times": null
+        },
+        "Spring Data Cassandra": {
+            "most_likely": 950,
+            "minimum": 800,
+            "maximum": 1200,
+            "pi_width": 0.421,
+            "completion_times": null
+        },
+        "MongoDB Evergreen": {
+            "most_likely": 15500,
+            "minimum": 11000,
+            "maximum": 22000,
+            "pi_width": 0.71,
+            "completion_times": null
+        },
+        "Atlassian Software Server": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7500,
+            "pi_width": 0.896,
+            "completion_times": null
+        },
+        "Apache Mesos": {
+            "most_likely": 3200,
+            "minimum": 2400,
+            "maximum": 4800,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Hyperledger Sawtooth": {
+            "most_likely": 4800,
+            "minimum": 3800,
+            "maximum": 6200,
+            "pi_width": 0.5,
+            "completion_times": null
+        },
+        "DotNetNuke Platform": {
+            "most_likely": 1450,
+            "minimum": 980,
+            "maximum": 2100,
+            "pi_width": 0.772,
+            "completion_times": null
+        },
+        "Spring XD": {
+            "most_likely": 3800,
+            "minimum": 2800,
+            "maximum": 5200,
+            "pi_width": 0.632,
+            "completion_times": null
+        },
+        "Atlassian Bamboo": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7500,
+            "pi_width": 0.896,
+            "completion_times": null
+        },
+        "Moodle": {
+            "most_likely": 2350,
+            "minimum": 1900,
+            "maximum": 2800,
+            "pi_width": 0.383,
+            "completion_times": null
+        },
+        "Apache Usergrid": {
+            "most_likely": 1450,
+            "minimum": 950,
+            "maximum": 2200,
+            "pi_width": 0.862,
+            "completion_times": null
+        },
+        "LSSTCorp Data Management": {
+            "most_likely": 280000,
+            "minimum": 180000,
+            "maximum": 450000,
+            "pi_width": 0.964,
+            "completion_times": null
+        },
+        "Hyperledger Blockchain Explorer": {
+            "most_likely": 880,
+            "minimum": 640,
+            "maximum": 1280,
+            "pi_width": 0.727,
+            "completion_times": null
+        },
+        "The Mongo C++ Driver": {
+            "most_likely": 2100,
+            "minimum": 1200,
+            "maximum": 3200,
+            "pi_width": 0.952,
+            "completion_times": null
+        },
+        "Atlassian Clover": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7500,
+            "pi_width": 0.896,
+            "completion_times": null
+        },
+        "Mule APIkit": {
+            "most_likely": 920,
+            "minimum": 800,
+            "maximum": 1160,
+            "pi_width": 0.391,
+            "completion_times": null
+        },
+        "Appcelerator Command-Line Interface": {
+            "most_likely": 1200,
+            "minimum": 850,
+            "maximum": 1850,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Lyrasis DuraCloud": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7800,
+            "pi_width": 0.958,
+            "completion_times": null
+        },
+        "Hyperledger Fabric": {
+            "most_likely": 28000,
+            "minimum": 18000,
+            "maximum": 45000,
+            "pi_width": 0.964,
+            "completion_times": null
+        },
+        "The Mongo Java Driver": {
+            "most_likely": 720,
+            "minimum": 480,
+            "maximum": 1120,
+            "pi_width": 0.889,
+            "completion_times": null
+        },
+        "Alloy Framework": {
+            "most_likely": 2400,
+            "minimum": 1800,
+            "maximum": 3200,
+            "pi_width": 0.583,
+            "completion_times": null
+        },
+        "Atlassian Confluence Cloud": {
+            "most_likely": 24500,
+            "minimum": 18000,
+            "maximum": 38000,
+            "pi_width": 0.816,
+            "completion_times": null
+        },
+        "Mule": {
+            "most_likely": 5200,
+            "minimum": 3200,
+            "maximum": 7800,
+            "pi_width": 0.885,
+            "completion_times": null
+        },
+        "Appcelerator Daemon": {
+            "most_likely": 1450,
+            "minimum": 980,
+            "maximum": 2100,
+            "pi_width": 0.772,
+            "completion_times": null
+        },
+        "MongoDB Compass": {
+            "most_likely": 7200,
+            "minimum": 5400,
+            "maximum": 9800,
+            "pi_width": 0.611,
+            "completion_times": null
+        },
+        "Hyperledger Indy Node": {
+            "most_likely": 11500,
+            "minimum": 8200,
+            "maximum": 16500,
+            "pi_width": 0.722,
+            "completion_times": null
+        },
+        "The Titanium SDK": {
+            "most_likely": 6400,
+            "minimum": 4800,
+            "maximum": 9200,
+            "pi_width": 0.688,
+            "completion_times": null
+        },
+        "Atlassian Crowd": {
+            "most_likely": 3200,
+            "minimum": 2400,
+            "maximum": 4800,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Sonatype Nexus": {
+            "most_likely": 3200,
+            "minimum": 2400,
+            "maximum": 4800,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Appcelerator Studio": {
+            "most_likely": 9200,
+            "minimum": 6500,
+            "maximum": 14000,
+            "pi_width": 0.815,
+            "completion_times": null
+        },
+        "MongoDB Core Server": {
+            "most_likely": 52000,
+            "minimum": 24000,
+            "maximum": 110000,
+            "pi_width": 1.654,
+            "completion_times": null
+        },
+        "Apache MXNet": {
+            "most_likely": 9600,
+            "minimum": 7200,
+            "maximum": 14400,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Hyperledger Indy SDK": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7500,
+            "pi_width": 0.896,
+            "completion_times": null
+        },
+        "Titanium Mobile Platform": {
+            "most_likely": 620,
+            "minimum": 480,
+            "maximum": 820,
+            "pi_width": 0.548,
+            "completion_times": null
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Atlassian Software Server": {
+            "most_likely": 12,
+            "minimum": 9,
+            "maximum": 16,
+            "pi_width": 0.583,
+            "completion_times": null
+        },
+        "MongoDB Core Server": {
+            "most_likely": 12,
+            "minimum": 9,
+            "maximum": 18,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Spring Data Cassandra": {
+            "most_likely": 1200,
+            "minimum": 900,
+            "maximum": 1600,
+            "pi_width": 0.583,
+            "completion_times": null
+        },
+        "Apache Mesos": {
+            "most_likely": 4,
+            "minimum": 3,
+            "maximum": 7,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Hyperledger Sawtooth": {
+            "most_likely": 5200,
+            "minimum": 4200,
+            "maximum": 6500,
+            "pi_width": 0.442,
+            "completion_times": null
+        },
+        "Hyperledger Indy SDK": {
+            "most_likely": 4500,
+            "minimum": 3000,
+            "maximum": 6500,
+            "pi_width": 0.778,
+            "completion_times": null
+        },
+        "Apache MXNet": {
+            "most_likely": 5500,
+            "minimum": 4000,
+            "maximum": 7500,
+            "pi_width": 0.636,
+            "completion_times": null
+        },
+        "Atlassian Bamboo": {
+            "most_likely": 10000,
+            "minimum": 7500,
+            "maximum": 15000,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "DotNetNuke Platform": {
+            "most_likely": 5200,
+            "minimum": 3900,
+            "maximum": 7500,
+            "pi_width": 0.692,
+            "completion_times": null
+        },
+        "Aptana Studio": {
+            "most_likely": 4500,
+            "minimum": 3000,
+            "maximum": 6500,
+            "pi_width": 0.778,
+            "completion_times": null
+        },
+        "LSSTCorp Data Management": {
+            "most_likely": 1500000,
+            "minimum": 1000000,
+            "maximum": 2500000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Spring XD": {
+            "most_likely": 6500,
+            "minimum": 4500,
+            "maximum": 9500,
+            "pi_width": 0.769,
+            "completion_times": null
+        },
+        "MongoDB Evergreen": {
+            "most_likely": 4800,
+            "minimum": 3200,
+            "maximum": 7200,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Moodle": {
+            "most_likely": 4500,
+            "minimum": 3200,
+            "maximum": 6500,
+            "pi_width": 0.733,
+            "completion_times": null
+        },
+        "Hyperledger Blockchain Explorer": {
+            "most_likely": 2200,
+            "minimum": 1600,
+            "maximum": 3200,
+            "pi_width": 0.727,
+            "completion_times": null
+        },
+        "The Mongo C++ Driver": {
+            "most_likely": 1000,
+            "minimum": 700,
+            "maximum": 1500,
+            "pi_width": 0.8,
+            "completion_times": null
+        },
+        "Apache Usergrid": {
+            "most_likely": 1200,
+            "minimum": 800,
+            "maximum": 2000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Mule APIkit": {
+            "most_likely": 550,
+            "minimum": 440,
+            "maximum": 715,
+            "pi_width": 0.5,
+            "completion_times": null
+        },
+        "Atlassian Clover": {
+            "most_likely": 2200,
+            "minimum": 1600,
+            "maximum": 3000,
+            "pi_width": 0.636,
+            "completion_times": null
+        },
+        "Lyrasis DuraCloud": {
+            "most_likely": 4500,
+            "minimum": 3600,
+            "maximum": 6000,
+            "pi_width": 0.533,
+            "completion_times": null
+        },
+        "Hyperledger Fabric": {
+            "most_likely": 18,
+            "minimum": 14,
+            "maximum": 24,
+            "pi_width": 0.556,
+            "completion_times": null
+        },
+        "Titanium Mobile Platform": {
+            "most_likely": 480,
+            "minimum": 350,
+            "maximum": 650,
+            "pi_width": 0.625,
+            "completion_times": null
+        },
+        "Appcelerator Command-Line Interface": {
+            "most_likely": 2200,
+            "minimum": 1600,
+            "maximum": 3200,
+            "pi_width": 0.727,
+            "completion_times": null
+        },
+        "Appcelerator Daemon": {
+            "most_likely": 1500,
+            "minimum": 1200,
+            "maximum": 2000,
+            "pi_width": 0.533,
+            "completion_times": null
+        },
+        "Mule": {
+            "most_likely": 5200,
+            "minimum": 3900,
+            "maximum": 6800,
+            "pi_width": 0.558,
+            "completion_times": null
+        },
+        "Atlassian Confluence Cloud": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 18000,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Alloy Framework": {
+            "most_likely": 2200,
+            "minimum": 1600,
+            "maximum": 3000,
+            "pi_width": 0.636,
+            "completion_times": null
+        },
+        "MongoDB Compass": {
+            "most_likely": 5200,
+            "minimum": 3900,
+            "maximum": 7100,
+            "pi_width": 0.615,
+            "completion_times": null
+        },
+        "Hyperledger Indy Node": {
+            "most_likely": 4800,
+            "minimum": 3600,
+            "maximum": 7200,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "The Mongo Java Driver": {
+            "most_likely": 1200,
+            "minimum": 800,
+            "maximum": 2000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Atlassian Crowd": {
+            "most_likely": 10000,
+            "minimum": 7500,
+            "maximum": 15000,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Sonatype Nexus": {
+            "most_likely": 3200,
+            "minimum": 2400,
+            "maximum": 4400,
+            "pi_width": 0.625,
+            "completion_times": null
+        },
+        "The Titanium SDK": {
+            "most_likely": 4500,
+            "minimum": 3600,
+            "maximum": 6000,
+            "pi_width": 0.533,
+            "completion_times": null
+        },
+        "Appcelerator Studio": {
+            "most_likely": 5200,
+            "minimum": 3800,
+            "maximum": 7500,
+            "pi_width": 0.712,
+            "completion_times": null
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Aptana Studio": {
+            "most_likely": 3500,
+            "minimum": 2200,
+            "maximum": 6000,
+            "pi_width": 1.086,
+            "completion_times": null
+        },
+        "Spring Data Cassandra": {
+            "most_likely": 2000,
+            "minimum": 1500,
+            "maximum": 3000,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Atlassian Software Server": {
+            "most_likely": 2700,
+            "minimum": 1800,
+            "maximum": 4500,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Titanium Mobile Platform": {
+            "most_likely": 580,
+            "minimum": 380,
+            "maximum": 1050,
+            "pi_width": 1.155,
+            "completion_times": null
+        },
+        "Apache Mesos": {
+            "most_likely": 1900,
+            "minimum": 1200,
+            "maximum": 3400,
+            "pi_width": 1.158,
+            "completion_times": null
+        },
+        "MongoDB Evergreen": {
+            "most_likely": 7500,
+            "minimum": 4800,
+            "maximum": 12500,
+            "pi_width": 1.027,
+            "completion_times": null
+        },
+        "Hyperledger Sawtooth": {
+            "most_likely": 10300,
+            "minimum": 6500,
+            "maximum": 18000,
+            "pi_width": 1.117,
+            "completion_times": null
+        },
+        "DotNetNuke Platform": {
+            "most_likely": 19000,
+            "minimum": 13500,
+            "maximum": 28000,
+            "pi_width": 0.763,
+            "completion_times": null
+        },
+        "Spring XD": {
+            "most_likely": 7500,
+            "minimum": 5500,
+            "maximum": 11000,
+            "pi_width": 0.733,
+            "completion_times": null
+        },
+        "Atlassian Bamboo": {
+            "most_likely": 3200,
+            "minimum": 2000,
+            "maximum": 5500,
+            "pi_width": 1.094,
+            "completion_times": null
+        },
+        "Moodle": {
+            "most_likely": 3750,
+            "minimum": 2400,
+            "maximum": 5800,
+            "pi_width": 0.907,
+            "completion_times": null
+        },
+        "Apache Usergrid": {
+            "most_likely": 2200,
+            "minimum": 1400,
+            "maximum": 4000,
+            "pi_width": 1.182,
+            "completion_times": null
+        },
+        "LSSTCorp Data Management": {
+            "most_likely": 22000,
+            "minimum": 14000,
+            "maximum": 38000,
+            "pi_width": 1.091,
+            "completion_times": null
+        },
+        "Hyperledger Blockchain Explorer": {
+            "most_likely": 1400,
+            "minimum": 950,
+            "maximum": 2200,
+            "pi_width": 0.893,
+            "completion_times": null
+        },
+        "The Mongo C++ Driver": {
+            "most_likely": 1600,
+            "minimum": 950,
+            "maximum": 2800,
+            "pi_width": 1.156,
+            "completion_times": null
+        },
+        "Atlassian Clover": {
+            "most_likely": 6200,
+            "minimum": 4200,
+            "maximum": 9500,
+            "pi_width": 0.855,
+            "completion_times": null
+        },
+        "Mule APIkit": {
+            "most_likely": 1050,
+            "minimum": 750,
+            "maximum": 1500,
+            "pi_width": 0.714,
+            "completion_times": null
+        },
+        "Lyrasis DuraCloud": {
+            "most_likely": 4800,
+            "minimum": 3600,
+            "maximum": 7200,
+            "pi_width": 0.75,
+            "completion_times": null
+        },
+        "Appcelerator Command-Line Interface": {
+            "most_likely": 2000,
+            "minimum": 1200,
+            "maximum": 3800,
+            "pi_width": 1.3,
+            "completion_times": null
+        },
+        "Hyperledger Fabric": {
+            "most_likely": 10500,
+            "minimum": 6500,
+            "maximum": 18000,
+            "pi_width": 1.095,
+            "completion_times": null
+        },
+        "The Mongo Java Driver": {
+            "most_likely": 850,
+            "minimum": 550,
+            "maximum": 1400,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Atlassian Confluence Cloud": {
+            "most_likely": 15800,
+            "minimum": 10500,
+            "maximum": 26000,
+            "pi_width": 0.981,
+            "completion_times": null
+        },
+        "Appcelerator Daemon": {
+            "most_likely": 1650,
+            "minimum": 1100,
+            "maximum": 2600,
+            "pi_width": 0.909,
+            "completion_times": null
+        },
+        "Mule": {
+            "most_likely": 4300,
+            "minimum": 2800,
+            "maximum": 7500,
+            "pi_width": 1.093,
+            "completion_times": null
+        },
+        "MongoDB Compass": {
+            "most_likely": 6200,
+            "minimum": 4200,
+            "maximum": 9500,
+            "pi_width": 0.855,
+            "completion_times": null
+        },
+        "Alloy Framework": {
+            "most_likely": 2400,
+            "minimum": 1500,
+            "maximum": 4500,
+            "pi_width": 1.25,
+            "completion_times": null
+        },
+        "Hyperledger Indy Node": {
+            "most_likely": 20000,
+            "minimum": 13000,
+            "maximum": 35000,
+            "pi_width": 1.1,
+            "completion_times": null
+        },
+        "The Titanium SDK": {
+            "most_likely": 24000,
+            "minimum": 15000,
+            "maximum": 42000,
+            "pi_width": 1.125,
+            "completion_times": null
+        },
+        "Atlassian Crowd": {
+            "most_likely": 2200,
+            "minimum": 1400,
+            "maximum": 3600,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Sonatype Nexus": {
+            "most_likely": 3800,
+            "minimum": 2950,
+            "maximum": 5400,
+            "pi_width": 0.645,
+            "completion_times": null
+        },
+        "Appcelerator Studio": {
+            "most_likely": 5000,
+            "minimum": 3800,
+            "maximum": 7200,
+            "pi_width": 0.68,
+            "completion_times": null
+        },
+        "MongoDB Core Server": {
+            "most_likely": 38000,
+            "minimum": 24000,
+            "maximum": 55000,
+            "pi_width": 0.816,
+            "completion_times": null
+        },
+        "Apache MXNet": {
+            "most_likely": 6500,
+            "minimum": 4200,
+            "maximum": 11000,
+            "pi_width": 1.046,
+            "completion_times": null
+        },
+        "Hyperledger Indy SDK": {
+            "most_likely": 6100,
+            "minimum": 3800,
+            "maximum": 11500,
+            "pi_width": 1.262,
+            "completion_times": null
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Hyperledger Indy SDK": {
+            "most_likely": 9000,
+            "minimum": 5500,
+            "maximum": 15000,
+            "pi_width": 1.056,
+            "completion_times": null
+        },
+        "MongoDB Evergreen": {
+            "most_likely": 3200,
+            "minimum": 1600,
+            "maximum": 4800,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "MongoDB Core Server": {
+            "most_likely": 7200,
+            "minimum": 4000,
+            "maximum": 15000,
+            "pi_width": 1.528,
+            "completion_times": null
+        },
+        "Titanium Mobile Platform": {
+            "most_likely": 1500,
+            "minimum": 900,
+            "maximum": 2400,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Hyperledger Sawtooth": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Spring Data Cassandra": {
+            "most_likely": 1600,
+            "minimum": 1000,
+            "maximum": 2600,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "DotNetNuke Platform": {
+            "most_likely": 6000,
+            "minimum": 3500,
+            "maximum": 10000,
+            "pi_width": 1.083,
+            "completion_times": null
+        },
+        "Apache MXNet": {
+            "most_likely": 10000,
+            "minimum": 6000,
+            "maximum": 16000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Appcelerator Studio": {
+            "most_likely": 19,
+            "minimum": 12,
+            "maximum": 30,
+            "pi_width": 0.947,
+            "completion_times": null
+        },
+        "Spring XD": {
+            "most_likely": 4500,
+            "minimum": 2800,
+            "maximum": 7500,
+            "pi_width": 1.044,
+            "completion_times": null
+        },
+        "Atlassian Software Server": {
+            "most_likely": 8000,
+            "minimum": 4000,
+            "maximum": 20000,
+            "pi_width": 2.0,
+            "completion_times": null
+        },
+        "Apache Mesos": {
+            "most_likely": 2000,
+            "minimum": 1200,
+            "maximum": 3200,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Moodle": {
+            "most_likely": 3000,
+            "minimum": 2000,
+            "maximum": 5000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "LSSTCorp Data Management": {
+            "most_likely": 55000,
+            "minimum": 35000,
+            "maximum": 90000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Hyperledger Blockchain Explorer": {
+            "most_likely": 2400,
+            "minimum": 1200,
+            "maximum": 4000,
+            "pi_width": 1.167,
+            "completion_times": null
+        },
+        "Mule APIkit": {
+            "most_likely": 1200,
+            "minimum": 800,
+            "maximum": 1800,
+            "pi_width": 0.833,
+            "completion_times": null
+        },
+        "Apache Usergrid": {
+            "most_likely": 1000,
+            "minimum": 650,
+            "maximum": 1600,
+            "pi_width": 0.95,
+            "completion_times": null
+        },
+        "Atlassian Bamboo": {
+            "most_likely": 5600,
+            "minimum": 3200,
+            "maximum": 10000,
+            "pi_width": 1.214,
+            "completion_times": null
+        },
+        "The Mongo Java Driver": {
+            "most_likely": 1000,
+            "minimum": 600,
+            "maximum": 1600,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Alloy Framework": {
+            "most_likely": 2400,
+            "minimum": 1200,
+            "maximum": 4800,
+            "pi_width": 1.5,
+            "completion_times": null
+        },
+        "Mule": {
+            "most_likely": 6500,
+            "minimum": 4000,
+            "maximum": 11000,
+            "pi_width": 1.077,
+            "completion_times": null
+        },
+        "The Titanium SDK": {
+            "most_likely": 9000,
+            "minimum": 5500,
+            "maximum": 14000,
+            "pi_width": 0.944,
+            "completion_times": null
+        },
+        "Appcelerator Daemon": {
+            "most_likely": 2000,
+            "minimum": 1200,
+            "maximum": 3600,
+            "pi_width": 1.2,
+            "completion_times": null
+        },
+        "Hyperledger Indy Node": {
+            "most_likely": 18000,
+            "minimum": 9000,
+            "maximum": 45000,
+            "pi_width": 2.0,
+            "completion_times": null
+        },
+        "MongoDB Compass": {
+            "most_likely": 3000,
+            "minimum": 1800,
+            "maximum": 5400,
+            "pi_width": 1.2,
+            "completion_times": null
+        },
+        "Atlassian Confluence Cloud": {
+            "most_likely": 12000,
+            "minimum": 8000,
+            "maximum": 20000,
+            "pi_width": 1.0,
+            "completion_times": null
+        },
+        "Appcelerator Command-Line Interface": {
+            "most_likely": 2000,
+            "minimum": 1200,
+            "maximum": 3600,
+            "pi_width": 1.2,
+            "completion_times": null
+        },
+        "Aptana Studio": {
+            "most_likely": 2400,
+            "minimum": 1200,
+            "maximum": 4800,
+            "pi_width": 1.5,
+            "completion_times": null
+        },
+        "Atlassian Crowd": {
+            "most_likely": 5500,
+            "minimum": 3000,
+            "maximum": 10000,
+            "pi_width": 1.273,
+            "completion_times": null
+        },
+        "Sonatype Nexus": {
+            "most_likely": 8000,
+            "minimum": 4500,
+            "maximum": 16000,
+            "pi_width": 1.438,
+            "completion_times": null
+        },
+        "The Mongo C++ Driver": {
+            "most_likely": 1800,
+            "minimum": 1200,
+            "maximum": 3200,
+            "pi_width": 1.111,
+            "completion_times": null
+        },
+        "Atlassian Clover": {
+            "most_likely": null,
+            "minimum": null,
+            "maximum": null,
+            "pi_width": null,
+            "completion_times": null
+        },
+        "Lyrasis DuraCloud": {
+            "most_likely": null,
+            "minimum": null,
+            "maximum": null,
+            "pi_width": null,
+            "completion_times": null
+        },
+        "Hyperledger Fabric": {
+            "most_likely": 9000,
+            "minimum": 6000,
+            "maximum": 14000,
+            "pi_width": 0.889,
+            "completion_times": null
+        }
+    }
+}

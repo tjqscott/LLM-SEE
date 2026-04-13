@@ -1,0 +1,10 @@
+﻿As a PM, I'd like to have test coverage for both Kafka source and sink modules so that we can assert its functionality as part of the CI builds.
+As a user, I'd like to refer to documentation in wiki so that I can configure the new sources, sinks and processor modules and as well as any new features.
+As a user, I want to be able to control the starting offset of the Kafka source when a stream is deployed, so that I can replay a topic if necessary.  Note: - starting offset is only considered when the stream is deployed - progress made by modules must survive their crash for a running stream - undeploying and redeploying a stream with a specific start offset will cause the stream to read again from the start   TBD: what happens when streams are undeployed/redeployed - where do they resume from?
+As a user, I want Spring XD to pre-allocate a set of partitions between the Kafka source modules when a stream is deployed, so that deployment is simpler, and rebalancing doesn’t take place.
+As a user, I want Spring XD’s message bus to be able to pre-allocate partitions between nodes when a stream is deployed, so that rebalancing doesn’t happen when a container crashes and/or it’s redeployed.
+As a continuation, we would like to further investigate Spark, develop POC and identify the best appropriate design and implementation for XD.
+As a developer, I'd like to setup a performance testing infrastructure (rackspace), so I can start benching Kafka baselines and continue with XD use-cases.
+As a user, I'd like to refer to documentation so that I can build the custom module based on recommended standards and patterns.
+As a user, I'd like to have the custom module (built as uber-jar) hosted in HDFS so that I can deploy the module to newly arriving containers.
+As a developer, I'd like to include the following improvements as part of the EC2 CI infrastructure, so that we can reliably run the CI builds and also assert over feature functionalities.  *Scope:* * Enable 'distributed jvm test' * Change from using artifactory gradle task to a command task (that calls ./gradlew) * Test w/ embedded hadoop off * Turn on maxParallelForks

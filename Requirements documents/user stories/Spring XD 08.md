@@ -1,0 +1,10 @@
+﻿As a PM, I'd like to have the copyright message in the reference guide (PDF) updated to include 2015 instead of 2014.
+As a developer, I'd like to upgrade to Kafka's SI GA release so that I can sync -up with the latest bits.   The scope is to backport Kafka XD changes to SI Kafka and then upgrade to the GA release.
+As a developer, I'd like to upgrade to SHDP GA release so that I can sync -up with the latest bits.
+As a scala developer, someone could easily deploy the spark streaming module developed using scala.
+As a developer, I'd like to refer to wiki so that I can configure machines with recommended _ulimit_ setting for XD's distributed setup.  *Note:* Recommended _ulimit_ setting is 10K under Troubleshooting (new) section  *Exception:* (reason to increase _ulimit_) 8:25:52,266 1.1.0.SNAP ERROR DeploymentsPathChildrenCache-0 server.DeploymentListener - Exception deploying module java.lang.IllegalStateException: java.io.FileNotFoundException: /var/vcap/data/packages/springxd/ee02bd3482eeb620a65862fb54e1f23fcece8022.1-bd a341640a5de2f922fd3db906ce504b85819c1e/spring-xd-1.1.0.BUILD-SNAPSHOT/xd/config/modules/modules.yml (Too many open files)
+As a developer, I'd like to run Kafka tests with Kafka Server as a separate running process so that I can improve build experience.
+As a developer, I'd like the {{publish-maven.gradle}} script to use values for dependencies (e.g. Spring Boot and {{hadoop-common}}) from our central dependency list (in this case {{dependencies.properties}}) so that I don't have to update them manually anymore.
+As a developer, I want to have to run Kafka tests on an external broker, so that I reduce the footprint of the build process.
+As a developer, I'd like to review the current sonar violations so that I can fix the relevant and update the irrelevant ones as invalid.
+As a developer, I'd like to build data pipeline using _Kafka_ as as message bus in XD so that we can demonstrate some of the capabilities.  *Use case to consider:* * Log aggregation and analysis * Lambda architecture ** how to avoid code duplication ** how to eliminate tight coupling of business logic ** how Kafka can be used for reliable reprocessing

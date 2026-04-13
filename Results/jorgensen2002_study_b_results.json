@@ -1,0 +1,5452 @@
+{
+    "openai/gpt-5.2-codex": {
+        "MongoDB Evergreen": {
+            "EM": {
+                "most_likely": 50000,
+                "minimum": 35000,
+                "maximum": 85000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 28000,
+                "minimum": 18000,
+                "maximum": 50000,
+                "pi_width": 1.143
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 40000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 30000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.167
+            }
+        },
+        "Titanium Mobile Platform": {
+            "EM": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1500,
+                "pi_width": 0.8
+            },
+            "PM": {
+                "most_likely": 560,
+                "minimum": 380,
+                "maximum": 900,
+                "pi_width": 0.929
+            },
+            "UD": {
+                "most_likely": 1100,
+                "minimum": 700,
+                "maximum": 1700,
+                "pi_width": 0.909
+            },
+            "DEV": {
+                "most_likely": 680,
+                "minimum": 480,
+                "maximum": 1050,
+                "pi_width": 0.838
+            },
+            "GROUP": {
+                "most_likely": 835,
+                "minimum": 565,
+                "maximum": 1290,
+                "pi_width": 0.868
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "EM": {
+                "most_likely": 200000,
+                "minimum": 120000,
+                "maximum": 320000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 120000,
+                "minimum": 80000,
+                "maximum": 200000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 52000,
+                "minimum": 32000,
+                "maximum": 90000,
+                "pi_width": 1.115
+            },
+            "DEV": {
+                "most_likely": 150000,
+                "minimum": 90000,
+                "maximum": 260000,
+                "pi_width": 1.133
+            },
+            "GROUP": {
+                "most_likely": 130500,
+                "minimum": 80500,
+                "maximum": 217500,
+                "pi_width": 1.05
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "EM": {
+                "most_likely": 7000,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.857
+            },
+            "PM": {
+                "most_likely": 16000,
+                "minimum": 11000,
+                "maximum": 24000,
+                "pi_width": 0.812
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 9500,
+                "minimum": 6500,
+                "maximum": 15000,
+                "pi_width": 0.895
+            },
+            "GROUP": {
+                "most_likely": 12750,
+                "minimum": 8625,
+                "maximum": 20000,
+                "pi_width": 0.892
+            }
+        },
+        "Appcelerator Daemon": {
+            "EM": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 7200,
+                "pi_width": 1.048
+            },
+            "PM": {
+                "most_likely": 4600,
+                "minimum": 3200,
+                "maximum": 7000,
+                "pi_width": 0.826
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 3000,
+                "maximum": 6500,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 8000,
+                "pi_width": 1.111
+            },
+            "GROUP": {
+                "most_likely": 4375,
+                "minimum": 2750,
+                "maximum": 7175,
+                "pi_width": 1.011
+            }
+        },
+        "Hyperledger Indy Node": {
+            "EM": {
+                "most_likely": 85000,
+                "minimum": 60000,
+                "maximum": 130000,
+                "pi_width": 0.824
+            },
+            "PM": {
+                "most_likely": 45000,
+                "minimum": 30000,
+                "maximum": 80000,
+                "pi_width": 1.111
+            },
+            "UD": {
+                "most_likely": 22000,
+                "minimum": 15000,
+                "maximum": 38000,
+                "pi_width": 1.045
+            },
+            "DEV": {
+                "most_likely": 80000,
+                "minimum": 55000,
+                "maximum": 130000,
+                "pi_width": 0.938
+            },
+            "GROUP": {
+                "most_likely": 58000,
+                "minimum": 40000,
+                "maximum": 94500,
+                "pi_width": 0.94
+            }
+        },
+        "Appcelerator Command-Line Interface": {
+            "PM": {
+                "most_likely": 6000,
+                "minimum": 4200,
+                "maximum": 9000,
+                "pi_width": 0.8
+            },
+            "EM": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 15000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 8000,
+                "pi_width": 1.111
+            },
+            "DEV": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 6000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 5800,
+                "minimum": 3900,
+                "maximum": 9500,
+                "pi_width": 0.966
+            }
+        },
+        "Spring XD": {
+            "DEV": {
+                "most_likely": 20000,
+                "minimum": 12000,
+                "maximum": 35000,
+                "pi_width": 1.15
+            },
+            "EM": {
+                "most_likely": 22000,
+                "minimum": 15000,
+                "maximum": 35000,
+                "pi_width": 0.909
+            },
+            "PM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 38000,
+                "pi_width": 0.917
+            },
+            "UD": {
+                "most_likely": 20000,
+                "minimum": 12000,
+                "maximum": 36000,
+                "pi_width": 1.2
+            },
+            "GROUP": {
+                "most_likely": 21500,
+                "minimum": 13750,
+                "maximum": 36000,
+                "pi_width": 1.035
+            }
+        },
+        "Apache Usergrid": {
+            "DEV": {
+                "most_likely": 4500,
+                "minimum": 2500,
+                "maximum": 8000,
+                "pi_width": 1.222
+            },
+            "EM": {
+                "most_likely": 7000,
+                "minimum": 4000,
+                "maximum": 12000,
+                "pi_width": 1.143
+            },
+            "PM": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 4500,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 5200,
+                "minimum": 3200,
+                "maximum": 9000,
+                "pi_width": 1.115
+            },
+            "GROUP": {
+                "most_likely": 5000,
+                "minimum": 3000,
+                "maximum": 9000,
+                "pi_width": 1.2
+            }
+        },
+        "Moodle": {
+            "UD": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 32000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.094
+            },
+            "EM": {
+                "most_likely": 32000,
+                "minimum": 22000,
+                "maximum": 52000,
+                "pi_width": 0.938
+            },
+            "PM": {
+                "most_likely": 36000,
+                "minimum": 24000,
+                "maximum": 56000,
+                "pi_width": 0.889
+            },
+            "GROUP": {
+                "most_likely": 32000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.094
+            }
+        },
+        "LSSTCorp Data Management": {
+            "EM": {
+                "most_likely": 120000,
+                "minimum": 80000,
+                "maximum": 200000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 280000,
+                "minimum": 200000,
+                "maximum": 450000,
+                "pi_width": 0.893
+            },
+            "UD": {
+                "most_likely": 180000,
+                "minimum": 120000,
+                "maximum": 300000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 300000,
+                "minimum": 180000,
+                "maximum": 500000,
+                "pi_width": 1.067
+            },
+            "GROUP": {
+                "most_likely": 220000,
+                "minimum": 145000,
+                "maximum": 362500,
+                "pi_width": 0.989
+            }
+        },
+        "Atlassian Bamboo": {
+            "UD": {
+                "most_likely": 24000,
+                "minimum": 18000,
+                "maximum": 36000,
+                "pi_width": 0.75
+            },
+            "DEV": {
+                "most_likely": 20000,
+                "minimum": 14000,
+                "maximum": 32000,
+                "pi_width": 0.9
+            },
+            "EM": {
+                "most_likely": 50000,
+                "minimum": 35000,
+                "maximum": 90000,
+                "pi_width": 1.1
+            },
+            "PM": {
+                "most_likely": 12000,
+                "minimum": 8500,
+                "maximum": 19000,
+                "pi_width": 0.875
+            },
+            "GROUP": {
+                "most_likely": 26500,
+                "minimum": 18875,
+                "maximum": 44250,
+                "pi_width": 0.958
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "EM": {
+                "most_likely": 13500,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.963
+            },
+            "PM": {
+                "most_likely": 40000,
+                "minimum": 30000,
+                "maximum": 65000,
+                "pi_width": 0.875
+            },
+            "UD": {
+                "most_likely": 16000,
+                "minimum": 11000,
+                "maximum": 26000,
+                "pi_width": 0.938
+            },
+            "DEV": {
+                "most_likely": 50000,
+                "minimum": 30000,
+                "maximum": 80000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 30000,
+                "minimum": 10000,
+                "maximum": 75000,
+                "pi_width": 2.167
+            }
+        },
+        "The Mongo C++ Driver": {
+            "EM": {
+                "most_likely": 5500,
+                "minimum": 3500,
+                "maximum": 9000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 5700,
+                "minimum": 4200,
+                "maximum": 8500,
+                "pi_width": 0.754
+            },
+            "UD": {
+                "most_likely": 6500,
+                "minimum": 3500,
+                "maximum": 12000,
+                "pi_width": 1.308
+            },
+            "DEV": {
+                "most_likely": 3200,
+                "minimum": 2000,
+                "maximum": 5200,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 5600,
+                "minimum": 3500,
+                "maximum": 8750,
+                "pi_width": 0.938
+            }
+        },
+        "Mule APIkit": {
+            "EM": {
+                "most_likely": 2500,
+                "minimum": 1500,
+                "maximum": 4000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 2200,
+                "minimum": 1500,
+                "maximum": 3200,
+                "pi_width": 0.773
+            },
+            "UD": {
+                "most_likely": 4000,
+                "minimum": 2500,
+                "maximum": 7000,
+                "pi_width": 1.125
+            },
+            "DEV": {
+                "most_likely": 1000,
+                "minimum": 700,
+                "maximum": 1500,
+                "pi_width": 0.8
+            },
+            "GROUP": {
+                "most_likely": 2500,
+                "minimum": 1500,
+                "maximum": 5000,
+                "pi_width": 1.4
+            }
+        },
+        "Aptana Studio": {
+            "EM": {
+                "most_likely": 10000,
+                "minimum": 7000,
+                "maximum": 16000,
+                "pi_width": 0.9
+            },
+            "PM": {
+                "most_likely": 8600,
+                "minimum": 6200,
+                "maximum": 13500,
+                "pi_width": 0.849
+            },
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 9420,
+                "minimum": 6520,
+                "maximum": 15210,
+                "pi_width": 0.923
+            }
+        },
+        "Lyrasis DuraCloud": {
+            "EM": {
+                "most_likely": 25000,
+                "minimum": 18000,
+                "maximum": 40000,
+                "pi_width": 0.88
+            },
+            "PM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 38000,
+                "pi_width": 0.917
+            },
+            "UD": {
+                "most_likely": 40000,
+                "minimum": 25000,
+                "maximum": 70000,
+                "pi_width": 1.125
+            },
+            "DEV": {
+                "most_likely": 24000,
+                "minimum": 15000,
+                "maximum": 40000,
+                "pi_width": 1.042
+            },
+            "GROUP": {
+                "most_likely": 28250,
+                "minimum": 18500,
+                "maximum": 47000,
+                "pi_width": 1.009
+            }
+        },
+        "Hyperledger Fabric": {
+            "EM": {
+                "most_likely": 40000,
+                "minimum": 25000,
+                "maximum": 70000,
+                "pi_width": 1.125
+            },
+            "PM": {
+                "most_likely": 52000,
+                "minimum": 36000,
+                "maximum": 85000,
+                "pi_width": 0.942
+            },
+            "UD": {
+                "most_likely": 45000,
+                "minimum": 30000,
+                "maximum": 70000,
+                "pi_width": 0.889
+            },
+            "DEV": {
+                "most_likely": 60000,
+                "minimum": 40000,
+                "maximum": 100000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 49250,
+                "minimum": 32750,
+                "maximum": 81250,
+                "pi_width": 0.985
+            }
+        },
+        "Atlassian Software Server": {
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 3500,
+                "maximum": 11000,
+                "pi_width": 1.25
+            },
+            "PM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "UD": {
+                "most_likely": 22000,
+                "minimum": 14000,
+                "maximum": 35000,
+                "pi_width": 0.955
+            },
+            "DEV": {
+                "most_likely": 8500,
+                "minimum": 6000,
+                "maximum": 12500,
+                "pi_width": 0.765
+            },
+            "GROUP": {
+                "most_likely": 12000,
+                "minimum": 6000,
+                "maximum": 25000,
+                "pi_width": 1.583
+            }
+        },
+        "The Mongo Java Driver": {
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 3500,
+                "maximum": 10000,
+                "pi_width": 1.083
+            },
+            "PM": {
+                "most_likely": 9,
+                "minimum": 6,
+                "maximum": 14,
+                "pi_width": 0.889
+            },
+            "UD": {
+                "most_likely": 3000,
+                "minimum": 2200,
+                "maximum": 5000,
+                "pi_width": 0.933
+            },
+            "DEV": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 3750,
+                "minimum": 2370,
+                "maximum": 6200,
+                "pi_width": 1.021
+            }
+        },
+        "Mule": {
+            "EM": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 15000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 30000,
+                "minimum": 20000,
+                "maximum": 45000,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 20000,
+                "minimum": 14000,
+                "maximum": 28000,
+                "pi_width": 0.7
+            },
+            "DEV": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 14000,
+                "pi_width": 0.889
+            },
+            "GROUP": {
+                "most_likely": 17000,
+                "minimum": 11500,
+                "maximum": 25500,
+                "pi_width": 0.824
+            }
+        },
+        "Appcelerator Studio": {
+            "EM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "PM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 40000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 14000,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 28000,
+                "minimum": 20000,
+                "maximum": 45000,
+                "pi_width": 0.893
+            },
+            "GROUP": {
+                "most_likely": 22500,
+                "minimum": 15250,
+                "maximum": 35750,
+                "pi_width": 0.911
+            }
+        },
+        "MongoDB Compass": {
+            "EM": {
+                "most_likely": 32000,
+                "minimum": 22000,
+                "maximum": 50000,
+                "pi_width": 0.875
+            },
+            "PM": {
+                "most_likely": 30000,
+                "minimum": 20000,
+                "maximum": 45000,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 28000,
+                "pi_width": 0.889
+            },
+            "DEV": {
+                "most_likely": 30000,
+                "minimum": 22000,
+                "maximum": 45000,
+                "pi_width": 0.767
+            },
+            "GROUP": {
+                "most_likely": 27500,
+                "minimum": 19000,
+                "maximum": 42000,
+                "pi_width": 0.836
+            }
+        },
+        "Alloy Framework": {
+            "UD": {
+                "most_likely": 8000,
+                "minimum": 5000,
+                "maximum": 12000,
+                "pi_width": 0.875
+            },
+            "DEV": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 5000,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 4000,
+                "maximum": 10000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 6500,
+                "minimum": 4500,
+                "maximum": 10000,
+                "pi_width": 0.846
+            },
+            "GROUP": {
+                "most_likely": 5875,
+                "minimum": 3875,
+                "maximum": 9250,
+                "pi_width": 0.915
+            }
+        },
+        "DotNetNuke Platform": {
+            "DEV": {
+                "most_likely": 15000,
+                "minimum": 10000,
+                "maximum": 25000,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": 40000,
+                "minimum": 25000,
+                "maximum": 70000,
+                "pi_width": 1.125
+            },
+            "PM": {
+                "most_likely": 95000,
+                "minimum": 70000,
+                "maximum": 150000,
+                "pi_width": 0.842
+            },
+            "UD": {
+                "most_likely": 30000,
+                "minimum": 20000,
+                "maximum": 50000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 45000,
+                "minimum": 30000,
+                "maximum": 80000,
+                "pi_width": 1.111
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "EM": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 6000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 4500,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 5200,
+                "minimum": 3600,
+                "maximum": 8200,
+                "pi_width": 0.885
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 2500,
+                "maximum": 7500,
+                "pi_width": 1.19
+            },
+            "GROUP": {
+                "most_likely": 4000,
+                "minimum": 2625,
+                "maximum": 6550,
+                "pi_width": 0.981
+            }
+        },
+        "Sonatype Nexus": {
+            "EM": {
+                "most_likely": 5600,
+                "minimum": 3600,
+                "maximum": 8800,
+                "pi_width": 0.929
+            },
+            "PM": {
+                "most_likely": 7200,
+                "minimum": 5200,
+                "maximum": 11000,
+                "pi_width": 0.806
+            },
+            "UD": {
+                "most_likely": 14000,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 10500,
+                "minimum": 7500,
+                "maximum": 20000,
+                "pi_width": 1.19
+            },
+            "GROUP": {
+                "most_likely": 9300,
+                "minimum": 6300,
+                "maximum": 15500,
+                "pi_width": 0.989
+            }
+        },
+        "The Titanium SDK": {
+            "EM": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 35000,
+                "minimum": 25000,
+                "maximum": 55000,
+                "pi_width": 0.857
+            },
+            "DEV": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 37000,
+                "pi_width": 0.875
+            }
+        },
+        "Apache Mesos": {
+            "EM": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 14000,
+                "pi_width": 0.889
+            },
+            "DEV": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 14000,
+                "pi_width": 0.889
+            },
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            }
+        },
+        "MongoDB Core Server": {
+            "EM": {
+                "most_likely": 150000,
+                "minimum": 90000,
+                "maximum": 250000,
+                "pi_width": 1.067
+            },
+            "PM": {
+                "most_likely": 200000,
+                "minimum": 140000,
+                "maximum": 320000,
+                "pi_width": 0.9
+            },
+            "UD": {
+                "most_likely": 160000,
+                "minimum": 100000,
+                "maximum": 250000,
+                "pi_width": 0.938
+            },
+            "DEV": {
+                "most_likely": 80000,
+                "minimum": 50000,
+                "maximum": 140000,
+                "pi_width": 1.125
+            },
+            "GROUP": {
+                "most_likely": 155000,
+                "minimum": 95000,
+                "maximum": 260000,
+                "pi_width": 1.065
+            }
+        },
+        "Atlassian Crowd": {
+            "EM": {
+                "most_likely": 20000,
+                "minimum": 14000,
+                "maximum": 32000,
+                "pi_width": 0.9
+            },
+            "PM": {
+                "most_likely": 14500,
+                "minimum": 10000,
+                "maximum": 24000,
+                "pi_width": 0.966
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 9500,
+                "minimum": 6500,
+                "maximum": 15000,
+                "pi_width": 0.895
+            },
+            "GROUP": {
+                "most_likely": 15500,
+                "minimum": 10625,
+                "maximum": 25250,
+                "pi_width": 0.944
+            }
+        },
+        "Atlassian Clover": {
+            "EM": {
+                "most_likely": 80000,
+                "minimum": 55000,
+                "maximum": 120000,
+                "pi_width": 0.812
+            },
+            "PM": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 8000,
+                "pi_width": 0.808
+            },
+            "UD": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 7000,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.857
+            },
+            "GROUP": {
+                "most_likely": 29050,
+                "minimum": 19950,
+                "maximum": 43750,
+                "pi_width": 0.819
+            }
+        },
+        "Apache MXNet": {
+            "PM": {
+                "most_likely": 21000,
+                "minimum": 15000,
+                "maximum": 32000,
+                "pi_width": 0.81
+            },
+            "EM": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 20000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 10000,
+                "minimum": 7200,
+                "maximum": 16500,
+                "pi_width": 0.93
+            },
+            "UD": {
+                "most_likely": 36000,
+                "minimum": 22000,
+                "maximum": 60000,
+                "pi_width": 1.056
+            },
+            "GROUP": {
+                "most_likely": 19750,
+                "minimum": 13050,
+                "maximum": 32125,
+                "pi_width": 0.966
+            }
+        },
+        "Spring Data Cassandra": {
+            "EM": {
+                "most_likely": 9500,
+                "minimum": 6500,
+                "maximum": 14000,
+                "pi_width": 0.789
+            },
+            "PM": {
+                "most_likely": 6200,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.726
+            },
+            "UD": {
+                "most_likely": 8000,
+                "minimum": 5000,
+                "maximum": 12000,
+                "pi_width": 0.875
+            },
+            "DEV": {
+                "most_likely": 6400,
+                "minimum": 4500,
+                "maximum": 9200,
+                "pi_width": 0.734
+            },
+            "GROUP": {
+                "most_likely": 7525,
+                "minimum": 5125,
+                "maximum": 11050,
+                "pi_width": 0.787
+            }
+        }
+    },
+    "google/gemini-3-flash-preview": {
+        "Appcelerator Daemon": {
+            "EM": {
+                "most_likely": 1850,
+                "minimum": 1400,
+                "maximum": 2600,
+                "pi_width": 0.649
+            },
+            "PM": {
+                "most_likely": 1150,
+                "minimum": 850,
+                "maximum": 1600,
+                "pi_width": 0.652
+            },
+            "UD": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 2100,
+                "pi_width": 0.69
+            },
+            "DEV": {
+                "most_likely": 1040,
+                "minimum": 820,
+                "maximum": 1350,
+                "pi_width": 0.51
+            },
+            "GROUP": {
+                "most_likely": 1400,
+                "minimum": 1050,
+                "maximum": 2200,
+                "pi_width": 0.821
+            }
+        },
+        "Appcelerator Command-Line Interface": {
+            "PM": {
+                "most_likely": 4200,
+                "minimum": 3500,
+                "maximum": 5200,
+                "pi_width": 0.405
+            },
+            "EM": {
+                "most_likely": 2750,
+                "minimum": 2100,
+                "maximum": 3600,
+                "pi_width": 0.545
+            },
+            "UD": {
+                "most_likely": 2400,
+                "minimum": 1850,
+                "maximum": 3600,
+                "pi_width": 0.729
+            },
+            "DEV": {
+                "most_likely": 2650,
+                "minimum": 2200,
+                "maximum": 3450,
+                "pi_width": 0.472
+            },
+            "GROUP": {
+                "most_likely": 2850,
+                "minimum": 2100,
+                "maximum": 4500,
+                "pi_width": 0.842
+            }
+        },
+        "Atlassian Clover": {
+            "EM": {
+                "most_likely": 3600,
+                "minimum": 2800,
+                "maximum": 4800,
+                "pi_width": 0.556
+            },
+            "PM": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "UD": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 10500,
+                "pi_width": 0.792
+            },
+            "DEV": {
+                "most_likely": 3450,
+                "minimum": 2800,
+                "maximum": 4200,
+                "pi_width": 0.406
+            },
+            "GROUP": {
+                "most_likely": 4200,
+                "minimum": 3000,
+                "maximum": 8500,
+                "pi_width": 1.31
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 4200,
+                "maximum": 8500,
+                "pi_width": 0.717
+            },
+            "PM": {
+                "most_likely": 6400,
+                "minimum": 4800,
+                "maximum": 9200,
+                "pi_width": 0.688
+            },
+            "UD": {
+                "most_likely": 8400,
+                "minimum": 5800,
+                "maximum": 12500,
+                "pi_width": 0.798
+            },
+            "DEV": {
+                "most_likely": 5200,
+                "minimum": 4800,
+                "maximum": 6600,
+                "pi_width": 0.346
+            },
+            "GROUP": {
+                "most_likely": 6500,
+                "minimum": 4800,
+                "maximum": 9500,
+                "pi_width": 0.723
+            }
+        },
+        "Spring XD": {
+            "DEV": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 11500,
+                "pi_width": 0.931
+            },
+            "EM": {
+                "most_likely": 3800,
+                "minimum": 2900,
+                "maximum": 5200,
+                "pi_width": 0.605
+            },
+            "PM": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 7400,
+                "pi_width": 0.692
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "GROUP": {
+                "most_likely": 5400,
+                "minimum": 3600,
+                "maximum": 8500,
+                "pi_width": 0.907
+            }
+        },
+        "Moodle": {
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "DEV": {
+                "most_likely": 2350,
+                "minimum": 2000,
+                "maximum": 2750,
+                "pi_width": 0.319
+            },
+            "EM": {
+                "most_likely": 3,
+                "minimum": 2,
+                "maximum": 4,
+                "pi_width": 0.667
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 7200,
+                "pi_width": 0.75
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            }
+        },
+        "LSSTCorp Data Management": {
+            "PM": {
+                "most_likely": 38000,
+                "minimum": 24000,
+                "maximum": 62000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 145,
+                "minimum": 110,
+                "maximum": 210,
+                "pi_width": 0.69
+            },
+            "DEV": {
+                "most_likely": 480000,
+                "minimum": 320000,
+                "maximum": 750000,
+                "pi_width": 0.896
+            },
+            "EM": {
+                "most_likely": 145,
+                "minimum": 110,
+                "maximum": 210,
+                "pi_width": 0.69
+            },
+            "GROUP": {
+                "most_likely": 480000,
+                "minimum": 320000,
+                "maximum": 750000,
+                "pi_width": 0.896
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 8500,
+                "pi_width": 0.667
+            },
+            "PM": {
+                "most_likely": 14400,
+                "minimum": 11200,
+                "maximum": 21500,
+                "pi_width": 0.715
+            },
+            "UD": {
+                "most_likely": 14500,
+                "minimum": 11000,
+                "maximum": 22000,
+                "pi_width": 0.759
+            },
+            "DEV": {
+                "most_likely": 8200,
+                "minimum": 7000,
+                "maximum": 11500,
+                "pi_width": 0.549
+            },
+            "GROUP": {
+                "most_likely": 12500,
+                "minimum": 9000,
+                "maximum": 19500,
+                "pi_width": 0.84
+            }
+        },
+        "The Mongo C++ Driver": {
+            "EM": {
+                "most_likely": 1450,
+                "minimum": 980,
+                "maximum": 2100,
+                "pi_width": 0.772
+            },
+            "PM": {
+                "most_likely": 1480,
+                "minimum": 1150,
+                "maximum": 2100,
+                "pi_width": 0.642
+            },
+            "UD": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3600,
+                "pi_width": 0.75
+            },
+            "DEV": {
+                "most_likely": 1150,
+                "minimum": 820,
+                "maximum": 1680,
+                "pi_width": 0.748
+            },
+            "GROUP": {
+                "most_likely": 1650,
+                "minimum": 1100,
+                "maximum": 2800,
+                "pi_width": 1.03
+            }
+        },
+        "DotNetNuke Platform": {
+            "EM": {
+                "most_likely": 3800,
+                "minimum": 3200,
+                "maximum": 5200,
+                "pi_width": 0.526
+            },
+            "PM": {
+                "most_likely": 14400,
+                "minimum": 11500,
+                "maximum": 18200,
+                "pi_width": 0.465
+            },
+            "UD": {
+                "most_likely": 8,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": 4800,
+                "minimum": 4200,
+                "maximum": 5400,
+                "pi_width": 0.25
+            },
+            "GROUP": {
+                "most_likely": 8200,
+                "minimum": 4500,
+                "maximum": 15500,
+                "pi_width": 1.341
+            }
+        },
+        "Atlassian Bamboo": {
+            "DEV": {
+                "most_likely": 3000,
+                "minimum": 2200,
+                "maximum": 4500,
+                "pi_width": 0.767
+            },
+            "UD": {
+                "most_likely": 4,
+                "minimum": 3,
+                "maximum": 7,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": 7,
+                "minimum": 6,
+                "maximum": 9,
+                "pi_width": 0.429
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 7200,
+                "pi_width": 0.75
+            },
+            "GROUP": {
+                "most_likely": 3800,
+                "minimum": 2800,
+                "maximum": 6000,
+                "pi_width": 0.842
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "EM": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "PM": {
+                "most_likely": 5600,
+                "minimum": 4200,
+                "maximum": 8500,
+                "pi_width": 0.768
+            },
+            "UD": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 3800,
+                "maximum": 5100,
+                "pi_width": 0.31
+            },
+            "GROUP": {
+                "most_likely": 4200,
+                "minimum": 3800,
+                "maximum": 8500,
+                "pi_width": 1.119
+            }
+        },
+        "Mule APIkit": {
+            "EM": {
+                "most_likely": 1600,
+                "minimum": 1250,
+                "maximum": 2100,
+                "pi_width": 0.531
+            },
+            "PM": {
+                "most_likely": 1,
+                "minimum": 840,
+                "maximum": 1,
+                "pi_width": -839.0
+            },
+            "UD": {
+                "most_likely": 1850,
+                "minimum": 1200,
+                "maximum": 2600,
+                "pi_width": 0.757
+            },
+            "DEV": {
+                "most_likely": 920,
+                "minimum": 780,
+                "maximum": 1140,
+                "pi_width": 0.391
+            },
+            "GROUP": {
+                "most_likely": 1650,
+                "minimum": 1100,
+                "maximum": 2400,
+                "pi_width": 0.788
+            }
+        },
+        "Hyperledger Indy Node": {
+            "EM": {
+                "most_likely": 18500,
+                "minimum": 14000,
+                "maximum": 26000,
+                "pi_width": 0.649
+            },
+            "PM": {
+                "most_likely": 15800,
+                "minimum": 13400,
+                "maximum": 18900,
+                "pi_width": 0.348
+            },
+            "UD": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 9200,
+                "minimum": 6800,
+                "maximum": 13500,
+                "pi_width": 0.728
+            },
+            "GROUP": {
+                "most_likely": 16500,
+                "minimum": 12500,
+                "maximum": 24000,
+                "pi_width": 0.697
+            }
+        },
+        "Lyrasis DuraCloud": {
+            "EM": {
+                "most_likely": 11200,
+                "minimum": 8500,
+                "maximum": 15500,
+                "pi_width": 0.625
+            },
+            "PM": {
+                "most_likely": 6400,
+                "minimum": 4800,
+                "maximum": 9200,
+                "pi_width": 0.688
+            },
+            "UD": {
+                "most_likely": 7800,
+                "minimum": 5200,
+                "maximum": 11500,
+                "pi_width": 0.808
+            },
+            "DEV": {
+                "most_likely": 4600,
+                "minimum": 3800,
+                "maximum": 6200,
+                "pi_width": 0.522
+            },
+            "GROUP": {
+                "most_likely": 7500,
+                "minimum": 4500,
+                "maximum": 12000,
+                "pi_width": 1.0
+            }
+        },
+        "Apache Mesos": {
+            "EM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 7200,
+                "pi_width": 0.75
+            },
+            "UD": {
+                "most_likely": 4,
+                "minimum": 3,
+                "maximum": 7,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 7500,
+                "pi_width": 0.712
+            },
+            "GROUP": {
+                "most_likely": 4933,
+                "minimum": 3533,
+                "maximum": 7400,
+                "pi_width": 0.784
+            }
+        },
+        "Hyperledger Fabric": {
+            "EM": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "PM": {
+                "most_likely": 22000,
+                "minimum": 19000,
+                "maximum": 27000,
+                "pi_width": 0.364
+            },
+            "UD": {
+                "most_likely": 16500,
+                "minimum": 14000,
+                "maximum": 19500,
+                "pi_width": 0.333
+            },
+            "DEV": {
+                "most_likely": 8200,
+                "minimum": 6800,
+                "maximum": 11500,
+                "pi_width": 0.573
+            },
+            "GROUP": {
+                "most_likely": 17500,
+                "minimum": 12000,
+                "maximum": 25000,
+                "pi_width": 0.743
+            }
+        },
+        "The Mongo Java Driver": {
+            "EM": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 2100,
+                "pi_width": 0.69
+            },
+            "UD": {
+                "most_likely": 1150,
+                "minimum": 850,
+                "maximum": 1600,
+                "pi_width": 0.652
+            },
+            "DEV": {
+                "most_likely": 600,
+                "minimum": 500,
+                "maximum": 850,
+                "pi_width": 0.583
+            },
+            "GROUP": {
+                "most_likely": 1650,
+                "minimum": 1200,
+                "maximum": 2400,
+                "pi_width": 0.727
+            }
+        },
+        "Mule": {
+            "EM": {
+                "most_likely": 4,
+                "minimum": 3,
+                "maximum": 7,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 7200,
+                "pi_width": 0.75
+            },
+            "UD": {
+                "most_likely": 4,
+                "minimum": 3,
+                "maximum": 7,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 2100,
+                "pi_width": 0.69
+            },
+            "GROUP": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 5600,
+                "pi_width": 1.0
+            }
+        },
+        "Appcelerator Studio": {
+            "EM": {
+                "most_likely": 11800,
+                "minimum": 8500,
+                "maximum": 16500,
+                "pi_width": 0.678
+            },
+            "PM": {
+                "most_likely": 5500,
+                "minimum": 4200,
+                "maximum": 8500,
+                "pi_width": 0.782
+            },
+            "UD": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 8,
+                "minimum": null,
+                "maximum": 2,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 6400,
+                "minimum": 4800,
+                "maximum": 9200,
+                "pi_width": 0.688
+            }
+        },
+        "MongoDB Compass": {
+            "EM": {
+                "most_likely": 7200,
+                "minimum": 5400,
+                "maximum": 10500,
+                "pi_width": 0.708
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "UD": {
+                "most_likely": 11200,
+                "minimum": 8500,
+                "maximum": 14800,
+                "pi_width": 0.562
+            },
+            "DEV": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "GROUP": {
+                "most_likely": 7000,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.857
+            }
+        },
+        "Alloy Framework": {
+            "UD": {
+                "most_likely": 2600,
+                "minimum": 1800,
+                "maximum": 3800,
+                "pi_width": 0.769
+            },
+            "DEV": {
+                "most_likely": 1150,
+                "minimum": 820,
+                "maximum": 1680,
+                "pi_width": 0.748
+            },
+            "EM": {
+                "most_likely": 1450,
+                "minimum": 950,
+                "maximum": 2200,
+                "pi_width": 0.862
+            },
+            "PM": {
+                "most_likely": 2600,
+                "minimum": 1950,
+                "maximum": 3800,
+                "pi_width": 0.712
+            },
+            "GROUP": {
+                "most_likely": 2100,
+                "minimum": 1400,
+                "maximum": 3200,
+                "pi_width": 0.857
+            }
+        },
+        "Atlassian Software Server": {
+            "EM": {
+                "most_likely": 8,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "PM": {
+                "most_likely": 3400,
+                "minimum": 2600,
+                "maximum": 4800,
+                "pi_width": 0.647
+            },
+            "UD": {
+                "most_likely": 4,
+                "minimum": 3,
+                "maximum": 7,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 1120,
+                "minimum": 780,
+                "maximum": 1650,
+                "pi_width": 0.777
+            },
+            "GROUP": {
+                "most_likely": 1250,
+                "minimum": 850,
+                "maximum": 2200,
+                "pi_width": 1.08
+            }
+        },
+        "MongoDB Evergreen": {
+            "EM": {
+                "most_likely": 17500,
+                "minimum": 12500,
+                "maximum": 24000,
+                "pi_width": 0.657
+            },
+            "PM": {
+                "most_likely": 5400,
+                "minimum": 4700,
+                "maximum": 6400,
+                "pi_width": 0.315
+            },
+            "UD": {
+                "most_likely": 14400,
+                "minimum": 9800,
+                "maximum": 22500,
+                "pi_width": 0.882
+            },
+            "DEV": {
+                "most_likely": 14400,
+                "minimum": 9600,
+                "maximum": 22000,
+                "pi_width": 0.861
+            },
+            "GROUP": {
+                "most_likely": 15200,
+                "minimum": 10500,
+                "maximum": 23000,
+                "pi_width": 0.822
+            }
+        },
+        "Aptana Studio": {
+            "EM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "PM": {
+                "most_likely": 3,
+                "minimum": 2,
+                "maximum": 6,
+                "pi_width": 1.333
+            },
+            "UD": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "DEV": {
+                "most_likely": 2650,
+                "minimum": 2200,
+                "maximum": 3200,
+                "pi_width": 0.377
+            },
+            "GROUP": {
+                "most_likely": 3400,
+                "minimum": 2400,
+                "maximum": 5200,
+                "pi_width": 0.824
+            }
+        },
+        "The Titanium SDK": {
+            "EM": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "PM": {
+                "most_likely": 11000,
+                "minimum": 7500,
+                "maximum": 16500,
+                "pi_width": 0.818
+            },
+            "UD": {
+                "most_likely": 9600,
+                "minimum": 6400,
+                "maximum": 14800,
+                "pi_width": 0.875
+            },
+            "DEV": {
+                "most_likely": 15,
+                "minimum": 13,
+                "maximum": 18,
+                "pi_width": 0.333
+            },
+            "GROUP": {
+                "most_likely": 10500,
+                "minimum": 7000,
+                "maximum": 16000,
+                "pi_width": 0.857
+            }
+        },
+        "Sonatype Nexus": {
+            "EM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "PM": {
+                "most_likely": 5000,
+                "minimum": 3800,
+                "maximum": 7200,
+                "pi_width": 0.68
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "DEV": {
+                "most_likely": 1900,
+                "minimum": 1550,
+                "maximum": 2600,
+                "pi_width": 0.553
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            }
+        },
+        "MongoDB Core Server": {
+            "EM": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "UD": {
+                "most_likely": 6,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": 6500,
+                "minimum": 5600,
+                "maximum": 8500,
+                "pi_width": 0.446
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 8500,
+                "pi_width": 1.104
+            }
+        },
+        "Apache MXNet": {
+            "PM": {
+                "most_likely": 14,
+                "minimum": 9,
+                "maximum": 22,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 11,
+                "minimum": 8,
+                "maximum": 16,
+                "pi_width": 0.727
+            },
+            "UD": {
+                "most_likely": 11,
+                "minimum": 9,
+                "maximum": 14,
+                "pi_width": 0.455
+            },
+            "EM": {
+                "most_likely": 11,
+                "minimum": 8,
+                "maximum": 16,
+                "pi_width": 0.727
+            },
+            "GROUP": {
+                "most_likely": 11,
+                "minimum": 8,
+                "maximum": 22,
+                "pi_width": 1.273
+            }
+        },
+        "Spring Data Cassandra": {
+            "EM": {
+                "most_likely": 4200,
+                "minimum": 3100,
+                "maximum": 6500,
+                "pi_width": 0.81
+            },
+            "PM": {
+                "most_likely": 1400,
+                "minimum": 1150,
+                "maximum": 1850,
+                "pi_width": 0.5
+            },
+            "UD": {
+                "most_likely": 1650,
+                "minimum": 1320,
+                "maximum": 2145,
+                "pi_width": 0.5
+            },
+            "DEV": {
+                "most_likely": 1150,
+                "minimum": 850,
+                "maximum": 1600,
+                "pi_width": 0.652
+            },
+            "GROUP": {
+                "most_likely": 2100,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.762
+            }
+        },
+        "Titanium Mobile Platform": {
+            "EM": {
+                "most_likely": 310,
+                "minimum": 180,
+                "maximum": 520,
+                "pi_width": 1.097
+            },
+            "PM": {
+                "most_likely": 800,
+                "minimum": 620,
+                "maximum": 1150,
+                "pi_width": 0.662
+            },
+            "UD": {
+                "most_likely": 720,
+                "minimum": 480,
+                "maximum": 1150,
+                "pi_width": 0.931
+            },
+            "DEV": {
+                "most_likely": 520,
+                "minimum": 380,
+                "maximum": 760,
+                "pi_width": 0.731
+            },
+            "GROUP": {
+                "most_likely": 580,
+                "minimum": 420,
+                "maximum": 950,
+                "pi_width": 0.914
+            }
+        },
+        "Apache Usergrid": {
+            "PM": {
+                "most_likely": 3,
+                "minimum": 2,
+                "maximum": 5,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": 5800,
+                "minimum": 3200,
+                "maximum": 9500,
+                "pi_width": 1.086
+            },
+            "DEV": {
+                "most_likely": 2100,
+                "minimum": 1650,
+                "maximum": 3200,
+                "pi_width": 0.738
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "GROUP": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 7500,
+                "pi_width": 1.119
+            }
+        },
+        "Atlassian Crowd": {
+            "EM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            },
+            "PM": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 7400,
+                "pi_width": 0.692
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3600,
+                "maximum": 7200,
+                "pi_width": 0.75
+            },
+            "DEV": {
+                "most_likely": 3840,
+                "minimum": 2600,
+                "maximum": 5800,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.896
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "EM": {
+                "most_likely": 1680,
+                "minimum": 1150,
+                "maximum": 2450,
+                "pi_width": 0.774
+            },
+            "PM": {
+                "most_likely": 3400,
+                "minimum": 2800,
+                "maximum": 4300,
+                "pi_width": 0.441
+            },
+            "UD": {
+                "most_likely": 1450,
+                "minimum": 1100,
+                "maximum": 1950,
+                "pi_width": 0.586
+            },
+            "DEV": {
+                "most_likely": 1350,
+                "minimum": 1100,
+                "maximum": 1750,
+                "pi_width": 0.481
+            },
+            "GROUP": {
+                "most_likely": 1950,
+                "minimum": 1400,
+                "maximum": 2850,
+                "pi_width": 0.744
+            }
+        }
+    },
+    "deepseek/deepseek-v3.2": {
+        "Spring Data Cassandra": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "PM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "UD": {
+                "most_likely": 2,
+                "minimum": 1,
+                "maximum": 3,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1600,
+                "pi_width": 0.583
+            },
+            "GROUP": {
+                "most_likely": 2000,
+                "minimum": 1400,
+                "maximum": 2800,
+                "pi_width": 0.7
+            }
+        },
+        "Apache MXNet": {
+            "PM": {
+                "most_likely": 8500,
+                "minimum": 6000,
+                "maximum": 12000,
+                "pi_width": 0.706
+            },
+            "EM": {
+                "most_likely": 3800,
+                "minimum": 3000,
+                "maximum": 5200,
+                "pi_width": 0.579
+            },
+            "UD": {
+                "most_likely": 5500,
+                "minimum": 4000,
+                "maximum": 7500,
+                "pi_width": 0.636
+            },
+            "DEV": {
+                "most_likely": 2000,
+                "minimum": 1400,
+                "maximum": 2600,
+                "pi_width": 0.6
+            },
+            "GROUP": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.75
+            }
+        },
+        "Atlassian Bamboo": {
+            "DEV": {
+                "most_likely": 3200,
+                "minimum": 2600,
+                "maximum": 4000,
+                "pi_width": 0.438
+            },
+            "UD": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 4500,
+                "pi_width": 0.833
+            },
+            "EM": {
+                "most_likely": 5500,
+                "minimum": 4400,
+                "maximum": 7150,
+                "pi_width": 0.5
+            },
+            "PM": {
+                "most_likely": 5700,
+                "minimum": 4275,
+                "maximum": 7125,
+                "pi_width": 0.5
+            },
+            "GROUP": {
+                "most_likely": 5000,
+                "minimum": 4000,
+                "maximum": 7000,
+                "pi_width": 0.6
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.692
+            },
+            "PM": {
+                "most_likely": 5600,
+                "minimum": 4400,
+                "maximum": 7200,
+                "pi_width": 0.5
+            },
+            "UD": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.8
+            },
+            "DEV": {
+                "most_likely": 4000,
+                "minimum": 3000,
+                "maximum": 6000,
+                "pi_width": 0.75
+            },
+            "GROUP": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "EM": {
+                "most_likely": 22000,
+                "minimum": 16500,
+                "maximum": 30000,
+                "pi_width": 0.614
+            },
+            "PM": {
+                "most_likely": 55000,
+                "minimum": 44000,
+                "maximum": 70000,
+                "pi_width": 0.473
+            },
+            "UD": {
+                "most_likely": 24000,
+                "minimum": 18000,
+                "maximum": 32000,
+                "pi_width": 0.583
+            },
+            "DEV": {
+                "most_likely": 35000,
+                "minimum": 25000,
+                "maximum": 50000,
+                "pi_width": 0.714
+            },
+            "GROUP": {
+                "most_likely": 34000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.029
+            }
+        },
+        "MongoDB Evergreen": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 5000,
+                "maximum": 9000,
+                "pi_width": 0.615
+            },
+            "PM": {
+                "most_likely": 9600,
+                "minimum": 7200,
+                "maximum": 13200,
+                "pi_width": 0.625
+            },
+            "UD": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": 5200,
+                "minimum": 3800,
+                "maximum": 7500,
+                "pi_width": 0.712
+            },
+            "GROUP": {
+                "most_likely": 7800,
+                "minimum": 5000,
+                "maximum": 13200,
+                "pi_width": 1.051
+            }
+        },
+        "Titanium Mobile Platform": {
+            "EM": {
+                "most_likely": 740,
+                "minimum": 660,
+                "maximum": 800,
+                "pi_width": 0.189
+            },
+            "PM": {
+                "most_likely": 420,
+                "minimum": 350,
+                "maximum": 520,
+                "pi_width": 0.405
+            },
+            "UD": {
+                "most_likely": 540,
+                "minimum": 460,
+                "maximum": 650,
+                "pi_width": 0.352
+            },
+            "DEV": {
+                "most_likely": 450,
+                "minimum": 350,
+                "maximum": 650,
+                "pi_width": 0.667
+            },
+            "GROUP": {
+                "most_likely": 650,
+                "minimum": 500,
+                "maximum": 750,
+                "pi_width": 0.385
+            }
+        },
+        "DotNetNuke Platform": {
+            "DEV": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 8500,
+                "pi_width": 0.667
+            },
+            "EM": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "PM": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "UD": {
+                "most_likely": 20800,
+                "minimum": 13760,
+                "maximum": 33280,
+                "pi_width": 0.938
+            },
+            "GROUP": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Spring XD": {
+            "DEV": {
+                "most_likely": 2300,
+                "minimum": 1600,
+                "maximum": 3100,
+                "pi_width": 0.652
+            },
+            "EM": {
+                "most_likely": 5200,
+                "minimum": 4200,
+                "maximum": 6500,
+                "pi_width": 0.442
+            },
+            "PM": {
+                "most_likely": 5500,
+                "minimum": 4000,
+                "maximum": 7500,
+                "pi_width": 0.636
+            },
+            "UD": {
+                "most_likely": 3000,
+                "minimum": 2400,
+                "maximum": 3800,
+                "pi_width": 0.467
+            },
+            "GROUP": {
+                "most_likely": 5300,
+                "minimum": 4000,
+                "maximum": 7000,
+                "pi_width": 0.566
+            }
+        },
+        "Appcelerator Command-Line Interface": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "PM": {
+                "most_likely": 5500,
+                "minimum": 3850,
+                "maximum": 7700,
+                "pi_width": 0.7
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "DEV": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "GROUP": {
+                "most_likely": 2500,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.64
+            }
+        },
+        "Moodle": {
+            "UD": {
+                "most_likely": 4200,
+                "minimum": 3000,
+                "maximum": 6000,
+                "pi_width": 0.714
+            },
+            "DEV": {
+                "most_likely": 4000,
+                "minimum": 3200,
+                "maximum": 5200,
+                "pi_width": 0.5
+            },
+            "PM": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 12000,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": 4500,
+                "minimum": 3200,
+                "maximum": 6500,
+                "pi_width": 0.733
+            },
+            "GROUP": {
+                "most_likely": 5500,
+                "minimum": 4500,
+                "maximum": 8500,
+                "pi_width": 0.727
+            }
+        },
+        "Hyperledger Indy Node": {
+            "EM": {
+                "most_likely": 6000,
+                "minimum": 4500,
+                "maximum": 8000,
+                "pi_width": 0.583
+            },
+            "PM": {
+                "most_likely": 12,
+                "minimum": 8,
+                "maximum": 18,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 9200,
+                "minimum": 7200,
+                "maximum": 12500,
+                "pi_width": 0.576
+            },
+            "DEV": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "GROUP": {
+                "most_likely": 6500,
+                "minimum": 5000,
+                "maximum": 9000,
+                "pi_width": 0.615
+            }
+        },
+        "LSSTCorp Data Management": {
+            "EM": {
+                "most_likely": 125000,
+                "minimum": 90000,
+                "maximum": 175000,
+                "pi_width": 0.68
+            },
+            "PM": {
+                "most_likely": 86500,
+                "minimum": 65000,
+                "maximum": 115000,
+                "pi_width": 0.578
+            },
+            "UD": {
+                "most_likely": 250000,
+                "minimum": 180000,
+                "maximum": 350000,
+                "pi_width": 0.68
+            },
+            "DEV": {
+                "most_likely": 58000,
+                "minimum": 45000,
+                "maximum": 75000,
+                "pi_width": 0.517
+            },
+            "GROUP": {
+                "most_likely": 200000,
+                "minimum": 110000,
+                "maximum": 300000,
+                "pi_width": 0.95
+            }
+        },
+        "Aptana Studio": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "PM": {
+                "most_likely": 1900,
+                "minimum": 1500,
+                "maximum": 2400,
+                "pi_width": 0.474
+            },
+            "UD": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 2100,
+                "minimum": 1600,
+                "maximum": 2600,
+                "pi_width": 0.476
+            }
+        },
+        "The Mongo C++ Driver": {
+            "EM": {
+                "most_likely": 1,
+                "minimum": 900,
+                "maximum": 1,
+                "pi_width": -899.0
+            },
+            "PM": {
+                "most_likely": 1370,
+                "minimum": 1100,
+                "maximum": 1700,
+                "pi_width": 0.438
+            },
+            "UD": {
+                "most_likely": 2,
+                "minimum": 1,
+                "maximum": 3,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3400,
+                "pi_width": 0.818
+            },
+            "GROUP": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.889
+            }
+        },
+        "Atlassian Clover": {
+            "EM": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 7150,
+                "pi_width": 0.625
+            },
+            "PM": {
+                "most_likely": 6500,
+                "minimum": 5200,
+                "maximum": 8500,
+                "pi_width": 0.508
+            },
+            "UD": {
+                "most_likely": 3800,
+                "minimum": 2800,
+                "maximum": 5200,
+                "pi_width": 0.632
+            },
+            "DEV": {
+                "most_likely": 2675,
+                "minimum": 2200,
+                "maximum": 3500,
+                "pi_width": 0.486
+            },
+            "GROUP": {
+                "most_likely": 5200,
+                "minimum": 4000,
+                "maximum": 8000,
+                "pi_width": 0.769
+            }
+        },
+        "Hyperledger Fabric": {
+            "EM": {
+                "most_likely": 16000,
+                "minimum": 12000,
+                "maximum": 22000,
+                "pi_width": 0.625
+            },
+            "PM": {
+                "most_likely": 9600,
+                "minimum": 7200,
+                "maximum": 13200,
+                "pi_width": 0.625
+            },
+            "UD": {
+                "most_likely": 6500,
+                "minimum": 5200,
+                "maximum": 9100,
+                "pi_width": 0.6
+            },
+            "DEV": {
+                "most_likely": 7200,
+                "minimum": 5400,
+                "maximum": 10800,
+                "pi_width": 0.75
+            },
+            "GROUP": {
+                "most_likely": 11000,
+                "minimum": 8000,
+                "maximum": 18000,
+                "pi_width": 0.909
+            }
+        },
+        "Appcelerator Daemon": {
+            "DEV": {
+                "most_likely": 1090,
+                "minimum": 850,
+                "maximum": 1400,
+                "pi_width": 0.505
+            },
+            "EM": {
+                "most_likely": 2750,
+                "minimum": 2200,
+                "maximum": 3500,
+                "pi_width": 0.473
+            },
+            "PM": {
+                "most_likely": 2200,
+                "minimum": 1800,
+                "maximum": 2800,
+                "pi_width": 0.455
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "GROUP": {
+                "most_likely": 2400,
+                "minimum": 1800,
+                "maximum": 3200,
+                "pi_width": 0.583
+            }
+        },
+        "Lyrasis DuraCloud": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 5200,
+                "maximum": 8500,
+                "pi_width": 0.508
+            },
+            "PM": {
+                "most_likely": 10,
+                "minimum": 7,
+                "maximum": 15,
+                "pi_width": 0.8
+            },
+            "UD": {
+                "most_likely": 5500,
+                "minimum": 4000,
+                "maximum": 7500,
+                "pi_width": 0.636
+            },
+            "DEV": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 7150,
+                "pi_width": 0.625
+            },
+            "GROUP": {
+                "most_likely": 5700,
+                "minimum": 4000,
+                "maximum": 8500,
+                "pi_width": 0.789
+            }
+        },
+        "Atlassian Software Server": {
+            "EM": {
+                "most_likely": 12500,
+                "minimum": 10000,
+                "maximum": 16250,
+                "pi_width": 0.5
+            },
+            "PM": {
+                "most_likely": 12000,
+                "minimum": 8500,
+                "maximum": 18000,
+                "pi_width": 0.792
+            },
+            "UD": {
+                "most_likely": 10000,
+                "minimum": 7000,
+                "maximum": 16000,
+                "pi_width": 0.9
+            },
+            "DEV": {
+                "most_likely": 20000,
+                "minimum": 16000,
+                "maximum": 28000,
+                "pi_width": 0.6
+            },
+            "GROUP": {
+                "most_likely": 14000,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.929
+            }
+        },
+        "Mule APIkit": {
+            "EM": {
+                "most_likely": 650,
+                "minimum": 520,
+                "maximum": 845,
+                "pi_width": 0.5
+            },
+            "PM": {
+                "most_likely": 1,
+                "minimum": 850,
+                "maximum": 2,
+                "pi_width": -848.0
+            },
+            "UD": {
+                "most_likely": 310,
+                "minimum": 240,
+                "maximum": 380,
+                "pi_width": 0.452
+            },
+            "DEV": {
+                "most_likely": 880,
+                "minimum": 660,
+                "maximum": 1320,
+                "pi_width": 0.75
+            },
+            "GROUP": {
+                "most_likely": 720,
+                "minimum": 550,
+                "maximum": 1100,
+                "pi_width": 0.764
+            }
+        },
+        "Mule": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1650,
+                "maximum": 3300,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 1780,
+                "minimum": 1335,
+                "maximum": 2225,
+                "pi_width": 0.5
+            },
+            "UD": {
+                "most_likely": 4600,
+                "minimum": 4000,
+                "maximum": 5400,
+                "pi_width": 0.304
+            },
+            "DEV": {
+                "most_likely": 2750,
+                "minimum": 1800,
+                "maximum": 4000,
+                "pi_width": 0.8
+            },
+            "GROUP": {
+                "most_likely": 2500,
+                "minimum": 1600,
+                "maximum": 4500,
+                "pi_width": 1.16
+            }
+        },
+        "The Mongo Java Driver": {
+            "EM": {
+                "most_likely": 1200,
+                "minimum": 900,
+                "maximum": 1600,
+                "pi_width": 0.583
+            },
+            "PM": {
+                "most_likely": 1950,
+                "minimum": 1250,
+                "maximum": 2900,
+                "pi_width": 0.846
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "DEV": {
+                "most_likely": 640,
+                "minimum": 450,
+                "maximum": 900,
+                "pi_width": 0.703
+            },
+            "GROUP": {
+                "most_likely": 1950,
+                "minimum": 1250,
+                "maximum": 2900,
+                "pi_width": 0.846
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "EM": {
+                "most_likely": 4600,
+                "minimum": 4000,
+                "maximum": 5800,
+                "pi_width": 0.391
+            },
+            "PM": {
+                "most_likely": 6250,
+                "minimum": 4688,
+                "maximum": 7813,
+                "pi_width": 0.5
+            },
+            "UD": {
+                "most_likely": 5800,
+                "minimum": 4500,
+                "maximum": 7500,
+                "pi_width": 0.517
+            },
+            "DEV": {
+                "most_likely": 5000,
+                "minimum": 4000,
+                "maximum": 6000,
+                "pi_width": 0.4
+            },
+            "GROUP": {
+                "most_likely": 5700,
+                "minimum": 4500,
+                "maximum": 7200,
+                "pi_width": 0.474
+            }
+        },
+        "Appcelerator Studio": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 5200,
+                "maximum": 8500,
+                "pi_width": 0.508
+            },
+            "PM": {
+                "most_likely": 11000,
+                "minimum": 9350,
+                "maximum": 14300,
+                "pi_width": 0.45
+            },
+            "UD": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "DEV": {
+                "most_likely": 5600,
+                "minimum": 4200,
+                "maximum": 7500,
+                "pi_width": 0.589
+            },
+            "GROUP": {
+                "most_likely": 8500,
+                "minimum": 6000,
+                "maximum": 14300,
+                "pi_width": 0.976
+            }
+        },
+        "Atlassian Crowd": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 4500,
+                "maximum": 9000,
+                "pi_width": 0.692
+            },
+            "PM": {
+                "most_likely": 5800,
+                "minimum": 4600,
+                "maximum": 7500,
+                "pi_width": 0.5
+            },
+            "UD": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 6800,
+                "pi_width": 0.558
+            },
+            "DEV": {
+                "most_likely": 3876,
+                "minimum": 2280,
+                "maximum": 4560,
+                "pi_width": 0.588
+            },
+            "GROUP": {
+                "most_likely": 6000,
+                "minimum": 4800,
+                "maximum": 8000,
+                "pi_width": 0.533
+            }
+        },
+        "MongoDB Compass": {
+            "EM": {
+                "most_likely": 4500,
+                "minimum": 3600,
+                "maximum": 6000,
+                "pi_width": 0.533
+            },
+            "PM": {
+                "most_likely": 5700,
+                "minimum": 4560,
+                "maximum": 7125,
+                "pi_width": 0.45
+            },
+            "UD": {
+                "most_likely": 7450,
+                "minimum": 6000,
+                "maximum": 9500,
+                "pi_width": 0.47
+            },
+            "DEV": {
+                "most_likely": 3900,
+                "minimum": 2925,
+                "maximum": 4875,
+                "pi_width": 0.5
+            },
+            "GROUP": {
+                "most_likely": 5500,
+                "minimum": 4000,
+                "maximum": 7500,
+                "pi_width": 0.636
+            }
+        },
+        "Apache Mesos": {
+            "EM": {
+                "most_likely": 4600,
+                "minimum": 3500,
+                "maximum": 6200,
+                "pi_width": 0.587
+            },
+            "DEV": {
+                "most_likely": 2000,
+                "minimum": 1600,
+                "maximum": 2800,
+                "pi_width": 0.6
+            },
+            "PM": {
+                "most_likely": 3000,
+                "minimum": 2550,
+                "maximum": 3750,
+                "pi_width": 0.4
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "GROUP": {
+                "most_likely": 2950,
+                "minimum": 2000,
+                "maximum": 4000,
+                "pi_width": 0.678
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "PM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "DEV": {
+                "most_likely": 1500,
+                "minimum": 1100,
+                "maximum": 2200,
+                "pi_width": 0.733
+            },
+            "GROUP": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3000,
+                "pi_width": 0.636
+            }
+        },
+        "Alloy Framework": {
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1320,
+                "maximum": 3520,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 2750,
+                "minimum": 2000,
+                "maximum": 3750,
+                "pi_width": 0.636
+            },
+            "DEV": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1650,
+                "maximum": 3000,
+                "pi_width": 0.614
+            },
+            "GROUP": {
+                "most_likely": 2400,
+                "minimum": 1700,
+                "maximum": 3500,
+                "pi_width": 0.75
+            }
+        },
+        "The Titanium SDK": {
+            "EM": {
+                "most_likely": 6400,
+                "minimum": 5000,
+                "maximum": 8000,
+                "pi_width": 0.469
+            },
+            "PM": {
+                "most_likely": 9650,
+                "minimum": 7800,
+                "maximum": 12500,
+                "pi_width": 0.487
+            },
+            "UD": {
+                "most_likely": 9600,
+                "minimum": 7500,
+                "maximum": 14000,
+                "pi_width": 0.677
+            },
+            "DEV": {
+                "most_likely": 5200,
+                "minimum": 3900,
+                "maximum": 7500,
+                "pi_width": 0.692
+            },
+            "GROUP": {
+                "most_likely": 9000,
+                "minimum": 6500,
+                "maximum": 12000,
+                "pi_width": 0.611
+            }
+        },
+        "Apache Usergrid": {
+            "DEV": {
+                "most_likely": 1250,
+                "minimum": 900,
+                "maximum": 1800,
+                "pi_width": 0.72
+            },
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": 3200,
+                "pi_width": 0.727
+            },
+            "PM": {
+                "most_likely": 3500,
+                "minimum": 2800,
+                "maximum": 5000,
+                "pi_width": 0.629
+            },
+            "UD": {
+                "most_likely": 1160,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.862
+            },
+            "GROUP": {
+                "most_likely": 2200,
+                "minimum": 1600,
+                "maximum": null,
+                "pi_width": null
+            }
+        },
+        "Sonatype Nexus": {
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 5200,
+                "maximum": 8500,
+                "pi_width": 0.508
+            },
+            "PM": {
+                "most_likely": 5000,
+                "minimum": 3750,
+                "maximum": 7000,
+                "pi_width": 0.65
+            },
+            "UD": {
+                "most_likely": 10,
+                "minimum": 8,
+                "maximum": 14,
+                "pi_width": 0.6
+            },
+            "DEV": {
+                "most_likely": 4500,
+                "minimum": 3200,
+                "maximum": 6500,
+                "pi_width": 0.733
+            },
+            "GROUP": {
+                "most_likely": 6000,
+                "minimum": 4000,
+                "maximum": 8000,
+                "pi_width": 0.667
+            }
+        },
+        "MongoDB Core Server": {
+            "EM": {
+                "most_likely": 18000,
+                "minimum": 13500,
+                "maximum": 25000,
+                "pi_width": 0.639
+            },
+            "PM": {
+                "most_likely": 45000,
+                "minimum": 30000,
+                "maximum": 70000,
+                "pi_width": 0.889
+            },
+            "UD": {
+                "most_likely": 0,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 28000,
+                "pi_width": 0.889
+            },
+            "GROUP": {
+                "most_likely": 18000,
+                "minimum": 13500,
+                "maximum": 28000,
+                "pi_width": 0.806
+            }
+        }
+    },
+    "anthropic/claude-opus-4.6": {
+        "Hyperledger Indy SDK": {
+            "EM": {
+                "most_likely": 10000,
+                "minimum": 7500,
+                "maximum": 15000,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 12000,
+                "pi_width": 0.933
+            },
+            "UD": {
+                "most_likely": 7000,
+                "minimum": 4500,
+                "maximum": 11000,
+                "pi_width": 0.929
+            },
+            "DEV": {
+                "most_likely": 6800,
+                "minimum": 4500,
+                "maximum": 10500,
+                "pi_width": 0.882
+            },
+            "GROUP": {
+                "most_likely": 8000,
+                "minimum": 5500,
+                "maximum": 13000,
+                "pi_width": 0.938
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "EM": {
+                "most_likely": 23400,
+                "minimum": 14500,
+                "maximum": 35000,
+                "pi_width": 0.876
+            },
+            "PM": {
+                "most_likely": 19500,
+                "minimum": 15000,
+                "maximum": 26500,
+                "pi_width": 0.59
+            },
+            "UD": {
+                "most_likely": 10000,
+                "minimum": 6500,
+                "maximum": 18000,
+                "pi_width": 1.15
+            },
+            "DEV": {
+                "most_likely": 11800,
+                "minimum": 7500,
+                "maximum": 21000,
+                "pi_width": 1.144
+            },
+            "GROUP": {
+                "most_likely": 16500,
+                "minimum": 10000,
+                "maximum": 28000,
+                "pi_width": 1.091
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "EM": {
+                "most_likely": 38000,
+                "minimum": 25000,
+                "maximum": 58000,
+                "pi_width": 0.868
+            },
+            "PM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 42000,
+                "pi_width": 1.083
+            },
+            "UD": {
+                "most_likely": 37000,
+                "minimum": 25000,
+                "maximum": 55000,
+                "pi_width": 0.811
+            },
+            "DEV": {
+                "most_likely": 20750,
+                "minimum": 14000,
+                "maximum": 35000,
+                "pi_width": 1.012
+            },
+            "GROUP": {
+                "most_likely": 30000,
+                "minimum": 18000,
+                "maximum": 50000,
+                "pi_width": 1.067
+            }
+        },
+        "MongoDB Evergreen": {
+            "EM": {
+                "most_likely": 9200,
+                "minimum": 6400,
+                "maximum": 13000,
+                "pi_width": 0.717
+            },
+            "PM": {
+                "most_likely": 8500,
+                "minimum": 5500,
+                "maximum": 14500,
+                "pi_width": 1.059
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 12500,
+                "maximum": 28000,
+                "pi_width": 0.861
+            },
+            "DEV": {
+                "most_likely": 7500,
+                "minimum": 4800,
+                "maximum": 12500,
+                "pi_width": 1.027
+            },
+            "GROUP": {
+                "most_likely": 11000,
+                "minimum": 7000,
+                "maximum": 22000,
+                "pi_width": 1.364
+            }
+        },
+        "Appcelerator Daemon": {
+            "EM": {
+                "most_likely": 2050,
+                "minimum": 1400,
+                "maximum": 3400,
+                "pi_width": 0.976
+            },
+            "PM": {
+                "most_likely": 1700,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.941
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1500,
+                "maximum": 3800,
+                "pi_width": 1.045
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 2000,
+                "minimum": 1350,
+                "maximum": 3400,
+                "pi_width": 1.025
+            }
+        },
+        "Atlassian Clover": {
+            "EM": {
+                "most_likely": 7500,
+                "minimum": 4500,
+                "maximum": 12500,
+                "pi_width": 1.067
+            },
+            "PM": {
+                "most_likely": 11400,
+                "minimum": 7500,
+                "maximum": 19000,
+                "pi_width": 1.009
+            },
+            "UD": {
+                "most_likely": 10000,
+                "minimum": 6500,
+                "maximum": 16000,
+                "pi_width": 0.95
+            },
+            "DEV": {
+                "most_likely": 7000,
+                "minimum": 4500,
+                "maximum": 11500,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 9200,
+                "minimum": 5500,
+                "maximum": 17000,
+                "pi_width": 1.25
+            }
+        },
+        "Hyperledger Indy Node": {
+            "EM": {
+                "most_likely": 22000,
+                "minimum": 14000,
+                "maximum": 35000,
+                "pi_width": 0.955
+            },
+            "PM": {
+                "most_likely": 22000,
+                "minimum": 17000,
+                "maximum": 31000,
+                "pi_width": 0.636
+            },
+            "UD": {
+                "most_likely": 18000,
+                "minimum": 10000,
+                "maximum": 32000,
+                "pi_width": 1.222
+            },
+            "DEV": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 38000,
+                "pi_width": 0.917
+            },
+            "GROUP": {
+                "most_likely": 22000,
+                "minimum": 14000,
+                "maximum": 35000,
+                "pi_width": 0.955
+            }
+        },
+        "Spring XD": {
+            "DEV": {
+                "most_likely": 9500,
+                "minimum": 6500,
+                "maximum": 14500,
+                "pi_width": 0.842
+            },
+            "EM": {
+                "most_likely": 8000,
+                "minimum": 4800,
+                "maximum": 14500,
+                "pi_width": 1.212
+            },
+            "PM": {
+                "most_likely": 8400,
+                "minimum": 5500,
+                "maximum": 14000,
+                "pi_width": 1.012
+            },
+            "UD": {
+                "most_likely": 6000,
+                "minimum": 3800,
+                "maximum": 11000,
+                "pi_width": 1.2
+            },
+            "GROUP": {
+                "most_likely": 8200,
+                "minimum": 5200,
+                "maximum": 14500,
+                "pi_width": 1.134
+            }
+        },
+        "Atlassian Bamboo": {
+            "UD": {
+                "most_likely": 5300,
+                "minimum": 3000,
+                "maximum": 8500,
+                "pi_width": 1.038
+            },
+            "DEV": {
+                "most_likely": 6800,
+                "minimum": 4200,
+                "maximum": 12000,
+                "pi_width": 1.147
+            },
+            "EM": {
+                "most_likely": 9300,
+                "minimum": 6500,
+                "maximum": 14000,
+                "pi_width": 0.806
+            },
+            "PM": {
+                "most_likely": 7000,
+                "minimum": 4500,
+                "maximum": 12000,
+                "pi_width": 1.071
+            },
+            "GROUP": {
+                "most_likely": 7100,
+                "minimum": 4200,
+                "maximum": 13000,
+                "pi_width": 1.239
+            }
+        },
+        "Moodle": {
+            "UD": {
+                "most_likely": 6800,
+                "minimum": 4800,
+                "maximum": 9400,
+                "pi_width": 0.676
+            },
+            "DEV": {
+                "most_likely": 5750,
+                "minimum": 3800,
+                "maximum": 9500,
+                "pi_width": 0.991
+            },
+            "EM": {
+                "most_likely": 6500,
+                "minimum": 4000,
+                "maximum": 12000,
+                "pi_width": 1.231
+            },
+            "PM": {
+                "most_likely": 5900,
+                "minimum": 3800,
+                "maximum": 10500,
+                "pi_width": 1.136
+            },
+            "GROUP": {
+                "most_likely": 6200,
+                "minimum": 4100,
+                "maximum": 10500,
+                "pi_width": 1.032
+            }
+        },
+        "Appcelerator Command-Line Interface": {
+            "PM": {
+                "most_likely": 2200,
+                "minimum": 1500,
+                "maximum": 3500,
+                "pi_width": 0.909
+            },
+            "UD": {
+                "most_likely": 2800,
+                "minimum": 1770,
+                "maximum": 4500,
+                "pi_width": 0.975
+            },
+            "EM": {
+                "most_likely": 2100,
+                "minimum": 1400,
+                "maximum": 3400,
+                "pi_width": 0.952
+            },
+            "DEV": {
+                "most_likely": 2500,
+                "minimum": 1600,
+                "maximum": 4200,
+                "pi_width": 1.04
+            },
+            "GROUP": {
+                "most_likely": 2400,
+                "minimum": 1500,
+                "maximum": 4000,
+                "pi_width": 1.042
+            }
+        },
+        "LSSTCorp Data Management": {
+            "PM": {
+                "most_likely": 22000,
+                "minimum": 15500,
+                "maximum": 33000,
+                "pi_width": 0.795
+            },
+            "UD": {
+                "most_likely": 12500,
+                "minimum": 7500,
+                "maximum": 22000,
+                "pi_width": 1.16
+            },
+            "DEV": {
+                "most_likely": 52000,
+                "minimum": 33000,
+                "maximum": 95000,
+                "pi_width": 1.192
+            },
+            "EM": {
+                "most_likely": 20000,
+                "minimum": 12000,
+                "maximum": 38000,
+                "pi_width": 1.3
+            },
+            "GROUP": {
+                "most_likely": 24000,
+                "minimum": 14000,
+                "maximum": 52000,
+                "pi_width": 1.583
+            }
+        },
+        "The Mongo C++ Driver": {
+            "EM": {
+                "most_likely": 4000,
+                "minimum": 2400,
+                "maximum": 7200,
+                "pi_width": 1.2
+            },
+            "PM": {
+                "most_likely": 2725,
+                "minimum": 1800,
+                "maximum": 4500,
+                "pi_width": 0.991
+            },
+            "UD": {
+                "most_likely": 3500,
+                "minimum": 2200,
+                "maximum": 6500,
+                "pi_width": 1.229
+            },
+            "DEV": {
+                "most_likely": 1850,
+                "minimum": 1200,
+                "maximum": 3000,
+                "pi_width": 0.973
+            },
+            "GROUP": {
+                "most_likely": 3200,
+                "minimum": 2000,
+                "maximum": 6000,
+                "pi_width": 1.25
+            }
+        },
+        "Mule APIkit": {
+            "EM": {
+                "most_likely": 1710,
+                "minimum": 1100,
+                "maximum": 2800,
+                "pi_width": 0.994
+            },
+            "PM": {
+                "most_likely": 1600,
+                "minimum": 1150,
+                "maximum": 2400,
+                "pi_width": 0.781
+            },
+            "UD": {
+                "most_likely": 1700,
+                "minimum": 1100,
+                "maximum": 2600,
+                "pi_width": 0.882
+            },
+            "DEV": {
+                "most_likely": 1290,
+                "minimum": 850,
+                "maximum": 1800,
+                "pi_width": 0.736
+            },
+            "GROUP": {
+                "most_likely": 1650,
+                "minimum": 1100,
+                "maximum": 2500,
+                "pi_width": 0.848
+            }
+        },
+        "Aptana Studio": {
+            "EM": {
+                "most_likely": 4500,
+                "minimum": 2800,
+                "maximum": 8500,
+                "pi_width": 1.267
+            },
+            "PM": {
+                "most_likely": 8000,
+                "minimum": 5000,
+                "maximum": 13000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 2750,
+                "minimum": 1600,
+                "maximum": 5200,
+                "pi_width": 1.309
+            },
+            "DEV": {
+                "most_likely": 8400,
+                "minimum": 5000,
+                "maximum": 14000,
+                "pi_width": 1.071
+            },
+            "GROUP": {
+                "most_likely": 5800,
+                "minimum": 2500,
+                "maximum": 13000,
+                "pi_width": 1.81
+            }
+        },
+        "Lyrasis DuraCloud": {
+            "EM": {
+                "most_likely": 8400,
+                "minimum": 5500,
+                "maximum": 13500,
+                "pi_width": 0.952
+            },
+            "PM": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 14000,
+                "pi_width": 0.889
+            },
+            "UD": {
+                "most_likely": 11000,
+                "minimum": 7000,
+                "maximum": 16500,
+                "pi_width": 0.864
+            },
+            "DEV": {
+                "most_likely": 6000,
+                "minimum": 3800,
+                "maximum": 10500,
+                "pi_width": 1.117
+            },
+            "GROUP": {
+                "most_likely": 9000,
+                "minimum": 5800,
+                "maximum": 14500,
+                "pi_width": 0.967
+            }
+        },
+        "Atlassian Crowd": {
+            "EM": {
+                "most_likely": 5800,
+                "minimum": 3800,
+                "maximum": 9500,
+                "pi_width": 0.983
+            },
+            "PM": {
+                "most_likely": 4950,
+                "minimum": 3100,
+                "maximum": 7800,
+                "pi_width": 0.949
+            },
+            "UD": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6500,
+                "pi_width": 0.881
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 2600,
+                "maximum": 6500,
+                "pi_width": 0.929
+            },
+            "GROUP": {
+                "most_likely": 4900,
+                "minimum": 3100,
+                "maximum": 8200,
+                "pi_width": 1.041
+            }
+        },
+        "MongoDB Compass": {
+            "EM": {
+                "most_likely": 8200,
+                "minimum": 5400,
+                "maximum": 13500,
+                "pi_width": 0.988
+            },
+            "PM": {
+                "most_likely": 10500,
+                "minimum": 7800,
+                "maximum": 15000,
+                "pi_width": 0.686
+            },
+            "UD": {
+                "most_likely": 7500,
+                "minimum": 4800,
+                "maximum": 12500,
+                "pi_width": 1.027
+            },
+            "DEV": {
+                "most_likely": 6500,
+                "minimum": 4200,
+                "maximum": 11000,
+                "pi_width": 1.046
+            },
+            "GROUP": {
+                "most_likely": 8500,
+                "minimum": 5400,
+                "maximum": 14000,
+                "pi_width": 1.012
+            }
+        },
+        "The Mongo Java Driver": {
+            "EM": {
+                "most_likely": 1750,
+                "minimum": 1150,
+                "maximum": 2800,
+                "pi_width": 0.943
+            },
+            "PM": {
+                "most_likely": 1700,
+                "minimum": 1100,
+                "maximum": 2900,
+                "pi_width": 1.059
+            },
+            "UD": {
+                "most_likely": 1150,
+                "minimum": 700,
+                "maximum": 1800,
+                "pi_width": 0.957
+            },
+            "DEV": {
+                "most_likely": 1500,
+                "minimum": 1050,
+                "maximum": 2200,
+                "pi_width": 0.767
+            },
+            "GROUP": {
+                "most_likely": 1550,
+                "minimum": 1050,
+                "maximum": 2700,
+                "pi_width": 1.065
+            }
+        },
+        "Mule": {
+            "EM": {
+                "most_likely": 5500,
+                "minimum": 3400,
+                "maximum": 9500,
+                "pi_width": 1.109
+            },
+            "PM": {
+                "most_likely": 4000,
+                "minimum": 2800,
+                "maximum": 5800,
+                "pi_width": 0.75
+            },
+            "UD": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 7000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 3650,
+                "minimum": 2400,
+                "maximum": 5500,
+                "pi_width": 0.849
+            },
+            "GROUP": {
+                "most_likely": 4300,
+                "minimum": 2800,
+                "maximum": 7200,
+                "pi_width": 1.023
+            }
+        },
+        "Hyperledger Fabric": {
+            "EM": {
+                "most_likely": 25000,
+                "minimum": 16000,
+                "maximum": 42000,
+                "pi_width": 1.04
+            },
+            "PM": {
+                "most_likely": 19000,
+                "minimum": 12500,
+                "maximum": 32000,
+                "pi_width": 1.026
+            },
+            "UD": {
+                "most_likely": 42000,
+                "minimum": 25000,
+                "maximum": 78000,
+                "pi_width": 1.262
+            },
+            "DEV": {
+                "most_likely": 32000,
+                "minimum": 22000,
+                "maximum": 48000,
+                "pi_width": 0.812
+            },
+            "GROUP": {
+                "most_likely": 30000,
+                "minimum": 18000,
+                "maximum": 55000,
+                "pi_width": 1.233
+            }
+        },
+        "Atlassian Software Server": {
+            "EM": {
+                "most_likely": 6900,
+                "minimum": 4200,
+                "maximum": 12000,
+                "pi_width": 1.13
+            },
+            "PM": {
+                "most_likely": 4600,
+                "minimum": 2800,
+                "maximum": 8500,
+                "pi_width": 1.239
+            },
+            "UD": {
+                "most_likely": 2650,
+                "minimum": 1600,
+                "maximum": 4800,
+                "pi_width": 1.208
+            },
+            "DEV": {
+                "most_likely": 4900,
+                "minimum": 2800,
+                "maximum": 8500,
+                "pi_width": 1.163
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 2800,
+                "maximum": 9500,
+                "pi_width": 1.396
+            }
+        },
+        "Alloy Framework": {
+            "UD": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.889
+            },
+            "DEV": {
+                "most_likely": 2500,
+                "minimum": 1600,
+                "maximum": 4200,
+                "pi_width": 1.04
+            },
+            "EM": {
+                "most_likely": 2730,
+                "minimum": 1800,
+                "maximum": 4500,
+                "pi_width": 0.989
+            },
+            "PM": {
+                "most_likely": 2800,
+                "minimum": 2000,
+                "maximum": 4200,
+                "pi_width": 0.786
+            },
+            "GROUP": {
+                "most_likely": 2600,
+                "minimum": 1700,
+                "maximum": 4400,
+                "pi_width": 1.038
+            }
+        },
+        "DotNetNuke Platform": {
+            "DEV": {
+                "most_likely": 23000,
+                "minimum": 16000,
+                "maximum": 35000,
+                "pi_width": 0.826
+            },
+            "EM": {
+                "most_likely": 20000,
+                "minimum": 12000,
+                "maximum": 35000,
+                "pi_width": 1.15
+            },
+            "PM": {
+                "most_likely": 17000,
+                "minimum": 11000,
+                "maximum": 28000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 15500,
+                "minimum": 10500,
+                "maximum": 24000,
+                "pi_width": 0.871
+            },
+            "GROUP": {
+                "most_likely": 19000,
+                "minimum": 11000,
+                "maximum": 33000,
+                "pi_width": 1.158
+            }
+        },
+        "The Titanium SDK": {
+            "EM": {
+                "most_likely": 33000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.061
+            },
+            "PM": {
+                "most_likely": 31600,
+                "minimum": 20000,
+                "maximum": 45000,
+                "pi_width": 0.791
+            },
+            "UD": {
+                "most_likely": 38000,
+                "minimum": 24000,
+                "maximum": 58000,
+                "pi_width": 0.895
+            },
+            "DEV": {
+                "most_likely": 26000,
+                "minimum": 18000,
+                "maximum": 40000,
+                "pi_width": 0.846
+            },
+            "GROUP": {
+                "most_likely": 32000,
+                "minimum": 20000,
+                "maximum": 55000,
+                "pi_width": 1.094
+            }
+        },
+        "Apache Mesos": {
+            "EM": {
+                "most_likely": 4150,
+                "minimum": 2600,
+                "maximum": 6200,
+                "pi_width": 0.867
+            },
+            "PM": {
+                "most_likely": 18500,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 0.973
+            },
+            "DEV": {
+                "most_likely": 2100,
+                "minimum": 1300,
+                "maximum": 4200,
+                "pi_width": 1.381
+            },
+            "UD": {
+                "most_likely": 2500,
+                "minimum": 1500,
+                "maximum": 4500,
+                "pi_width": 1.2
+            },
+            "GROUP": {
+                "most_likely": 4500,
+                "minimum": 2600,
+                "maximum": 9000,
+                "pi_width": 1.422
+            }
+        },
+        "Sonatype Nexus": {
+            "EM": {
+                "most_likely": 4600,
+                "minimum": 3200,
+                "maximum": 7500,
+                "pi_width": 0.935
+            },
+            "PM": {
+                "most_likely": 4200,
+                "minimum": 3450,
+                "maximum": 5400,
+                "pi_width": 0.464
+            },
+            "UD": {
+                "most_likely": 6300,
+                "minimum": 4200,
+                "maximum": 10500,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 6200,
+                "minimum": 4200,
+                "maximum": 9500,
+                "pi_width": 0.855
+            },
+            "GROUP": {
+                "most_likely": 5500,
+                "minimum": 3800,
+                "maximum": 9800,
+                "pi_width": 1.091
+            }
+        },
+        "MongoDB Core Server": {
+            "EM": {
+                "most_likely": 30500,
+                "minimum": 19000,
+                "maximum": 45000,
+                "pi_width": 0.852
+            },
+            "PM": {
+                "most_likely": 40000,
+                "minimum": 24000,
+                "maximum": 62000,
+                "pi_width": 0.95
+            },
+            "UD": {
+                "most_likely": 21000,
+                "minimum": 14000,
+                "maximum": 35000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 44000,
+                "minimum": 30000,
+                "maximum": 62000,
+                "pi_width": 0.727
+            },
+            "GROUP": {
+                "most_likely": 35000,
+                "minimum": 20000,
+                "maximum": 58000,
+                "pi_width": 1.086
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "EM": {
+                "most_likely": 1700,
+                "minimum": 1100,
+                "maximum": 2800,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 1600,
+                "minimum": 1100,
+                "maximum": 2400,
+                "pi_width": 0.812
+            },
+            "UD": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.889
+            },
+            "DEV": {
+                "most_likely": 1550,
+                "minimum": 1050,
+                "maximum": 2400,
+                "pi_width": 0.871
+            },
+            "GROUP": {
+                "most_likely": 1650,
+                "minimum": 1100,
+                "maximum": 2700,
+                "pi_width": 0.97
+            }
+        },
+        "Apache Usergrid": {
+            "PM": {
+                "most_likely": 1950,
+                "minimum": 1200,
+                "maximum": 3500,
+                "pi_width": 1.179
+            },
+            "DEV": {
+                "most_likely": 2500,
+                "minimum": 1500,
+                "maximum": 4500,
+                "pi_width": 1.2
+            },
+            "EM": {
+                "most_likely": 3750,
+                "minimum": 2400,
+                "maximum": 5500,
+                "pi_width": 0.827
+            },
+            "UD": {
+                "most_likely": 2900,
+                "minimum": 1800,
+                "maximum": 4500,
+                "pi_width": 0.931
+            },
+            "GROUP": {
+                "most_likely": 2800,
+                "minimum": 1500,
+                "maximum": 5000,
+                "pi_width": 1.25
+            }
+        },
+        "Appcelerator Studio": {
+            "EM": {
+                "most_likely": 10500,
+                "minimum": 7000,
+                "maximum": 16500,
+                "pi_width": 0.905
+            },
+            "PM": {
+                "most_likely": 9800,
+                "minimum": 6200,
+                "maximum": 15500,
+                "pi_width": 0.949
+            },
+            "UD": {
+                "most_likely": 10000,
+                "minimum": 7300,
+                "maximum": 14600,
+                "pi_width": 0.73
+            },
+            "DEV": {
+                "most_likely": 9000,
+                "minimum": 6500,
+                "maximum": 14000,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 10000,
+                "minimum": 6500,
+                "maximum": 15500,
+                "pi_width": 0.9
+            }
+        },
+        "Apache MXNet": {
+            "EM": {
+                "most_likely": 19000,
+                "minimum": 13000,
+                "maximum": 28000,
+                "pi_width": 0.789
+            },
+            "PM": {
+                "most_likely": 8700,
+                "minimum": 5200,
+                "maximum": 15500,
+                "pi_width": 1.184
+            },
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 7500,
+                "maximum": 22000,
+                "pi_width": 1.208
+            },
+            "DEV": {
+                "most_likely": 19000,
+                "minimum": 12000,
+                "maximum": 34000,
+                "pi_width": 1.158
+            },
+            "GROUP": {
+                "most_likely": 15500,
+                "minimum": 9500,
+                "maximum": 30000,
+                "pi_width": 1.323
+            }
+        },
+        "Titanium Mobile Platform": {
+            "EM": {
+                "most_likely": 1200,
+                "minimum": 750,
+                "maximum": 1800,
+                "pi_width": 0.875
+            },
+            "PM": {
+                "most_likely": 975,
+                "minimum": 650,
+                "maximum": 1600,
+                "pi_width": 0.974
+            },
+            "UD": {
+                "most_likely": 950,
+                "minimum": 600,
+                "maximum": 1500,
+                "pi_width": 0.947
+            },
+            "DEV": {
+                "most_likely": 1100,
+                "minimum": 650,
+                "maximum": 2200,
+                "pi_width": 1.409
+            },
+            "GROUP": {
+                "most_likely": 1050,
+                "minimum": 650,
+                "maximum": 2000,
+                "pi_width": 1.286
+            }
+        },
+        "Spring Data Cassandra": {
+            "EM": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3800,
+                "pi_width": 0.917
+            },
+            "PM": {
+                "most_likely": 3480,
+                "minimum": 2400,
+                "maximum": 5500,
+                "pi_width": 0.891
+            },
+            "UD": {
+                "most_likely": 2600,
+                "minimum": 1700,
+                "maximum": 4200,
+                "pi_width": 0.962
+            },
+            "DEV": {
+                "most_likely": 2500,
+                "minimum": 1600,
+                "maximum": 4200,
+                "pi_width": 1.04
+            },
+            "GROUP": {
+                "most_likely": 2700,
+                "minimum": 1700,
+                "maximum": 4700,
+                "pi_width": 1.111
+            }
+        }
+    },
+    "moonshotai/kimi-k2.5": {
+        "Spring Data Cassandra": {
+            "EM": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6000,
+                "pi_width": 0.762
+            },
+            "PM": {
+                "most_likely": 1500,
+                "minimum": 1000,
+                "maximum": 2200,
+                "pi_width": 0.8
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6000,
+                "pi_width": 0.762
+            }
+        },
+        "Atlassian Bamboo": {
+            "DEV": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 5400,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 14000,
+                "minimum": 8000,
+                "maximum": 24000,
+                "pi_width": 1.143
+            },
+            "EM": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 6000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3000,
+                "maximum": 7500,
+                "pi_width": 0.938
+            },
+            "GROUP": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 7500,
+                "pi_width": 1.119
+            }
+        },
+        "Atlassian Confluence Cloud": {
+            "EM": {
+                "most_likely": 75000,
+                "minimum": 48000,
+                "maximum": 115000,
+                "pi_width": 0.893
+            },
+            "PM": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 10800,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 28000,
+                "minimum": 18000,
+                "maximum": 45000,
+                "pi_width": 0.964
+            },
+            "DEV": {
+                "most_likely": 18000,
+                "minimum": 10000,
+                "maximum": 30000,
+                "pi_width": 1.111
+            },
+            "GROUP": {
+                "most_likely": 28000,
+                "minimum": 18000,
+                "maximum": 50000,
+                "pi_width": 1.143
+            }
+        },
+        "MongoDB Evergreen": {
+            "EM": {
+                "most_likely": 15000,
+                "minimum": 10000,
+                "maximum": 22000,
+                "pi_width": 0.8
+            },
+            "PM": {
+                "most_likely": 16000,
+                "minimum": 11500,
+                "maximum": 26000,
+                "pi_width": 0.906
+            },
+            "DEV": {
+                "most_likely": 18000,
+                "minimum": 10000,
+                "maximum": 32000,
+                "pi_width": 1.222
+            },
+            "UD": {
+                "most_likely": 20000,
+                "minimum": 12000,
+                "maximum": 36000,
+                "pi_width": 1.2
+            },
+            "GROUP": {
+                "most_likely": 17500,
+                "minimum": 11000,
+                "maximum": 29000,
+                "pi_width": 1.029
+            }
+        },
+        "Hyperledger Indy Node": {
+            "EM": {
+                "most_likely": 14000,
+                "minimum": 8000,
+                "maximum": 24000,
+                "pi_width": 1.143
+            },
+            "PM": {
+                "most_likely": 22000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.909
+            },
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 18000,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 15000,
+                "minimum": 10000,
+                "maximum": 22000,
+                "pi_width": 0.8
+            },
+            "GROUP": {
+                "most_likely": 16000,
+                "minimum": 10000,
+                "maximum": 28000,
+                "pi_width": 1.125
+            }
+        },
+        "Atlassian Software Server": {
+            "EM": {
+                "most_likely": 8500,
+                "minimum": 5200,
+                "maximum": 14800,
+                "pi_width": 1.129
+            },
+            "PM": {
+                "most_likely": 11000,
+                "minimum": 7000,
+                "maximum": 18000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 40000,
+                "minimum": 20000,
+                "maximum": 80000,
+                "pi_width": 1.5
+            },
+            "DEV": {
+                "most_likely": 14000,
+                "minimum": 9000,
+                "maximum": 22000,
+                "pi_width": 0.929
+            },
+            "GROUP": {
+                "most_likely": 12500,
+                "minimum": 8500,
+                "maximum": 26000,
+                "pi_width": 1.4
+            }
+        },
+        "Hyperledger Sawtooth": {
+            "PM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "UD": {
+                "most_likely": 20000,
+                "minimum": 13000,
+                "maximum": 38000,
+                "pi_width": 1.25
+            },
+            "EM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 30000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 19000,
+                "minimum": 13000,
+                "maximum": 34000,
+                "pi_width": 1.105
+            }
+        },
+        "Titanium Mobile Platform": {
+            "EM": {
+                "most_likely": 800,
+                "minimum": 550,
+                "maximum": 1,
+                "pi_width": -0.686
+            },
+            "PM": {
+                "most_likely": 450,
+                "minimum": 320,
+                "maximum": 680,
+                "pi_width": 0.8
+            },
+            "UD": {
+                "most_likely": 3200,
+                "minimum": 2200,
+                "maximum": 4800,
+                "pi_width": 0.812
+            },
+            "DEV": {
+                "most_likely": 720,
+                "minimum": 480,
+                "maximum": 1000,
+                "pi_width": 0.722
+            },
+            "GROUP": {
+                "most_likely": 900,
+                "minimum": 600,
+                "maximum": 1300,
+                "pi_width": 0.778
+            }
+        },
+        "LSSTCorp Data Management": {
+            "EM": {
+                "most_likely": 24000,
+                "minimum": 14000,
+                "maximum": 52000,
+                "pi_width": 1.583
+            },
+            "PM": {
+                "most_likely": 48000,
+                "minimum": 34000,
+                "maximum": 82000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 30000,
+                "minimum": 18000,
+                "maximum": 55000,
+                "pi_width": 1.233
+            },
+            "DEV": {
+                "most_likely": 52000,
+                "minimum": 32000,
+                "maximum": 88000,
+                "pi_width": 1.077
+            },
+            "GROUP": {
+                "most_likely": 39000,
+                "minimum": 26000,
+                "maximum": 70000,
+                "pi_width": 1.128
+            }
+        },
+        "Apache MXNet": {
+            "EM": {
+                "most_likely": 17000,
+                "minimum": 11000,
+                "maximum": 26000,
+                "pi_width": 0.882
+            },
+            "UD": {
+                "most_likely": 30000,
+                "minimum": 18000,
+                "maximum": 48000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 8000,
+                "minimum": 6000,
+                "maximum": 12000,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 8000,
+                "minimum": 5600,
+                "maximum": 12800,
+                "pi_width": 0.9
+            },
+            "GROUP": {
+                "most_likely": 17000,
+                "minimum": 12000,
+                "maximum": 28000,
+                "pi_width": 0.941
+            }
+        },
+        "Spring XD": {
+            "UD": {
+                "most_likely": 8000,
+                "minimum": 4000,
+                "maximum": 16000,
+                "pi_width": 1.5
+            },
+            "DEV": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 5400,
+                "pi_width": 0.833
+            },
+            "EM": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.8
+            },
+            "PM": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 12000,
+                "pi_width": 0.933
+            },
+            "GROUP": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 12000,
+                "pi_width": 0.933
+            }
+        },
+        "Appcelerator Command-Line Interface": {
+            "EM": {
+                "most_likely": 3200,
+                "minimum": 2400,
+                "maximum": 4800,
+                "pi_width": 0.75
+            },
+            "PM": {
+                "most_likely": 1250,
+                "minimum": 800,
+                "maximum": 1900,
+                "pi_width": 0.88
+            },
+            "UD": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 8000,
+                "pi_width": 1.111
+            },
+            "DEV": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 2800,
+                "minimum": 1600,
+                "maximum": 5500,
+                "pi_width": 1.393
+            }
+        },
+        "The Mongo C++ Driver": {
+            "EM": {
+                "most_likely": 1600,
+                "minimum": 1000,
+                "maximum": 2400,
+                "pi_width": 0.875
+            },
+            "PM": {
+                "most_likely": 4000,
+                "minimum": 2800,
+                "maximum": 6000,
+                "pi_width": 0.8
+            },
+            "UD": {
+                "most_likely": 3200,
+                "minimum": 1800,
+                "maximum": 5500,
+                "pi_width": 1.156
+            },
+            "DEV": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 2800,
+                "minimum": 1600,
+                "maximum": 5000,
+                "pi_width": 1.214
+            }
+        },
+        "Mule APIkit": {
+            "EM": {
+                "most_likely": 1800,
+                "minimum": 1200,
+                "maximum": 2800,
+                "pi_width": 0.889
+            },
+            "PM": {
+                "most_likely": 1600,
+                "minimum": 1200,
+                "maximum": 2100,
+                "pi_width": 0.562
+            },
+            "DEV": {
+                "most_likely": 1400,
+                "minimum": 1000,
+                "maximum": 2000,
+                "pi_width": 0.714
+            },
+            "UD": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 1600,
+                "minimum": 1200,
+                "maximum": 2400,
+                "pi_width": 0.75
+            }
+        },
+        "Moodle": {
+            "DEV": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 5500,
+                "pi_width": 1.167
+            },
+            "UD": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6800,
+                "pi_width": 0.952
+            },
+            "PM": {
+                "most_likely": 6800,
+                "minimum": 4500,
+                "maximum": 11000,
+                "pi_width": 0.956
+            },
+            "EM": {
+                "most_likely": 10000,
+                "minimum": 7000,
+                "maximum": 16000,
+                "pi_width": 0.9
+            },
+            "GROUP": {
+                "most_likely": 6000,
+                "minimum": 4000,
+                "maximum": 10000,
+                "pi_width": 1.0
+            }
+        },
+        "Aptana Studio": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1400,
+                "maximum": 3200,
+                "pi_width": 0.818
+            },
+            "UD": {
+                "most_likely": 5,
+                "minimum": 4,
+                "maximum": 8,
+                "pi_width": 0.8
+            },
+            "PM": {
+                "most_likely": 1400,
+                "minimum": 900,
+                "maximum": 2100,
+                "pi_width": 0.857
+            },
+            "DEV": {
+                "most_likely": 4500,
+                "minimum": 3000,
+                "maximum": 7500,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 2400,
+                "minimum": 1400,
+                "maximum": 4500,
+                "pi_width": 1.292
+            }
+        },
+        "Mule": {
+            "EM": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 18000,
+                "pi_width": 0.833
+            },
+            "PM": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 5400,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 3600,
+                "minimum": 2200,
+                "maximum": 6800,
+                "pi_width": 1.278
+            },
+            "DEV": {
+                "most_likely": 7800,
+                "minimum": 5200,
+                "maximum": 11500,
+                "pi_width": 0.808
+            },
+            "GROUP": {
+                "most_likely": 8500,
+                "minimum": 5500,
+                "maximum": 13000,
+                "pi_width": 0.882
+            }
+        },
+        "Atlassian Crowd": {
+            "PM": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            },
+            "EM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "UD": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            }
+        },
+        "Appcelerator Daemon": {
+            "DEV": {
+                "most_likely": 3200,
+                "minimum": 2000,
+                "maximum": 4800,
+                "pi_width": 0.875
+            },
+            "EM": {
+                "most_likely": 8000,
+                "minimum": 5500,
+                "maximum": 12000,
+                "pi_width": 0.812
+            },
+            "PM": {
+                "most_likely": 1600,
+                "minimum": 1100,
+                "maximum": 2400,
+                "pi_width": 0.812
+            },
+            "UD": {
+                "most_likely": 3200,
+                "minimum": 2000,
+                "maximum": 4800,
+                "pi_width": 0.875
+            },
+            "GROUP": {
+                "most_likely": 4000,
+                "minimum": 2500,
+                "maximum": 6000,
+                "pi_width": 0.875
+            }
+        },
+        "Lyrasis DuraCloud": {
+            "EM": {
+                "most_likely": 10000,
+                "minimum": 7000,
+                "maximum": 16000,
+                "pi_width": 0.9
+            },
+            "PM": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 12000,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6300,
+                "pi_width": 0.833
+            },
+            "UD": {
+                "most_likely": 15000,
+                "minimum": 9000,
+                "maximum": 25000,
+                "pi_width": 1.067
+            },
+            "GROUP": {
+                "most_likely": 9500,
+                "minimum": 6000,
+                "maximum": 16000,
+                "pi_width": 1.053
+            }
+        },
+        "Hyperledger Indy SDK": {
+            "EM": {
+                "most_likely": 9500,
+                "minimum": 6000,
+                "maximum": 15000,
+                "pi_width": 0.947
+            },
+            "PM": {
+                "most_likely": 6000,
+                "minimum": 4200,
+                "maximum": 8500,
+                "pi_width": 0.717
+            },
+            "UD": {
+                "most_likely": 14500,
+                "minimum": 10000,
+                "maximum": 22000,
+                "pi_width": 0.828
+            },
+            "DEV": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 16000,
+                "pi_width": 1.111
+            }
+        },
+        "The Mongo Java Driver": {
+            "EM": {
+                "most_likely": 3000,
+                "minimum": 1500,
+                "maximum": 5000,
+                "pi_width": 1.167
+            },
+            "PM": {
+                "most_likely": 1600,
+                "minimum": 1100,
+                "maximum": 2400,
+                "pi_width": 0.812
+            },
+            "DEV": {
+                "most_likely": 3600,
+                "minimum": 2400,
+                "maximum": 5200,
+                "pi_width": 0.778
+            },
+            "UD": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 3000,
+                "minimum": 2000,
+                "maximum": 4800,
+                "pi_width": 0.933
+            }
+        },
+        "DotNetNuke Platform": {
+            "DEV": {
+                "most_likely": 12000,
+                "minimum": 8000,
+                "maximum": 18000,
+                "pi_width": 0.833
+            },
+            "EM": {
+                "most_likely": 32000,
+                "minimum": 20000,
+                "maximum": 50000,
+                "pi_width": 0.938
+            },
+            "PM": {
+                "most_likely": 9000,
+                "minimum": 6000,
+                "maximum": 15000,
+                "pi_width": 1.0
+            },
+            "UD": {
+                "most_likely": 16000,
+                "minimum": 10000,
+                "maximum": 26000,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 16000,
+                "minimum": 10000,
+                "maximum": 28000,
+                "pi_width": 1.125
+            }
+        },
+        "Appcelerator Studio": {
+            "EM": {
+                "most_likely": 24000,
+                "minimum": 16000,
+                "maximum": 36000,
+                "pi_width": 0.833
+            },
+            "PM": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.8
+            },
+            "UD": {
+                "most_likely": 7200,
+                "minimum": 4800,
+                "maximum": 11500,
+                "pi_width": 0.931
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 12900,
+                "minimum": 8600,
+                "maximum": 19500,
+                "pi_width": 0.845
+            }
+        },
+        "MongoDB Compass": {
+            "EM": {
+                "most_likely": 9500,
+                "minimum": 6000,
+                "maximum": 15000,
+                "pi_width": 0.947
+            },
+            "PM": {
+                "most_likely": 8500,
+                "minimum": 6000,
+                "maximum": 13000,
+                "pi_width": 0.824
+            },
+            "UD": {
+                "most_likely": 4800,
+                "minimum": 3200,
+                "maximum": 7200,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 5000,
+                "minimum": 3200,
+                "maximum": 8000,
+                "pi_width": 0.96
+            },
+            "GROUP": {
+                "most_likely": 7200,
+                "minimum": 5000,
+                "maximum": 11500,
+                "pi_width": 0.903
+            }
+        },
+        "Apache Mesos": {
+            "EM": {
+                "most_likely": 10000,
+                "minimum": 6500,
+                "maximum": 16000,
+                "pi_width": 0.95
+            },
+            "PM": {
+                "most_likely": 2600,
+                "minimum": 1700,
+                "maximum": 4000,
+                "pi_width": 0.885
+            },
+            "DEV": {
+                "most_likely": 2800,
+                "minimum": 1800,
+                "maximum": 4200,
+                "pi_width": 0.857
+            },
+            "UD": {
+                "most_likely": 8000,
+                "minimum": 5200,
+                "maximum": 15000,
+                "pi_width": 1.225
+            },
+            "GROUP": {
+                "most_likely": 6000,
+                "minimum": 4000,
+                "maximum": 10000,
+                "pi_width": 1.0
+            }
+        },
+        "Sonatype Nexus": {
+            "PM": {
+                "most_likely": 7200,
+                "minimum": 5200,
+                "maximum": 9800,
+                "pi_width": 0.639
+            },
+            "UD": {
+                "most_likely": 8000,
+                "minimum": 4800,
+                "maximum": 12800,
+                "pi_width": 1.0
+            },
+            "EM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "DEV": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "GROUP": {
+                "most_likely": 7600,
+                "minimum": 5500,
+                "maximum": 11500,
+                "pi_width": 0.789
+            }
+        },
+        "The Titanium SDK": {
+            "EM": {
+                "most_likely": 7500,
+                "minimum": 4500,
+                "maximum": 15000,
+                "pi_width": 1.4
+            },
+            "PM": {
+                "most_likely": 5200,
+                "minimum": 3100,
+                "maximum": 9400,
+                "pi_width": 1.212
+            },
+            "UD": {
+                "most_likely": 26000,
+                "minimum": 18000,
+                "maximum": 42000,
+                "pi_width": 0.923
+            },
+            "DEV": {
+                "most_likely": 18000,
+                "minimum": 12000,
+                "maximum": 28000,
+                "pi_width": 0.889
+            },
+            "GROUP": {
+                "most_likely": 14000,
+                "minimum": 8000,
+                "maximum": 28000,
+                "pi_width": 1.429
+            }
+        },
+        "Hyperledger Fabric": {
+            "EM": {
+                "most_likely": 85000,
+                "minimum": 50000,
+                "maximum": 140000,
+                "pi_width": 1.059
+            },
+            "UD": {
+                "most_likely": 115000,
+                "minimum": 80000,
+                "maximum": 160000,
+                "pi_width": 0.696
+            },
+            "PM": {
+                "most_likely": 34000,
+                "minimum": 22000,
+                "maximum": 52000,
+                "pi_width": 0.882
+            },
+            "DEV": {
+                "most_likely": 60000,
+                "minimum": 38000,
+                "maximum": 95000,
+                "pi_width": 0.95
+            },
+            "GROUP": {
+                "most_likely": 75000,
+                "minimum": 50000,
+                "maximum": 110000,
+                "pi_width": 0.8
+            }
+        },
+        "MongoDB Core Server": {
+            "EM": {
+                "most_likely": 24000,
+                "minimum": 12000,
+                "maximum": 48000,
+                "pi_width": 1.5
+            },
+            "PM": {
+                "most_likely": 11000,
+                "minimum": 7500,
+                "maximum": 16000,
+                "pi_width": 0.773
+            },
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 7500,
+                "maximum": 20000,
+                "pi_width": 1.042
+            },
+            "DEV": {
+                "most_likely": 16000,
+                "minimum": 9000,
+                "maximum": 28000,
+                "pi_width": 1.188
+            },
+            "GROUP": {
+                "most_likely": 16000,
+                "minimum": 10000,
+                "maximum": 30000,
+                "pi_width": 1.25
+            }
+        },
+        "Atlassian Clover": {
+            "UD": {
+                "most_likely": 12000,
+                "minimum": 8500,
+                "maximum": 16500,
+                "pi_width": 0.667
+            },
+            "EM": {
+                "most_likely": 16000,
+                "minimum": 10000,
+                "maximum": 26000,
+                "pi_width": 1.0
+            },
+            "PM": {
+                "most_likely": 7500,
+                "minimum": 5000,
+                "maximum": 11000,
+                "pi_width": 0.8
+            },
+            "DEV": {
+                "most_likely": 4200,
+                "minimum": 2800,
+                "maximum": 6800,
+                "pi_width": 0.952
+            },
+            "GROUP": {
+                "most_likely": 11000,
+                "minimum": 7000,
+                "maximum": 20000,
+                "pi_width": 1.182
+            }
+        },
+        "Apache Usergrid": {
+            "EM": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1800,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 1200,
+                "minimum": 800,
+                "maximum": 1600,
+                "pi_width": 0.667
+            },
+            "PM": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            },
+            "UD": {
+                "most_likely": 4000,
+                "minimum": 2800,
+                "maximum": 6800,
+                "pi_width": 1.0
+            },
+            "GROUP": {
+                "most_likely": 2000,
+                "minimum": 1200,
+                "maximum": 4000,
+                "pi_width": 1.4
+            }
+        },
+        "Alloy Framework": {
+            "UD": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "PM": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "DEV": {
+                "most_likely": 2800,
+                "minimum": 1800,
+                "maximum": 4200,
+                "pi_width": 0.857
+            },
+            "EM": {
+                "most_likely": 9000,
+                "minimum": 5500,
+                "maximum": 14000,
+                "pi_width": 0.944
+            },
+            "GROUP": {
+                "most_likely": 4000,
+                "minimum": 2000,
+                "maximum": 8000,
+                "pi_width": 1.5
+            }
+        },
+        "Hyperledger Blockchain Explorer": {
+            "EM": {
+                "most_likely": 2200,
+                "minimum": 1400,
+                "maximum": 3400,
+                "pi_width": 0.909
+            },
+            "PM": {
+                "most_likely": 1400,
+                "minimum": 900,
+                "maximum": 2100,
+                "pi_width": 0.857
+            },
+            "UD": {
+                "most_likely": 2200,
+                "minimum": 1400,
+                "maximum": 3600,
+                "pi_width": 1.0
+            },
+            "DEV": {
+                "most_likely": 2400,
+                "minimum": 1600,
+                "maximum": 3600,
+                "pi_width": 0.833
+            },
+            "GROUP": {
+                "most_likely": null,
+                "minimum": null,
+                "maximum": null,
+                "pi_width": null
+            }
+        }
+    }
+}

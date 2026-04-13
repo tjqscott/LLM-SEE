@@ -1,0 +1,9 @@
+﻿# Hyperledger Fabric
+
+Hyperledger Fabric is intended as a foundation for developing applications or solutions with a modular architecture. Hyperledger Fabric allows components, such as consensus and membership services, to be plug-and-play. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+
+1. The network administrator configures the Hyperledger Fabric channel parameters (peer node IP addresses, organizational certificates) through a Command Line Interface (CLI). No graphical user interface (GUI) or web dashboard is required for this version.
+2. The administrator initializes a new smart contract (chaincode) by submitting a local configuration file. This file contains the chaincode's name, version, and a strict endorsement policy parsed as a boolean string (maximum 100 characters) defining exactly which organizational peers must sign a transaction.
+3. The administrator deploys the chaincode to the network using the CLI by providing the path to the compiled Go-language binary and executing the deployment command. Upon execution, the system distributes the binary payload to all connected peer nodes. 
+4. For this experiment, assume a static network size of exactly 4 peer nodes. Procedures to handle failed deployments, offline peers, or container crash loops are out of scope; assume all nodes are active.
+5. A Client Application submits a transaction proposal (maximum payload size of 1MB) via a gRPC API. The system routes the request to the chaincode executing in an isolated Docker container, captures the resulting read/write state changes, and returns a signed endorsement response. Complex cryptographic verification of the client's identity or Certificate Authority (CA) integration is out of scope; accept all incoming, well-formed gRPC requests.
