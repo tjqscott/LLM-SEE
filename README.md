@@ -15,7 +15,7 @@ the results reported in the dissertation. It accompanies the dissertation titled
 ├── figures/                    # Figures appearing in the dissertation and the script to generate them
 ├── requirements_documents/     # All requirements documents used as estimation inputs
 ├── statistical_analysis/       # R script and output for all statistical tests
-└── results/                # Numerical outputs from all experiments
+└── results/                    # Numerical outputs from all experiments
 ```
 
 ## Prerequisites
