@@ -46,7 +46,8 @@ Two SQL files are provided for reference. Both require access to a local TAWOS i
 and cannot be run in isolation.
 
 - `issues.sql` — extracts agile-format user story issues used to construct the documents
-  in `user_stories/` and `completion_times/`
+  in `user_stories/` and `completion_times/`, filtering on `Resolution_Time_Minutes` to
+  exclude issues with no recorded effort
 - `summary.sql` — extracts project-level summaries (name, description, issue titles, and
   creation dates for the first 50 issues per project) used to construct the narrative
   documents in `full_specification/` and `project_brief/`
