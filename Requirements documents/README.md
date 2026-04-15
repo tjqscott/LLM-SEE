@@ -36,7 +36,7 @@ dissertation for the full extraction and grouping procedure.
 
 ### `completion_times/`
 Ground truth completion times for each agile-format issue document in `user_stories/`,
-sourced directly from TAWOS as the sum of `Total_Effort_Minutes` across the issues in
+sourced directly from TAWOS as the sum of `Resolution_Time_Minutes` across the issues in
 each file, converted to hours. These provide an objective baseline against which LLM
 estimates can be evaluated.
 
