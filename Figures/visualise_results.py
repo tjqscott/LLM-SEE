@@ -1,12 +1,4 @@
 """
-visualise_results.py
-====================
-Publication-quality box plots for all experiment results.
-- X-axis: models
-- Colour: conditions (muted professional palettes per experiment)
-- Y-axis: independent scaling per panel
-- 300 DPI, serif font, no top/right spines
-
 Run from the experiment working directory:
     python visualise_results.py
 Saves all figures to results/figures/
