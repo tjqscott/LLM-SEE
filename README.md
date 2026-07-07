@@ -25,7 +25,7 @@ the results reported in the dissertation. It accompanies the dissertation titled
 Install dependencies with:
 
 ```bash
-pip install openai asyncio pandas
+pip install openai pandas
 ```
 
 An OpenRouter API key is required to run the experiments. Set it as an environment
