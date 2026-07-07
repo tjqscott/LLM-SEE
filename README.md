@@ -9,8 +9,9 @@ the results reported in the dissertation. It accompanies the dissertation titled
 
 ```
 ├── experiment_selection/       # Systematic review process and paper selection
-├── experiments/                # Jupyter notebooks implementing all 16 experiments
-│   ├── utils.py                # Shared utility code for all notebooks
+├── experiments/                # CLI-driven Python packages implementing all 16 experiments
+│   ├── main.py                 # Single entry point: run one paper's experiment(s)
+│   ├── utils.py                # Shared utility code for all packages
 │   └── ...
 ├── figures/                    # Figures appearing in the dissertation and the script to generate them
 ├── requirements_documents/     # All requirements documents used as estimation inputs
@@ -28,7 +29,7 @@ pip install openai asyncio pandas
 ```
 
 An OpenRouter API key is required to run the experiments. Set it as an environment
-variable before running any notebook:
+variable before running any experiment:
 
 ```bash
 export OPENROUTER_API_KEY=your_key_here
@@ -60,22 +61,37 @@ Follow these steps in order to fully replicate the study.
 
 ### 1. Run the Experiments
 
-Each experiment notebook is self-contained and can be run independently. The
-`requirements_documents/` folder and `utils.py` must be present in the same directory
-as the notebooks. Results will be written to the `results/` folder, which must also
-be present in the same directory.
+Each paper is implemented as a Python package under `experiments/`, run via the single
+CLI entry point `experiments/main.py`. Run it from the **repository root** (not from
+inside `experiments/`) so that the relative paths to `requirements_documents/` and
+`results/` resolve correctly:
 
-Open and run each of the following notebooks:
+```bash
+python experiments/main.py <paper> [<study>]
+```
 
-| Notebook | Source Paper | Bias Category |
+Run with no arguments to see full usage, including every paper and the studies
+available for it. Omitting `<study>` runs every study for that paper in order and
+writes the same results file described below.
+
+| Paper | Source Paper | Bias Category |
 |---|---|---|
-| `aranda2005.ipynb` | Aranda & Easterbrook (2005) | Anchoring |
-| `lohre2014.ipynb` | Løhre & Jørgensen (2014) | Anchoring |
-| `haugen2006.ipynb` | Haugen (2006) | Over-optimism |
-| `molokken2003.ipynb` | Moløkken & Jørgensen (2003) | Over-optimism |
-| `jorgensen2009.ipynb` | Jørgensen (2009) | Over-optimism |
-| `connolly1997.ipynb` | Connolly & Dean (1997) | Over-confidence |
-| `jorgensen2002.ipynb` | Jørgensen et al. (2002) | Over-confidence |
+| `aranda2005` | Aranda & Easterbrook (2005) | Anchoring |
+| `lohre2014` | Løhre & Jørgensen (2014) | Anchoring |
+| `haugen2006` | Haugen (2006) | Over-optimism |
+| `molokken2003` | Moløkken & Jørgensen (2003) | Over-optimism |
+| `jorgensen2009` | Jørgensen (2009) | Over-optimism |
+| `connolly1997` | Connolly & Dean (1997) | Over-confidence |
+| `jorgensen2002` | Jørgensen et al. (2002) | Over-confidence |
+
+For example:
+
+```bash
+python experiments/main.py jorgensen2009            # run all 4 experiments, write combined results
+python experiments/main.py jorgensen2009 experiment_a  # run just Experiment A
+```
+
+See `experiments/README.md` for the full command reference and package layout.
 
 Note that regenerated results may differ slightly from those provided due to
 implementation-level non-determinism in model providers, even at temperature zero.
